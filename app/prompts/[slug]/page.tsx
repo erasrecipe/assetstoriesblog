@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import PromptArticle from '@/components/PromptArticle';
 import { promptPosts } from '@/lib/promptPosts';
 import { notFound } from 'next/navigation';
+import StructuredDataPrompt from '@/components/StructuredDataPrompt';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -50,5 +51,10 @@ export default async function PromptSlugPage({ params }: Props) {
     notFound();
   }
   
-  return <PromptArticle article={post} />;
+  return (
+    <>
+      <StructuredDataPrompt article={post} />
+      <PromptArticle article={post} />
+    </>
+  );
 }
