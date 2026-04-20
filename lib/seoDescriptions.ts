@@ -29,5 +29,8 @@ export const seoDescriptions: Record<string, string> = {
   "how-much-money-do-you-need-to-retire": "How much money do you need to retire? Use our step-by-step worksheet, the 4% rule, and real examples to calculate your personal retirement number.",
   "lessons-from-failed-investors": "Learn 11 brutal lessons from failed investors like Bill Hwang, LTCM, and Bernie Madoff — and discover the deadly mistakes that wiped out billions.",
   "middle-class-financial-traps": "Discover 7 sneaky middle class financial traps — from \"good debt\" to whole life insurance — that destroy wealth and keep millions stuck. Here's how to escape them.",
-  "why-discipline-beats-intelligence-in-investing": "Learn how consistent index fund strategies, automatic rebalancing, and avoiding noise outperform smart stock-picking every time."
+  "why-discipline-beats-intelligence-in-investing": "Learn how consistent index fund strategies, automatic rebalancing, and avoiding noise outperform smart stock-picking every time.",
+  "401k-or-roth-ira-the-smart-retirement-choice-explained": "401(k) vs Roth IRA explained simply. Learn about employer match, pre-tax vs after-tax contributions, and which retirement account is better for you in 2026.",
+  "the-most-profitable-small-businesses-in-2025-low-cost-high-margin": "Discover the most profitable small businesses in 2026 with low startup costs and high profit margins. Learn digital business models that scale.",
+  "19-best-financial-literature-books-for-financial-freedom": "19 best financial books for wealth building. Warren Buffett's favorites, value investing classics, and essential personal finance reads."
 };

@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: 'googlea1c2d3c4c54319c9',
   },
 };
 
@@ -94,13 +94,13 @@ export default function RootLayout({
               if (consent === 'accepted') {
                 // Load Google Analytics script
                 const script = document.createElement('script');
-                script.src = 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX';
+                script.src = 'https://www.googletagmanager.com/gtag/js?id=G-HVMDXQDBRW';
                 script.async = true;
                 document.head.appendChild(script);
                 
                 script.onload = function() {
                   gtag('js', new Date());
-                  gtag('config', 'G-XXXXXXXXXX', {
+                  gtag('config', 'G-HVMDXQDBRW', {
                     'anonymize_ip': true,
                     'cookie_flags': 'SameSite=None;Secure'
                   });
