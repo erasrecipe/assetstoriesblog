@@ -11,6 +11,10 @@ export async function GET() {
     <loc>${baseUrl}/page-sitemap.xml</loc>
     <lastmod>${new Date().toISOString()}</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>${baseUrl}/prompts-sitemap.xml</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
+  </sitemap>
 </sitemapindex>`;
 
   return new Response(xml, {

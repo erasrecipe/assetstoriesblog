@@ -61,6 +61,16 @@ export default function Header() {
             >
               Categories
             </Link>
+            <Link 
+              href="/prompts" 
+              className={`text-sm font-medium hover:scale-105 transition-all duration-300 ${
+                pathname === '/prompts' || pathname?.startsWith('/prompts')
+                  ? 'text-orange-600 dark:text-gold border-b-2 border-orange-600 dark:border-gold' 
+                  : 'text-gray-700 dark:text-gray-300 hover:text-orange-600 dark:hover:text-gold'
+              }`}
+            >
+              Prompts
+            </Link>
             {/* Blog Dropdown */}
             <div 
               className="relative h-full"
@@ -191,6 +201,17 @@ export default function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {pathname === '/categories' && '→ '}Categories
+              </Link>
+              <Link 
+                href="/prompts" 
+                className={`text-sm font-medium ${
+                  pathname === '/prompts' || pathname?.startsWith('/prompts')
+                    ? 'text-orange-600 dark:text-gold font-bold' 
+                    : 'text-gray-700 dark:text-gray-300 hover:text-orange-600 dark:hover:text-gold'
+                }`}
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                {(pathname === '/prompts' || pathname?.startsWith('/prompts')) && '→ '}Prompts
               </Link>
               <Link 
                 href="/blog" 
