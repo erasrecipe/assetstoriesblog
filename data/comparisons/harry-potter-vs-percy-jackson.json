@@ -1,0 +1,141 @@
+{
+  "slug": "harry-potter-vs-percy-jackson",
+  "title": "Harry Potter vs Percy Jackson: Head to Head Comparison",
+  "metaDescription": "Harry Potter vs Percy Jackson—Rowling's wizarding world vs Riordan's demigods. Which magical series should you read first? Complete comparison inside.",
+  "lastUpdated": "2026-02-08",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "subtitle": "Book 1 of 7",
+    "author": "J.K. Rowling",
+    "isbn": "978-0439708180",
+    "publishedYear": 1997,
+    "pages": 309,
+    "rating": 4.8,
+    "ratingCount": 8450000,
+    "price": 12.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780439708180-L.jpg",
+    "description": "Harry Potter discovers on his 11th birthday that he's a wizard. Raised by abusive Muggle relatives who hid his magical heritage, Harry is whisked to Hogwarts School of Witchcraft and Wizardry by Hagrid. At Hogwarts, he makes best friends Ron and Hermione, learns magic, plays Quidditch, and discovers he's famous as 'the boy who lived'—the only person to survive Voldemort's killing curse. The first of 7 books in the most beloved children's series ever written."
+  },
+  "book2": {
+    "title": "Percy Jackson and the Lightning Thief",
+    "subtitle": "Book 1 of 5",
+    "author": "Rick Riordan",
+    "isbn": "978-0786838653",
+    "publishedYear": 2005,
+    "pages": 377,
+    "rating": 4.7,
+    "ratingCount": 2890000,
+    "price": 11.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780786838653-L.jpg",
+    "description": "Percy Jackson is a 12-year-old with ADHD and dyslexia who can't stay out of trouble. After his pre-algebra teacher turns into a monster and attacks him, Percy discovers he's a half-blood—half human, half Greek god (Poseidon's son). He's sent to Camp Half-Blood where demigods train. When Zeus' lightning bolt is stolen and Percy's blamed, he must go on a quest across America to prevent a war between the gods. Greek mythology meets modern-day adventure."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Magic System",
+        "book1": "Wands, spells, potions, magical objects",
+        "book2": "Demigod powers inherited from Greek gods"
+      },
+      {
+        "feature": "Setting",
+        "book1": "British boarding school (Hogwarts)",
+        "book2": "Modern America (Camp Half-Blood, NYC)"
+      },
+      {
+        "feature": "Cultural Basis",
+        "book1": "Original magical world created",
+        "book2": "Greek mythology adapted"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "8,450,000 ratings - 4.8 stars",
+        "book2": "2,890,000 ratings - 4.7 stars"
+      },
+      {
+        "feature": "Series Length",
+        "book1": "7 books (1997-2007)",
+        "book2": "5 books (2005-2009) + spinoffs"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Starts whimsical, grows darker",
+        "book2": "Consistently lighter, more humor"
+      },
+      {
+        "feature": "Protagonist Age",
+        "book1": "11-17 (matures significantly)",
+        "book2": "12-16 (stays younger)"
+      }
+    ],
+    "book1Strengths": [
+      "Hogwarts feels more like home than most actual places. Sorting Hat, secret passages, Quidditch, Great Hall feasts—it's iconic.",
+      "Mystery plotting is brilliant. Snape's betrayal seems obvious until Book 7 reveals he loved Lily all along. Seeds planted thousands of pages early.",
+      "Characters grow from 11 to 17 across seven books. Book 1 Harry loves Chocolate Frogs. Book 7 Harry walks to his death. Rare transformation.",
+      "The house system gives everyone identity. You're Gryffindor or Slytherin or Ravenclaw or Hufflepuff. People put it on dating profiles.",
+      "Tackles prejudice through blood purity. Hermione called 'Mudblood,' Dobby enslaved, Death Eaters' supremacy mirrors real-world racism."
+    ],
+    "book1Weaknesses": [
+      "Book 1 reads young for adult starters. Simple prose, straightforward conflicts. Takes until Book 3 for darkness to hook older readers.",
+      "Order of the Phoenix drags at 870 pages. Angry Harry yelling for 300 pages gets old. Umbridge torture scenes are disturbing but slow.",
+      "Time-Turner in Book 3 breaks logic. If Hermione can time-travel for classes, why not save Cedric? Rowling destroyed them in Book 5.",
+      "Terrible representation. White British trio, Cho Chang's name is two Chinese surnames, Dumbledore 'always gay' announced by tweet not text."
+    ],
+    "book2Strengths": [
+      "Chapter titles are hilarious. 'I Accidentally Vaporize My Pre-Algebra Teacher.' Riordan's humor feels like a real 12-year-old, not forced.",
+      "Percy's ADHD and dyslexia are demigod superpowers. ADHD gives combat reflexes, dyslexia reads ancient Greek. Powerful reframe for struggling kids.",
+      "Greek mythology becomes entertaining, not homework. Medusa runs a statue shop in New Jersey. Cerberus is a giant puppy. Kids learn while having fun.",
+      "Relentless pacing. Finish Lightning Thief in a day—monsters attack constantly, gods interfere, zero slow world-building like Harry Potter's start.",
+      "Stays light throughout five books. No major character deaths, no graphic violence. Safe for 8-year-olds. Harry Potter gets progressively darker."
+    ],
+    "book2Weaknesses": [
+      "Low emotional stakes. Won't make you cry like Snape's memories or Dobby's death. Riordan keeps it light—great for young readers, no gut punches.",
+      "Every book follows same structure. Prophecy, quest, fight monsters across America, confront god/Titan, return. Predictable by Book 4.",
+      "Percy stays the same person Books 1-5. Gets older and stronger but voice doesn't evolve. Compare to Harry's transformation from kid to war veteran.",
+      "Adapted existing mythology vs creating universe from scratch. Rowling invented Hogwarts houses, wand lore, Ministry. Camp Half-Blood isn't iconic."
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "It does not do to dwell on dreams and forget to live.",
+      "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+      "After all, to the well-organized mind, death is but the next great adventure.",
+      "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+      "Things we lose have a way of coming back to us in the end, if not always in the way we expect."
+    ],
+    "book2": [
+      "Even strength must bow to wisdom sometimes.",
+      "If my life is going to mean anything, I have to live it myself.",
+      "With great power... comes great need to take a nap. Wake me up later.",
+      "Being a half-blood is dangerous. It's scary. Most of the time, it gets you killed in painful, nasty ways.",
+      "Families are messy. Immortal families are eternally messy."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want the most culturally significant children's series EVER (8.45M ratings)",
+      "You love intricate mysteries where early clues pay off books later",
+      "You want series that grows with you (starts whimsical, ends dark/complex)",
+      "You crave magical boarding school experience (Hogwarts = home)",
+      "You want complete 7-book epic with perfect ending",
+      "You want deeper themes (prejudice, mortality, fascism, sacrifice)",
+      "You want higher rating (4.8 vs 4.7) and triple the readers"
+    ],
+    "book2": [
+      "You love Greek mythology or want to learn it entertainingly",
+      "You need faster-paced action with MORE humor and LESS darkness",
+      "You want positive ADHD/dyslexia representation (disabilities = superpowers)",
+      "You prefer modern American settings (Camp Half-Blood, NYC) over British boarding school",
+      "You want SHORTER series (5 books/1,900 pages vs 7 books/4,100 pages)",
+      "You're younger (8-10) or want lighter tone throughout",
+      "You value diversity (better representation than 1997 Harry Potter)"
+    ]
+  },
+  "verdict": {
+    "winner": "Harry Potter",
+    "summary": "Harry Potter wins decisively—8.45 million ratings at 4.8 stars vs Percy Jackson's 2.89 million at 4.7 stars. That's nearly triple the readership with higher satisfaction. Rowling built Hogwarts from scratch (houses, wand lore, Ministry of Magic) while Riordan adapted existing Greek mythology brilliantly. The character growth is incomparable: Harry transforms from 11-year-old excited about Chocolate Frogs to 17-year-old walking toward death in the Forbidden Forest. Percy stays fundamentally the same sarcastic kid. The emotional depth differs too—Snape's memories and Dobby's death hit harder than anything in Percy Jackson. Both are excellent, but Harry Potter's the generation-defining masterpiece.",
+    "recommendation": "Start with Harry Potter if you're 10 or older and ready for a series that grows darker. Book 1 is whimsical middle-grade fantasy (Sorting Hat, Diagon Alley, Quidditch), but by Book 7 you're dealing with war, torture, character deaths, and sacrifice. The mystery plotting pays off across thousands of pages—Snape's loyalty arc from Book 1 to Book 7 is masterful. You'll get Hogwarts house identity (people still debate Gryffindor vs Slytherin), prejudice explored through blood purity (Mudblood slurs, house-elf slavery), and an ending that actually delivers closure after 4,100 pages. Read Percy Jackson if you want faster-paced mythology adventures that stay light throughout. The ADHD/dyslexia representation is powerful (learning differences become demigod superpowers), the humor is consistently funny (chapter titles alone are worth it), and Greek mythology becomes entertaining instead of homework. Medusa runs a garden gnome statue shop in New Jersey, Cerberus is basically a giant puppy, Hades isn't actually evil. At 1,900 pages across five books, it's less than half Harry Potter's commitment. Parents can comfortably give this to 8-year-olds without worrying about graphic content. If you only read one, choose Harry Potter—it's the cultural phenomenon with triple the readership for good reason. But ideally read both: Harry for the emotional depth and world-building masterclass, Percy for mythology that's genuinely fun."
+  }
+}

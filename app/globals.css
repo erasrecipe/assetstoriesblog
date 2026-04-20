@@ -1,0 +1,251 @@
+/* Import Google Font - Playfair Display for elegant headings */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Astra Font for Logo */
+@font-face {
+  font-family: 'Astra';
+  src: url('/fonts/astra/Astra-6RGXq.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Base styles */
+body {
+  @apply bg-gradient-to-br from-primary-dark via-primary-light to-primary-dark;
+  @apply text-gray-900 dark:text-gray-100;
+  overflow-x: hidden;
+  word-wrap: break-word;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  @apply font-serif;
+}
+
+/* Smooth transitions */
+* {
+  @apply transition-colors duration-200;
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-gold to-gold-light bg-clip-text text-transparent;
+  }
+  
+  .hero-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+  }
+  
+  @keyframes pulse-slow {
+    0%, 100% {
+      opacity: 1;
+      box-shadow: 0 10px 25px rgba(212, 175, 55, 0.5);
+    }
+    50% {
+      opacity: 0.95;
+      box-shadow: 0 10px 35px rgba(212, 175, 55, 0.7);
+    }
+  }
+  
+  .animate-pulse-slow {
+    animation: pulse-slow 3s ease-in-out infinite;
+  }
+  
+  .card-shadow {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-shadow-lg {
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  }
+}
+
+/* Animation keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* Smooth reading experience */
+@layer base {
+  body {
+    font-size: 18px;
+    line-height: 1.8;
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      font-size: 17px;
+      line-height: 1.75;
+    }
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+  }
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
+    
+    h2 {
+      font-size: 1.75rem;
+    }
+    
+    h3 {
+      font-size: 1.375rem;
+    }
+  }
+  
+  p {
+    line-height: 1.8;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Print styles for better SEO and readability */
+@media print {
+  /* Reset background and colors for print */
+  body {
+    @apply bg-white text-black;
+  }
+  
+  /* Hide non-essential elements */
+  .no-print {
+    display: none !important;
+  }
+  
+  /* Ensure content is readable */
+  * {
+    @apply text-black bg-white;
+    color: #000 !important;
+    background: #fff !important;
+  }
+  
+  /* Keep important styling for structure */
+  h1, h2, h3, h4, h5, h6 {
+    color: #000 !important;
+    page-break-after: avoid;
+  }
+  
+  /* Prevent page breaks inside elements */
+  blockquote, pre, img, table, figure {
+    page-break-inside: avoid;
+  }
+  
+  /* Better spacing for print */
+  p, li {
+    orphans: 3;
+    widows: 3;
+  }
+  
+  /* Remove shadows and borders that don't print well */
+  .shadow-xl, .shadow-2xl, .shadow-lg, .shadow-md {
+    box-shadow: none !important;
+  }
+  
+  /* Simplify rounded corners */
+  .rounded-3xl, .rounded-2xl, .rounded-xl {
+    border-radius: 8px !important;
+  }
+  
+  /* Remove fixed positioning */
+  .fixed, .sticky {
+    position: relative !important;
+  }
+  
+  /* Ensure links are visible */
+  a {
+    text-decoration: underline;
+    color: #000 !important;
+  }
+  
+  /* Keep comparison tables readable */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table th, table td {
+    border: 1px solid #000 !important;
+    padding: 8px;
+  }
+  
+  /* Page margins */
+  @page {
+    margin: 2cm;
+  }
+  
+  /* Print title */
+  article h1 {
+    font-size: 24pt;
+    margin-bottom: 12pt;
+  }
+  
+  article h2 {
+    font-size: 18pt;
+    margin-top: 12pt;
+    margin-bottom: 8pt;
+  }
+  
+  article h3 {
+    font-size: 14pt;
+    margin-top: 8pt;
+    margin-bottom: 6pt;
+  }
+}

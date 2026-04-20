@@ -1,0 +1,151 @@
+﻿{
+    "slug":  "predictably-irrational-vs-misbehaving",
+    "title":  "Predictably Irrational vs Misbehaving: Head to Head Comparison",
+    "metaDescription":  "Dan Ariely\u0027s behavioral economics experiments vs Richard Thaler\u0027s journey creating behavioral economics. Which book reveals human irrationality more powerfully?",
+    "lastUpdated":  "2026-02-10",
+    "category":  "Psychology \u0026 Human Behavior",
+    "book1":  {
+                  "title":  "Predictably Irrational",
+                  "subtitle":  "The Hidden Forces That Shape Our Decisions",
+                  "author":  "Dan Ariely",
+                  "isbn":  "978-0061353246",
+                  "publishedYear":  2008,
+                  "pages":  384,
+                  "rating":  4.5,
+                  "ratingCount":  15600,
+                  "price":  17.99,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_PREDICTABLY_IRRATIONAL",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780061353246-L.jpg",
+                  "description":  "Why do our headaches persist after we take a one-cent aspirin but disappear when we take a fifty-cent aspirin? Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup? When it comes to making decisions in our lives, we think we\u0027re making smart, rational choices. But are we? In this newly revised and expanded edition of the brilliant New York Times bestseller, Dan Ariely refutes the common assumption that we behave in fundamentally rational ways."
+              },
+    "book2":  {
+                  "title":  "Misbehaving",
+                  "subtitle":  "The Making of Behavioral Economics",
+                  "author":  "Richard H. Thaler",
+                  "isbn":  "978-0393352795",
+                  "publishedYear":  2015,
+                  "pages":  432,
+                  "rating":  4.4,
+                  "ratingCount":  5800,
+                  "price":  19.99,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MISBEHAVING",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780393352795-L.jpg",
+                  "description":  "Behavioral economics explores the gap between the idealized rational actors in economic models and how real people actually behave. In Misbehaving, Thaler recounts the intellectual journey that led him to become one of the founding fathers of behavioral economics. He tells the story of the battles he and his colleagues faced as they challenged conventional economic wisdom and reveals how behavioral economics has profoundly changed the way we think about ourselves, our world, and economics."
+              },
+    "comparison":  {
+                       "table":  [
+                                     {
+                                         "feature":  "Main Focus",
+                                         "book1":  "Specific experiments revealing predictable patterns of irrational behavior",
+                                         "book2":  "Historical journey of behavioral economics and intellectual battles with traditional economists"
+                                     },
+                                     {
+                                         "feature":  "Writing Style",
+                                         "book1":  "Experiment-driven, accessible, pop-science storytelling",
+                                         "book2":  "Memoir-style narrative with academic history and policy applications"
+                                     },
+                                     {
+                                         "feature":  "Key Concepts",
+                                         "book1":  "Relativity, anchoring, free, social norms vs market norms, ownership effect",
+                                         "book2":  "Mental accounting, endowment effect, nudge theory, planner vs doer"
+                                     },
+                                     {
+                                         "feature":  "Approach",
+                                         "book1":  "Chapter-by-chapter breakdown of specific irrational behaviors with experiments",
+                                         "book2":  "Chronological story of how behavioral economics emerged and gained acceptance"
+                                     },
+                                     {
+                                         "feature":  "Best For",
+                                         "book1":  "Readers wanting entertaining examples of human irrationality",
+                                         "book2":  "Readers interested in the intellectual history and policy applications"
+                                     },
+                                     {
+                                         "feature":  "Practical Application",
+                                         "book1":  "Understanding everyday decision-making and marketing tactics",
+                                         "book2":  "Policy design, organizational behavior, and economic thinking"
+                                     },
+                                     {
+                                         "feature":  "Page Count",
+                                         "book1":  "384 pages",
+                                         "book2":  "432 pages"
+                                     },
+                                     {
+                                         "feature":  "Published",
+                                         "book1":  "2008",
+                                         "book2":  "2015"
+                                     }
+                                 ],
+                       "book1Strengths":  [
+                                              "FREE! experiment unforgettable: students chose free Kisses over discounted Lindt truffles even though truffle deal better (.14 vs .01)",
+                                              "Anchoring showed SSN digits control bids. SSN ending 80 bid  average, SSN ending 20 bid . Random anchors control willingness to pay 60-120%",
+                                              "Social versus market norms framework: paying kids  to help move couch destroys free willingness. Money converts relationships to transactional",
+                                              "Ariely burned over 70% of body, spent years in hospitals. Gives unique credibility on pain, decision-making under duress. Personal authority",
+                                              "15,600 ratings at 4.5 versus 5,800 at 4.4 shows broader resonance. Experiments translate across cultures, more widely read, more impactful"
+                                          ],
+                       "book1Weaknesses":  [
+                                               "2021 data fabrication evidence in honesty experiments. Core experiments not proven fraudulent, but scandal taints Ariely\u0027s credibility overall",
+                                               "Doesn\u0027t explain HOW behavioral economics emerged or WHY economists rejected it. Experiments without intellectual context or historical battles",
+                                               "Replication crisis hit behavioral economics hard. Some Ariely experiments failed to replicate. Field has reproducibility problems",
+                                               "Reads like \u0027Wow interesting!\u0027 moments without unified theory. Know humans irrational but no framework predicting when or why they\u0027re irrational"
+                                           ],
+                       "book2Strengths":  [
+                                              "Thaler won 2017 Nobel Prize in Economics for this work. Learning from field\u0027s founding father, not popularizer. Ultimate credibility",
+                                              "The List genius—Thaler kept running list of economic anomalies (refusing  offers even though  \u003e ). Watching List grow structures narrative",
+                                              "Mental accounting: drive 20 minutes to save  on  calculator but won\u0027t drive for  on ,000 TV. Same , different mental accounts",
+                                              "Endowment effect: people value mugs they OWN 2x higher than mugs they could BUY. Explains hoarding, car negotiations, status quo bias",
+                                              "\u0027Save More Tomorrow\u0027 program exploited present bias, got real people to increase retirement savings 3.5%/year. Proof behavioral works at scale"
+                                          ],
+                       "book2Weaknesses":  [
+                                               "432 pages, 48 more than Predictably Irrational and denser. Memoir style means trudging through 1970s-1990s academic politics that drags",
+                                               "Thaler spends chapters gloating about proving economists wrong. \u0027I was right, they were idiots\u0027 tone gets old. Less humble than expected",
+                                               "Published 2015 but mostly 1980s-2000s research. By 2024, \u0027cutting-edge\u0027 insights are 15-40 years old. Feels dated versus current science",
+                                               "Only 5,800 ratings versus Ariely\u0027s 15,600 shows narrower, more academic audience. Not as broadly appealing despite Nobel Prize"
+                                           ]
+                   },
+    "quotes":  {
+                   "book1":  [
+                                 "We are really far less rational than standard economic theory assumes.",
+                                 "Humans rarely choose things in absolute terms. We don\u0027t have an internal value meter that tells us how much things are worth. Rather, we focus on the relative advantage of one thing over another.",
+                                 "FREE! gives us such an emotional charge that we perceive what is being offered as immensely more valuable than it really is.",
+                                 "When we are in a state of arousal, we are much more likely to behave in ways we would never consider when in a \u0027cold\u0027 state.",
+                                 "The problem is not that we are stupid; the problem is that we are human.",
+                                 "We systematically overvalue what we have.",
+                                 "Social norms are wrapped up in our social nature and our need for community. Market norms are very different; they are sharp-edged and hard.",
+                                 "Once market norms enter our considerations, the social norms depart."
+                             ],
+                   "book2":  [
+                                 "If you want to encourage someone to do something, make it easy.",
+                                 "Supposedly irrelevant factors (SIFs) are the key to understanding human behavior.",
+                                 "Humans are not perfect, but we can help them make better decisions.",
+                                 "The purely economic man is indeed close to being a social moron.",
+                                 "Mental accounting matters.",
+                                 "If you want people to stop doing something, make it harder.",
+                                 "The endowment effect is one of the most robust findings in behavioral economics.",
+                                 "People are not dumb. The world is hard.",
+                                 "Behavioral economics is not about proving people are stupid. It\u0027s about understanding how we think and making systems work better."
+                             ]
+               },
+    "whyRead":  {
+                    "book1":  [
+                                  "Discover why you make irrational decisions in predictable patterns",
+                                  "Learn how anchoring affects every negotiation and purchase",
+                                  "Understand the power of \u0027FREE!\u0027 and why it hijacks your brain",
+                                  "See how social norms vs market norms affect relationships and work",
+                                  "Perfect for understanding consumer behavior and marketing tactics",
+                                  "Entertaining and accessible—you\u0027ll finish it quickly and enjoy the ride"
+                              ],
+                    "book2":  [
+                                  "Learn from the Nobel Prize winner who created behavioral economics",
+                                  "Understand the intellectual journey from economic heresy to mainstream",
+                                  "See how behavioral insights inform policy (Save More Tomorrow, nudges)",
+                                  "Get deeper understanding of mental accounting and endowment effect",
+                                  "Perfect for readers interested in economics, policy, and organizational design",
+                                  "More comprehensive and academically rigorous than pop-science alternatives"
+                              ]
+                },
+    "verdict":  {
+                    "winner":  "It Depends",
+                    "summary":  "Predictably Irrational wins for entertainment and accessibility—15,600 ratings at 4.5 versus 5,800 at 4.4. Ariely\u0027s experiments (FREE!, anchoring with SSN, social versus market norms) are fascinating. You\u0027ll recognize yourself every chapter. Misbehaving wins for depth and intellectual history—Thaler\u0027s Nobel Prize work gives foundational theory, policy applications (Save More Tomorrow), and mental accounting framework. Read Ariely for fun insights, Thaler for comprehensive understanding.",
+                    "recommendation":  "Start with Predictably Irrational for entertaining insights. Ariely\u0027s experiments immediately useful—FREE! makes people choose Kisses over better Lindt deal, anchoring shows SSN digits controlling bids 60-120%, social norms dying when money enters ( payment destroys free help). At 384 pages you\u0027ll finish quickly recognizing yourself constantly. The 70% body burn story gives unique credibility. After Predictably Irrational, read Misbehaving if you want intellectual depth. Thaler\u0027s 2017 Nobel Prize work, The List of economic anomalies, mental accounting explanation (save  on calculator but not TV), endowment effect (own mugs valued 2x buy mugs), and Save More Tomorrow program (real retirement savings increase 3.5%/year) give comprehensive foundation. At 432 pages it\u0027s denser with 1970s-1990s academic battles, but founding father credibility unmatched. If you only read one: Predictably Irrational for accessible behavioral insights. Add Misbehaving for complete behavioral economics education from Nobel laureate."
+                }
+}

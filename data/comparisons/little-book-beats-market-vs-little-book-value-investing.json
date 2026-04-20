@@ -1,0 +1,160 @@
+﻿{
+  "slug": "little-book-beats-market-vs-little-book-value-investing",
+  "title": "The Little Book That Beats the Market vs The Little Book of Value Investing: Head to Head Comparison",
+  "metaDescription": "Joel Greenblatt's magic formula vs Christopher Browne's value investing guide. Which little book will teach you to beat the market more effectively?",
+  "lastUpdated": "2026-02-07",
+  "category": "Finance & Investing",
+  "book1": {
+    "title": "The Little Book That Beats the Market",
+    "subtitle": "",
+    "author": "Joel Greenblatt",
+    "isbn": "978-0470624159",
+    "publishedYear": 2005,
+    "pages": 208,
+    "rating": 4.4,
+    "ratingCount": 2900,
+    "price": 15.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_BEATS_MARKET",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780470624159-L.jpg",
+    "description": "In The Little Book That Beats the Market, Joel Greenblatt, founder and managing partner of Gotham Capital, details a mechanical method for finding good businesses, buying those businesses at bargain prices, and then how to follow up for long-term results. The Magic Formula is surprisingly simple—combining a high return on capital with a high earnings yield systematically beats the market over time."
+  },
+  "book2": {
+    "title": "The Little Book of Value Investing",
+    "subtitle": "",
+    "author": "Christopher H. Browne",
+    "isbn": "978-0470055892",
+    "publishedYear": 2006,
+    "pages": 256,
+    "rating": 4.3,
+    "ratingCount": 780,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_VALUE_INVESTING",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780470055892-L.jpg",
+    "description": "The Little Book of Value Investing is a classic text for investors who want to understand how to find stocks with intrinsic value above their current market prices. Christopher Browne, a longtime disciple of Benjamin Graham and Warren Buffett, explains value investing principles and shows readers how to apply them to find undervalued stocks in any market environment."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Mechanical formula for finding good companies at bargain prices",
+        "book2": "Traditional value investing principles and philosophy"
+      },
+      {
+        "feature": "Core Strategy",
+        "book1": "Magic Formula: High return on capital + High earnings yield",
+        "book2": "Graham and Buffett approach: Buy below intrinsic value with margin of safety"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Quantitative, mechanical, formula-driven",
+        "book2": "Qualitative, fundamental analysis, judgment-based"
+      },
+      {
+        "feature": "Complexity",
+        "book1": "Extremely simple—two metrics, mechanical ranking",
+        "book2": "More complex—requires fundamental analysis and judgment"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "2,900 ratings—much more widely read",
+        "book2": "780 ratings—smaller, specialized audience"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Investors wanting a simple, systematic approach",
+        "book2": "Investors wanting to learn traditional value investing deeply"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "208 pages",
+        "book2": "256 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2005",
+        "book2": "2006"
+      }
+    ],
+    "book1Strengths": [
+      "2,900 ratings at 4.4 versus 780 at 4.3—Greenblatt's 2005 book reached 4x more readers with higher satisfaction",
+      "Magic Formula is brilliantly simple—rank stocks by high return on capital + high earnings yield, buy top 20-30",
+      "Greenblatt's Gotham Capital averaged 40%+ annual returns 1985-2005 using this approach—backtested proof works",
+      "208 pages versus 256—shorter, focused read gets you investing faster than Browne's comprehensive approach",
+      "Removes emotion completely—mechanical ranking eliminates second-guessing, just follow the formula annually",
+      "Magicformulainvesting.com website does the work—screener spits out ranked stocks, no analysis required",
+      "Perfect for beginners overwhelmed by Graham/Buffett complexity—this is index-fund-simple value investing"
+    ],
+    "book1Weaknesses": [
+      "Too simple for skeptics—ranking two metrics feels like it can't beat market, sounds like snake oil to some",
+      "Doesn't teach investing judgment—you learn the formula, not how to analyze businesses like Browne teaches",
+      "Post-2005 results mixed—Magic Formula ETF underperformed, suggests publication killed edge or markets adapted",
+      "Requires inhuman discipline—holding underperforming stocks while formula says 'keep' tests emotions brutally",
+      "Ignores qualitative factors—debt levels, management quality, competitive moats get zero consideration",
+      "Some years underperform 10-20%—can you stomach losing while S&P gains? Most investors abandon it",
+      "Feels too easy—promising market-beating returns from 208 pages and a website triggers 'too good to be true' alarm"
+    ],
+    "book2Strengths": [
+      "780 ratings at 4.3—smaller audience but traditional Graham/Buffett lineage taught properly",
+      "Browne worked at Tweedy, Browne & Company (founded 1920)—firm managing $14B+ using value principles since before Graham",
+      "Teaches intrinsic value calculation—discounted cash flow, book value, margin of safety concepts explained deeply",
+      "Addresses qualitative factors—management quality, competitive moats, economic moats Greenblatt's formula ignores",
+      "256 pages builds real judgment—you learn to analyze businesses, not just rank them mechanically",
+      "More intellectually satisfying—understanding why stocks are cheap beats blindly following formulas",
+      "Long-term Tweedy Browne track record—value approach works across decades, not just Greenblatt's 1985-2005 period"
+    ],
+    "book2Weaknesses": [
+      "780 ratings versus 2,900—Greenblatt reached 4x more readers, Browne's traditional approach less sexy",
+      "4.3 versus 4.4 rating—slightly lower satisfaction, perhaps because it's harder work than Magic Formula",
+      "Requires actual work—calculating intrinsic value, analyzing management, assessing moats takes hours per stock",
+      "256 pages versus 208—longer and more complex, takes time to absorb versus Greenblatt's quick formula",
+      "Harder to implement—no magic website, you must build spreadsheets and do fundamental analysis yourself",
+      "Success requires judgment—knowing when management is lying or moat is eroding comes with experience, not formulas",
+      "Overwhelming for beginners—Graham/Buffett concepts intimidate newbies versus Greenblatt's simple two-metric approach"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The Magic Formula works. It's just very hard to stick with it when it's not working.",
+      "Buying good companies at bargain prices is the secret to making money in the stock market.",
+      "Return on capital tells you how good the business is. Earnings yield tells you how cheap the price is.",
+      "The stock market is crazy. But if you stick with the formula, you'll beat the market over time.",
+      "Most people won't follow the Magic Formula because it's too simple. They think something so simple can't work.",
+      "Buying stocks based on a simple mechanical formula makes absolutely no sense. And that's why it works.",
+      "The market is not efficient. Mispricings exist and can be systematically exploited.",
+      "Discipline and patience are more important than intelligence in investing."
+    ],
+    "book2": [
+      "Price is what you pay. Value is what you get.",
+      "The value investor looks for securities that are priced significantly below their intrinsic value.",
+      "Margin of safety is the cornerstone of value investing.",
+      "Be fearful when others are greedy, and greedy when others are fearful.",
+      "The stock market is a voting machine in the short term and a weighing machine in the long term.",
+      "Value investing requires patience, discipline, and a willingness to look foolish for extended periods.",
+      "The best investments are often found where others refuse to look.",
+      "Understanding business fundamentals is essential to successful value investing."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Learn the Magic Formula that mechanically beats the market",
+      "Get a simple system combining return on capital and earnings yield",
+      "Perfect for beginners wanting systematic approach",
+      "See how Joel Greenblatt averaged 40%+ annual returns",
+      "Remove emotion from stock selection with mechanical ranking",
+      "Join 2,900+ investors who learned the Magic Formula"
+    ],
+    "book2": [
+      "Master traditional value investing from Graham and Buffett lineage",
+      "Learn to calculate intrinsic value and margin of safety",
+      "Understand qualitative factors beyond just numbers",
+      "Build real investing judgment and analytical skills",
+      "Perfect for serious investors wanting deep understanding",
+      "Learn from Tweedy, Browne's decades of value investing success"
+    ]
+  },
+  "verdict": {
+    "winner": "The Little Book That Beats the Market",
+    "summary": "Beats the Market wins with 2,900 ratings at 4.4 versus 780 at 4.3—4x more readers with higher satisfaction. Greenblatt's Magic Formula (rank by return on capital + earnings yield, buy top 20-30) is brilliantly simple with 40%+ backtested returns and magicformulainvesting.com website. Browne's Value Investing teaches Graham/Buffett intrinsic value, qualitative analysis, real judgment but requires hours per stock. Beats for simplicity, Value for skill-building.",
+    "recommendation": "Read The Little Book That Beats the Market if you want simple systematic investing. You'll get the Magic Formula (rank stocks by high return on capital + high earnings yield, buy top 20-30), Greenblatt's Gotham Capital 40%+ annual returns 1985-2005, magicformulainvesting.com screener doing the work, mechanical ranking eliminating emotion, and 208 pages implementing immediately. Perfect for beginners overwhelmed by complexity—this is index-fund-simple value investing. Read The Little Book of Value Investing if you want to build real skills. You'll get Graham/Buffett lineage from Tweedy Browne ($14B+ firm since 1920), intrinsic value calculation (discounted cash flow, margin of safety), qualitative analysis (management quality, competitive moats), and 256 pages teaching judgment not formulas. Harder work but intellectually satisfying—you analyze businesses deeply. Most investors? Choose Beats the Market (2,900 ratings, simple, proven formula). Serious students? Choose Value Investing for traditional depth despite smaller audience. Want both? Read Beats first for quick wins, then Value to understand why it works."
+  }
+}

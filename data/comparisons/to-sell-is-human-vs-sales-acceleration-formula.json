@@ -1,0 +1,150 @@
+﻿{
+  "slug": "to-sell-is-human-vs-sales-acceleration-formula",
+  "title": "To Sell is Human vs The Sales Acceleration Formula: Head to Head Comparison",
+  "metaDescription": "Daniel Pink's modern selling philosophy vs Mark Roberge's data-driven sales system. Which approach will transform your sales results more effectively?",
+  "lastUpdated": "2026-02-07",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "To Sell is Human",
+    "subtitle": "The Surprising Truth About Moving Others",
+    "author": "Daniel H. Pink",
+    "isbn": "978-1594631905",
+    "publishedYear": 2012,
+    "pages": 260,
+    "rating": 4.4,
+    "ratingCount": 5600,
+    "price": 17.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TO_SELL_IS_HUMAN",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781594631905-L.jpg",
+    "description": "Like it or not, we're all in sales now. Whether we're employees pitching colleagues on a new idea, entrepreneurs enticing funders to invest, or parents and teachers cajoling children to study, we spend our days trying to move others. In To Sell is Human, Daniel Pink offers a fresh look at the art and science of selling. He reveals the new ABCs of moving others (it's no longer 'Always Be Closing'), explains why extraverts don't make the best salespeople, and shows how giving people an 'off-ramp' for their actions can matter more than actually changing their minds."
+  },
+  "book2": {
+    "title": "The Sales Acceleration Formula",
+    "subtitle": "Using Data, Technology, and Inbound Selling to go from $0 to $100 Million",
+    "author": "Mark Roberge",
+    "isbn": "978-1119047070",
+    "publishedYear": 2015,
+    "pages": 224,
+    "rating": 4.5,
+    "ratingCount": 1400,
+    "price": "19.99",
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SALES_ACCELERATION_FORMULA",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781119047070-L.jpg",
+    "description": "Use data, technology, and inbound selling to build a remarkable team and accelerate sales. The Sales Acceleration Formula provides a scalable, predictable approach to growing revenue and building a winning sales team. Everyone wants to build the next $100 million business and author Mark Roberge has actually done it using a unique methodology that he shares with his readers. As an MIT alum with an engineering background, Roberge challenged the conventional methods of scaling sales utilizing the metrics-driven, process-oriented lens through which he was trained to see the world."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Modern philosophy of selling as 'moving others' in everyday life",
+        "book2": "Data-driven, scalable system for building high-performing sales teams"
+      },
+      {
+        "feature": "Core Framework",
+        "book1": "New ABCs: Attunement, Buoyancy, Clarity",
+        "book2": "Hiring formula, training metrics, demand generation, technology stack"
+      },
+      {
+        "feature": "Audience",
+        "book1": "Everyone—sales professionals and non-salespeople alike",
+        "book2": "Sales leaders, VPs of Sales, founders scaling sales teams"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Psychological and philosophical—how to think about selling",
+        "book2": "Engineering and metrics—how to systematize and scale sales"
+      },
+      {
+        "feature": "Key Insight",
+        "book1": "We're all in sales now, and the new skills are attunement and service",
+        "book2": "Sales success is predictable and scalable when you measure the right metrics"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding modern selling and non-sales persuasion",
+        "book2": "Building and scaling sales organizations from $0 to $100M"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "260 pages",
+        "book2": "224 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2012",
+        "book2": "2015"
+      }
+    ],
+    "book1Strengths": [
+      "New ABCs brilliant—Attunement (perspective-taking), Buoyancy (interrogative self-talk), Clarity (problem-finding)",
+      "Ambivert research revelation—moderately extroverted sellers outperform extreme extroverts by 24% (Adam Grant study)",
+      "Reframes selling as 'moving others'—nurses, teachers, entrepreneurs all sell, removes stigma from persuasion",
+      "5,600 ratings at 4.4★—Pink's Drive/When sequel applies behavioral science to modern non-sales selling",
+      "Irritation test + strategic mimicry specific—unconscious mimicry increases likability 17% but overdoing backfires"
+    ],
+    "book1Weaknesses": [
+      "Philosophical not tactical—no scripts, no metrics, no hiring formulas. Individual mindset over organizational systems",
+      "4x more readers than Roberge (5,600 vs 1,400) but lower 4.4★ vs 4.5★—accessible but less actionable execution",
+      "Doesn't scale teams—perfect for persuading colleagues, useless for VP Sales building 50-person sales org",
+      "2012 publication predates modern SaaS metrics—no CAC/LTV/churn, no Salesforce integration, no HubSpot workflows"
+    ],
+    "book2Strengths": [
+      "Roberge scaled HubSpot $0→$100M as SVP Sales—MIT engineer applied data science to hiring/training/metrics",
+      "Hiring scorecard (5 traits: coachability/curiosity/intelligence/work ethic/prior success) predicts performance 80%+",
+      "Metrics-driven playbook—CAC, LTV, churn rate, sales productivity per rep. Makes revenue growth predictable/scalable",
+      "1,400 ratings at 4.5★ (higher than Pink's 4.4★)—fewer readers but sales leaders rave about implementation results",
+      "Entire system covered—hiring → training → demand gen → tech stack. Not just philosophy, actual repeatable process"
+    ],
+    "book2Weaknesses": [
+      "SaaS/inside sales only—assumes inbound leads, CRM automation, inside reps. Field sales/enterprise deals need different approach",
+      "Requires infrastructure—small startups lack resources for hiring scorecard, training programs, marketing automation Roberge describes",
+      "Engineering mindset polarizes—relationship sellers hate 'sales as science' coldness, prefer Pink's human-centric philosophy",
+      "Ignores individual skills—tells you HOW to hire/train/measure teams, not HOW to personally close deals better yourself"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Like it or not, we're all in sales now.",
+      "The new ABC's of selling are: Attunement, Buoyancy, and Clarity.",
+      "The purpose of a pitch isn't necessarily to move others immediately to adopt your idea. The purpose is to offer something so compelling that it begins a conversation, brings the other person in as a participant, and eventually arrives at an outcome that appeals to both of you.",
+      "Extraverts don't have meaningful advantages over introverts. And introverts don't have meaningful advantages over extraverts. The best salespeople tend to be ambiverts.",
+      "Clarity depends on contrast. We often understand something better when we see it in comparison with something else than when we see it in isolation.",
+      "On any given day, most of us face rejection, and the cumulative effect can be brutal.",
+      "To move others, we must first move ourselves.",
+      "The ability to move others to exchange what they have for what we have is crucial to our survival and our happiness."
+    ],
+    "book2": [
+      "Sales is a science. Sales can be predictable.",
+      "The job is not to close. The job is to help.",
+      "Hire for coachability, curiosity, intelligence, work ethic, and prior success.",
+      "What gets measured gets improved.",
+      "You can't scale what you can't measure.",
+      "The sales hiring formula changed everything for us at HubSpot.",
+      "Salespeople should serve buyers, not manipulate them.",
+      "Demand generation is just as important as sales execution."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Reframe your relationship with selling—everyone is in sales now",
+      "Learn the new ABCs that replace 'Always Be Closing'",
+      "Discover why ambiverts make better salespeople than extroverts",
+      "Understand modern persuasion backed by social science",
+      "Perfect for non-salespeople who need to move others",
+      "Daniel Pink's engaging writing makes it a pleasure to read"
+    ],
+    "book2": [
+      "Get the exact system Mark Roberge used to scale HubSpot to $100M",
+      "Learn the hiring formula that predicts sales success",
+      "Master metrics-driven sales management and predictability",
+      "Build a scalable, repeatable sales system from scratch",
+      "Perfect for sales leaders scaling inside sales or SaaS teams",
+      "Turn sales from an art into a science"
+    ]
+  },
+  "verdict": {
+    "winner": "The Sales Acceleration Formula",
+    "summary": "The Sales Acceleration Formula wins for sales leaders—1,400 ratings at 4.5★ (higher quality than Pink's 4.4★) despite 4x fewer readers. Roberge's MIT engineer approach scaled HubSpot $0→$100M with hiring scorecard (5 traits predict 80%+ success), metrics playbook (CAC/LTV/churn), and repeatable system (hiring → training → demand gen → tech stack). Pink's 2012 book reframes selling as 'moving others' with new ABCs (Attunement/Buoyancy/Clarity), ambivert research (moderately extroverted sellers outperform by 24%), and behavioral science—but it's philosophical not tactical. Roberge gives you the playbook to scale teams; Pink gives you the mindset to persuade individuals. Different audiences entirely.",
+    "recommendation": "Read The Sales Acceleration Formula if you're a VP Sales, founder, or sales leader scaling a SaaS/inside sales team—Roberge's $0→$100M HubSpot playbook is pure gold. The hiring scorecard (coachability/curiosity/intelligence/work ethic/prior success) alone is worth the price, and the metrics-driven approach (CAC, LTV, sales productivity per rep) makes revenue predictable. MIT engineer mindset means entire system covered: hiring → training → demand gen → tech stack. 1,400 ratings at 4.5★ show sales leaders implementing it with results. But requires infrastructure—small startups without CRM automation, marketing automation, or inbound leads won't execute. Field sales/enterprise deals need different approach. Read To Sell is Human if you're an individual contributor, entrepreneur, or non-salesperson who needs to persuade—Pink's new ABCs (Attunement/Buoyancy/Clarity) and ambivert research transform how you think about 'moving others.' Nurses, teachers, consultants all sell now, and Pink removes the stigma beautifully. 5,600 ratings at 4.4★ (4x more readers than Roberge) shows broader appeal. But no scripts, no metrics, no team-scaling systems—useless for VP Sales building 50-person org. 2012 publication predates modern SaaS metrics (no CAC/LTV/churn discussion). Start with Roberge if you're scaling teams—it's the higher-rated, more actionable playbook. Read Pink if you need individual persuasion philosophy. They serve completely different purposes: Roberge builds sales machines, Pink builds sales mindsets."
+  }
+}

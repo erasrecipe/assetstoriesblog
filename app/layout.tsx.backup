@@ -1,0 +1,110 @@
+import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
+import './globals.css';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import ScrollToTop from '@/components/ScrollToTop';
+import SkipLinks from '@/components/SkipLinks';
+import Script from 'next/script';
+
+const inter = Inter({ subsets: ['latin'], display: 'swap', preload: true });
+
+export const metadata: Metadata = {
+  metadataBase: new URL('https://bookswar.com'),
+  title: {
+    default: 'Books War - We Compare Books (2026)',
+    template: '%s | Books War',
+  },
+  description: 'Discover the perfect book for you! Compare bestsellers side-by-side with expert analysis, ratings, and honest reviews. Make smarter reading choices in 2026.',
+  keywords: ['book comparison', 'book reviews', 'book recommendations', 'best books', 'reading', 'literature'],
+  authors: [
+    { name: 'Mehrab Musa', url: 'https://bookswar.com' },
+    { name: 'Rufatul Islam' },
+    { name: 'Safial Muntasir' },
+    { name: 'Shoyaib Dipto' },
+    { name: 'Abdullah Al Mamun' },
+  ],
+  creator: 'Mehrab Musa',
+  publisher: 'Books War',
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: 'https://bookswar.com',
+    siteName: 'Books War',
+    title: 'Books War - We Compare Books (2026)',
+    description: 'Discover the perfect book for you! Compare bestsellers side-by-side with expert analysis, ratings, and honest reviews.',
+    images: [
+      {
+        url: '/og-image.svg',
+        width: 1200,
+        height: 630,
+        alt: 'Books War - We Compare Books - Find Your Perfect Read',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Books War - We Compare Books (2026)',
+    description: 'Discover the perfect book for you! Compare bestsellers side-by-side with expert analysis.',
+    images: ['/og-image.svg'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  verification: {
+    google: 'your-google-verification-code',
+  },
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        {/* Preload critical fonts */}
+        <link
+          rel="preload"
+          href="/fonts/astra/Astra-6RGXq.otf"
+          as="font"
+          type="font/otf"
+          crossOrigin="anonymous"
+        />
+      </head>
+      <body className={inter.className} suppressHydrationWarning>
+        <SkipLinks />
+        
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');
+          `}
+        </Script>
+        
+        <Header />
+        <main id="main-content" className="min-h-screen">
+          {children}
+        </main>
+        <Footer />
+        <ScrollToTop />
+      </body>
+    </html>
+  );
+}

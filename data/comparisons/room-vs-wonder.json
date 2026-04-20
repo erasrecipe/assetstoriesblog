@@ -1,0 +1,105 @@
+{
+  "slug": "room-vs-wonder",
+  "title": "Room vs Wonder: Head to Head Comparison",
+  "metaDescription": "Emma Donoghue's Room vs R.J. Palacio's Wonder—devastating captivity story vs heartwarming kindness tale. Which emotional resilience novel should you read?",
+  "lastUpdated": "2026-02-10",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Room",
+    "subtitle": "",
+    "author": "Emma Donoghue",
+    "isbn": "978-0316098335",
+    "publishedYear": 2010,
+    "pages": 321,
+    "rating": 4.4,
+    "ratingCount": 678000,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780316098335-L.jpg",
+    "description": "To five-year-old Jack, Room is the entire world. It is where he was born and grew up; it's where he lives with his Ma as they learn and read and eat and sleep and play. At night, his Ma shuts him safely in the wardrobe, where he is meant to be asleep when Old Nick visits. Room is home to Jack, but to Ma, it is the prison where Old Nick has held her captive for seven years. Through determination, ingenuity, and fierce motherly love, Ma has created a life for Jack."
+  },
+  "book2": {
+    "title": "Wonder",
+    "subtitle": "",
+    "author": "R.J. Palacio",
+    "isbn": "978-0375869020",
+    "publishedYear": 2012,
+    "pages": 310,
+    "rating": 4.7,
+    "ratingCount": 1234000,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780375869020-L.jpg",
+    "description": "August Pullman was born with a facial difference that, up until now, has prevented him from going to a mainstream school. Starting 5th grade at Beecher Prep, he wants nothing more than to be treated as an ordinary kid—but his new classmates can't get past Auggie's extraordinary face. Wonder is the story of a boy's journey through school, friendship, and the simple acts of kindness that create the wonder in all of us."
+  },
+  "comparison": {
+    "table": [
+      {"feature": "Protagonist Age", "book1": "5-year-old Jack", "book2": "10-year-old Auggie"},
+      {"feature": "Central Challenge", "book1": "Escaping captivity & adjusting to world", "book2": "Facial difference & school bullying"},
+      {"feature": "POV", "book1": "Jack (child's perspective only)", "book2": "Multiple POVs (Auggie + others)"},
+      {"feature": "Tone", "book1": "Dark, disturbing, then hopeful", "book2": "Uplifting, heartwarming throughout"},
+      {"feature": "Target Audience", "book1": "Adult literary fiction", "book2": "Middle grade (universally loved)"},
+      {"feature": "Subject Matter", "book1": "Kidnapping, captivity, trauma", "book2": "Disability, bullying, kindness"},
+      {"feature": "Emotional Impact", "book1": "Devastating then cathartic", "book2": "Consistently heartwarming"}
+    ],
+    "book1Strengths": [
+      "Jack's child narrator voice brilliantly authentic. 'I've been in world 1,826 days' captures 5-year-old perspective perfectly—Room IS his world, not prison",
+      "Ma's fierce maternal love one of literature's most powerful portrayals. Creating normal childhood in 11x11 shed for 7 years—reading, exercising, teaching—is devastating and beautiful",
+      "Post-escape adjustment handled with psychological realism. Jack terrified of open sky, crowds, stairs. Ma's depression and suicide attempt. Trauma doesn't vanish with freedom",
+      "First-person perspective makes horror immediate. Jack doesn't understand sexual assault (Ma protects him), but adult readers do. Innocence versus knowledge creates unbearable tension",
+      "Won numerous awards including Booker Prize shortlist. Major motion picture 2015 (Brie Larson won Oscar). Literary and commercial success rare combination"
+    ],
+    "book1Weaknesses": [
+      "Extremely disturbing subject matter—kidnapping, 7 years captivity, sexual assault, child born in captivity. Many readers can't get past triggering content",
+      "Very difficult emotional read—not escapist entertainment. You'll cry, feel sick, need breaks. Emotionally exhausting in ways Wonder isn't",
+      "Child narration means limited understanding of horror. Jack doesn't grasp full situation, which creates irony but also frustration for readers wanting direct acknowledgment",
+      "678,000 ratings versus Wonder's 1.23 million shows some readers avoid it entirely. Lower rating (4.4 vs 4.7) suggests harder to love despite quality"
+    ],
+    "book2Strengths": [
+      "One of most beloved middle grade books—universally touching across ages. 1.23 million ratings at 4.7 versus 678K at 4.4 shows broader, more enthusiastic audience",
+      "Auggie unforgettable, inspiring protagonist with Treacher Collins syndrome (facial difference). 'My name is August... I won't describe what I look like. Just imagine the ugliest thing you've ever seen'",
+      "Multiple POVs show how kindness ripples. Via (sister), Summer (friend), Jack Will (conflicted friend), Justin (sister's boyfriend)—each perspective adds depth",
+      "'Choose Kind' message powerful without being preachy. Mr. Browne's precepts throughout year, Auggie's standing ovation at graduation. Earnest but earned",
+      "Accessible to all ages. Read it with 8-year-old, recommend to 80-year-old grandmother. Perfect family read-aloud that starts conversations about kindness, disability, bullying"
+    ],
+    "book2Weaknesses": [
+      "Some find it overly sentimental or manipulative. The ending ties up perfectly—everyone learns lessons, Auggie gets standing ovation. Real life messier",
+      "Middle grade writing may feel simplistic to literary fiction readers. Palacio's prose clear and effective but not artful like Donoghue's. Different goals",
+      "Multiple POVs dilute Auggie's unique voice at times. His perspective most compelling, switching to Via or Jack Will feels less urgent",
+      "Tackles serious issues (bullying, disability, prejudice) but in very safe way. Nobody gets seriously hurt, consequences mild. Room doesn't pull punches, Wonder does"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "I've been in the world 1,826 days. Ma has been in the world 10,950 days but she was only in Room for 2,555 days, the rest happened before Room.",
+      "Scared is what you're feeling. Brave is what you're doing.",
+      "I look back one more time. It's like a crater, a hole where something happened."
+    ],
+    "book2": [
+      "When given the choice between being right or being kind, choose kind.",
+      "I think there should be a rule that everyone in the world should get a standing ovation at least once in their lives.",
+      "Courage. Kindness. Friendship. Character. These are the qualities that define us as human beings."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want literary fiction exploring trauma, captivity, maternal love",
+      "You appreciate brilliant child narrator perspective",
+      "You're interested in psychological realism about trauma and adjustment",
+      "You can handle extremely disturbing content for powerful payoff",
+      "You want Booker Prize-shortlisted literary fiction"
+    ],
+    "book2": [
+      "You want universally beloved story about kindness and acceptance",
+      "You need uplifting, heartwarming read that still has depth",
+      "You're interested in disability representation and anti-bullying",
+      "You want something accessible for all ages—kids to adults",
+      "You need to restore faith in human kindness"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends (Entirely Different Purposes)",
+    "summary": "These serve entirely different purposes. Wonder more universally beloved and uplifting—1.23 million at 4.7 versus 678K at 4.4 shows broader appeal. Perfect for readers of all ages wanting hope and kindness. Room more literarily significant but also more disturbing and challenging. Wonder heartwarming; Room devastating. For inspiration and kindness, Wonder. For literary fiction exploring trauma, Room.",
+    "recommendation": "Choose Wonder if you want uplifting, universally accessible story about kindness conquering bullying. Published 2012, became phenomenon with 1.23 million ratings at 4.7. Auggie Pullman (10-year-old with Treacher Collins syndrome causing facial difference) starts 5th grade at Beecher Prep after years homeschooling. Multiple POVs (Via his sister, Summer friend, Jack Will conflicted friend) show how kindness ripples. 'Choose Kind' message powerful—Mr. Browne's precepts, Auggie's standing ovation at graduation earned not preachy. 310 pages accessible to ages 8-80, perfect family read. Major motion picture 2017 introduced story to millions more. Choose Room if you want challenging literary fiction about captivity, trauma, maternal love—but be prepared for extremely disturbing content. Published 2010, Booker Prize shortlist. 5-year-old Jack born in 11x11 shed where Ma held captive 7 years by Old Nick. Jack's child narrator ('I've been in world 1,826 days') brilliantly authentic—Room IS his world. Ma's fierce love creating normal childhood (reading, exercises, teaching) in prison is devastating. Post-escape adjustment psychologically realistic—Jack terrified of sky, Ma's depression and suicide attempt. 'Scared is what you're feeling. Brave is what you're doing.' 321 pages, 678K at 4.4 (lower than Wonder's 4.7—harder content). Won't restore faith in humanity, will test it. Wonder for hope, Room for literary depth."
+  }
+}

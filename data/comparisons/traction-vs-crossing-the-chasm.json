@@ -1,0 +1,142 @@
+{
+  "slug": "traction-vs-crossing-the-chasm",
+  "title": "Traction vs Crossing the Chasm: Head to Head Comparison",
+  "metaDescription": "Gino Wickman's Traction vs Geoffrey Moore's Crossing the Chasm. Which business growth framework wins for scaling your company?",
+  "lastUpdated": "2026-02-13",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "Traction",
+    "subtitle": "Get a Grip on Your Business",
+    "author": "Gino Wickman",
+    "isbn": "978-1936661831",
+    "publishedYear": 2011,
+    "pages": 246,
+    "rating": 4.6,
+    "ratingCount": 7800,
+    "price": 17.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TRACTION",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781936661831-L.jpg",
+    "description": "Do you have a grip on your business, or does your business have a grip on you? All entrepreneurs and business leaders face similar frustrations-personnel conflicts, profit woes, and inadequate growth. Traction will help you and your leadership team get more of what you want from your business."
+  },
+  "book2": {
+    "title": "Crossing the Chasm",
+    "subtitle": "Marketing and Selling Disruptive Products to Mainstream Customers",
+    "author": "Geoffrey A. Moore",
+    "isbn": "978-0062292988",
+    "publishedYear": 1991,
+    "pages": 227,
+    "rating": 4.5,
+    "ratingCount": 3200,
+    "price": 18.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_CROSSING_THE_CHASM",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062292988-L.jpg",
+    "description": "Here is the bestselling guide that created a new game plan for marketing in high-tech industries. Crossing the Chasm has become the bible for bringing cutting-edge products to progressively larger markets. This edition provides new insights into the realities of high-tech marketing, with special emphasis on the Internet."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Focus",
+        "book1": "Internal operations & systems",
+        "book2": "Market positioning & adoption"
+      },
+      {
+        "feature": "Framework",
+        "book1": "EOS (6 Key Components)",
+        "book2": "Technology Adoption Life Cycle"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Any business 10-250 employees",
+        "book2": "Tech startups & disruptive products"
+      },
+      {
+        "feature": "Year",
+        "book1": "2011",
+        "book2": "1991 (updated 2014)"
+      },
+      {
+        "feature": "Rating",
+        "book1": "4.6 stars (7,800 ratings)",
+        "book2": "4.5 stars (3,200 ratings)"
+      },
+      {
+        "feature": "Pages",
+        "book1": "246 pages",
+        "book2": "227 pages"
+      },
+      {
+        "feature": "Implementation",
+        "book1": "Weekly L10 meetings, quarterly planning",
+        "book2": "Strategic repositioning for market segments"
+      },
+      {
+        "feature": "Industry",
+        "book1": "Universal (services, manufacturing, etc.)",
+        "book2": "Tech-focused originally, now broader"
+      }
+    ],
+    "book1Strengths": [
+      "EOS tools are immediately actionable-V/TO, Accountability Chart, Scorecard, Rocks",
+      "L10 meeting format transformed our weekly leadership meetings completely",
+      "Vision/Traction Organizer is a one-page business plan that actually works",
+      "Rocks (90-day priorities) keep everyone focused on what matters most",
+      "Works for any industry-not just tech like Crossing the Chasm"
+    ],
+    "book1Weaknesses": [
+      "Feels like a pitch for EOS implementers and consultants",
+      "The 6 components can feel overwhelming to implement all at once",
+      "Some tools are common sense dressed up with new names",
+      "Less strategic depth-it's a system, not strategy"
+    ],
+    "book2Strengths": [
+      "The chasm concept is brilliant-innovators to early adopters is easy, but crossing to early majority is where startups die",
+      "Bowling pin strategy: dominate one niche before expanding",
+      "Whole Product concept explains why early adopters forgive bugs but mainstream won't",
+      "Essential reading if you're launching disruptive technology",
+      "Moore predicted how tech adoption works decades ago"
+    ],
+    "book2Weaknesses": [
+      "Very tech-focused-examples feel dated (1991 references)",
+      "Less actionable for non-tech or established businesses",
+      "Theory-heavy without step-by-step implementation like Traction",
+      "The chasm doesn't apply to all business models equally"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Vision without traction is hallucination.",
+      "You can't delegate what you can't name.",
+      "The right people in the right seats doing the right things.",
+      "Rocks are your 90-day priorities. If you have more than 3-7, you have too many.",
+      "Issues are good. Not solving them is bad."
+    ],
+    "book2": [
+      "The chasm represents the gulf between the early adopters and the early majority.",
+      "You must pick a niche market and dominate it before moving to the next.",
+      "Whole product = core product + everything else needed for the customer to achieve their goal.",
+      "The main thing is to keep the main thing the main thing.",
+      "Pragmatists want to see the product being used successfully by someone they trust."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Your business feels chaotic and lacks systems",
+      "You need a complete operating system for running your company",
+      "You want weekly meetings that don't waste time (L10 agenda)",
+      "You're scaling from 10 to 250 employees",
+      "You want practical tools over theory"
+    ],
+    "book2": [
+      "You're launching a disruptive tech product",
+      "You have early adopters but can't break into mainstream market",
+      "You need to understand technology adoption curves",
+      "You're a B2B tech startup looking for product-market fit",
+      "You want strategic market positioning insights"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "These solve different problems. Traction wins for operational excellence-EOS gives you Vision/Traction Organizer, Accountability Chart, Scorecard, Rocks, and L10 meetings. It's a complete operating system for any business 10-250 employees. Crossing the Chasm wins for market strategy-it explains why startups die in the gap between early adopters and mainstream customers. The bowling pin strategy (dominate one niche first) is gold. Read Traction if your business needs systems. Read Crossing the Chasm if you're launching disruptive tech.",
+    "recommendation": "Read Traction if you run an existing business that needs structure-246 pages of pure implementation. The weekly L10 meeting format alone is worth it: Segue, Scorecard, Rock Review, Customer/Employee Headlines, To-Do List, IDS (Identify, Discuss, Solve). Rocks keep you focused on 3-7 priorities per quarter. Read Crossing the Chasm if you're a tech startup trying to cross from early adopters to early majority. The chasm is real-innovators and early adopters tolerate bugs, but pragmatists won't buy until they see proof. Pick your bowling pin (first niche market) carefully. Different books, different battles."
+  }
+}

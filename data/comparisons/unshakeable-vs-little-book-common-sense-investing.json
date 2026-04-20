@@ -1,0 +1,142 @@
+{
+  "slug": "unshakeable-vs-little-book-common-sense-investing",
+  "title": "Unshakeable vs The Little Book of Common Sense Investing: Head to Head Comparison",
+  "metaDescription": "Unshakeable vs Little Book of Common Sense Investing: Tony Robbins' guide vs Jack Bogle's index fund classic. Which investing book wins for beginners?",
+  "lastUpdated": "2026-02-13",
+  "category": "Finance & Investing",
+  "book1": {
+    "title": "Unshakeable",
+    "subtitle": "Your Financial Freedom Playbook",
+    "author": "Tony Robbins",
+    "isbn": "978-1501164583",
+    "publishedYear": 2017,
+    "pages": 256,
+    "rating": 4.7,
+    "ratingCount": 5400,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_UNSHAKEABLE",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781501164583-L.jpg",
+    "description": "Tony Robbins returns with the sequel to MONEY Master the Game. After interviewing fifty of the world's greatest financial minds and penning the #1 New York Times bestseller Money: Master the Game, Tony Robbins returns with a step-by-step playbook, taking you on a journey to transform your financial life and accelerate your path to financial freedom."
+  },
+  "book2": {
+    "title": "The Little Book of Common Sense Investing",
+    "subtitle": "The Only Way to Guarantee Your Fair Share of Stock Market Returns",
+    "author": "John C. Bogle",
+    "isbn": "978-1119404507",
+    "publishedYear": 2007,
+    "pages": 216,
+    "rating": 4.6,
+    "ratingCount": 8900,
+    "price": 19.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_COMMON_SENSE",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781119404507-L.jpg",
+    "description": "The best-selling investing 'bible' offers new information, new insights, and new perspectives. The Little Book of Common Sense Investing is the classic guide to getting smart about the market. Legendary mutual fund pioneer John C. Bogle reveals his key to getting more out of investing: low-cost index funds."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Author Background",
+        "book1": "Life coach/motivational speaker",
+        "book2": "Vanguard founder, index fund creator"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "Don't lose money, use index funds",
+        "book2": "Index funds beat active management"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Motivational, energetic",
+        "book2": "Calm, data-driven"
+      },
+      {
+        "feature": "Year",
+        "book1": "2017",
+        "book2": "2007 (updated 2017)"
+      },
+      {
+        "feature": "Rating",
+        "book1": "4.7 stars (5,400 ratings)",
+        "book2": "4.6 stars (8,900 ratings)"
+      },
+      {
+        "feature": "Pages",
+        "book1": "256 pages",
+        "book2": "216 pages"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Beginners who need motivation",
+        "book2": "Anyone serious about indexing"
+      },
+      {
+        "feature": "Credibility",
+        "book1": "Interviews with finance legends",
+        "book2": "Written by the legend himself"
+      }
+    ],
+    "book1Strengths": [
+      "Fear-busting mindset for market crashes-don't panic sell, buy the dip",
+      "Asset allocation buckets (Security, Risk/Growth, Dream) are practical",
+      "Interviews with Dalio, Swensen, and other legends add credibility",
+      "More accessible for total beginners than Bogle's dense data",
+      "Motivational energy makes investing feel achievable"
+    ],
+    "book1Weaknesses": [
+      "Tony Robbins isn't a financial expert-he's summarizing others' wisdom",
+      "Feels like a long sales pitch for his courses and programs",
+      "256 pages when the message is simple: buy low-cost index funds",
+      "Less depth than Bogle's original research and data"
+    ],
+    "book2Strengths": [
+      "Jack Bogle created index funds-you're learning from the source",
+      "Data-driven proof that index funds beat 95% of active managers long-term",
+      "Cost matters mantra: every 1% in fees compounds to huge losses",
+      "Simple, timeless message: buy total market index, hold forever",
+      "No fluff-216 pages of pure substance"
+    ],
+    "book2Weaknesses": [
+      "Can be dry and data-heavy for beginners",
+      "Less motivational energy than Robbins' approach",
+      "Assumes you're already convinced indexing is right",
+      "Some examples feel dated (2007 references)"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The secret to wealth is simple: Don't lose money.",
+      "Asymmetric risk/reward: Limit your downside, maximize your upside.",
+      "Winter is coming. When the market crashes, the prepared investor buys.",
+      "Asset allocation determines 90% of your returns, not stock picking.",
+      "Freedom is when your passive income exceeds your expenses."
+    ],
+    "book2": [
+      "Don't look for the needle in the haystack. Just buy the haystack.",
+      "The index fund is a gift to investors from Jack Bogle.",
+      "Costs matter. The miracle of compounding returns is overwhelmed by the tyranny of compounding costs.",
+      "Time is your friend; impulse is your enemy.",
+      "The winning strategy is to own all the stocks, all the time."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You need motivation to start investing",
+      "You want fear-busting mindset for market volatility",
+      "You like Tony Robbins' energetic, accessible style",
+      "You're a total beginner who finds finance intimidating",
+      "You want practical asset allocation buckets"
+    ],
+    "book2": [
+      "You want to learn from the creator of index funds",
+      "You need data-driven proof that indexing works",
+      "You're serious about long-term, passive investing",
+      "You want substance over motivational fluff",
+      "You're ready for Bogle's timeless, calm wisdom"
+    ]
+  },
+  "verdict": {
+    "winner": "The Little Book of Common Sense Investing",
+    "summary": "Bogle's Little Book wins-8,900 ratings vs 5,400, and he created index funds. Robbins is a motivational speaker summarizing others; Bogle is the legend who invented the strategy. Both say the same thing: buy low-cost index funds and hold forever. Bogle backs it with decades of data; Robbins makes it accessible and motivational. Read Bogle for credibility and depth. Read Robbins if you need hand-holding and energy. The advice is identical, but Bogle is the source.",
+    "recommendation": "Read The Little Book of Common Sense Investing first-216 pages from Vanguard's founder. Bogle's message: don't pick stocks, buy the total market index (like VTSAX). Costs matter-every 1% in fees compounds to massive losses over 30 years. Time is your friend; impulse is your enemy. Just buy the haystack and hold forever. Then read Unshakeable if you need motivational energy and fear-busting mindset. Robbins' asset allocation buckets (Security, Risk/Growth, Dream) are practical. His crash psychology (winter is coming, buy the dip) helps beginners. Both lead to the same place: low-cost index funds. Bogle is the teacher; Robbins is the hype man."
+  }
+}

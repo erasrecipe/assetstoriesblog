@@ -1,0 +1,163 @@
+﻿{
+    "slug": "medical-medium-vs-how-not-to-die",
+    "title": "Medical Medium vs How Not to Die: Head to Head Comparison",
+    "metaDescription": "Compare Medical Medium vs How Not to Die. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+    "lastUpdated": "2026-02-07",
+    "category": "Health \u0026 Wellness",
+    "book1": {
+                  "title": "Medical Medium",
+                  "subtitle": "Secrets Behind Chronic and Mystery Illness and How to Finally Heal",
+                  "author": "Anthony William",
+                  "isbn": "978-1401945312",
+                  "publishedYear": 2015,
+                  "pages": 336,
+                  "rating": 4.7,
+                  "ratingCount": 52000,
+                  "price": 18.99,
+                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_MEDICAL_MEDIUM",
+                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781401945312-L.jpg",
+                  "description": "Anthony William, the Medical Medium, has helped tens of thousands of people heal from ailments that have been misdiagnosed or ineffectively treated or that doctors can\u0027t resolve. He\u0027s done this by listening to a divine voice that literally speaks into his ear, telling him what lies at the root of people\u0027s pain or illness and what they need to do to restore their health. In this book, Anthony spills all the secrets of his work, revealing the unspoken truths that science and research have yet to discover."
+              },
+    "book2": {
+                  "title": "How Not to Die",
+                  "subtitle": "Discover the Foods Scientifically Proven to Prevent and Reverse Disease",
+                  "author": "Dr. Michael Greger",
+                  "isbn": "978-1250066114",
+                  "publishedYear": 2015,
+                  "pages": 576,
+                  "rating": 4.7,
+                  "ratingCount": 78000,
+                  "price": 19.99,
+                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_HOW_NOT_TO_DIE",
+                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781250066114-L.jpg",
+                  "description": "From the author of the instant New York Times bestseller How Not to Diet comes How Not to Die, the groundbreaking science revealing that diet is often more effective than pills, surgeries, and other conventional medical interventions in preventing, arresting, and reversing our top 15 killers. Dr. Michael Greger examines the fifteen top causes of premature deathâ€”heart disease, various cancers, diabetes, high blood pressure, and moreâ€”and explains how nutritional and lifestyle interventions can sometimes trump prescription pills and other pharmaceutical and surgical approaches, freeing us to live healthier lives."
+              },
+    "comparison": {
+                       "table": [
+                                     {
+                                         "feature": "Authority Basis",
+                                         "book1": "Intuitive spiritual guidance (no medical training)",
+                                         "book2": "Medical doctor with nutrition research"
+                                     },
+                                     {
+                                         "feature": "Evidence Type",
+                                         "book1": "Spiritual insights and testimonials",
+                                         "book2": "Thousands of peer-reviewed studies"
+                                     },
+                                     {
+                                         "feature": "Scientific Rigor",
+                                         "book1": "No scientific evidence or studies cited",
+                                         "book2": "Extensively cited scientific research"
+                                     },
+                                     {
+                                         "feature": "Medical Community View",
+                                         "book1": "Widely criticized as pseudoscience",
+                                         "book2": "Respected by evidence-based practitioners"
+                                     },
+                                     {
+                                         "feature": "Core Focus",
+                                         "book1": "Mystery illnesses and spiritual healing",
+                                         "book2": "Preventing top 15 causes of death"
+                                     },
+                                     {
+                                         "feature": "Diet Recommendation",
+                                         "book1": "Heavy focus on celery juice and specific protocols",
+                                         "book2": "Whole food plant-based eating (Daily Dozen)"
+                                     },
+                                     {
+                                         "feature": "Target Audience",
+                                         "book1": "People with unexplained chronic illness",
+                                         "book2": "Anyone wanting to prevent chronic disease"
+                                     },
+                                     {
+                                         "feature": "Page Count",
+                                         "book1": "336 pages",
+                                         "book2": "576 pages"
+                                     }
+                                 ],
+                       "book1Strengths": [
+                                              "Offers hope to people with unexplained mystery illnesses",
+                                              "The celery juice protocol is simple and harmless (if not miraculous)",
+                                              "Many readers report feeling better following the advice",
+                                              "Addresses emotional and spiritual aspects of healing",
+                                              "Provides specific protocols for various conditions",
+                                              "The writing is accessible and compassionate",
+                                              "Emphasizes fruits and vegetables, which is generally healthy",
+                                              "Appeals to people failed by conventional medicine"
+                                          ],
+                       "book1Weaknesses": [
+                                               "Zero scientific evidenceâ€”based entirely on claimed spiritual channeling",
+                                               "Author has no medical training or credentials",
+                                               "Claims are not supported by research or clinical trials",
+                                               "Widely criticized by medical professionals as pseudoscience",
+                                               "Can be dangerous if people delay real medical treatment",
+                                               "The \u0027Spirit\u0027 speaking to him is not verifiable",
+                                               "Makes extraordinary claims without extraordinary evidence",
+                                               "May exploit vulnerable people desperate for answers",
+                                               "The celery juice phenomenon lacks scientific support"
+                                           ],
+                       "book2Strengths": [
+                                              "Based on thousands of peer-reviewed scientific studies",
+                                              "Dr. Greger is a respected physician and researcher",
+                                              "Every claim is backed by scientific evidence and citations",
+                                              "Addresses the actual leading causes of death with proven interventions",
+                                              "The Daily Dozen checklist is evidence-based and practical",
+                                              "No mysticism or unverifiable claimsâ€”pure science",
+                                              "Supported by the medical and scientific community",
+                                              "Provides comprehensive nutrition education",
+                                              "All content is free on NutritionFacts.org"
+                                          ],
+                       "book2Weaknesses": [
+                                               "576 pages can feel overwhelming and academic",
+                                               "Less emotional or spiritual comfort than alternative approaches",
+                                               "Requires acceptance of plant-based eating",
+                                               "May not address every individual\u0027s unique health situation",
+                                               "Can feel cold or clinical compared to more holistic approaches",
+                                               "Doesn\u0027t promise miracle cures for mystery illnesses",
+                                               "Requires patienceâ€”lifestyle changes take time"
+                                           ]
+                   },
+    "quotes": {
+                   "book1": [
+                                 "Spirit tells me what people need to know to heal.",
+                                 "Celery juice is one of the most powerful healing juices available.",
+                                 "Your body has the ability to heal itself when given the right support.",
+                                 "Mystery illnesses don\u0027t have to remain mysteries.",
+                                 "The true causes of disease are being hidden from us.",
+                                 "Trust your intuition about your own body."
+                             ],
+                   "book2": [
+                                 "The most powerful intervention is what we eat.",
+                                 "Don\u0027t eat anything with a mother or a face.",
+                                 "Every day, we should strive to eat foods from the Daily Dozen.",
+                                 "Heart disease is a choice. Your choice.",
+                                 "The best way to avoid dying from a disease is to not get it in the first place.",
+                                 "Food is medicine."
+                             ]
+               },
+    "whyRead": {
+                    "book1": [
+                                  "You have an unexplained mystery illness",
+                                  "You\u0027ve been failed by conventional medicine",
+                                  "You\u0027re open to spiritual and alternative healing",
+                                  "You want simple protocols like celery juice",
+                                  "You value intuition and personal testimonials over science",
+                                  "You\u0027re looking for hope and compassionate guidance",
+                                  "You believe in spiritual channeling and intuitive healing"
+                              ],
+                    "book2": [
+                                  "You want science-backed, evidence-based health advice",
+                                  "You\u0027re interested in preventing chronic diseases",
+                                  "You value peer-reviewed research and medical expertise",
+                                  "You want comprehensive nutrition education",
+                                  "You\u0027re open to whole food plant-based eating",
+                                  "You trust the scientific method over spiritual claims",
+                                  "You want to understand the actual leading causes of death and how to prevent them"
+                              ]
+                },
+    "verdict": {
+                    "winner": "How Not to Die",
+                    "summary": "This isn\u0027t even a fair comparison. How Not to Die is based on thousands of peer-reviewed scientific studies by a medical doctor, while Medical Medium is based on claimed spiritual channeling by someone with no medical training. The medical community overwhelmingly supports evidence-based approaches like Greger\u0027s and widely criticizes Medical Medium as pseudoscience. While some people report feeling better following William\u0027s advice (likely due to increased vegetable consumption), there\u0027s zero scientific evidence for his specific claims about \u0027Spirit\u0027 or mystery illness causes. If you care about evidence, science, and proven health interventions, How Not to Die is the only choice.",
+                    "recommendation": "Read How Not to Die for legitimate, evidence-based health advice that can actually prevent and reverse chronic diseases. Dr. Greger\u0027s recommendations are backed by science and supported by the medical community. Do not rely on Medical Medium for serious health decisionsâ€”it\u0027s pseudoscience that could be dangerous if it delays real medical treatment. If you have unexplained health issues, see a qualified doctor, not a self-proclaimed psychic medium. The celery juice trend is harmless (vegetables are good!), but don\u0027t expect miracles. Medical Medium may offer emotional comfort, but it shouldn\u0027t replace real medicine. How Not to Die provides actual science-based solutions for the leading causes of death. This is a clear-cut case where evidence-based medicine wins over alternative spiritualism."
+                }
+}

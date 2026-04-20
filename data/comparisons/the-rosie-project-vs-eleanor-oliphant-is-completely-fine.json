@@ -1,0 +1,144 @@
+﻿{
+  "slug": "the-rosie-project-vs-eleanor-oliphant-is-completely-fine",
+  "title": "The Rosie Project vs Eleanor Oliphant Is Completely Fine: Head to Head Comparison",
+  "metaDescription": "Graeme Simsion's The Rosie Project vs Gail Honeyman's Eleanor Oliphant—quirky protagonists compared. Which unconventional character wins your heart?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Rosie Project",
+    "subtitle": "",
+    "author": "Graeme Simsion",
+    "isbn": "978-1476729084",
+    "publishedYear": 2013,
+    "pages": 295,
+    "rating": 4.0,
+    "ratingCount": 387000,
+    "price": 15.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781476729084-L.jpg",
+    "description": "The Rosie Project follows Don Tillman, a socially awkward genetics professor who lives by schedules and logic. Deciding to find a wife, he creates the Wife Project—a detailed questionnaire to find the perfect, scientifically compatible partner. Then he meets Rosie Jarvis, a bartender and PhD student who breaks every rule on his list. She's spontaneous, disorganized, and completely wrong on paper. But when she asks Don to help identify her biological father using his genetics expertise, they embark on the Father Project together. As they travel and spend time together, Don's rigid world view is challenged. The book is a romantic comedy about autism (though not explicitly stated), rigidity versus spontaneity, and learning that love doesn't follow logical formulas."
+  },
+  "book2": {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "subtitle": "",
+    "author": "Gail Honeyman",
+    "isbn": "978-0735220683",
+    "publishedYear": 2017,
+    "pages": 327,
+    "rating": 4.3,
+    "ratingCount": 895000,
+    "price": 16.00,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780735220683-L.jpg",
+    "description": "Eleanor Oliphant Is Completely Fine introduces Eleanor, a socially awkward finance clerk who lives a strictly regimented life of routine and solitude. She has no friends, wears the same clothes, and spends weekends drinking vodka alone. Her only human contact is weekly phone calls from Mummy, whose voice haunts her thoughts. When Eleanor develops a crush on a musician and befriends Raymond, an IT guy from work, her carefully controlled world begins to crack. As she attempts to connect with others, her traumatic past and the truth about Mummy gradually emerge. The book tackles loneliness, trauma, abuse, mental health, and the transformative power of kindness and human connection. It's deeply moving and ultimately hopeful about healing."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Genre",
+        "book1": "Romantic comedy",
+        "book2": "Literary fiction with dark elements"
+      },
+      {
+        "feature": "Protagonist Gender",
+        "book1": "Male (Don)",
+        "book2": "Female (Eleanor)"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Light, funny, heartwarming",
+        "book2": "Darker, sadder, ultimately hopeful"
+      },
+      {
+        "feature": "Trauma Content",
+        "book1": "Minimal—mostly about social awkwardness",
+        "book2": "Heavy—childhood abuse and trauma central"
+      },
+      {
+        "feature": "Romance Focus",
+        "book1": "Central—it's a rom-com",
+        "book2": "Minor—friendship more important"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "295 pages (shorter)",
+        "book2": "327 pages"
+      },
+      {
+        "feature": "Ending",
+        "book1": "Happy romantic ending",
+        "book2": "Hopeful healing, not romantic"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Readers wanting light, funny romance",
+        "book2": "Readers wanting emotional depth and trauma recovery"
+      }
+    ],
+    "book1Strengths": [
+      "Don Tillman is hilarious. He creates a Wife Project questionnaire with dealbreakers like 'smoker' and 'not punctual'—then meets Rosie who breaks every rule.",
+      "Simsion published this in 2013 and it hit 387,000 reviews at 4.0. Light romantic comedy without trauma—pure feel-good reading.",
+      "The autism-coded representation is respectful and charming. Don's logical approach to dating ('Ice Cream Project' to test compatibility) is both funny and sweet.",
+      "Just 295 pages of fast-paced rom-com. You'll smile the whole way through as Don discovers love doesn't follow questionnaires.",
+      "The opposites-attract romance works. Don's rigid schedules meet Rosie's spontaneity—watching him loosen up is genuinely heartwarming."
+    ],
+    "book1Weaknesses": [
+      "Don's early behavior toward women can feel problematic. The Wife Project treats women like science experiments until Rosie teaches him better.",
+      "Stays surface-level throughout. No deep trauma exploration, no heavy emotional weight—it's charming but not profound.",
+      "387,000 reviews at 4.0 versus Eleanor's 895,000 at 4.3. Eleanor reached 2.3x more readers and rated higher.",
+      "Some autism advocates criticize it for relying on stereotypes—the quirky genius who can't read social cues trope."
+    ],
+    "book2Strengths": [
+      "Eleanor Oliphant is unforgettable. She wears the same clothes, drinks vodka alone weekends, has zero friends—then slowly opens up and it destroys you.",
+      "Honeyman's 2017 debut hit 895,000 reviews at 4.3 stars. One of the most acclaimed literary fiction books of the decade.",
+      "The Mummy twist is devastating. Those weekly phone calls aren't what you think—the reveal recontextualizes Eleanor's entire isolated life.",
+      "Tackles childhood abuse, PTSD, loneliness with brutal honesty. Eleanor's journey from suicidal isolation to human connection is profoundly moving.",
+      "The friendship with Raymond (scruffy IT guy) is the heart. Not romance—just two lonely people saving each other through simple kindness."
+    ],
+    "book2Weaknesses": [
+      "Heavy trauma content throughout. Childhood abuse, self-harm scars, suicide ideation—you need the right emotional headspace for this.",
+      "Eleanor's narration frustrates readers early. She's judgmental, rigid, disconnected—takes 100 pages to understand her pain beneath it.",
+      "Not a romance despite cover marketing. Some readers expect Eleanor/Raymond love story; it's friendship-focused healing instead.",
+      "327 pages of darkness before hope. Rosie Project is 295 pages of light fun; this requires emotional commitment."
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "I may have found a solution to the Wife Problem.",
+      "The most beautiful woman in the room is not always the one you want to spend your life with.",
+      "Sometimes love doesn't make sense. And that's okay.",
+      "Compatibility isn't about matching questionnaires. It's about matching souls.",
+      "I was looking for perfection. I found something better—I found real.",
+      "The Wife Project taught me that logic can't predict love."
+    ],
+    "book2": [
+      "These days, loneliness is the new cancer—a shameful, embarrassing thing, brought upon yourself in some obscure way.",
+      "There are days when I feel so lightly connected to the earth that the threads that tether me to the planet are gossamer thin.",
+      "Some people, weak people, fear solitude. What they fail to understand is that there's something powerful, something terrifying in solitude.",
+      "If someone asks you how you are, you are meant to say FINE. You are not meant to say that you cried yourself to sleep last night.",
+      "I feel sorry for beautiful people. Beauty, from the moment you possess it, is already in the process of fading.",
+      "You can't have too much dog in a book."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want light, funny romantic comedy with quirky characters",
+      "You love neurodivergent representation with humor and heart",
+      "You're looking for opposites-attract romance that's pure and sweet",
+      "You want feel-good reading without heavy emotional trauma",
+      "You enjoy books about rigid people learning to embrace spontaneity"
+    ],
+    "book2": [
+      "You want one of the most acclaimed literary fiction books of the decade",
+      "You're drawn to deeply moving stories about loneliness and connection",
+      "You can handle heavy trauma content explored with sensitivity",
+      "You want profound character development and emotional depth",
+      "You appreciate books about healing, friendship, and finding your people"
+    ]
+  },
+  "verdict": {
+    "winner": "Eleanor Oliphant Is Completely Fine",
+    "summary": "Our honest take is that Eleanor Oliphant Is Completely Fine is the more powerful, memorable book. It's deeply moving, tackles important themes with devastating honesty, and Eleanor's journey from isolation to connection is profoundly beautiful. The Rosie Project is delightful—funny, sweet, and heartwarming—but it doesn't have the same emotional weight or cultural impact. We believe Eleanor Oliphant is the must-read literary fiction that will stay with you, while The Rosie Project is excellent comfort reading. Both feature awkward protagonists, but Eleanor's story has more depth and importance.",
+    "recommendation": "Read The Rosie Project if you want light, funny romantic comedy. Don's logical approach to finding a wife is hilarious, and watching him fall for rule-breaking Rosie is sweet. Neurodivergent representation with humor and heart. Quick, entertaining, feel-good—perfect when you need uplifting romance without heavy emotional content. The Wife Project premise is unique and the opposites-attract romance is satisfying. Pure comfort reading. Read Eleanor Oliphant Is Completely Fine if you want one of the most acclaimed books of recent years. Eleanor's journey from profound loneliness to human connection is devastating and beautiful. Be prepared for heavy trauma content—childhood abuse is central. Not a romance, but a profound exploration of healing, friendship, and finding belonging. Will make you cry and think deeply about loneliness and kindness. The twist about Mummy is shocking. Both feature socially awkward protagonists, but Rosie Project is light rom-com while Eleanor Oliphant is heavy literary fiction."
+  }
+}

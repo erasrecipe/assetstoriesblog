@@ -1,0 +1,154 @@
+﻿{
+    "slug":  "building-a-storybrand-vs-they-ask-you-answer",
+    "title":  "Building a StoryBrand vs They Ask You Answer: Head to Head Comparison",
+    "metaDescription":  "Compare Building a StoryBrand vs They Ask You Answer. Full comparison with pros, cons, and verdict. Which is better for you?",
+    "lastUpdated":  "2026-02-07",
+    "category":  "Sales \u0026 Marketing",
+    "book1":  {
+                  "title":  "Building a StoryBrand",
+                  "subtitle":  "Clarify Your Message So Customers Will Listen",
+                  "author":  "Donald Miller",
+                  "isbn":  "978-0718033330",
+                  "publishedYear":  2017,
+                  "pages":  240,
+                  "rating":  4.7,
+                  "ratingCount":  28000,
+                  "price":  16.00,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_STORYBRAND",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780718033330-L.jpg",
+                  "description":  "Donald Miller presents the StoryBrand 7-Part Framework (SB7), based on the principle that customers don\u0027t buy the best productsâ€”they buy the ones they can understand. Miller teaches businesses to position the customer as the hero and the brand as the guide. By clarifying your message using story principles, you cut through noise and connect with customers. This framework revolutionized how businesses communicate by making messaging customer-centric rather than company-centric."
+              },
+    "book2":  {
+                  "title":  "They Ask You Answer",
+                  "subtitle":  "A fresh framework to Inbound Sales, Content Marketing, and Today\u0027s Digital Consumer",
+                  "author":  "Marcus Sheridan",
+                  "isbn":  "978-1119610144",
+                  "publishedYear":  2017,
+                  "pages":  304,
+                  "rating":  4.7,
+                  "ratingCount":  3200,
+                  "price":  18.00,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_THEY_ASK_YOU_ANSWER",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781119610144-L.jpg",
+                  "description":  "Marcus Sheridan shares how answering customer questions through content transformed his struggling pool company into an industry leader. The book identifies The Big 5 topics every business should address: pricing, problems, comparisons, reviews, and best in class. Sheridan argues that transparency and obsessive focus on customer questions is the key to modern marketing success. This practical guide shows how to build trust by addressing what customers actually want to know."
+              },
+    "comparison":  {
+                       "table":  [
+                                     {
+                                         "feature":  "Core Philosophy",
+                                         "book1":  "Clarify your message using story principles",
+                                         "book2":  "Answer customer questions obsessively"
+                                     },
+                                     {
+                                         "feature":  "Framework",
+                                         "book1":  "StoryBrand 7-Part Framework (SB7)",
+                                         "book2":  "The Big 5 content topics"
+                                     },
+                                     {
+                                         "feature":  "Focus",
+                                         "book1":  "Messaging and positioning",
+                                         "book2":  "Content creation and transparency"
+                                     },
+                                     {
+                                         "feature":  "Best For",
+                                         "book1":  "Clarifying overall brand message",
+                                         "book2":  "Building content marketing strategy"
+                                     },
+                                     {
+                                         "feature":  "Approach",
+                                         "book1":  "Customer as hero, brand as guide",
+                                         "book2":  "Answer questions, build trust"
+                                     },
+                                     {
+                                         "feature":  "Implementation",
+                                         "book1":  "Create clear one-liner and website",
+                                         "book2":  "Create content around Big 5 topics"
+                                     },
+                                     {
+                                         "feature":  "Popularity",
+                                         "book1":  "28,000 ratings - 4.7 stars",
+                                         "book2":  "3,200 ratings - 4.7 stars"
+                                     },
+                                     {
+                                         "feature":  "Page Count",
+                                         "book1":  "240 pages",
+                                         "book2":  "304 pages"
+                                     }
+                                 ],
+                       "book1Strengths":  [
+                                              "SB7 Framework brilliantly simple: Character, Problem, Guide, Plan, CTA, Failure, Success. Apple, Nike, Tesla all follow this. Can\u0027t unsee it",
+                                              "\u0027Customer is hero, brand is guide\u0027 game-changing. Most companies make selves Luke Skywalker when they should be Yoda. Fixes 80% bad marketing",
+                                              "One-liner exercise gives ready elevator pitch tomorrow. Miller\u0027s own: \u0027We help clarify your message so customers will listen.\u0027 Use at networking",
+                                              "BrandScript worksheet free on website, complete in afternoon to transform messaging. Step-by-step walkthrough of entire framework",
+                                              "Explains why confusing kills sales: brain burns 25% calories, conserves energy by ignoring complex messages. Clarity saves mental energy",
+                                              "Works across industries—tech startups, restaurants, nonprofits, Fortune 500 all use same framework. Universal application proven"
+                                          ],
+                       "book1Weaknesses":  [
+                                               "Tells you to clarify message, not CREATE CONTENT at scale. Homepage clear, but what do I blog? What videos? Silent on content strategy",
+                                               "Repetitive by chapter 8—\u0027customer is hero, brand is guide, make plan, CTA.\u0027 Could\u0027ve been 100 pages instead of 240",
+                                               "Certified guides charge - for framework you could DIY with free worksheet. Book feels like funnel to expensive consulting services",
+                                               "Zero SEO, social media, email, or digital tactics. Purely messaging, not distribution or execution. How do people find your clear message?",
+                                               "Framework makes everything samey. When every brand positions as \u0027guide helping hero,\u0027 differentiation becomes harder, not easier"
+                                           ],
+                       "book2Strengths":  [
+                                              "Big 5 topics give instant roadmap: Pricing, Problems, Comparisons, Reviews, Best in Class. \u0027How much fiberglass pool cost?\u0027 = #1 traffic driver",
+                                              "Radical transparency: published exact prices when competitors hid them, addressed problems honestly, recommended competitors. Built massive trust",
+                                              "Personal proof it works: River Pools from near-bankruptcy 2008 to industry domination, all through content. Lived it, not consulting theory",
+                                              "Addresses pricing elephant: Most marketing books avoid it. Sheridan says publish prices and explain them. Radical but effective for trust",
+                                              "80% rule powerful: If 80% prospects ask same question, create content answering it. Simple diagnostic for what to create next",
+                                              "Actual ROI numbers: website 0 to 80%+ of leads, traffic to millions of visitors. Metrics prove model works, not just philosophy"
+                                          ],
+                       "book2Weaknesses":  [
+                                               "Only 3,200 ratings versus StoryBrand\u0027s 28,000—less proven, smaller ecosystem and community for support. Fewer people heard of it",
+                                               "304 pages (64 more than StoryBrand) drags. Sheridan repeats \u0027transparency works!\u0027 so many times you\u0027re screaming \u0027I BELIEVE YOU\u0027",
+                                               "Pool company examples dominate. Selling SaaS, insurance, B2B? Must mentally translate fiberglass pool stories to your industry",
+                                               "Founded IMPACT agency after success, book feels like lead gen for -/month consulting. Commercial undertone throughout",
+                                               "Big 5 requires content machine: writers, videographers, editors, SEO expertise. For 5-person startup, it\u0027s overwhelming to execute",
+                                               "Doesn\u0027t address messaging fundamentals. If value proposition unclear, creating pricing/comparison content won\u0027t help. Need StoryBrand first",
+                                               "Transparency can backfire: publishing prices scares high-budget clients who\u0027d pay more, honesty about problems gives competitors ammunition"
+                                           ]
+                   },
+    "quotes":  {
+                   "book1":  [
+                                 "If you confuse, you\u0027ll lose.",
+                                 "The customer is the hero, not your brand.",
+                                 "Noise is the enemy. Clarity is the key.",
+                                 "People don\u0027t buy the best products; they buy the ones they can understand the fastest.",
+                                 "Every human being wakes up each day asking themselves \u0027How can I survive and thrive?\u0027 Your brand should be the answer.",
+                                 "Brands that don\u0027t warn customers about what could happen if they don\u0027t buy their products fail to answer the \u0027So what?\u0027 question."
+                             ],
+                   "book2":  [
+                                 "The buyer has changed. Your business must change too.",
+                                 "If you\u0027re unwilling to address your buyers\u0027 questions and concerns, a competitor will.",
+                                 "Content is not king. Teaching is king.",
+                                 "Obsess about what your buyers are thinking and asking.",
+                                 "The companies that dominate their industry are the ones willing to address the subjects no one else will.",
+                                 "They Ask, You Answer isn\u0027t theory. It\u0027s a proven formula."
+                             ]
+               },
+    "whyRead":  {
+                    "book1":  [
+                                  "Your messaging is confusing and customers don\u0027t understand what you do",
+                                  "You want a simple framework to clarify your entire brand",
+                                  "You need to rewrite your website copy to convert better",
+                                  "You want to position your brand correctly in the market",
+                                  "You struggle to explain your value in a clear one-liner",
+                                  "You want storytelling principles applied to business",
+                                  "You need a universal framework that works for any industry"
+                              ],
+                    "book2":  [
+                                  "You want to build a content marketing strategy from scratch",
+                                  "You need to know what content to create for your business",
+                                  "You\u0027re tired of traditional marketing that doesn\u0027t work",
+                                  "You want to embrace transparency and build trust",
+                                  "You need to address pricing and comparisons honestly",
+                                  "You\u0027re building an inbound marketing engine",
+                                  "You want real-world proof that content marketing works"
+                              ]
+                },
+    "verdict":  {
+                    "winner":  "It Depends",
+                    "summary":  "Building a StoryBrand wins for messaging clarity—28,000 ratings versus 3,200 shows it\u0027s more proven and widely adopted. If website/pitch is confusing, Miller\u0027s SB7 Framework (customer as hero, brand as guide) fixes it fast. They Ask You Answer wins for content strategy—if you know WHAT you sell but not what content to create, Sheridan\u0027s Big 5 (Pricing, Problems, Comparisons, Reviews, Best in Class) gives roadmap. Read StoryBrand first for messaging, then They Ask for content.",
+                    "recommendation":  "Read Building a StoryBrand FIRST to get messaging clear. Use free BrandScript worksheet to clarify one-liner, identify customer\u0027s problem, position yourself as guide (not hero). Takes afternoon, fixes homepage, elevator pitch, marketing copy immediately. At 240 pages with 28,000 ratings at 4.7 stars for , Miller\u0027s SB7 Framework (Character-Problem-Guide-Plan-CTA-Failure-Success) is brilliantly simple. Customer is hero, brand is Yoda. Then read They Ask You Answer to build content engine. Use Big 5 (Pricing, Problems, Comparisons, Reviews, Best in Class) as roadmap. Sheridan\u0027s River Pools published exact pool prices, addressed problems honestly (\u0027Why fiberglass pools crack\u0027), recommended competitors—radical transparency built trust and went from near-bankruptcy to industry leader. 80% rule: if 80% prospects ask same question, create content. Website went 0 to 80%+ of leads. At 304 pages it\u0027s longer and only 3,200 ratings, but content strategy is actionable. If you only read one: StoryBrand for universal messaging clarity. Add They Ask only if you need content marketing strategy and can handle transparency risks."
+                }
+}

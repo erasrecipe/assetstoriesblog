@@ -1,0 +1,152 @@
+﻿{
+    "slug":  "building-a-storybrand-vs-marketing-made-simple",
+    "title":  "Building a StoryBrand vs Marketing Made Simple: Head to Head Comparison",
+    "metaDescription":  "Donald Miller\u0027s StoryBrand framework vs his complete marketing playbook. Which book will clarify your message and transform your marketing more effectively?",
+    "lastUpdated":  "2026-02-07",
+    "category":  "Sales \u0026 Marketing",
+    "book1":  {
+                  "title":  "Building a StoryBrand",
+                  "subtitle":  "Clarify Your Message So Customers Will Listen",
+                  "author":  "Donald Miller",
+                  "isbn":  "978-0718033323",
+                  "publishedYear":  2017,
+                  "pages":  240,
+                  "rating":  4.7,
+                  "ratingCount":  14200,
+                  "price":  17.99,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_BUILDING_STORYBRAND",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780718033323-L.jpg",
+                  "description":  "New York Times bestselling author Donald Miller uses the seven universal elements of powerful stories to teach readers how to dramatically improve how they connect with customers and grow their businesses. Building a StoryBrand proves that the key to being seen, heard, and understood is not to turn up the volume, but to work on the clarity of your message. This book will make your company\u0027s message clear."
+              },
+    "book2":  {
+                  "title":  "Marketing Made Simple",
+                  "subtitle":  "A Step-by-Step StoryBrand Guide for Any Business",
+                  "author":  "Donald Miller and Dr. J.J. Peterson",
+                  "isbn":  "978-0062896742",
+                  "publishedYear":  2020,
+                  "pages":  256,
+                  "rating":  4.6,
+                  "ratingCount":  2400,
+                  "price":  18.99,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MARKETING_MADE_SIMPLE",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780062896742-L.jpg",
+                  "description":  "Building a StoryBrand introduced a revolutionary way to talk about your business. Marketing Made Simple is the step-by-step guide you need to actually implement it. Donald Miller and Dr. J.J. Peterson provide the five-part checklist every business needs to clarify their marketing message, create a website that works, and execute a marketing plan that actually generates results."
+              },
+    "comparison":  {
+                       "table":  [
+                                     {
+                                         "feature":  "Main Focus",
+                                         "book1":  "Clarifying your message using the StoryBrand Framework (SB7)",
+                                         "book2":  "Implementing a complete marketing plan using StoryBrand principles"
+                                     },
+                                     {
+                                         "feature":  "Core Framework",
+                                         "book1":  "StoryBrand Framework (SB7): Character, Problem, Guide, Plan, Call to Action, Avoid Failure, Success",
+                                         "book2":  "Five-part marketing checklist: One-liner, website, lead generator, email campaigns, sales funnel"
+                                     },
+                                     {
+                                         "feature":  "Sequence",
+                                         "book1":  "First book—learn the framework and messaging philosophy",
+                                         "book2":  "Second book—implement the framework with tactical steps"
+                                     },
+                                     {
+                                         "feature":  "Key Insight",
+                                         "book1":  "Your customer is the hero, you\u0027re the guide—stop making your brand the hero",
+                                         "book2":  "Marketing roadmap with specific deliverables you can check off"
+                                     },
+                                     {
+                                         "feature":  "Best For",
+                                         "book1":  "Understanding why your message isn\u0027t working and how to fix it",
+                                         "book2":  "Actually implementing StoryBrand with concrete tactical steps"
+                                     },
+                                     {
+                                         "feature":  "Popularity",
+                                         "book1":  "14,200 ratings—massive mainstream success",
+                                         "book2":  "2,400 ratings—smaller but still well-received"
+                                     },
+                                     {
+                                         "feature":  "Page Count",
+                                         "book1":  "240 pages",
+                                         "book2":  "256 pages"
+                                     },
+                                     {
+                                         "feature":  "Published",
+                                         "book1":  "2017",
+                                         "book2":  "2020"
+                                     }
+                                 ],
+                       "book1Strengths":  [
+                                              "SB7 Framework is stupidly simple: Character, Problem, Guide, Plan, CTA, Failure, Success. Rewrite your homepage using just these seven boxes",
+                                              "\u0027Customer is hero, you\u0027re the guide\u0027 breaks 90% of marketing. Stop bragging about yourself (50 years!). Talk about customer problems instead",
+                                              "Internal versus external problem is gold. People buy lawn mowers for neighbor respect (internal), not grass cutting (external). BMW sells status",
+                                              "BrandScript one-pager forces clarity. CEOs squirm explaining what they do in plain English. Seven boxes won\u0027t let you hide behind jargon",
+                                              "Real examples from Apple, Pixar, small businesses. Miller deconstructs why \u0027Think Different\u0027 works and why confusing websites fail to convert",
+                                              "Philosophical villain concept is brilliant. Your enemy isn\u0027t competitors—it\u0027s \u0027confusion\u0027 or \u0027wasted time.\u0027 Fight an idea, customers rally"
+                                          ],
+                       "book1Weaknesses":  [
+                                               "You\u0027ll finish inspired then think \u0027HOW do I do this?\u0027 Framework without tactical execution. Where does this go? What emails? Zero guidance",
+                                               "BrandScript worksheet is vague. Big brand examples don\u0027t translate to B2B SaaS or local plumbing. You\u0027re left translating alone",
+                                               "Formula makes everyone sound same if applied blindly. \u0027Struggling with X? We help achieve Y without Z.\u0027 You\u0027ll see this structure everywhere",
+                                               "No SEO, paid ads, social, content marketing, or 90% of actual tactics. Pure messaging philosophy—not a complete marketing playbook"
+                                           ],
+                       "book2Strengths":  [
+                                              "Five-part checklist you can execute: one-liner, website, lead generator, email campaigns, sales funnel. Check them off one by one",
+                                              "Website wireframe gives exact layout: Header promise → 3 stakes → Plan (3 steps) → Paragraph → Video → Price. Just fill in the blanks",
+                                              "One-liner formula works instantly: \u0027We help [customers] [solve problem] so they can [achieve result].\u0027 Done. Use it tomorrow",
+                                              "Lead generator ideas are specific: PDF guides, webinars, online courses, assessments. Twelve formats that work, not vague \u0027create value\u0027",
+                                              "Email nurture template is paint-by-numbers: Problem → Plan → Empathy → Value → CTA. Five emails you could write tomorrow",
+                                              "Dr. J.J. Peterson runs StoryBrand certification, implemented for hundreds of companies. Tactical advice from real experience, not theory"
+                                          ],
+                       "book2Weaknesses":  [
+                                               "Makes zero sense without Building a StoryBrand first. References SB7 constantly without explaining it. You\u0027ll be lost starting here",
+                                               "Website wireframe is extremely prescriptive. Rigid structure optimized for conversion, not creativity. Limits unique brands",
+                                               "Assumes you have email platform, landing page builder, CRM. Doesn\u0027t address tech stack—just assumes you\u0027ll figure infrastructure out",
+                                               "2,400 ratings versus 14,200 for Building a StoryBrand shows this is niche. Implementation guides less exciting than big-idea frameworks"
+                                           ]
+                   },
+    "quotes":  {
+                   "book1":  [
+                                 "The customer is the hero, not your brand.",
+                                 "If you confuse, you\u0027ll lose.",
+                                 "People don\u0027t buy the best products; they buy the ones they can understand the fastest.",
+                                 "Noise is the enemy of a sale.",
+                                 "The more you talk about the problems you solve, the more people will remember you.",
+                                 "Every human being wakes up each morning and encounters a series of problems. A brand should identify the problems their customers face and offer themselves as the solution.",
+                                 "Companies tend to sell solutions to external problems, but customers buy solutions to internal problems.",
+                                 "A story is the single most powerful tool in a leader\u0027s toolkit."
+                             ],
+                   "book2":  [
+                                 "Marketing isn\u0027t magic; it\u0027s a proven process.",
+                                 "A confused customer never buys.",
+                                 "Your one-liner should answer three questions: What do you offer? How will it make my life better? What do I need to do to buy it?",
+                                 "Most businesses don\u0027t fail because they have a bad product; they fail because people don\u0027t know what they do.",
+                                 "A website without a clear call to action is like a store without a door.",
+                                 "Email is still the most effective marketing channel available.",
+                                 "The goal of marketing is to reduce friction between you and your customer.",
+                                 "A sales funnel isn\u0027t manipulative; it\u0027s simply a series of helpful steps."
+                             ]
+               },
+    "whyRead":  {
+                    "book1":  [
+                                  "Master the StoryBrand Framework that\u0027s transformed thousands of businesses",
+                                  "Learn why your customer is the hero and you\u0027re the guide",
+                                  "Discover the seven elements that clarify any message",
+                                  "Stop confusing customers with unclear marketing",
+                                  "Get the BrandScript tool to organize your messaging",
+                                  "Essential foundation for all your marketing communications"
+                              ],
+                    "book2":  [
+                                  "Get the five-part checklist for implementing StoryBrand",
+                                  "Learn exactly how to create a one-liner that works",
+                                  "Build a website that converts using the provided wireframe",
+                                  "Create lead generators that actually generate leads",
+                                  "Master email campaigns and sales funnels step-by-step",
+                                  "Turn StoryBrand theory into marketing execution"
+                              ]
+                },
+    "verdict":  {
+                    "winner":  "Building a StoryBrand",
+                    "summary":  "Building a StoryBrand wins decisively—14,200 ratings at 4.7 stars versus Marketing Made Simple\u0027s 2,400 at 4.6 shows nearly 6x more reach. The SB7 Framework (Character, Problem, Guide, Plan, CTA, Failure, Success) and \u0027customer is hero, you\u0027re the guide\u0027 insight will rewire your messaging brain. Marketing Made Simple is the useful sequel with tactical checklists, but it assumes you know SB7. Philosophy first, implementation second.",
+                    "recommendation":  "Read Building a StoryBrand first—no exceptions. The SB7 Framework is essential whether you\u0027re writing homepages, sales emails, or elevator pitches. The BrandScript exercise forces brutal clarity—you can\u0027t hide behind jargon in seven boxes. Internal versus external problems transforms positioning: people buy lawn mowers for neighbor respect (internal), not grass cutting (external). The philosophical villain concept—fight \u0027confusion\u0027 or \u0027wasted time,\u0027 not competitors—rallies customers. At 240 pages, you\u0027ll finish inspired but wondering \u0027HOW do I execute?\u0027 That\u0027s when you read Marketing Made Simple for the five-part checklist: one-liner formula, website wireframe, lead generator ideas, email nurture templates, sales funnel steps. The website layout is prescriptive but conversion-optimized. Email templates are paint-by-numbers. You could implement tomorrow. If you only read one: Building a StoryBrand for the framework that changes how you think. Add Marketing Made Simple only if you need step-by-step tactical guidance to execute."
+                }
+}

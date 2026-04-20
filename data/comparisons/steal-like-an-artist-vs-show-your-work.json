@@ -1,0 +1,144 @@
+﻿{
+  "slug": "steal-like-an-artist-vs-show-your-work",
+  "title": "Steal Like an Artist vs Show Your Work: Head to Head Comparison",
+  "metaDescription": "Austin Kleon's creativity books compared: Steal Like an Artist vs Show Your Work. Which creative manifesto should you read first? Complete comparison.",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Steal Like an Artist",
+    "subtitle": "10 Things Nobody Told You About Being Creative",
+    "author": "Austin Kleon",
+    "isbn": "978-0761169253",
+    "publishedYear": 2012,
+    "pages": 160,
+    "rating": 4.5,
+    "ratingCount": 34000,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780761169253-L.jpg",
+    "description": "You don't need to be a genius, you just need to be yourself. That's the message from Austin Kleon, a young writer and artist who knows that creativity is everywhere, creativity is for everyone. A manifesto for the digital age, Steal Like an Artist presents ten transformative principles that will help readers discover their artistic side and build a more creative life."
+  },
+  "book2": {
+    "title": "Show Your Work!",
+    "subtitle": "10 Ways to Share Your Creativity and Get Discovered",
+    "author": "Austin Kleon",
+    "isbn": "978-0761178972",
+    "publishedYear": 2014,
+    "pages": 224,
+    "rating": 4.6,
+    "ratingCount": 12000,
+    "price": 15.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780761178972-L.jpg",
+    "description": "In his New York Times bestseller Steal Like an Artist, Austin Kleon showed readers how to unlock their creativity by 'stealing' influences from others. Now, in an even more forward-thinking and necessary book, he shows how to take that crucial next step on a creative journey—getting known. Show Your Work! is about why generosity trumps genius. It's about getting findable, about using the network instead of wasting time 'networking.'"
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Focus",
+        "book1": "Creating & finding inspiration",
+        "book2": "Sharing & building audience"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "How to be creative",
+        "book2": "How to share your creativity"
+      },
+      {
+        "feature": "Stage",
+        "book1": "Beginning creative journey",
+        "book2": "After you're creating regularly"
+      },
+      {
+        "feature": "Audience",
+        "book1": "People who want to create",
+        "book2": "Creators who want visibility"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "160 pages",
+        "book2": "224 pages"
+      },
+      {
+        "feature": "Visual Style",
+        "book1": "Hand-lettered, illustrated",
+        "book2": "Hand-lettered, illustrated"
+      },
+      {
+        "feature": "Publication",
+        "book1": "2012 (first, groundbreaking)",
+        "book2": "2014 (sequel/companion)"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Mindset shifts & principles",
+        "book2": "Practical tactics & strategies"
+      }
+    ],
+    "book1Strengths": [
+      "Kleon's liberating thesis—'nothing is original, all creative work builds on what came before'—removes crushing pressure to be genius",
+      "10 principles instantly actionable: steal like artist, don't wait to start, write book you want to read, use hands, side projects matter",
+      "160 pages hand-lettered/illustrated—finish in one sitting, beautiful design practices what it preaches about making creative work",
+      "Published 2012, rated 4.5 with 34,000 reviews—became modern creativity manifesto that launched Kleon's career",
+      "'The work you do while you procrastinate is probably the work you should be doing' gave permission to follow creative impulses"
+    ],
+    "book1Weaknesses": [
+      "160 pages feel thin—principles explained briefly without deep case studies or extended examples (quick read = lack depth)",
+      "'Steal' framing confuses beginners—Kleon means 'study influences and remix' but title suggests plagiarism to some readers",
+      "Inspirational but vague on execution—you'll feel motivated to create but won't know specifically HOW to start your first project",
+      "Rated 4.5 with 34K reviews vs Show Your Work's 4.6 with 12K—higher sequel rating suggests depth-seekers prefer the follow-up"
+    ],
+    "book2Strengths": [
+      "Answers Steal's missing piece—'you created, now what?' with tactics for building audience without sleazy self-promotion",
+      "'Share your process, not just finished work' revolutionary—daily progress beats waiting for perfection (process > product)",
+      "10 tactics for digital visibility: share something every day, open your cabinet of curiosities, tell good stories, teach what you know",
+      "Published 2014, rated 4.6 with 12,000 reviews—higher rating despite fewer readers shows practitioners find this more valuable",
+      "224 pages vs Steal's 160—more substantial with examples of artists/writers who built audiences through generosity not marketing"
+    ],
+    "book2Weaknesses": [
+      "Useless standalone—assumes you've internalized Steal's 'permission to create' message, jumps straight into sharing tactics",
+      "Social media advice aging poorly—written 2014 pre-TikTok/Substack, some platform strategies feel dated for 2026 creators",
+      "Only 12,000 reviews vs Steal's 34,000—64% drop-off shows most readers inspired by first book never act on sharing advice",
+      "224 pages still surface-level—audience-building complexity deserves deeper dive into algorithms, monetization, sustainable pacing"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "You don't want to look like your heroes, you want to see like your heroes.",
+      "Your job is to collect good ideas. The more good ideas you collect, the more you can choose from to be influenced by.",
+      "Don't wait until you know who you are to get started.",
+      "The work you do while you procrastinate is probably the work you should be doing for the rest of your life.",
+      "Pretend to be making something until you actually make something.",
+      "Creative people need time to just sit around and do nothing."
+    ],
+    "book2": [
+      "Don't show your lunch or your latte; show your work.",
+      "The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others.",
+      "Overnight success is a myth.",
+      "Be findable. Make sure that when people Google your name, something shows up.",
+      "Don't think of your website as a self-promotion machine, think of it as a self-invention machine.",
+      "The minute you learn something, turn around and teach it to others."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You're stuck feeling uncreative or intimidated by the creative process",
+      "You need permission to be influenced by others and build on existing ideas",
+      "You want a quick, inspiring read that shifts your creative mindset",
+      "You're starting your creative journey and need encouragement",
+      "You love beautifully designed books that are as creative as their message"
+    ],
+    "book2": [
+      "You're creating but no one knows about your work",
+      "You hate self-promotion but need to build an audience",
+      "You want practical advice on sharing your creative process online",
+      "You've read Steal Like an Artist and want the next step",
+      "You need strategies for getting discovered without being pushy or salesy"
+    ]
+  },
+  "verdict": {
+    "winner": "Both (Sequential Reading)",
+    "summary": "Sequential companions solving different problems—Steal Like an Artist gives permission to create ('nothing is original'), Show Your Work teaches sharing without sleaze ('process > product'). The review drop-off tells the story: 34,000 ratings → 12,000 ratings shows 64% of readers inspired by Steal never graduate to building audience. But here's the twist: Show Your Work's 4.6 rating beats Steal's 4.5, proving practitioners who actually share their work find the sequel more valuable. Steal removes creative paralysis with liberating philosophy. Show delivers tactical visibility strategy for digital age. Both short (160 vs 224 pages), both hand-lettered, both Kleon's signature style. Read sequentially: create first, share second.",
+    "recommendation": "Start with Steal Like an Artist ($14.99, 160 pages, 4.5 stars, 34,000 reviews). Kleon's 10 principles—'nothing is original,' 'don't wait to start,' 'the work you do while procrastinating is probably what you should do'—will liberate you from creative paralysis. The hand-lettered design practices what it preaches. You'll finish in one sitting feeling permission to create without being genius. Warning: inspirational but thin on execution—160 pages lack depth, you'll feel motivated but won't know HOW to start first project. The 'steal' framing confuses some (he means study influences, not plagiarize). Then read Show Your Work ($15.99, 224 pages, 4.6 stars, 12,000 reviews). The revolutionary insight—share your process, not just finished work—changes everything. Daily progress beats waiting for perfection. 10 tactics for building audience: share something every day, teach what you know, tell good stories. Higher rating (4.6 vs 4.5) despite 64% fewer readers proves practitioners value this more. Downsides: useless standalone (assumes Steal context), social media advice aging (2014 pre-TikTok/Substack), still surface-level on algorithms/monetization. Best approach? Read Steal first for creative permission ($14.99), then Show if you're ready to build audience ($15.99). Together: $31 for Kleon's complete creative system. But honestly? The 64% drop-off is okay—not everyone needs audience-building tactics. Create first, monetize later."
+  }
+}

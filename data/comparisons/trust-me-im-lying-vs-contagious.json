@@ -1,0 +1,142 @@
+{
+  "slug": "trust-me-im-lying-vs-contagious",
+  "title": "Trust Me I'm Lying vs Contagious: Head to Head Comparison",
+  "metaDescription": "Ryan Holiday's Trust Me I'm Lying vs Jonah Berger's Contagious. Dark media manipulation vs viral marketing science-which wins?",
+  "lastUpdated": "2026-02-13",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "Trust Me, I'm Lying",
+    "subtitle": "Confessions of a Media Manipulator",
+    "author": "Ryan Holiday",
+    "isbn": "978-1591846284",
+    "publishedYear": 2012,
+    "pages": 320,
+    "rating": 4.3,
+    "ratingCount": 12000,
+    "price": 17.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TRUST_ME_IM_LYING",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781591846284-L.jpg",
+    "description": "You've seen it all before. A malicious online rumor costs a company millions. A political sideshow derails the national news cycle and destroys a candidate. Some product or celebrity zooms from total obscurity to viral sensation. What you don't know is that someone is responsible for all this. Ryan Holiday was that someone."
+  },
+  "book2": {
+    "title": "Contagious",
+    "subtitle": "Why Things Catch On",
+    "author": "Jonah Berger",
+    "isbn": "978-1451686579",
+    "publishedYear": 2013,
+    "pages": 256,
+    "rating": 4.5,
+    "ratingCount": 18000,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_CONTAGIOUS",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781451686579-L.jpg",
+    "description": "Why do some products get more word of mouth than others? Why does some online content go viral? Wharton marketing professor Jonah Berger has spent over 15 years studying how social influence works and how it drives products and ideas to catch on."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Perspective",
+        "book1": "Media manipulation expos-",
+        "book2": "Viral marketing science"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Cynical, confessional",
+        "book2": "Optimistic, academic"
+      },
+      {
+        "feature": "Framework",
+        "book1": "Trading Up the Chain",
+        "book2": "STEPPS (6 principles)"
+      },
+      {
+        "feature": "Ethics",
+        "book1": "Shows dark tactics (and regrets them)",
+        "book2": "Ethical viral strategies"
+      },
+      {
+        "feature": "Rating",
+        "book1": "4.3 stars (12K ratings)",
+        "book2": "4.5 stars (18K ratings)"
+      },
+      {
+        "feature": "Pages",
+        "book1": "320 pages",
+        "book2": "256 pages"
+      },
+      {
+        "feature": "Year",
+        "book1": "2012 (updated 2017)",
+        "book2": "2013"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding media manipulation",
+        "book2": "Creating viral content"
+      }
+    ],
+    "book1Strengths": [
+      "Trading Up the Chain tactic-plant story in small blog, watch it climb to mainstream media",
+      "Brutally honest about manipulating blogs and media for clients",
+      "Explains how outrage and controversy drive modern news cycles",
+      "Eye-opening look behind the curtain of viral stunts",
+      "Makes you question everything you read online"
+    ],
+    "book1Weaknesses": [
+      "Depressing-Holiday admits he helped break journalism",
+      "More diagnostic than prescriptive for ethical marketers",
+      "Some tactics feel outdated (blog ecosystem changed since 2012)",
+      "Can make you cynical about all media"
+    ],
+    "book2Strengths": [
+      "STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) is immediately useful",
+      "Wharton research backs every claim-this is science, not hunches",
+      "Kit Kat coffee trigger story is brilliant-create environmental cues",
+      "$100 cheesesteak practical value example shows how utility spreads",
+      "Ethical and positive-no dark manipulation"
+    ],
+    "book2Weaknesses": [
+      "Assumes virality is always good (it's not-see Trust Me I'm Lying)",
+      "Less cynical realism about how media actually works",
+      "STEPPS can feel formulaic if you force it",
+      "Doesn't address fake news or manipulation like Holiday does"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Blogs are asshole filters. They catch the foulest material from the internet and spread it around.",
+      "Trading up the chain: Start with a small blog, let bigger blogs steal it, watch mainstream media pick it up.",
+      "The economics of online media favor volume over accuracy.",
+      "I broke the news. I broke journalism. I helped wreck the very system that spreads information.",
+      "Pageviews are not the same as readers. Clicks are not the same as trust."
+    ],
+    "book2": [
+      "Contagious content is inherently viral. People share things that make them look good to others.",
+      "Top of mind means tip of tongue. Triggers keep ideas accessible.",
+      "We share things that are remarkable-literally worth remarking about.",
+      "Practical value: If it's useful, people will pass it on.",
+      "Stories are vessels that carry ideas. People don't share information; they share narratives."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to understand how media manipulation actually works",
+      "You're skeptical of viral news stories and want the truth",
+      "You work in PR and need to understand modern news cycles",
+      "You want to see the dark side before using these tactics",
+      "You enjoy Ryan Holiday's cynical, confessional style"
+    ],
+    "book2": [
+      "You want to create content that spreads organically",
+      "You need a proven framework (STEPPS) for viral marketing",
+      "You prefer research-backed strategies over dark tactics",
+      "You want ethical ways to generate word of mouth",
+      "You're a marketer who needs positive virality"
+    ]
+  },
+  "verdict": {
+    "winner": "Contagious",
+    "summary": "Contagious wins for most marketers-4.5 vs 4.3 stars, and it's actionable without being unethical. Berger's STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) gives you a playbook for viral content. Trust Me I'm Lying is the cautionary tale-Holiday shows how he manipulated media through Trading Up the Chain and regrets it. Read Contagious to create viral content ethically. Read Trust Me I'm Lying to understand how you're being manipulated and avoid the dark side.",
+    "recommendation": "Read Contagious first-256 pages of research-backed viral strategies. STEPPS framework is immediately useful: create Social Currency (make people look good), Triggers (top of mind = tip of tongue like Kit Kat + coffee), Emotion (high-arousal feelings spread), make it Public (observable), add Practical Value (usefulness), wrap in Stories (narratives spread ideas). Then read Trust Me I'm Lying if you want the dark truth-320 pages on how Holiday planted false stories, manipulated headlines, and traded up the chain from blogs to NYT. He confesses and warns against it. Contagious builds; Trust Me I'm Lying deconstructs. Both valuable, different purposes."
+  }
+}

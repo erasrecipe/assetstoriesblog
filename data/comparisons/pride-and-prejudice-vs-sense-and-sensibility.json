@@ -1,0 +1,142 @@
+{
+  "slug": "pride-and-prejudice-vs-sense-and-sensibility",
+  "title": "Pride and Prejudice vs Sense and Sensibility: Head to Head Comparison",
+  "metaDescription": "Jane Austen's beloved classics compared: Pride and Prejudice vs Sense and Sensibility. Which Regency romance should you read first? Complete literary analysis.",
+  "lastUpdated": "2026-02-10",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Pride and Prejudice",
+    "subtitle": "",
+    "author": "Jane Austen",
+    "isbn": "978-0141439518",
+    "publishedYear": 1813,
+    "pages": 279,
+    "rating": 4.7,
+    "ratingCount": 4560000,
+    "price": 12.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+    "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work 'her own darling child' and its vivacious heroine, Elizabeth Bennet, 'as delightful a creature as ever appeared in print.'"
+  },
+  "book2": {
+    "title": "Sense and Sensibility",
+    "subtitle": "",
+    "author": "Jane Austen",
+    "isbn": "978-0141439662",
+    "publishedYear": 1811,
+    "pages": 352,
+    "rating": 4.3,
+    "ratingCount": 1890000,
+    "price": 11.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439662-L.jpg",
+    "description": "Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Heroine Type",
+        "book1": "Elizabeth Bennet (witty, spirited)",
+        "book2": "Elinor & Marianne (sense vs emotion)"
+      },
+      {
+        "feature": "Romance Arc",
+        "book1": "Enemies to lovers",
+        "book2": "Loyalty vs passion"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Lighter, more humorous",
+        "book2": "More serious, melancholic"
+      },
+      {
+        "feature": "Social Commentary",
+        "book1": "Class and first impressions",
+        "book2": "Women's financial vulnerability"
+      },
+      {
+        "feature": "Male Lead",
+        "book1": "Mr. Darcy (iconic, brooding)",
+        "book2": "Colonel Brandon & Edward (quieter)"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "279 pages",
+        "book2": "352 pages"
+      },
+      {
+        "feature": "Publication Order",
+        "book1": "Second published (1813)",
+        "book2": "First published (1811)"
+      },
+      {
+        "feature": "Accessibility",
+        "book1": "More accessible to modern readers",
+        "book2": "Requires more patience"
+      }
+    ],
+    "book1Strengths": [
+      "Elizabeth Bennet is one of literature's greatest heroines—witty ('I dearly love a laugh'), intelligent, walks 3 miles through mud to visit sick Jane, refuses Darcy's first proposal. Immediately lovable",
+      "Mr. Darcy is THE romantic hero. From 'She is tolerable, but not handsome enough to tempt me' to 'You have bewitched me, body and soul.' Every brooding hero since is Darcy derivative",
+      "The enemies-to-lovers romance is perfectly executed. Elizabeth misjudges Darcy (proud, arrogant), Darcy misjudges Elizabeth (beneath him socially), both transform through conflict. Deeply satisfying arc",
+      "4,560,000 ratings at 4.7 versus 1,890,000 at 4.3 shows massive cultural impact. More than double readership, higher rating. It's THE Austen everyone should read",
+      "Laugh-out-loud humor throughout. Mrs. Bennet's matrimonial schemes, Mr. Collins's obsequious proposal ('almost as soon as I entered the house'), Lady Catherine's imperious demands. Social satire with genuine comedy"
+    ],
+    "book1Weaknesses": [
+      "So famous some plot points feel clichéd (though it invented them). Everyone knows Elizabeth gets Darcy, Jane gets Bingley. Modern readers know the tropes because Pride and Prejudice created them",
+      "Supporting characters sometimes one-dimensional. Mr. Collins is buffoon, Mrs. Bennet is shrill embarrassment, Lydia is thoughtless flirt. Caricatures versus fully realized people",
+      "Lydia's plotline rushed. Wickham elopes with Lydia, Darcy pays him to marry her (£10,000), crisis resolved quickly. Final third pacing stumbles where first two-thirds flew",
+      "Marriage-focused plot feels outdated to some modern readers. Five Bennet sisters MUST marry well or face poverty. Twenty-first century concerns differ from Regency England's brutal economics"
+    ],
+    "book2Strengths": [
+      "Deeper exploration of women's economic vulnerability. Dashwood sisters lose home when father dies (estate passes to half-brother John), income drops from comfortable to £500/year. Austen shows brutal financial reality for women",
+      "Two heroines offer contrasting perspectives—philosophical complexity. Elinor (sense) suppresses feelings for Edward, Marianne (sensibility) expresses passion for Willoughby. Neither approach works perfectly, synthesis needed",
+      "Willoughby is Austen's most complex villain. He genuinely loves Marianne but abandons her for £50,000 heiress Miss Grey (he's in debt). Not evil, just weak—more realistic than pure villains",
+      "Colonel Brandon is wonderfully understated. He's 35, been heartbroken before, loves Marianne quietly without demanding reciprocation. Genuinely good man versus Darcy's dramatic transformation arc",
+      "More emotionally mature than Pride and Prejudice. Deals with heartbreak, disappointment, financial anxiety realistically. Marianne nearly dies from broken heart and illness—stakes feel higher"
+    ],
+    "book2Weaknesses": [
+      "Slower pacing—takes longer to get invested. Dashwood sisters' financial situation, move to Barton Cottage, introduction of suitors. Setup takes 100+ pages where Pride and Prejudice hooks you page one",
+      "Neither Elinor nor Marianne as immediately charming as Elizabeth. Elinor is dutiful and restrained (admirable but not exciting), Marianne is passionate but immature. Elizabeth's wit and spark missing",
+      "Edward Ferrars is passive and less compelling than Darcy. He's secretly engaged to Lucy Steele (youthful mistake), can't break engagement honorably, waits for circumstances to resolve. Darcy actively transforms; Edward suffers",
+      "Less humor—more somber tone overall. Austen's wit still present but turned toward melancholy. Willoughby's betrayal, Marianne's illness, Elinor's quiet suffering dominate. Heavier than Pride and Prejudice's sparkle"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book!",
+      "You have bewitched me, body and soul, and I love, I love, I love you.",
+      "In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "I could easily forgive his pride, if he had not mortified mine."
+    ],
+    "book2": [
+      "Know your own happiness. You want nothing but patience- or give it a more fascinating name, call it hope.",
+      "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love. I require so much!",
+      "It is not time or opportunity that is to determine intimacy—it is disposition alone. Seven years would be insufficient to make some people acquainted with each other, and seven days are more than enough for others.",
+      "To wish was to hope, and to hope was to expect.",
+      "Elinor agreed to it all, for she did not think he deserved the compliment of rational opposition."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to read THE definitive Regency romance that invented the genre",
+      "You love witty, intelligent heroines who speak their minds",
+      "You're a sucker for enemies-to-lovers romance done to perfection",
+      "You want social satire that's genuinely funny even 200+ years later",
+      "You need to understand why Mr. Darcy became the romantic ideal"
+    ],
+    "book2": [
+      "You want deeper exploration of women's economic struggles in historical context",
+      "You prefer more emotionally mature and philosophically complex narratives",
+      "You love stories about sisterhood and contrasting personalities",
+      "You want to see Austen's first published work and how her voice developed",
+      "You appreciate quiet, understated romances over dramatic passion"
+    ]
+  },
+  "verdict": {
+    "winner": "Pride and Prejudice",
+    "summary": "Pride and Prejudice wins decisively with 4,560,000 ratings at 4.7 versus 1,890,000 at 4.3—more than double readership and higher rating. It's Austen's masterpiece and one of the greatest novels ever written. Elizabeth and Darcy are iconic for reason, humor sparkles, romance is perfection. Sense and Sensibility is wonderful—more mature, philosophically complex, deeper on women's economic vulnerability—but can't match Pride and Prejudice's charm, wit, and accessibility.",
+    "recommendation": "Start with Pride and Prejudice, absolutely. It's more accessible, more fun, and if you're only reading one Austen, this is it. Elizabeth Bennet is immediately lovable—witty ('I dearly love a laugh'), walks 3 miles through mud to see sick Jane, refuses Darcy's first proposal. The enemies-to-lovers romance is perfect: Darcy's 'She is tolerable, but not handsome enough to tempt me' to 'You have bewitched me, body and soul.' Brilliant social satire with laugh-out-loud humor—Mrs. Bennet's matrimonial schemes, Mr. Collins's obsequious proposal ('almost as soon as I entered the house'), Lady Catherine's demands. Published 1813, 279 pages fly by. 4,560,000 ratings at 4.7 prove it's THE Austen masterpiece everyone should read. If you fall in love with Austen's world (you will), then read Sense and Sensibility for more serious, emotionally complex take. Published 1811 (Austen's first), it explores women's economic vulnerability—Dashwood sisters lose home when father dies (estate passes to half-brother), income drops to £500/year. Two heroines offer contrasting philosophies: Elinor (sense) suppresses feelings for Edward, Marianne (sensibility) expresses passion for Willoughby. Neither approach works perfectly. Willoughby is Austen's most complex villain—genuinely loves Marianne but abandons her for £50,000 heiress (he's in debt). Not evil, just weak. Colonel Brandon (35, quietly loves Marianne without demanding reciprocation) is genuinely good man. But 352 pages, slower pacing, less humor, neither heroine as charming as Elizabeth. More emotionally mature but less immediately engaging. 1,890,000 at 4.3 shows it's wonderful but Pride and Prejudice is THE one."
+  }
+}

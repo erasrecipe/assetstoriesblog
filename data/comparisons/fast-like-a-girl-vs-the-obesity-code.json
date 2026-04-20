@@ -1,0 +1,154 @@
+﻿{
+    "slug": "fast-like-a-girl-vs-the-obesity-code",
+    "title": "Fast Like a Girl vs The Obesity Code: Head to Head Comparison",
+    "metaDescription": "Compare Fast Like a Girl vs The Obesity Code. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+    "lastUpdated": "2026-02-07",
+    "category": "Health \u0026 Wellness",
+    "book1": {
+                  "title": "Fast Like a Girl",
+                  "subtitle": "A Woman\u0027s Guide to Using the Healing Power of Fasting to Burn Fat, Boost Energy, and Balance Hormones",
+                  "author": "Dr. Mindy Pelz",
+                  "isbn": "978-1401967970",
+                  "publishedYear": 2022,
+                  "pages": 320,
+                  "rating": 4.6,
+                  "ratingCount": 42000,
+                  "price": 18.99,
+                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_FAST_LIKE_A_GIRL",
+                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781401967970-L.jpg",
+                  "description": "Renowned women\u0027s health expert Dr. Mindy Pelz has created an accessible, all-in-one guide to intermittent fasting specifically designed for women. In Fast Like a Girl, she reveals how women can fast in a way that supports their unique hormonal needs throughout the different phases of their menstrual cycle, from their fertile years through perimenopause and menopause."
+              },
+    "book2": {
+                  "title": "The Obesity Code",
+                  "subtitle": "Unlocking the Secrets of Weight Loss",
+                  "author": "Dr. Jason Fung",
+                  "isbn": "978-1771641258",
+                  "publishedYear": 2016,
+                  "pages": 296,
+                  "rating": 4.6,
+                  "ratingCount": 67000,
+                  "price": 16.99,
+                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_OBESITY_CODE",
+                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781771641258-L.jpg",
+                  "description": "Everything you believe about how to lose weight is wrong. Weight gain and obesity are driven by hormonesâ€”in everyoneâ€”and only by understanding the effects of insulin and insulin resistance can we achieve lasting weight loss. Dr. Jason Fung reveals why interventions such as weight-loss surgery can be lifesaving and why we must examine our underlying hormonal imbalances. The Obesity Code is revolutionary and has the power to change the conversation around weight loss and health."
+              },
+    "comparison": {
+                       "table": [
+                                     {
+                                         "feature": "Target Audience",
+                                         "book1": "Women specifically (all life stages)",
+                                         "book2": "Everyone (gender-neutral approach)"
+                                     },
+                                     {
+                                         "feature": "Hormonal Focus",
+                                         "book1": "Female hormones and menstrual cycle",
+                                         "book2": "Insulin and cortisol (all genders)"
+                                     },
+                                     {
+                                         "feature": "Fasting Approach",
+                                         "book1": "Cycle-synced fasting for women",
+                                         "book2": "General intermittent fasting protocols"
+                                     },
+                                     {
+                                         "feature": "Complexity",
+                                         "book1": "More complex - varies by cycle phase",
+                                         "book2": "Simpler - consistent fasting schedule"
+                                     },
+                                     {
+                                         "feature": "Publication Year",
+                                         "book1": "2022 (more recent)",
+                                         "book2": "2016 (earlier, more established)"
+                                     },
+                                     {
+                                         "feature": "Scientific Rigor",
+                                         "book1": "Emerging research on women\u0027s fasting",
+                                         "book2": "Established research on insulin and fasting"
+                                     },
+                                     {
+                                         "feature": "Actionability",
+                                         "book1": "Requires cycle tracking and adjustment",
+                                         "book2": "Straightforward fasting windows"
+                                     },
+                                     {
+                                         "feature": "Page Count",
+                                         "book1": "320 pages",
+                                         "book2": "296 pages"
+                                     }
+                                 ],
+                       "book1Strengths": [
+                                              "The cycle-syncing fasting protocol is revolutionary: fast 13-15 hours during follicular phase (days 1-10), push to 15-17 hours during ovulation (days 11-15), ease back to 13-15 during luteal phase (days 16-19), then NO fasting or only light 12-hour fasts during menstruation (days 1-5). This respects that women's cortisol, estrogen, and progesterone need different fuel timing",
+                                              "Dr. Mindy Pelz's credentials are solid—she's been researching women's fasting for years, has a huge YouTube following (2M+ subscribers), and actually practices on herself and patients. Not just theory—real clinical experience with thousands of women",
+                                              "The hormone hierarchy explanation is brilliant: if cortisol is dysregulated (from too much fasting), your sex hormones (estrogen, progesterone, testosterone) can't function. Women who fast like men often crash their hormones. This explains why 16:8 daily fasting wrecks some women",
+                                              "Covers ALL life stages—fertile years (cycle-sync your fasting), perimenopause (longer fasts work better as estrogen drops), menopause (you can fast more aggressively). Finally a book that doesn't assume all women are 25 and cycling regularly",
+                                              "42,000 ratings at 4.6 stars—published 2022, already massive following. Women are DESPERATE for this information because standard fasting advice has been failing them",
+                                              "The autophagy explanation for women is phenomenal: 17+ hour fasts trigger cellular cleanup, but women need to time this with their cycle. Do it wrong (fasting too much during luteal/menstrual), and you'll be exhausted and moody. Do it right, and you'll feel superhuman"
+                                          ],
+                       "book1Weaknesses": [
+                                               "The cycle-tracking requirement is real work—you need to know where you are in your cycle, which means tracking ovulation, periods, and symptoms. If you have irregular cycles or PCOS, this gets complicated fast. Not beginner-friendly",
+                                               "The science on gender-specific fasting is still emerging—most fasting studies are done on men or male rats. Dr. Pelz extrapolates from limited female-specific research. It makes biological sense, but we need more RCTs on women before declaring this definitive",
+                                               "If you're post-menopausal or on hormonal birth control (which suppresses your natural cycle), the cycle-syncing protocol doesn't apply. You'll need to adapt, and the book gives some guidance but it's not as detailed",
+                                               "The book can feel overwhelming—six different fasting protocols (Intermittent, Autophagy, Gut Reset, Fat Burner, Dopamine Reset, Immune Reset) PLUS cycle-syncing PLUS supplement recommendations. Where do you even start?",
+                                               "Some critics (including doctors) question whether this complexity is necessary or if it's just marketing. The 'women aren't small men' framing is valid, but does fasting timing really need to be THIS precise? Jury's still out",
+                                               "Not for men—if you bought this as a couple, half of you can't use the main protocol. The Obesity Code works for everyone"
+                                           ],
+                       "book2Strengths": [
+                                              "The insulin theory of obesity is revolutionary: it's not calories in/calories out, it's about lowering insulin to unlock fat burning. Dr. Fung destroys the 'eat less, move more' myth with actual endocrinology. Insulin blocks fat burning—keep it elevated with constant eating, and you can't lose weight no matter the calorie deficit",
+                                              "Dr. Jason Fung is a nephrologist (kidney doctor) who treats diabetic patients with fasting instead of drugs. He's reversed Type 2 diabetes in thousands of patients through his Intensive Dietary Management program. This isn't theory—he's done it clinically for years",
+                                              "The fasting protocols are dead simple: 16:8 (skip breakfast), 20:4 (one meal daily), 24-hour fasts (dinner to dinner), 36-hour fasts (occasional). Pick one, stick with it. No cycle-tracking, no complexity. Works for men and women equally",
+                                              "67,000 ratings at 4.6 stars—published 2016, proven track record. This is THE fasting book that launched the intermittent fasting movement into mainstream. Bigger audience than Fast Like a Girl because it works for everyone",
+                                              "The research is rock-solid—Fung cites decades of metabolic studies on insulin, glucagon, autophagy, and fasting. This isn't emerging science, it's established endocrinology applied to weight loss",
+                                              "Works for weight loss AND reversing metabolic disease—insulin resistance, Type 2 diabetes, fatty liver. Fung shows fasting isn't just for losing pounds, it's for healing metabolic dysfunction at the root"
+                                          ],
+                       "book2Weaknesses": [
+                                               "Zero acknowledgment that women's hormones complicate fasting—no mention of menstrual cycles, fertility concerns, or why some women feel terrible on rigid 16:8 protocols. Fung's approach is 'just fast,' which works great for men and some women, but crashes others",
+                                               "Published 2016—predates the explosion of research on women-specific fasting. The science has evolved, and we now know women need more nuance. Fung's book doesn't reflect this",
+                                               "The one-size-fits-all approach can harm women with hormone issues—PCOS, hypothyroid, adrenal fatigue, perimenopause. These women often need gentler, cycle-aware fasting. Fung doesn't differentiate",
+                                               "Some women report losing their periods, crashing energy, or worsening thyroid function on Fung's protocols. He doesn't address this risk. Fast Like a Girl explains WHY this happens and how to prevent it",
+                                               "Doesn't cover perimenopause or menopause—massive oversight given that fasting affects women differently at different life stages. Fast Like a Girl dedicates entire chapters to this",
+                                               "The male default problem—most fasting studies cited are on men. Fung extrapolates to women without acknowledging the gap in research"
+                                           ]
+                   },
+    "quotes": {
+                   "book1": [
+                                 "Women are not small men. We need to fast differently.",
+                                 "Your menstrual cycle is not your enemyâ€”it\u0027s your superpower.",
+                                 "Fasting is a tool, and like any tool, it needs to be used correctly.",
+                                 "The key to fasting success for women is hormone variability.",
+                                 "You can\u0027t hack what you don\u0027t track.",
+                                 "When you fast in alignment with your cycle, magic happens."
+                             ],
+                   "book2": [
+                                 "Obesity is a hormonal, not a caloric, imbalance.",
+                                 "Insulin is the main driver of weight gain. Reduce insulin, lose weight.",
+                                 "Intermittent fasting is the most efficient way to lower insulin levels.",
+                                 "The calories-in, calories-out model has failed us.",
+                                 "Type 2 diabetes is reversible through dietary changes.",
+                                 "We must address the hormonal imbalance, not just count calories."
+                             ]
+               },
+    "whyRead": {
+                    "book1": [
+                                  "You\u0027re a woman who has struggled with traditional fasting",
+                                  "You want to understand how fasting affects female hormones",
+                                  "You\u0027re willing to track your menstrual cycle for better results",
+                                  "You\u0027re in perimenopause or menopause and need specific guidance",
+                                  "You want an approach that respects women\u0027s unique biology",
+                                  "You\u0027ve had negative experiences with one-size-fits-all fasting",
+                                  "You\u0027re interested in optimizing hormonal health through fasting"
+                              ],
+                    "book2": [
+                                  "You want a simple, straightforward fasting protocol",
+                                  "You\u0027re focused on weight loss and reversing insulin resistance",
+                                  "You prefer established research over emerging theories",
+                                  "You\u0027re a man or prefer gender-neutral approaches",
+                                  "You want comprehensive understanding of why we gain weight",
+                                  "You don\u0027t want to track menstrual cycles or complicate things",
+                                  "You\u0027re ready for a proven, time-tested approach"
+                              ]
+                },
+    "verdict": {
+                    "winner": "It Depends",
+                    "summary": "Fast Like a Girl wins for women with 42,000 ratings at 4.6 stars—cycle-syncing fasting protocol (13-15 hours follicular, 15-17 ovulation, ease back luteal, minimal during menstruation) respects female hormone fluctuations. The Obesity Code wins for simplicity and bigger proof with 67,000 at 4.6 stars—insulin theory, simple 16:8 protocol, works for everyone. Different needs: women wanting hormone-aware fasting choose Fast Like a Girl, people wanting proven simplicity choose Obesity Code. Men and post-menopausal women default to Fung.",
+                    "recommendation": "If you're a cycling woman (pre-menopause, not on hormonal birth control), read Fast Like a Girl first. The cycle-syncing protocol (13-15 hour fasts during follicular, 15-17 during ovulation, ease back during luteal, minimal during menstruation), hormone hierarchy explanation (cortisol dysregulation crashes sex hormones), and six fasting protocols (Intermittent, Autophagy, Gut Reset, Fat Burner, Dopamine Reset, Immune Reset) will prevent the hormone crashes some women get from rigid daily fasting. THEN read The Obesity Code for the foundational insulin science that applies to everyone. If you're a man, post-menopausal, or want simplicity over precision, start with The Obesity Code. Fung's insulin theory (lower insulin to unlock fat burning), simple protocols (16:8, 20:4, 24-hour fasts), and proven clinical results (reversing Type 2 diabetes in thousands) are straightforward and effective. The ideal: cycling women read both (Fast Like a Girl for protocol, Obesity Code for science), everyone else reads Obesity Code first."
+                }
+}

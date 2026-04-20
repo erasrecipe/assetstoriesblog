@@ -1,0 +1,152 @@
+﻿{
+    "slug":  "contagious-vs-made-to-stick",
+    "title":  "Contagious vs Made to Stick: Head to Head Comparison",
+    "metaDescription":  "Compare Contagious vs Made to Stick. Jonah Berger\u0027s viral marketing vs Chip \u0026 Dan Heath\u0027s sticky ideas - which framework helps your message spread?",
+    "lastUpdated":  "2026-02-07",
+    "category":  "Sales \u0026 Marketing",
+    "book1":  {
+                  "title":  "Contagious",
+                  "subtitle":  "Why Things Catch On",
+                  "author":  "Jonah Berger",
+                  "isbn":  "978-1451686586",
+                  "publishedYear":  2013,
+                  "pages":  256,
+                  "rating":  4.5,
+                  "ratingCount":  12000,
+                  "price":  17.00,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_CONTAGIOUS",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781451686586-L.jpg",
+                  "description":  "Jonah Berger, a Wharton marketing professor, reveals why certain products and ideas go viral while others flop. He presents the STEPPS framework: Social Currency, Triggers, Emotion, Public, Practical Value, and Stories. Berger shows that virality isn\u0027t random or about luck—it\u0027s driven by six principles that can be deliberately applied. This research-based book explains how to engineer word-of-mouth and create contagious content that people naturally share."
+              },
+    "book2":  {
+                  "title":  "Made to Stick",
+                  "subtitle":  "Why Some Ideas Survive and Others Die",
+                  "author":  "Chip Heath and Dan Heath",
+                  "isbn":  "978-1400064281",
+                  "publishedYear":  2007,
+                  "pages":  291,
+                  "rating":  4.4,
+                  "ratingCount":  9500,
+                  "price":  16.00,
+                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MADE_TO_STICK",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781400064281-L.jpg",
+                  "description":  "The Heath brothers explore why some ideas stick in people\u0027s minds while others are forgotten. They present the SUCCESs framework: Simple, Unexpected, Concrete, Credible, Emotional, Stories. Using examples from urban legends to successful marketing campaigns, they show how to craft messages that are memorable and impactful. This book focuses on making ideas sticky—ensuring they\u0027re remembered and acted upon long after the initial exposure."
+              },
+    "comparison":  {
+                       "table":  [
+                                     {
+                                         "feature":  "Core Focus",
+                                         "book1":  "Why things spread (virality)",
+                                         "book2":  "Why things stick (memorability)"
+                                     },
+                                     {
+                                         "feature":  "Framework",
+                                         "book1":  "STEPPS (6 principles)",
+                                         "book2":  "SUCCESs (6 principles)"
+                                     },
+                                     {
+                                         "feature":  "Goal",
+                                         "book1":  "Get people to share and talk",
+                                         "book2":  "Get people to remember and act"
+                                     },
+                                     {
+                                         "feature":  "Research Base",
+                                         "book1":  "Academic marketing research",
+                                         "book2":  "Psychology and case studies"
+                                     },
+                                     {
+                                         "feature":  "Examples",
+                                         "book1":  "Viral products, social media, word-of-mouth",
+                                         "book2":  "Urban legends, memorable campaigns, sticky teaching"
+                                     },
+                                     {
+                                         "feature":  "Best For",
+                                         "book1":  "Creating shareable content",
+                                         "book2":  "Creating memorable messages"
+                                     },
+                                     {
+                                         "feature":  "Popularity",
+                                         "book1":  "12,000 ratings - 4.5 stars",
+                                         "book2":  "9,500 ratings - 4.4 stars"
+                                     },
+                                     {
+                                         "feature":  "Page Count",
+                                         "book1":  "256 pages",
+                                         "book2":  "291 pages"
+                                     }
+                                 ],
+                       "book1Strengths":  [
+                                              "STEPPS memorable: Social Currency (make people look good), Triggers (top of mind = tip of tongue), Emotion, Public, Practical Value, Stories",
+                                              " cheesesteak example perfect: Philly restaurant created  sandwich, went viral not because good but gave customers social currency (status)",
+                                              "Rebecca Black Friday analysis: even \u0027bad\u0027 content goes viral with strong emotion. Song got 167M views because made people feel something",
+                                              "Practical Value explains why \u0027How to save money\u0027 articles shared more than opinions. Usefulness inherently shareable across networks",
+                                              "Backed by Berger\u0027s Wharton research analyzing thousands of NYT articles finding what makes content most shared. Data-driven, not anecdotal",
+                                              "12,000 ratings at 4.5 stars shows proven popular and accessible. More relevant for 2020s—covers social media, viral videos, digital word-of-mouth"
+                                          ],
+                       "book1Weaknesses":  [
+                                               "Viral doesn\u0027t equal valuable. Rebecca Black\u0027s Friday got 167M views, career went nowhere. STEPPS explains spread, not quality or lasting value",
+                                               "Social Currency can backfire. Trying too hard to be cool makes brands look desperate.  cheesesteak works for shock, most can\u0027t sustain gimmicks",
+                                               "Focuses on SHARING not REMEMBERING. If people share but forget in 2 days, did it work? Made to Stick ensures memorability, not just clicks",
+                                               "Triggers principle HARD to engineer. Can\u0027t control what reminds people of brand daily. \u0027Top of mind = tip of tongue\u0027 sounds great but how?",
+                                               "Examples skew consumer products:  cheesesteak, Blendtec blenders, viral videos. B2B or services have fewer applicable cases than Made to Stick"
+                                           ],
+                       "book2Strengths":  [
+                                              "SUCCESs framework itself sticky: Simple, Unexpected, Concrete, Credible, Emotional, Stories. The acronym makes you remember all 6 elements",
+                                              "Kidney heist urban legend analysis brilliant: why believe waking in bathtub missing kidney? Hits all 6 SUCCESs elements. Unforgettable example",
+                                              "Curse of Knowledge concept: once you know something, can\u0027t imagine not knowing it. Worth book price for teachers and leaders alone",
+                                              "Velcro Theory of Memory: abstract concepts don\u0027t stick, concrete examples do. Brain has more \u0027hooks\u0027 for concrete ideas than abstractions",
+                                              "Works beyond marketing—teachers, executives, nonprofits use SUCCESs for presentations, training, change management. Universal application",
+                                              "Timeless principles working since 2007 and still today. Human psychology of memory hasn\u0027t changed. Will work in 2030s too"
+                                          ],
+                       "book2Weaknesses":  [
+                                               "Published 2007 PRE-social media explosion. Facebook 3 years old, Twitter 1 year, no Instagram. Barely mentions digital. Contagious built for viral age",
+                                               "291 pages versus Contagious\u0027s 256. Heath brothers tell 3 stories where Berger tells 1. More repetition and tangents. Some want STEPPS\u0027s tighter focus",
+                                               "Less popular (9,500 versus 12,000 ratings) and lower rating (4.4 versus 4.5). Contagious resonates more with modern marketers doing digital",
+                                               "Examples skew OLD: kidney heist, Nordstrom tire return, Southwest Airlines. Pre-2000s examples. Contagious uses YouTube, social—more relevant 2020s",
+                                               "Less emphasis on SHARING mechanisms. Makes ideas memorable but doesn\u0027t explain HOW to trigger word-of-mouth. Remember but don\u0027t necessarily share"
+                                           ]
+                   },
+    "quotes":  {
+                   "book1":  [
+                                 "Word of mouth is more effective than advertising because it\u0027s more persuasive and more targeted.",
+                                 "Making things more observable makes them easier to imitate, which makes them more likely to become popular.",
+                                 "If something is built to show, it\u0027s built to grow.",
+                                 "Top of mind means tip of tongue.",
+                                 "People don\u0027t think in terms of information. They think in terms of narratives.",
+                                 "Virality isn\u0027t born, it\u0027s made."
+                             ],
+                   "book2":  [
+                                 "The most basic way to get someone\u0027s attention is this: Break a pattern.",
+                                 "If you say three things, you don\u0027t say anything.",
+                                 "Abstraction makes it harder to understand an idea and to remember it.",
+                                 "The Curse of Knowledge: when we know something, we find it hard to imagine what it was like not to know it.",
+                                 "Stories are told and retold because they contain wisdom.",
+                                 "For an idea to stick, for it to be useful and lasting, it\u0027s got to make the audience care."
+                             ]
+               },
+    "whyRead":  {
+                    "book1":  [
+                                  "You want to create viral content or campaigns",
+                                  "You need to understand modern word-of-mouth marketing",
+                                  "You\u0027re focused on social media and digital sharing",
+                                  "You want research-backed principles for virality",
+                                  "You need content that people will naturally share",
+                                  "You\u0027re in marketing or growth roles",
+                                  "You want to engineer word-of-mouth deliberately"
+                              ],
+                    "book2":  [
+                                  "You want ideas that people remember long-term",
+                                  "You\u0027re a teacher, presenter, or communicator",
+                                  "You need to make internal messages stick with teams",
+                                  "You want timeless communication principles",
+                                  "You\u0027re interested in the psychology of memory",
+                                  "You need to change behavior, not just get shares",
+                                  "You want stories that illustrate principles beautifully"
+                              ]
+                },
+    "verdict":  {
+                    "winner":  "Contagious",
+                    "summary":  "Contagious wins for modern marketers—12,000 ratings at 4.5 versus 9,500 at 4.4. STEPPS (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) built for viral social media age. Published 2013, covers YouTube, digital sharing. Made to Stick wins for communicators and teachers—SUCCESs (Simple, Unexpected, Concrete, Credible, Emotional, Stories) makes ideas MEMORABLE for presentations, teaching, behavior change. Read Contagious for virality, Made to Stick for memorability.",
+                    "recommendation":  "Read Contagious first if building viral campaigns, managing social media, or creating shareable content. STEPPS framework gives checklist: Social Currency ( cheesesteak makes people look cool), Triggers (top of mind = tip of tongue), Emotion (Rebecca Black Friday got 167M views from strong feelings), Public (built to show = built to grow), Practical Value (useful info spreads), Stories (people share narratives). At 256 pages, backed by Berger\u0027s Wharton research analyzing thousands of NYT articles. After Contagious, read Made to Stick if you\u0027re teacher, presenter, or need ideas remembered long-term. SUCCESs framework (Simple, Unexpected, Concrete, Credible, Emotional, Stories), Curse of Knowledge (can\u0027t imagine not knowing once you know), kidney heist urban legend (hits all 6 elements), Velcro Theory of Memory (concrete sticks, abstract doesn\u0027t) work universally. At 291 pages published 2007, it\u0027s pre-social media but timeless for memory psychology. If you only read one: Contagious for viral marketing. Made to Stick for memorable communication and teaching."
+                }
+}

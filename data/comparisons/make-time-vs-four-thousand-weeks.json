@@ -1,0 +1,146 @@
+﻿{
+  "slug": "make-time-vs-four-thousand-weeks",
+  "title": "Make Time vs Four Thousand Weeks: Head to Head Comparison",
+  "metaDescription": "Jake Knapp's Make Time vs Oliver Burkeman's Four Thousand Weeks—two time management philosophies compared. Which approach to time will change your life?",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Make Time",
+    "subtitle": "How to Focus on What Matters Every Day",
+    "author": "Jake Knapp and John Zeratsky",
+    "isbn": "978-0525572428",
+    "publishedYear": 2018,
+    "pages": 304,
+    "rating": 4.3,
+    "ratingCount": 6200,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525572428-L.jpg",
+    "description": "Make Time presents a framework for creating more time for what matters by redesigning your default day. Former Google designers Jake Knapp and John Zeratsky introduce a four-step process: Highlight (choose one priority each day), Laser (beat distraction to focus), Energize (recharge your body and brain), and Reflect (adjust and improve). The book includes 87 tactics you can mix and match. It's practical, optimistic, and designed for busy modern lives. Rather than extreme productivity, Make Time is about intentionally designing your day around what you care about. The approach is flexible—try tactics, see what works, iterate."
+  },
+  "book2": {
+    "title": "Four Thousand Weeks",
+    "subtitle": "Time Management for Mortals",
+    "author": "Oliver Burkeman",
+    "isbn": "978-0374159122",
+    "publishedYear": 2021,
+    "pages": 288,
+    "rating": 4.3,
+    "ratingCount": 8500,
+    "price": 17.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780374159122-L.jpg",
+    "description": "Four Thousand Weeks confronts the reality that the average human lifespan is about 4,000 weeks—and you can't do everything. Oliver Burkeman challenges productivity culture, arguing that trying to fit everything in is futile and anxiety-producing. Instead, he advocates radical acceptance of finitude: make peace with not doing most things, embrace missing out, and focus on what truly matters. The book is philosophical, drawing on existentialism and Stoicism. It's less about tactics and more about changing your relationship with time and mortality. Burkeman argues productivity gurus sell false hope—you'll never get it all done, and that's okay. It's liberating and sobering."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Philosophy",
+        "book1": "Optimistic—you can make time",
+        "book2": "Realistic—accept you can't do everything"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Tactical with 87 specific techniques",
+        "book2": "Philosophical with existential acceptance"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Encouraging and practical",
+        "book2": "Sobering and liberating"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "Design your day around one highlight",
+        "book2": "Accept finitude and choose wisely"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Immediately actionable tactics",
+        "book2": "Requires mindset shift"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "304 pages",
+        "book2": "288 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2018",
+        "book2": "2021 (more recent)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "People wanting practical time tactics",
+        "book2": "People questioning productivity culture"
+      }
+    ],
+    "book1Strengths": [
+      "The four-step framework (Highlight, Laser, Energize, Reflect) is simple and memorable",
+      "87 tactics means you can find what works for your specific situation",
+      "Immediately actionable—start with one highlight tomorrow",
+      "Optimistic and encouraging without being preachy",
+      "Written by Google designers who tested these tactics in high-pressure environment",
+      "The flexible approach (try tactics, iterate) feels doable"
+    ],
+    "book1Weaknesses": [
+      "Can feel like just another productivity system adding to overwhelm",
+      "87 tactics can feel overwhelming rather than liberating",
+      "Doesn't deeply question whether you should be doing more",
+      "Less philosophical depth about time and mortality"
+    ],
+    "book2Strengths": [
+      "Refreshingly honest about the futility of trying to do everything",
+      "Challenges productivity culture in needed ways",
+      "The 4,000 weeks framing creates urgent clarity about priorities",
+      "Liberating permission to accept you'll miss out on most things",
+      "Philosophical depth about time, mortality, and meaning",
+      "Perfect for people suffering from productivity anxiety"
+    ],
+    "book2Weaknesses": [
+      "Less tactically useful—doesn't give you many specific techniques",
+      "Can feel depressing if you're not ready for existential acceptance",
+      "The philosophical approach may frustrate readers wanting practical advice",
+      "Easier to read and agree with than to actually live by"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Time is like the air you breathe. If you've got nothing to breathe for, it doesn't matter how much air you have.",
+      "You can't make more time, but you can make time for what matters.",
+      "The secret to making time isn't to change what you do. It's to change how you think about time.",
+      "Choose one highlight each day. That's it.",
+      "Busy is a choice. Distraction is a choice. You have more control than you think.",
+      "Small shifts in how you spend your time can lead to big changes in your life."
+    ],
+    "book2": [
+      "The average human lifespan is absurdly, terrifyingly, insultingly short.",
+      "You will definitely never manage to do everything you want to do. In fact, you won't even come close.",
+      "The real problem isn't our limited time. The problem is that we've been taught to see our limitations as problems to be solved.",
+      "Productivity is a trap. Becoming more efficient just makes you more rushed.",
+      "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+      "We're finite humans in an infinite world, and we need to choose."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want practical, immediately actionable tactics for better time use",
+      "You need a simple daily framework (Highlight, Laser, Energize, Reflect)",
+      "You want 87 tactics to experiment with and find what works",
+      "You prefer optimistic, encouraging productivity advice",
+      "You're busy but want to focus on what matters most each day"
+    ],
+    "book2": [
+      "You're exhausted by productivity culture and need a different perspective",
+      "You want philosophical depth about time, mortality, and meaning",
+      "You need permission to accept you can't do everything",
+      "You're suffering from productivity anxiety and overwhelm",
+      "You're ready to question whether you should be doing more"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Equal 4.3 ratings but Four Thousand Weeks has 8,500 ratings versus Make Time's 6,200—more readers embraced Burkeman's philosophy. Make Time (2018, 304 pages, 87 tactics) offers practical Highlight/Laser/Energize/Reflect framework. Four Thousand Weeks (2021, 288 pages) challenges productivity culture with 'average lifespan is 4,000 weeks' finitude acceptance. Make Time for tactics, Four Thousand Weeks for mindset shift. Different philosophies—optimization versus acceptance.",
+    "recommendation": "Read Make Time if you want practical tactics immediately. You'll get Highlight/Laser/Energize/Reflect framework (choose one priority daily), 87 mix-and-match tactics, Google designers' tested techniques, optimistic tone, 304 pages implementing tomorrow, and focus without rejecting productivity. Perfect for busy people wanting actionable advice. Read Four Thousand Weeks if you're exhausted by productivity culture. You'll get '4,000 weeks average lifespan' sobering math, radical finitude acceptance (you can't do everything), philosophical depth (existentialism, Stoicism), productivity trap exposure, permission to miss out, and 288 pages questioning whether you should do more. Perfect for productivity addicts needing mindset shift. Most readers? Choose based on need—Make Time for tactics (6,200 ratings, immediate action), Four Thousand Weeks for philosophy (8,500 ratings, liberation from hustle). They're opposites: one optimizes time, one accepts limits. Read both if you want tactics AND peace."
+  }
+}

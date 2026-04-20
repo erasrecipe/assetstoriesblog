@@ -1,0 +1,146 @@
+﻿{
+  "slug": "mom-test-vs-four-steps-to-epiphany",
+  "title": "The Mom Test vs The Four Steps to the Epiphany: Head to Head Comparison",
+  "metaDescription": "Rob Fitzpatrick's The Mom Test vs Steve Blank's The Four Steps to the Epiphany—two customer development books compared. Which will help you talk to customers?",
+  "lastUpdated": "2026-02-07",
+  "category": "Technology & Innovation",
+  "book1": {
+    "title": "The Mom Test",
+    "subtitle": "How to Talk to Customers & Learn If Your Business Is a Good Idea When Everyone Is Lying to You",
+    "author": "Rob Fitzpatrick",
+    "isbn": "978-1492180746",
+    "publishedYear": 2013,
+    "pages": 140,
+    "rating": 4.7,
+    "ratingCount": 3200,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781492180746-L.jpg",
+    "description": "The Mom Test teaches you how to conduct customer conversations that reveal truth instead of polite lies. Rob Fitzpatrick's premise: even your mom will lie to you about your business idea to spare your feelings. The book provides tactical guidance for asking questions that extract honest feedback. Key principles: talk about their life, not your idea; ask about specifics in the past, not opinions about the future; listen more than talk. It's short, practical, and immediately actionable. Fitzpatrick shows exactly what to say, what not to say, and how to extract real signal from customer conversations. Essential for anyone doing customer discovery."
+  },
+  "book2": {
+    "title": "The Four Steps to the Epiphany",
+    "subtitle": "Successful Strategies for Products That Win",
+    "author": "Steve Blank",
+    "isbn": "978-0989200509",
+    "publishedYear": 2005,
+    "pages": 278,
+    "rating": 4.2,
+    "ratingCount": 1800,
+    "price": 24.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780989200509-L.jpg",
+    "description": "The Four Steps to the Epiphany is Steve Blank's groundbreaking book that originated Customer Development methodology. Blank presents four steps: Customer Discovery (find the problem), Customer Validation (build the right product), Customer Creation (create demand), and Company Building (scale). The book challenged traditional product development, arguing startups should discover customers before building products. It's dense, academic, and revolutionary—this book launched the lean startup movement. While less accessible than The Mom Test, it provides the comprehensive framework that The Mom Test's tactics fit within. This is the foundational text that changed how startups are built."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Scope",
+        "book1": "Narrow—customer conversations only",
+        "book2": "Broad—entire Customer Development process"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Tactical conversation techniques",
+        "book2": "Strategic framework for discovery"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "140 pages (quick read)",
+        "book2": "278 pages (denser)"
+      },
+      {
+        "feature": "Accessibility",
+        "book1": "Highly accessible and practical",
+        "book2": "Academic and comprehensive"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Immediately actionable",
+        "book2": "Framework requires interpretation"
+      },
+      {
+        "feature": "Published",
+        "book1": "2013",
+        "book2": "2005 (pioneering work)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Learning how to talk to customers",
+        "book2": "Understanding Customer Development framework"
+      },
+      {
+        "feature": "Reading",
+        "book1": "One sitting, implement immediately",
+        "book2": "Study over time, reference repeatedly"
+      }
+    ],
+    "book1Strengths": [
+      "Tactical and immediately actionable—know what to say in conversations today",
+      "Short and accessible—140 pages you can read quickly",
+      "The 'mom test' concept is memorable and practical",
+      "Specific examples of good vs. bad questions",
+      "Perfect for founders who've never done customer discovery",
+      "Focuses on the hardest part—actually extracting truth from conversations"
+    ],
+    "book1Weaknesses": [
+      "Narrow focus—only covers conversations, not the broader framework",
+      "Doesn't explain when to talk to customers or what to do with feedback",
+      "Less strategic—assumes you understand Customer Development already",
+      "Short means less depth on some topics"
+    ],
+    "book2Strengths": [
+      "The foundational text that originated Customer Development",
+      "Comprehensive framework covering discovery through company building",
+      "Revolutionary ideas that launched the lean startup movement",
+      "Provides strategic context The Mom Test lacks",
+      "Explains why customer discovery matters, not just how",
+      "Academic rigor backs every concept"
+    ],
+    "book2Weaknesses": [
+      "Dense and academic—feels like a textbook",
+      "Less immediately actionable than The Mom Test",
+      "Written in 2005, so some examples feel dated",
+      "Harder to read and digest—requires sustained focus"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The Mom Test: Talk about their life instead of your idea.",
+      "Opinions are worthless. The only thing that matters is what they've done.",
+      "People will lie to you if they think it's what you want to hear.",
+      "You're not allowed to tell them what their problem is, and in return, they're not allowed to tell you what to build.",
+      "If you've mentioned your idea, you're doing it wrong.",
+      "The measure of usefulness of an early customer conversation is whether it gives us concrete facts about our customers' lives and world views."
+    ],
+    "book2": [
+      "Get out of the building.",
+      "There are no facts inside your building, so get outside.",
+      "Customer Development is the process for discovering and validating that you have a product worth building.",
+      "Startups don't execute—they search for a business model.",
+      "The goal of Customer Discovery is not to collect feature requests. It's to validate assumptions.",
+      "No business plan survives first contact with customers."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You need to learn how to conduct customer conversations that reveal truth",
+      "You want tactical, immediately actionable guidance",
+      "You prefer short books—this is 140 pages",
+      "You're doing customer discovery interviews and getting useless feedback",
+      "You need specific examples of good vs. bad questions"
+    ],
+    "book2": [
+      "You want to understand the complete Customer Development framework",
+      "You need strategic context for why customer discovery matters",
+      "You're willing to study a denser, more academic book",
+      "You want the foundational text that launched lean startup movement",
+      "You need the comprehensive methodology, not just conversation tactics"
+    ]
+  },
+  "verdict": {
+    "winner": "The Mom Test",
+    "summary": "The Mom Test wins with 3,200 ratings at 4.7 versus 1,800 at 4.2—higher rating and more readers. Fitzpatrick's 140 pages teach tactical conversation skills (talk about their life not your idea, past specifics not future opinions). Blank's 278 pages provide Customer Development framework (Discovery, Validation, Creation, Building) but feel academic. Mom Test for immediately useful how-to, Four Steps for strategic comprehensive context. Different purposes—tactical versus strategic.",
+    "recommendation": "Read The Mom Test first if you need to learn customer conversations now. You'll get 'talk about their life not your idea' principle, ask about past specifics not future opinions, 'if you've mentioned your idea you're doing it wrong', good versus bad question examples, 140 pages readable in one sitting then implement immediately, and highest-rated customer discovery book (4.7 stars). Perfect for founders getting polite lies from customers. Read The Four Steps to the Epiphany if you want comprehensive Customer Development framework. You'll get four steps (Customer Discovery, Validation, Creation, Company Building), 'get out of the building' mantra, foundational text launching lean startup movement, strategic context for why discovery matters, and 278 dense pages requiring study. Perfect for understanding complete methodology. Most founders? Choose Mom Test (3,200 ratings, tactical, actionable today). Want strategic depth? Add Four Steps despite academic density. Ideally read both—Mom Test for conversation skills, Four Steps for framework context."
+  }
+}

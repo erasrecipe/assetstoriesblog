@@ -1,0 +1,162 @@
+﻿{
+  "slug": "ascent-of-money-vs-when-money-dies",
+  "title": "The Ascent of Money vs When Money Dies: Head to Head Comparison",
+  "metaDescription": "Niall Ferguson's financial history vs Adam Fergusson's hyperinflation warning. Which book reveals the power and danger of money more compellingly?",
+  "lastUpdated": "2026-02-07",
+  "category": "Finance & Investing",
+  "book1": {
+    "title": "The Ascent of Money",
+    "subtitle": "A Financial History of the World",
+    "author": "Niall Ferguson",
+    "isbn": "978-0143116172",
+    "publishedYear": 2008,
+    "pages": 448,
+    "rating": 4.3,
+    "ratingCount": 3200,
+    "price": 19.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_ASCENT_OF_MONEY",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143116172-L.jpg",
+    "description": "The Ascent of Money reveals finance as the backbone of history, casting a new light on familiar events: the Renaissance enabled by Italian foreign exchange dealers, the French Revolution traced back to a stock market bubble, the 2008 crisis traced from America's bankruptcy capital to China's boomtown. Ferguson shows how finance is in fact the foundation of human progress. What's more, he reveals financial history as the essential backstory behind all history."
+  },
+  "book2": {
+    "title": "When Money Dies",
+    "subtitle": "The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany",
+    "author": "Adam Fergusson",
+    "isbn": "978-1586489946",
+    "publishedYear": 1975,
+    "pages": 296,
+    "rating": 4.5,
+    "ratingCount": 1400,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_WHEN_MONEY_DIES",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781586489946-L.jpg",
+    "description": "When Money Dies is the classic history of what happens when a nation's currency depreciates beyond recovery. In 1923, with its currency effectively worthless, the German economy collapsed. Extraordinarily, the disaster has also served as a useful economic lesson: among its advisers during the 1990s, the IMF included historians who remembered what happened in Weimar. Written in 1975, this book tells the story of the nightmare world of money gone mad."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Complete financial history from ancient Babylon to 2008 crisis",
+        "book2": "Focused case study of Weimar Germany's hyperinflation nightmare"
+      },
+      {
+        "feature": "Scope",
+        "book1": "Broad—banking, bonds, stocks, insurance, real estate, derivatives across centuries",
+        "book2": "Narrow—deep dive into one hyperinflation episode 1918-1923"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "Financial innovation drives human progress and occasional disaster",
+        "book2": "Hyperinflation destroys societies, economies, and moral fabric completely"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Academic, comprehensive, balanced view of finance",
+        "book2": "Cautionary tale, harrowing, warning about monetary collapse"
+      },
+      {
+        "feature": "Key Insight",
+        "book1": "Money and credit are the essential foundations of civilization",
+        "book2": "Currency debasement leads to societal collapse and moral decay"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding financial systems comprehensively across history",
+        "book2": "Understanding inflation dangers and monetary policy failures"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "448 pages",
+        "book2": "296 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2008",
+        "book2": "1975"
+      }
+    ],
+    "book1Strengths": [
+      "Comprehensive financial history from ancient times to modern era",
+      "Larger audience (3,200 vs 1,400) shows broader appeal",
+      "Connects financial innovation to human progress brilliantly",
+      "The bond market chapter explaining government debt is eye-opening",
+      "Shows how financial crises repeat throughout history",
+      "Niall Ferguson's storytelling makes finance entertaining",
+      "Perfect for understanding the big picture of money and finance",
+      "The 2008 crisis analysis provides modern context"
+    ],
+    "book1Weaknesses": [
+      "At 448 pages, it's long and requires commitment",
+      "Lower rating (4.3 vs 4.5) suggests less focused impact",
+      "Published 2008—predates crypto and post-crisis developments",
+      "The comprehensive approach can feel scattered across too many topics",
+      "Less urgency than When Money Dies' focused warning",
+      "Some readers find Ferguson's pro-finance bias problematic",
+      "Doesn't provide the visceral warning about hyperinflation"
+    ],
+    "book2Strengths": [
+      "Higher rating (4.5 vs 4.3) shows stronger focused impact",
+      "The most vivid account of hyperinflation ever written",
+      "Shows exactly what happens when currency collapses—societal breakdown",
+      "Shorter at 296 pages—more focused and intense",
+      "Directly relevant warning for deficit spending and money printing",
+      "The human stories make abstract economics real and terrifying",
+      "Published 1975 but feels urgently relevant today",
+      "Perfect cautionary tale for understanding inflation dangers"
+    ],
+    "book2Weaknesses": [
+      "Smaller audience (1,400 vs 3,200)—less mainstream recognition",
+      "Narrower focus—only covers one episode, not broader finance",
+      "Can feel depressing and alarmist",
+      "Doesn't provide comprehensive financial education like Ascent",
+      "The Weimar-specific details may not translate perfectly to modern contexts",
+      "Less balanced—focused on disaster rather than progress",
+      "Doesn't cover as many financial instruments and innovations"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Behind each great historical phenomenon there lies a financial secret.",
+      "Money is not metal. It is trust inscribed.",
+      "Financial markets are mirrors of mankind, reflecting every greedy bubble, every panic, every tarnished dream.",
+      "The ascent of money has been essential to the ascent of man.",
+      "From ancient Mesopotamia to present-day China, the ascent of money has been one of the driving forces behind human progress.",
+      "The history of finance shows that crises and disasters are inevitable.",
+      "Every financial innovation is a double-edged sword.",
+      "Credit and debt are the yin and yang of finance."
+    ],
+    "book2": [
+      "When money dies, society dies with it.",
+      "Inflation is not an act of God. Inflation is a policy.",
+      "The middle class, which had been the backbone of German society, was wiped out.",
+      "People carried money in wheelbarrows to buy a loaf of bread.",
+      "Savings became worthless overnight. A lifetime of thrift destroyed in months.",
+      "The social and moral consequences of the collapse of money were catastrophic.",
+      "Hyperinflation destroyed not just savings, but trust, morality, and social bonds.",
+      "Those who lived through the inflation never forgot it. They never trusted paper money again."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Understand financial history from ancient Babylon to 2008 crisis",
+      "See how banking, bonds, and markets drive human civilization",
+      "Learn why financial crises repeat throughout history",
+      "Master the big picture of money's role in progress",
+      "Perfect for comprehensive financial education",
+      "Connect historical patterns to modern financial events"
+    ],
+    "book2": [
+      "Get the most vivid account of hyperinflation ever written",
+      "Understand exactly what currency collapse does to society",
+      "See the human cost of monetary policy failures",
+      "Learn why deficit spending and money printing are dangerous",
+      "Perfect cautionary tale for modern monetary concerns",
+      "Understand inflation dangers beyond abstract economics"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "According to us, The Ascent of Money wins if you want comprehensive financial education across history. It has a larger audience (3,200 vs 1,400) and broader scope. When Money Dies wins if you want a focused warning about inflation and monetary collapse. The higher rating (4.5 vs 4.3) shows its powerful impact. Ferguson educates broadly; Fergusson warns specifically. Different purposes entirely.",
+    "recommendation": "We'd suggest reading The Ascent of Money if you're building financial literacy and want to understand money's role in history comprehensively. It's educational and balanced. Read When Money Dies if you're concerned about inflation, deficit spending, and currency debasement—it's the most powerful warning about monetary collapse ever written. If you only read one and want breadth, choose Ascent of Money. If you want depth on inflation dangers, choose When Money Dies. Honestly, both serve different purposes. Read Ascent for education, When Money Dies for warning. In today's environment of massive deficit spending and money printing, When Money Dies may be more urgently relevant."
+  }
+}

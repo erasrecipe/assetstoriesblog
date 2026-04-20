@@ -1,0 +1,146 @@
+﻿{
+  "slug": "company-of-one-vs-million-dollar-one-person-business",
+  "title": "Company of One vs The Million-Dollar, One-Person Business: Head to Head Comparison",
+  "metaDescription": "Paul Jarvis's Company of One vs Elaine Pofeldt's The Million-Dollar, One-Person Business—two solo entrepreneurship books compared. Which path to independence?",
+  "lastUpdated": "2026-02-07",
+  "category": "Technology & Innovation",
+  "book1": {
+    "title": "Company of One",
+    "subtitle": "Why Staying Small Is the Next Big Thing for Business",
+    "author": "Paul Jarvis",
+    "isbn": "978-0358213253",
+    "publishedYear": 2019,
+    "pages": 272,
+    "rating": 4.3,
+    "ratingCount": 4200,
+    "price": 16.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780358213253-L.jpg",
+    "description": "Company of One challenges growth-at-all-costs mentality and argues for staying small intentionally. Paul Jarvis defines a company of one as someone who questions growth and focuses on becoming better instead of bigger. The book covers resilience, autonomy, simplicity, and speed over scale. Jarvis shows how staying small gives you freedom, flexibility, and sustainability. Rather than pursuing maximum revenue, focus on enough revenue with minimum complexity. The philosophy applies whether you're solo or have a small team—it's about intentionally choosing not to scale. Essential reading for anyone who wants business success without sacrificing life quality."
+  },
+  "book2": {
+    "title": "The Million-Dollar, One-Person Business",
+    "subtitle": "Make Great Money, Work the Way You Like, Have the Life You Want",
+    "author": "Elaine Pofeldt",
+    "isbn": "978-0399580536",
+    "publishedYear": 2018,
+    "pages": 304,
+    "rating": 4.4,
+    "ratingCount": 1800,
+    "price": 17.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780399580536-L.jpg",
+    "description": "The Million-Dollar, One-Person Business shows how solopreneurs are building million-dollar businesses without employees. Elaine Pofeldt profiles entrepreneurs hitting seven figures through automation, outsourcing, and leverage. The book provides tactical strategies for scaling revenue without scaling headcount. Pofeldt covers business models that work (e-commerce, online education, real estate, etc.), how to automate, and which tools enable solo success. Unlike Company of One's 'stay small' philosophy, this book is about hitting big numbers solo. It's aspirational and practical, showing that million-dollar revenue is achievable for solo entrepreneurs with the right strategies."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Philosophy",
+        "book1": "Question growth, stay intentionally small",
+        "book2": "Scale revenue, not team"
+      },
+      {
+        "feature": "Revenue Goal",
+        "book1": "Enough is enough (sufficiency)",
+        "book2": "Million dollars (ambitious target)"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Philosophical—why stay small",
+        "book2": "Tactical—how to reach $1M solo"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Lifestyle and autonomy",
+        "book2": "Revenue optimization"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "272 pages",
+        "book2": "304 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2019",
+        "book2": "2018"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Finding contentment staying small",
+        "book2": "Building high-revenue solo business"
+      },
+      {
+        "feature": "Mindset",
+        "book1": "Anti-growth, pro-simplicity",
+        "book2": "Pro-leverage, pro-revenue"
+      }
+    ],
+    "book1Strengths": [
+      "Challenges the unhealthy growth-at-all-costs startup mentality",
+      "Permission to build a business that serves your life, not the other way around",
+      "Focus on resilience and sustainability over quick growth",
+      "Addresses burnout and the downsides of scaling most ignore",
+      "Perfect for people who want business success without sacrificing quality of life",
+      "The 'better not bigger' philosophy is refreshing and liberating"
+    ],
+    "book1Weaknesses": [
+      "Less tactical guidance on actually making money",
+      "Can feel like justification for not growing when you should",
+      "The anti-growth message won't resonate with ambitious entrepreneurs",
+      "Fewer concrete strategies compared to Million-Dollar book"
+    ],
+    "book2Strengths": [
+      "Profiles real entrepreneurs hitting $1M+ revenue solo—proof it's possible",
+      "Tactical strategies for automation, outsourcing, and leverage",
+      "Covers multiple business models that work for solopreneurs",
+      "Aspirational while remaining practical and achievable",
+      "Shows how to scale revenue without employees through technology",
+      "Perfect for ambitious solopreneurs wanting big numbers"
+    ],
+    "book2Weaknesses": [
+      "Less philosophical depth about whether you should pursue $1M",
+      "The million-dollar goal may feel arbitrary or overwhelming",
+      "Doesn't address the lifestyle trade-offs as thoroughly",
+      "Some strategies require significant upfront investment"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "A company of one is simply a business that questions growth.",
+      "Better beats bigger every time.",
+      "Growth is not the only path to business success.",
+      "The goal isn't to scale to infinity. The goal is to scale to enough.",
+      "When you focus on being better instead of bigger, you end up both better off and better at business.",
+      "You don't have to grow your business to grow your profits."
+    ],
+    "book2": [
+      "A million-dollar business is within reach of more entrepreneurs than ever before.",
+      "Technology has made it possible to scale revenue without scaling staff.",
+      "The key is leverage—using tools and contractors to multiply your output.",
+      "You don't need employees to hit seven figures. You need systems.",
+      "Automation is your employee. Technology is your team.",
+      "Think big revenue, small team—even a team of one."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You're questioning whether growth is actually what you want",
+      "You want business success without sacrificing life quality",
+      "You're burned out on startup culture and need a different philosophy",
+      "You want permission to stay small intentionally",
+      "You value autonomy and simplicity over revenue maximization"
+    ],
+    "book2": [
+      "You want to hit million-dollar revenue as a solopreneur",
+      "You need tactical strategies for scaling revenue without employees",
+      "You're interested in automation, outsourcing, and leverage",
+      "You want proof that seven figures solo is achievable",
+      "You're ambitious and want big numbers without big teams"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "These books represent fundamentally different philosophies. Company of One is about contentment and intentional smallness. Million-Dollar is about ambition and revenue optimization. Here's how we see it: if you want lifestyle and sufficiency, read Company of One. If you want high revenue and scale, read Million-Dollar. Neither approach is wrong—they're just different paths to solo entrepreneurship.",
+    "recommendation": "Read Company of One if growth doesn't excite you and you want a business that serves your life. Jarvis gives you permission to stay small and shows why better beats bigger. Perfect for people tired of growth-at-all-costs culture who want sustainable, simple businesses. Read The Million-Dollar, One-Person Business if you want high revenue but hate the idea of employees. Pofeldt shows how leverage and automation enable seven-figure solo businesses. Perfect for ambitious solopreneurs who want the money without the management headaches. Both books are valuable but for different entrepreneurs. Company of One is your philosophy for staying small intentionally. Million-Dollar is your playbook for scaling revenue solo. Choose based on what matters more: simplicity (Company of One) or revenue (Million-Dollar)."
+  }
+}

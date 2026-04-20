@@ -1,0 +1,152 @@
+﻿{
+    "slug":  "buy-back-your-time-vs-who-not-how",
+    "title":  "Buy Back Your Time vs Who Not How: Head to Head Comparison",
+    "metaDescription":  "Dan Martell\u0027s Buy Back Your Time vs Dan Sullivan\u0027s Who Not How—two delegation books compared. Which will help you reclaim your time?",
+    "lastUpdated":  "2026-02-07",
+    "category":  "Technology \u0026 Innovation",
+    "book1":  {
+                  "title":  "Buy Back Your Time",
+                  "subtitle":  "Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+                  "author":  "Dan Martell",
+                  "isbn":  "978-0593544532",
+                  "publishedYear":  2023,
+                  "pages":  288,
+                  "rating":  4.7,
+                  "ratingCount":  3200,
+                  "price":  17.99,
+                  "amazonUrl":  "PLACEHOLDER",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780593544532-L.jpg",
+                  "description":  "Buy Back Your Time is Dan Martell\u0027s system for entrepreneurs to reclaim their time through strategic delegation and hiring. Martell introduces the Buyback Principle: for every dollar you earn, buy back one hour of your time. The book provides practical frameworks like the Replacement Ladder (what to delegate first), the Buyback Loop (audit, transfer, fill), and how to hire your first assistant. Martell shares his journey from overwhelmed founder to CEO with freedom. The focus is tactical—exactly how to delegate, what to delegate, and how to train people. It\u0027s about working less while growing your business more by investing in the right people."
+              },
+    "book2":  {
+                  "title":  "Who Not How",
+                  "subtitle":  "The Formula to Achieve Bigger Goals Through Accelerating Teamwork",
+                  "author":  "Dan Sullivan and Benjamin Hardy",
+                  "isbn":  "978-1401960582",
+                  "publishedYear":  2020,
+                  "pages":  256,
+                  "rating":  4.6,
+                  "ratingCount":  5800,
+                  "price":  15.99,
+                  "amazonUrl":  "PLACEHOLDER",
+                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781401960582-L.jpg",
+                  "description":  "Who Not How presents a paradigm shift: instead of asking \u0027How do I achieve this goal?\u0027 ask \u0027Who can help me achieve this?\u0027 Dan Sullivan and Benjamin Hardy argue that trying to figure everything out yourself limits your growth. By finding the right people (the Whos) to handle tasks, you multiply your capabilities. The book covers mindset shifts, how to build relationships with Whos, and why collaboration beats solo effort. It\u0027s about thinking bigger by leveraging other people\u0027s skills and time. The concept applies to any area of life where you\u0027re stuck in \u0027how\u0027 mode instead of finding the right \u0027who.\u0027"
+              },
+    "comparison":  {
+                       "table":  [
+                                     {
+                                         "feature":  "Approach",
+                                         "book1":  "Tactical systems and frameworks",
+                                         "book2":  "Mindset shift and philosophy"
+                                     },
+                                     {
+                                         "feature":  "Detail Level",
+                                         "book1":  "Step-by-step how-to guide",
+                                         "book2":  "Conceptual framework"
+                                     },
+                                     {
+                                         "feature":  "Core Focus",
+                                         "book1":  "Buying back time through delegation",
+                                         "book2":  "Achieving bigger goals through Whos"
+                                     },
+                                     {
+                                         "feature":  "Tools Provided",
+                                         "book1":  "Replacement Ladder, Buyback Loop, templates",
+                                         "book2":  "Mindset reframes, relationship principles"
+                                     },
+                                     {
+                                         "feature":  "Author Background",
+                                         "book1":  "Tech entrepreneur, SaaS founder",
+                                         "book2":  "Strategic Coach, business coaching"
+                                     },
+                                     {
+                                         "feature":  "Page Count",
+                                         "book1":  "288 pages",
+                                         "book2":  "256 pages"
+                                     },
+                                     {
+                                         "feature":  "Published",
+                                         "book1":  "2023 (most recent)",
+                                         "book2":  "2020"
+                                     },
+                                     {
+                                         "feature":  "Best For",
+                                         "book1":  "Tactical implementation of delegation",
+                                         "book2":  "Mindset shift about collaboration"
+                                     }
+                                 ],
+                       "book1Strengths":  [
+                                              "The buyback loop of audit time, transfer tasks, and fill with  work creates clear system for buying back your time",
+                                              "At 256 pages with 3,800 ratings at 4.6 stars this is Martell\u0027s framework for entrepreneurs drowning in  hourly tasks",
+                                              "The replacement ladder showing how to progressively hire people to take over your work is tactical step by step roadmap",
+                                              "The pain line concept identifying the tipping point where doing everything yourself becomes unsustainable is relatable insight",
+                                              "The production quadrant showing time wasters versus money makers helps you ruthlessly cut low value activities immediately",
+                                              "Real examples from Martell\u0027s businesses show this working at scale giving you confidence the system actually works",
+                                              "The focus on buying back time to do  work not leisure reframes delegation as investment not laziness"
+                                          ],
+                       "book1Weaknesses":  [
+                                               "Only 3,800 ratings versus Who Not How\u0027s 5,800 shows it hasn\u0027t achieved the same mainstream traction yet",
+                                               "The framework assumes you\u0027re already making enough money to hire people which excludes bootstrapped solopreneurs struggling financially",
+                                               "At 256 pages some concepts feel repetitive when the core idea is simple delegate low value work to focus high value",
+                                               "The  work framing creates arbitrary threshold that doesn\u0027t account for different business models and profit margins",
+                                               "Martell\u0027s examples are from service businesses and agencies so product companies need to translate frameworks heavily",
+                                               "The emphasis on hiring employees versus contractors misses modern gig economy options that give more flexibility"
+                                           ],
+                       "book2Strengths":  [
+                                              "The who not how mindset shift from how do I do this to who can do this transforms how you approach every problem",
+                                              "At 256 pages with 5,800 ratings at 4.5 stars this is Dan Sullivan\u0027s framework taught in Strategic Coach for decades",
+                                              "The concept works at any budget level whether who is  virtual assistant or  specialist or equity partner",
+                                              "The freedom of focus showing how finding whos multiplies your impact exponentially is inspiring vision of leverage",
+                                              "The relationship focus teaching you to invest in whos as partners not just hired help creates better long term outcomes",
+                                              "The simple core concept makes it accessible to anyone while Buyback Your Time requires more business sophistication",
+                                              "The emphasis on procrastination being caused by asking how instead of who is psychologically insightful reframe"
+                                          ],
+                       "book2Weaknesses":  [
+                                               "At 256 pages it feels padded when the core concept could be explained in 50 page article or podcast episode",
+                                               "The framework assumes you can afford to hire whos which isn\u0027t realistic for early stage entrepreneurs burning savings",
+                                               "Some readers find the fable format with fictional characters annoying when they want straightforward business advice",
+                                               "The delegation advice feels obvious to anyone who\u0027s managed teams before so experienced leaders won\u0027t find much new",
+                                               "The lower 4.5 rating versus Buyback\u0027s 4.6 suggests readers found it less actionable despite having more followers",
+                                               "The book doesn\u0027t address how to find good whos or vet them which is actually the hard part of delegation"
+                                           ]
+                   },
+    "quotes":  {
+                   "book1":  [
+                                 "For every dollar you earn, buy back one hour of your time.",
+                                 "The goal is not to work less. The goal is to do more of what you love.",
+                                 "Delegation is not about dumping tasks. It\u0027s about designing systems.",
+                                 "Your time is your most valuable asset. Treat it that way.",
+                                 "Most entrepreneurs are their own biggest bottleneck.",
+                                 "Freedom comes from building a business that doesn\u0027t need you."
+                             ],
+                   "book2":  [
+                                 "Stop asking \u0027How do I do this?\u0027 Start asking \u0027Who can do this?\u0027",
+                                 "Who Not How is about abundance, not scarcity.",
+                                 "You can have anything you want if you know the right Who.",
+                                 "Freedom comes from having the right Whos in your life.",
+                                 "The quality of your life is determined by the Whos in your life.",
+                                 "Trying to figure out how limits your thinking. Finding the right who expands it."
+                             ]
+               },
+    "whyRead":  {
+                    "book1":  [
+                                  "You\u0027re overwhelmed and need specific tactics for delegating",
+                                  "You want step-by-step frameworks for hiring and training",
+                                  "You\u0027re an entrepreneur ready to hire your first assistant",
+                                  "You need practical templates and scripts, not just philosophy",
+                                  "You want recent strategies for building remote teams"
+                              ],
+                    "book2":  [
+                                  "You need a fundamental mindset shift about achievement",
+                                  "You\u0027re stuck thinking you have to figure everything out yourself",
+                                  "You want to think bigger but don\u0027t know how",
+                                  "You need permission to ask for help and collaborate",
+                                  "You\u0027re interested in Strategic Coach principles"
+                              ]
+                },
+    "verdict":  {
+                    "winner":  "Buy Back Your Time",
+                    "summary":  "Buy Back Your Time wins decisively for ACTION (4.7 stars, 3,200 ratings vs 4.6 stars, 5,800 ratings). Dan Martell gives you frameworks you can use Monday—Replacement Ladder, Buyback Loop, DRIP method, Camcorder training. Who Not How gives you philosophy—\u0027ask who not how.\u0027 That\u0027s ONE insight repeated 256 pages. Most entrepreneurs need tactical systems more than mindset shifts. Buy Back Your Time is newer (2023 vs 2020), more detailed, and more useful.",
+                    "recommendation":  "Read Buy Back Your Time first—it\u0027s the complete system. You\u0027ll get the Replacement Ladder (delegate admin $10/hr → delivery $25/hr → marketing $50/hr → sales $100/hr, in that order), the Buyback Loop (Audit with DRIP method → Transfer with Camcorder training → Fill with high-value work), the Buyback Rate formula (Annual Income ÷ 2,000 hours = your hourly rate, delegate everything below it), and the Pain Line concept (track energy, delegate draining tasks). Dan Martell built 5 SaaS companies with this. It\u0027s PROVEN. 288 pages, published 2023, modern tactics for hiring Philippines VAs ($5-15/hr) and remote teams. THEN read Who Not How ONLY if you need the mindset unlock—Dan Sullivan\u0027s \u0027stop asking how, start asking who\u0027 reframe is powerful if you\u0027re stuck in \u0027I must do everything myself\u0027 mode. The book gives PERMISSION to collaborate and leverage relationships. But it\u0027s light on tactics. You\u0027ll get inspired but not a playbook. If you\u0027re broke or early-stage: Who Not How works without money (find partners, mentors, collaborators). If you have $500-1000/month budget: Buy Back Your Time shows you EXACTLY how to delegate. Most entrepreneurs are past the mindset phase—they KNOW they should delegate, they just don\u0027t know HOW. That\u0027s why Buy Back Your Time wins."
+                }
+}

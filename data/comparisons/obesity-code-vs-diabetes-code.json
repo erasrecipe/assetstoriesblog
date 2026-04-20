@@ -1,0 +1,146 @@
+﻿{
+  "slug": "obesity-code-vs-diabetes-code",
+  "title": "The Obesity Code vs The Diabetes Code: Head to Head Comparison",
+  "metaDescription": "Dr. Jason Fung's The Obesity Code vs The Diabetes Code—two metabolic health guides compared. Which should you read first for better health?",
+  "lastUpdated": "2026-02-07",
+  "category": "Health & Wellness",
+  "book1": {
+    "title": "The Obesity Code",
+    "subtitle": "Unlocking the Secrets of Weight Loss",
+    "author": "Dr. Jason Fung",
+    "isbn": "978-1771641258",
+    "publishedYear": 2016,
+    "pages": 296,
+    "rating": 4.6,
+    "ratingCount": 24000,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781771641258-L.jpg",
+    "description": "The Obesity Code challenges conventional weight loss wisdom and argues that obesity is a hormonal disorder, not a caloric one. Dr. Jason Fung, a nephrologist, explains how insulin resistance drives weight gain and why traditional calorie-counting diets fail long-term. He introduces intermittent fasting as a powerful tool to reset insulin levels and achieve sustainable weight loss. The book covers the science behind insulin, cortisol, and other hormones that regulate body weight, offering practical strategies for breaking the cycle of yo-yo dieting. Fung's approach focuses on when you eat, not just what you eat, revolutionizing how we think about weight loss."
+  },
+  "book2": {
+    "title": "The Diabetes Code",
+    "subtitle": "Prevent and Reverse Type 2 Diabetes Naturally",
+    "author": "Dr. Jason Fung",
+    "isbn": "978-1771642651",
+    "publishedYear": 2018,
+    "pages": 288,
+    "rating": 4.7,
+    "ratingCount": 8500,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781771642651-L.jpg",
+    "description": "The Diabetes Code presents a revolutionary approach to understanding and reversing type 2 diabetes. Dr. Jason Fung argues that diabetes is not a chronic, progressive disease but a reversible condition of too much sugar in the body. Rather than managing diabetes with medication, he advocates addressing the root cause through dietary intervention and intermittent fasting. The book explains the insulin resistance cycle, how it leads to diabetes, and provides a clear protocol for reversing the condition naturally. Fung challenges the conventional diabetes treatment paradigm and offers hope that type 2 diabetes can be cured, not just managed."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Primary Focus",
+        "book1": "Weight loss and obesity",
+        "book2": "Type 2 diabetes prevention/reversal"
+      },
+      {
+        "feature": "Core Problem",
+        "book1": "Insulin resistance causing weight gain",
+        "book2": "Insulin resistance causing high blood sugar"
+      },
+      {
+        "feature": "Target Audience",
+        "book1": "People struggling with weight loss",
+        "book2": "Pre-diabetics and type 2 diabetics"
+      },
+      {
+        "feature": "Main Solution",
+        "book1": "Intermittent fasting + low carb",
+        "book2": "Intermittent fasting + very low carb"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Challenging diet industry myths",
+        "book2": "Challenging medical establishment"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "296 pages",
+        "book2": "288 pages"
+      },
+      {
+        "feature": "Science Depth",
+        "book1": "Moderate—insulin and hormones",
+        "book2": "Deeper—diabetes pathophysiology"
+      },
+      {
+        "feature": "Best For",
+        "book1": "General weight loss seekers",
+        "book2": "Those with diabetes or at high risk"
+      }
+    ],
+    "book1Strengths": [
+      "Completely changes how you think about weight loss—it's not just calories in, calories out",
+      "The insulin resistance explanation makes so much sense and explains why diets fail",
+      "Intermittent fasting is presented as doable and flexible, not an extreme restriction",
+      "Challenges the diet industry with evidence that calorie counting doesn't work long-term",
+      "Gives hope to people who've failed at every diet—there's a reason, and there's a solution",
+      "Practical protocols you can start implementing immediately"
+    ],
+    "book1Weaknesses": [
+      "Some claims are controversial and not universally accepted by all nutrition experts",
+      "Can feel like it oversimplifies complex weight loss by blaming everything on insulin",
+      "Intermittent fasting isn't for everyone—some people struggle with eating windows",
+      "Less specific about what to eat, more focused on when to eat"
+    ],
+    "book2Strengths": [
+      "Offers genuine hope that type 2 diabetes can be reversed, not just managed",
+      "Challenges the medical paradigm of treating diabetes with more insulin",
+      "The science behind insulin resistance and diabetes progression is clearly explained",
+      "Provides a clear, actionable protocol for reversing diabetes naturally",
+      "More focused and specific than Obesity Code—directly addresses a serious health crisis",
+      "Backed by Dr. Fung's clinical experience successfully reversing patient diabetes"
+    ],
+    "book2Weaknesses": [
+      "The approach is more aggressive and restrictive than Obesity Code",
+      "Some recommendations (very low carb, extended fasting) require medical supervision",
+      "Diabetics on medication MUST work with doctors—DIY approach could be dangerous",
+      "Can feel preachy about conventional diabetes treatment being wrong"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Obesity is a hormonal, not a caloric imbalance.",
+      "The calorie-in, calorie-out model has failed us spectacularly.",
+      "It's not what you eat, but when you eat that matters most.",
+      "Insulin is the key that unlocks your fat stores. Lower insulin, unlock fat loss.",
+      "Intermittent fasting is not about starving yourself. It's about giving your body a break.",
+      "You don't need to eat less. You need to eat less often."
+    ],
+    "book2": [
+      "Type 2 diabetes is a reversible disease. Period.",
+      "Diabetes is not a disease of high blood sugar. It's a disease of too much sugar in the body.",
+      "We don't have a treatment problem with diabetes. We have an understanding problem.",
+      "Treating diabetes with insulin is like treating alcoholism with alcohol.",
+      "The cure for diabetes has been available for nearly a century. We just forgot about it.",
+      "You cannot cure a dietary disease with medication."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You've tried every diet and exercise program but can't keep weight off long-term",
+      "You want to understand the hormonal reasons behind weight gain and insulin resistance",
+      "You're interested in intermittent fasting as a weight loss strategy",
+      "You're frustrated with calorie counting and want a different approach",
+      "You want to lose weight and improve metabolic health simultaneously"
+    ],
+    "book2": [
+      "You have type 2 diabetes or pre-diabetes and want to reverse it naturally",
+      "You're concerned about family history of diabetes and want to prevent it",
+      "You're skeptical of the conventional 'manage diabetes with medication' approach",
+      "You want to understand the root cause of diabetes and how to address it",
+      "You're willing to make aggressive dietary changes to reverse a serious health condition"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Obesity Code wins popularity with 24,000 ratings at 4.6 versus 8,500 at 4.7—both Dr. Fung addressing insulin resistance differently. Obesity Code (296 pages, 2016) focuses on weight loss through intermittent fasting and low carb. Diabetes Code (288 pages, 2018) targets type 2 diabetes reversal with more aggressive very low carb and extended fasting. Same core problem (insulin resistance) but different audiences—weight loss versus diabetes crisis. Companion pieces not competitors.",
+    "recommendation": "Read The Obesity Code if you want weight loss through insulin management. You'll get hormonal disorder explanation (not calories), why traditional diets fail long-term, intermittent fasting protocols practical and flexible, insulin/cortisol science clearly explained, 296 pages challenging diet industry, and hope for sustainable weight loss (24K ratings at 4.6). Perfect for frustrated dieters wanting different approach. Read The Diabetes Code if you have type 2 diabetes or pre-diabetes. You'll get revolutionary reversal approach (not just management), addressing root cause not symptoms, clear protocol through dietary intervention and fasting, insulin resistance cycle deeply explained, 288 pages offering genuine hope backed by Fung's clinical success (8,500 ratings at 4.7). MUST work with doctor if on medication—DIY dangerous. Most readers? Choose Obesity Code for general weight loss. Diabetic or high risk? Choose Diabetes Code for specific reversal protocol. Ideally read both—companion pieces on same metabolic problem."
+  }
+}

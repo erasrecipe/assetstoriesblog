@@ -1,0 +1,148 @@
+﻿{
+  "slug": "jane-eyre-vs-pride-and-prejudice",
+  "title": "Jane Eyre vs Pride and Prejudice: Head to Head Comparison",
+  "metaDescription": "Gothic passion vs Regency wit: Brontë's Jane Eyre battles Austen's Pride and Prejudice. Which classic romance captures your heart?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Jane Eyre",
+    "subtitle": "",
+    "author": "Charlotte Brontë",
+    "isbn": "978-0141441146",
+    "publishedYear": 1847,
+    "pages": 532,
+    "rating": 4.6,
+    "ratingCount": 2180000,
+    "price": 14.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_JANE_EYRE",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141441146-L.jpg",
+    "description": "Jane Eyre follows the emotions and experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester, the brooding master of Thornfield Hall. The novel revolutionized prose fiction in that the focus on Jane's moral and spiritual development is told through an intimate, first-person narrative."
+  },
+  "book2": {
+    "title": "Pride and Prejudice",
+    "subtitle": "",
+    "author": "Jane Austen",
+    "isbn": "978-0141439518",
+    "publishedYear": 1813,
+    "pages": 279,
+    "rating": 4.7,
+    "ratingCount": 4560000,
+    "price": 12.99,
+    "amazonUrl": "PLACEHOLDER_AMAZON_URL_PRIDE_PREJUDICE",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+    "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work 'her own darling child' and its vivacious heroine, Elizabeth Bennet, 'as delightful a creature as ever appeared in print.'"
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Genre",
+        "book1": "Gothic romance, bildungsroman",
+        "book2": "Regency romance, comedy of manners"
+      },
+      {
+        "feature": "Heroine",
+        "book1": "Jane Eyre (plain, passionate, independent)",
+        "book2": "Elizabeth Bennet (witty, lively, prejudiced)"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Dark, intense, emotional",
+        "book2": "Light, witty, satirical"
+      },
+      {
+        "feature": "Romance Style",
+        "book1": "Intense passion, Gothic elements",
+        "book2": "Witty banter, enemies to lovers"
+      },
+      {
+        "feature": "Male Lead",
+        "book1": "Rochester (brooding, complex, flawed)",
+        "book2": "Darcy (proud, reserved, perfect underneath)"
+      },
+      {
+        "feature": "Narrative Style",
+        "book1": "First-person, deeply internal",
+        "book2": "Third-person, more external focus"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "532 pages",
+        "book2": "279 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "1847",
+        "book2": "1813"
+      }
+    ],
+    "book1Strengths": [
+      "Jane's 'I am no bird' speech is feminist fire—1847 heroine demanding equality with Rochester on moral grounds",
+      "First-person intimacy lets you live inside Jane's head—her Lowood suffering, Thornfield passion feel visceral",
+      "Bertha Mason in the attic is Gothic perfection—the madwoman reveal destroys Jane's wedding in literature's best twist",
+      "Rochester's moral complexity (hiding his wife, testing Jane) makes him fascinatingly flawed, not fairy-tale perfect",
+      "2,180,000 ratings at 4.6 stars—'Reader, I married him' is one of literature's most famous lines for good reason",
+      "Explores class, feminism, religion deeply—Jane refuses Rochester AND St. John, choosing herself over both men"
+    ],
+    "book1Weaknesses": [
+      "532 pages versus Pride's 279—nearly double the length means the Lowood childhood section drags before Thornfield",
+      "Rochester hiding his mad wife then emotionally manipulating Jane is deeply problematic by 2026 standards",
+      "Gothic melodrama (Bertha's laugh, fire, mysterious veil-ripping) feels campy to modern readers expecting realism",
+      "St. John Rivers section at the end slows momentum—his missionary proposal feels like an anti-climactic detour"
+    ],
+    "book2Strengths": [
+      "Elizabeth Bennet's wit sparkles—her 'tolerable but not handsome enough' comeback to Darcy's insult is iconic",
+      "The Pemberley visit where Elizabeth sees Darcy's portrait and realizes she loves him—romance perfection",
+      "4,560,000 ratings at 4.7 stars—most beloved romance ever written, 'You have bewitched me' is eternal swoon",
+      "279 pages of perfectly paced enemies-to-lovers—no dull moments, every scene advances romance or satire",
+      "Social satire cuts deep—Mrs. Bennet's hysteria and Mr. Collins's pomposity are genuinely hilarious",
+      "Darcy's first proposal ('my struggles against your inferiority') is spectacularly bad, making redemption sweeter"
+    ],
+    "book2Weaknesses": [
+      "Third-person narration creates distance—you watch Elizabeth, but don't live inside her head like Jane Eyre",
+      "Entire plot revolves around marriage market—thematically narrower than Jane Eyre's class, religion, feminism",
+      "Supporting cast is caricatures—Mr. Collins, Lady Catherine are funny but cartoonish versus Rochester's complexity",
+      "Lighter tone sacrifices depth—this is sparkling comedy, not the emotional gut-punch of Jane's suffering"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "I am no bird; and no net ensnares me; I am a free human being with an independent will.",
+      "I would always rather be happy than dignified.",
+      "I am not an angel and I will not be one till I die: I will be myself.",
+      "Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless? You think wrong!—I have as much soul as you,—and full as much heart!",
+      "Reader, I married him.",
+      "I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself."
+    ],
+    "book2": [
+      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "You have bewitched me, body and soul, and I love, I love, I love you.",
+      "I could easily forgive his pride, if he had not mortified mine.",
+      "In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+      "There is a stubbornness about me that never can bear to be frightened at the will of others.",
+      "I declare after all there is no enjoyment like reading!"
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want intense emotion and Gothic atmosphere",
+      "You love deeply flawed, complex characters who feel real",
+      "You're interested in feminist themes and female independence",
+      "You want romance with mystery, suspense, and secrets",
+      "You appreciate first-person narrative that gets inside the heroine's head",
+      "You're ready for a longer, more immersive reading experience"
+    ],
+    "book2": [
+      "You want the definitive Regency romance with sparkling wit",
+      "You prefer light, entertaining reads with social satire",
+      "You love enemies-to-lovers romance done perfectly",
+      "You want something shorter and more immediately accessible",
+      "You enjoy witty dialogue and clever banter",
+      "You're looking for pure reading pleasure without heavy themes"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Pride and Prejudice wins popularity with 4,560,000 ratings at 4.7 versus 2,180,000 at 4.6 stars—it's more universally beloved. Elizabeth's wit and the enemies-to-lovers romance are perfection. But Jane Eyre offers deeper emotional intensity with first-person Gothic passion. Pride is the perfect romance (279 pages of sparkling banter), Jane is the deeper character study (532 pages of moral complexity). Choose your mood: Austen's light brilliance or Brontë's dark fire.",
+    "recommendation": "Read Pride and Prejudice first if you want instant charm. You'll get Elizabeth's 'tolerable but not handsome enough' wit, the Pemberley visit revelation, Darcy's disastrous first proposal ('struggles against your inferiority'), Mrs. Bennet's hilarious hysteria, and the 'You have bewitched me' swoon. It's 279 pages of perfection—enemies-to-lovers romance and social satire combined. Read Jane Eyre if you want Gothic intensity. You'll get the 'I am no bird' feminist speech, Bertha Mason's attic secret destroying the wedding, Rochester's moral complexity, and 'Reader, I married him.' It's 532 pages of first-person emotional immersion—darker, heavier, more thematically rich. Both are masterpieces. Pride is universally beloved (4.56M ratings), Jane is for readers who want depth over accessibility. If you only read one, choose Pride for joy, Jane for substance. But honestly? Read both—they're two sides of romance."
+  }
+}
