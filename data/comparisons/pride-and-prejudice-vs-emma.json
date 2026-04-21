@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "pride-and-prejudice-vs-emma",
   "title": "Pride and Prejudice vs Emma: Head to Head Comparison",
   "metaDescription": "Jane Austen's two most beloved novels compared: Elizabeth Bennet vs Emma Woodhouse. Which Regency masterpiece reigns supreme?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 4560000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_PRIDE_PREJUDICE",
+    "amazonUrl": "https://www.amazon.com/dp/9780141439518?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
     "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work 'her own darling child' and its vivacious heroine, Elizabeth Bennet, 'as delightful a creature as ever appeared in print.'"
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 1720000,
     "price": 13.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_EMMA",
+    "amazonUrl": "https://www.amazon.com/dp/0143034813?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439587-L.jpg",
     "description": "Emma Woodhouse is perfectly content with her life and sees no need for either love or marriage. Nothing, however, delights her more than interfering in the romantic lives of others. But when she ignores the warnings of her good friend Mr. Knightley and attempts to arrange a suitable match for her protégée Harriet Smith, her carefully laid plans soon unravel and have consequences that she never expected."
   },

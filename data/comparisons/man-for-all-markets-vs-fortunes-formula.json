@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 2400,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MAN_FOR_ALL_MARKETS",
+    "amazonUrl": "https://www.amazon.com/dp/9781400067961?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781400067961-L.jpg",
     "description": "The incredible true story of the card-counting mathematics professor who taught the world how to beat the dealer and unlocked the secrets of Wall Street. A Man for All Markets is the memoir of Edward Thorp, the brilliant mathematician who literally wrote the book on card counting, Beat the Dealer, and went on to apply his mathematical genius to Wall Street, where he pioneered quantitative investing and hedge funds."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 1800,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_FORTUNES_FORMULA",
+    "amazonUrl": "https://www.amazon.com/dp/9780809045990?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780809045990-L.jpg",
     "description": "In 1956, two Bell Labs scientists discovered the scientific formula for getting rich. One was mathematician Claude Shannon, inventor of information theory. The other was John L. Kelly Jr., who coined the 'Kelly Criterion.' The Kelly Criterion became the basis for beating casinos and making fortunes on Wall Street. Fortune's Formula tells the story of this remarkable formula and the colorful characters who used it—including Edward Thorp, the MIT graduate who invented card counting."
   },

@@ -1,144 +1,144 @@
 ﻿{
-    "slug":  "hyperion-vs-ilium",
-    "title":  "Hyperion vs Ilium: Head to Head Comparison",
-    "metaDescription":  "Dan Simmons\u0027s Hyperion vs Ilium—Canterbury Tales in space vs Homer\u0027s Iliad on Mars. Which literary sci-fi masterpiece wins?",
-    "lastUpdated":  "2026-02-08",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "Hyperion",
-                  "subtitle":  "Hyperion Cantos, Book One",
-                  "author":  "Dan Simmons",
-                  "isbn":  "978-0553283686",
-                  "publishedYear":  1989,
-                  "pages":  482,
-                  "rating":  4.2,
-                  "ratingCount":  142000,
-                  "price":  12.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
-                  "description":  "On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking answers to the unsolvable riddles of their lives. Each carries a desperate hope—and a terrible secret."
-              },
-    "book2":  {
-                  "title":  "Ilium",
-                  "subtitle":  "Ilium/Olympos, Book One",
-                  "author":  "Dan Simmons",
-                  "isbn":  "978-0380817924",
-                  "publishedYear":  2003,
-                  "pages":  576,
-                  "rating":  4.0,
-                  "ratingCount":  32000,
-                  "price":  18.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780380817924-L.jpg",
-                  "description":  "The Trojan War rages at the foot of Olympos Mons on Mars—observed and influenced from on high by Zeus and his immortal family—and forty-ninth-century professor Thomas Hockenberry is there to record every word for posterity. Far from the battlefields of Ilium, Daeman and his peaceful post-human friends in the distant future pursue lives of comfort and ease under the watchful eyes of the ancient AI entities called the voynix. And on the moons of Jupiter, sentient robots called moravecs plan an expedition to investigate the quantum disturbances on Mars—and discover what the gods are up to."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Structure",
-                                         "book1":  "Canterbury Tales format—6 pilgrims\u0027 stories",
-                                         "book2":  "Three parallel storylines (Mars, Earth, Jupiter)"
-                                     },
-                                     {
-                                         "feature":  "Literary Source",
-                                         "book1":  "Chaucer\u0027s Canterbury Tales, Keats poetry",
-                                         "book2":  "Homer\u0027s Iliad, Shakespeare\u0027s The Tempest"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "142,000 ratings - 4.2 stars",
-                                         "book2":  "32,000 ratings - 4.0 stars"
-                                     },
-                                     {
-                                         "feature":  "Tone",
-                                         "book1":  "Dark, mysterious, horror elements",
-                                         "book2":  "Adventurous, philosophical, less horror"
-                                     },
-                                     {
-                                         "feature":  "Character Focus",
-                                         "book1":  "Deep character studies through pilgrims\u0027 tales",
-                                         "book2":  "Multiple POVs with broader scope"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "482 pages",
-                                         "book2":  "576 pages (94 more)"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "1989 (Hugo Award, Locus Award winner)",
-                                         "book2":  "2003 (Locus Award winner)"
-                                     },
-                                     {
-                                         "feature":  "Accessibility",
-                                         "book1":  "More accessible despite sophistication",
-                                         "book2":  "Requires classics knowledge for full appreciation"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Canterbury Tales structure lets seven pilgrims tell wildly different stories from noir detective to war poetry",
-                                              "The Shrike remains one of sci fi\u0027s most terrifying creations, a time traveling death machine with unclear motives",
-                                              "Simmons weaves philosophy, religion, and quantum physics into space opera without feeling pretentious",
-                                              "Each pilgrim\u0027s tale works as standalone short story while building the larger mystery of the Time Tombs"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The framing device means you don\u0027t get resolution in book one, forcing you into the sequel",
-                                               "Some tales like the Consul\u0027s story drag compared to the brilliant Scholar\u0027s tale with his daughter",
-                                               "The complexity and literary references can overwhelm readers wanting straightforward space adventure"
-                                           ],
-                       "book2Strengths":  [
-                                              "Simmons reimagines the Trojan War on terraformed Mars with Greek gods as quantum evolved posthumans",
-                                              "The Shakespeare scholar narrator provides accessible entry point into dense classical mythology references",
-                                              "Moravecs sentient robots injecting humor into heavy themes about consciousness and immortality",
-                                              "The audacity of combining Homer, Shakespeare, and Proust in one book feels wildly ambitious and mostly works"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "Multiple storylines across Earth, Mars, and Jupiter make the plot harder to follow than Hyperion\u0027s pilgrims",
-                                               "Some readers find the classical literature requirements too demanding for escapist sci fi reading",
-                                               "The ending sets up another sequel rather than providing satisfying closure to the Mars story"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "The Shrike waits for us all at the end of time.",
-                                 "The poem must be finished. That is all that matters. Not life. Not death. The poem.",
-                                 "Love and loss—those are the two poles of human existence.",
-                                 "We carry the past with us always. It shapes who we are and who we will become.",
-                                 "Time is the fire in which we burn.",
-                                 "The child is father to the man."
-                             ],
-                   "book2":  [
-                                 "Sing, O Muse, of the rage of Achilles, son of Peleus, murderous, man-killer, fated to die.",
-                                 "The gods envy us. They envy us because we\u0027re mortal, because any moment may be our last. Everything is more beautiful because we\u0027re doomed.",
-                                 "All good literature is about what it means to be human.",
-                                 "The future has a way of arriving unannounced.",
-                                 "We are the sum of our stories.",
-                                 "Rage—Goddess, sing the rage of Peleus\u0027 son Achilles."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Experience one of sci-fi\u0027s ESSENTIAL masterpieces (142K ratings)",
-                                  "Get six complete tales in Canterbury Tales structure (different genres)",
-                                  "The Shrike is one of genre\u0027s most iconic terrifying creatures",
-                                  "Sol Weintraub\u0027s Scholar\u0027s Tale will emotionally destroy you",
-                                  "Won Hugo Award and Locus Award—established classic status",
-                                  "More accessible despite literary sophistication (Keats enriches but optional)",
-                                  "Each pilgrim\u0027s tale is self-contained masterful short story"
-                              ],
-                    "book2":  [
-                                  "Get Dan Simmons\u0027s most ambitious literary experiment",
-                                  "Experience Homer\u0027s Iliad reimagined on Mars with literal Greek gods",
-                                  "Perfect for classics lovers wanting sci-fi crossover (requires Homer knowledge)",
-                                  "Moravec robots (Mahnmut, Orphu) discussing Proust and Shakespeare are delightful",
-                                  "More action-oriented than Hyperion\u0027s contemplative tales",
-                                  "Wildly creative blend of ancient epic and far-future hard sci-fi",
-                                  "Quantum mechanics and post-human technology speculation"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Hyperion",
-                    "summary":  "Hyperion wins decisively with 344% more readers (142,000 vs 32,000), higher rating (4.2 vs 4.0), and established classic status (Hugo Award, Locus Award winner). The Canterbury Tales structure with six pilgrims\u0027 stories is brilliantly executed—each tale is complete masterpiece in different genre. Sol Weintraub\u0027s Scholar\u0027s Tale (daughter Rachel aging backward) is one of sci-fi\u0027s most emotionally devastating stories. The Shrike is iconic terrifying creature. Ilium is wildly ambitious (Homer\u0027s Iliad on Mars, Greek gods literal, moravec robots, three parallel storylines) but niche appeal requiring Homer knowledge, 344% fewer readers, and weaker sequel (Olympos). Different purposes—Hyperion is essential foundational sci-fi, Ilium is intellectual curiosity for completists.",
-                    "recommendation":  "Read Hyperion first as essential sci-fi text every genre fan must experience. The Canterbury Tales structure is perfect—seven pilgrims journey to Time Tombs, each telling backstory tale: Priest\u0027s Tale (cruciform parasite creates immortality through resurrection with accumulated agony), Soldier\u0027s Tale (Kassad\u0027s time-traveling love with Moneta), Poet\u0027s Tale (Martin Silenus cyborg poet writing Cantos), Scholar\u0027s Tale (Sol Weintraub\u0027s daughter Rachel aging backward from 26 to infant—heartbreaking), Detective\u0027s Tale (Brawne Lamia investigating AI John Keats cybrid), Consul\u0027s Tale (rebellion against Hegemony). At 142,000 ratings and 4.2 stars, it won Hugo Award 1990 establishing instant classic status. The Shrike (four-meter chrome monster covered blades, impales victims on Tree of Pain) is genre\u0027s most iconic creature. Keats poetry integration adds depth but isn\u0027t required. Warning: 482 pages end on MASSIVE cliffhanger (zero resolution, must read Fall of Hyperion book 2 immediately), six tales uneven quality (Scholar\u0027s/Priest\u0027s masterpieces, Poet\u0027s drags), requires four-book commitment (2,000+ pages total Hyperion Cantos). Then consider Ilium ONLY if you\u0027re Dan Simmons completist who loves Homer\u0027s Iliad. The premise (Trojan War on Mars observed by resurrected classics professor, Greek gods literal using quantum tech, moravec robots from Jupiter investigating, post-humans on Earth) is wildly ambitious. Three parallel storylines converge slowly over 576 pages. Perfect for classics nerds—Achilles, Hector, Paris, Agamemnon recreated with nanotechnology enhancement. Moravecs (Mahnmut loves Proust, Orphu loves Shakespeare) are delightful. At 32,000 ratings and 4.0 stars (344% fewer readers), it\u0027s niche requiring Homer knowledge for full appreciation. Warning: sequel Olympos weaker, storylines take 400+ pages converging, self-indulgent erudition, less emotionally engaging than Hyperion. If you only read one, choose Hyperion for essential status, higher satisfaction, broader appeal, and cultural influence. Ilium is intellectual exercise; Hyperion is masterpiece."
-                }
+  "slug": "hyperion-vs-ilium",
+  "title": "Hyperion vs Ilium: Head to Head Comparison",
+  "metaDescription": "Dan Simmons's Hyperion vs Ilium—Canterbury Tales in space vs Homer's Iliad on Mars. Which literary sci-fi masterpiece wins?",
+  "lastUpdated": "2026-02-08",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Hyperion",
+    "subtitle": "Hyperion Cantos, Book One",
+    "author": "Dan Simmons",
+    "isbn": "978-0553283686",
+    "publishedYear": 1989,
+    "pages": 482,
+    "rating": 4.2,
+    "ratingCount": 142000,
+    "price": 12.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780553283686?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
+    "description": "On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking answers to the unsolvable riddles of their lives. Each carries a desperate hope—and a terrible secret."
+  },
+  "book2": {
+    "title": "Ilium",
+    "subtitle": "Ilium/Olympos, Book One",
+    "author": "Dan Simmons",
+    "isbn": "978-0380817924",
+    "publishedYear": 2003,
+    "pages": 576,
+    "rating": 4,
+    "ratingCount": 32000,
+    "price": 18.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780380817924?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780380817924-L.jpg",
+    "description": "The Trojan War rages at the foot of Olympos Mons on Mars—observed and influenced from on high by Zeus and his immortal family—and forty-ninth-century professor Thomas Hockenberry is there to record every word for posterity. Far from the battlefields of Ilium, Daeman and his peaceful post-human friends in the distant future pursue lives of comfort and ease under the watchful eyes of the ancient AI entities called the voynix. And on the moons of Jupiter, sentient robots called moravecs plan an expedition to investigate the quantum disturbances on Mars—and discover what the gods are up to."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Structure",
+        "book1": "Canterbury Tales format—6 pilgrims' stories",
+        "book2": "Three parallel storylines (Mars, Earth, Jupiter)"
+      },
+      {
+        "feature": "Literary Source",
+        "book1": "Chaucer's Canterbury Tales, Keats poetry",
+        "book2": "Homer's Iliad, Shakespeare's The Tempest"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "142,000 ratings - 4.2 stars",
+        "book2": "32,000 ratings - 4.0 stars"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Dark, mysterious, horror elements",
+        "book2": "Adventurous, philosophical, less horror"
+      },
+      {
+        "feature": "Character Focus",
+        "book1": "Deep character studies through pilgrims' tales",
+        "book2": "Multiple POVs with broader scope"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "482 pages",
+        "book2": "576 pages (94 more)"
+      },
+      {
+        "feature": "Published",
+        "book1": "1989 (Hugo Award, Locus Award winner)",
+        "book2": "2003 (Locus Award winner)"
+      },
+      {
+        "feature": "Accessibility",
+        "book1": "More accessible despite sophistication",
+        "book2": "Requires classics knowledge for full appreciation"
+      }
+    ],
+    "book1Strengths": [
+      "Canterbury Tales structure lets seven pilgrims tell wildly different stories from noir detective to war poetry",
+      "The Shrike remains one of sci fi's most terrifying creations, a time traveling death machine with unclear motives",
+      "Simmons weaves philosophy, religion, and quantum physics into space opera without feeling pretentious",
+      "Each pilgrim's tale works as standalone short story while building the larger mystery of the Time Tombs"
+    ],
+    "book1Weaknesses": [
+      "The framing device means you don't get resolution in book one, forcing you into the sequel",
+      "Some tales like the Consul's story drag compared to the brilliant Scholar's tale with his daughter",
+      "The complexity and literary references can overwhelm readers wanting straightforward space adventure"
+    ],
+    "book2Strengths": [
+      "Simmons reimagines the Trojan War on terraformed Mars with Greek gods as quantum evolved posthumans",
+      "The Shakespeare scholar narrator provides accessible entry point into dense classical mythology references",
+      "Moravecs sentient robots injecting humor into heavy themes about consciousness and immortality",
+      "The audacity of combining Homer, Shakespeare, and Proust in one book feels wildly ambitious and mostly works"
+    ],
+    "book2Weaknesses": [
+      "Multiple storylines across Earth, Mars, and Jupiter make the plot harder to follow than Hyperion's pilgrims",
+      "Some readers find the classical literature requirements too demanding for escapist sci fi reading",
+      "The ending sets up another sequel rather than providing satisfying closure to the Mars story"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The Shrike waits for us all at the end of time.",
+      "The poem must be finished. That is all that matters. Not life. Not death. The poem.",
+      "Love and loss—those are the two poles of human existence.",
+      "We carry the past with us always. It shapes who we are and who we will become.",
+      "Time is the fire in which we burn.",
+      "The child is father to the man."
+    ],
+    "book2": [
+      "Sing, O Muse, of the rage of Achilles, son of Peleus, murderous, man-killer, fated to die.",
+      "The gods envy us. They envy us because we're mortal, because any moment may be our last. Everything is more beautiful because we're doomed.",
+      "All good literature is about what it means to be human.",
+      "The future has a way of arriving unannounced.",
+      "We are the sum of our stories.",
+      "Rage—Goddess, sing the rage of Peleus' son Achilles."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience one of sci-fi's ESSENTIAL masterpieces (142K ratings)",
+      "Get six complete tales in Canterbury Tales structure (different genres)",
+      "The Shrike is one of genre's most iconic terrifying creatures",
+      "Sol Weintraub's Scholar's Tale will emotionally destroy you",
+      "Won Hugo Award and Locus Award—established classic status",
+      "More accessible despite literary sophistication (Keats enriches but optional)",
+      "Each pilgrim's tale is self-contained masterful short story"
+    ],
+    "book2": [
+      "Get Dan Simmons's most ambitious literary experiment",
+      "Experience Homer's Iliad reimagined on Mars with literal Greek gods",
+      "Perfect for classics lovers wanting sci-fi crossover (requires Homer knowledge)",
+      "Moravec robots (Mahnmut, Orphu) discussing Proust and Shakespeare are delightful",
+      "More action-oriented than Hyperion's contemplative tales",
+      "Wildly creative blend of ancient epic and far-future hard sci-fi",
+      "Quantum mechanics and post-human technology speculation"
+    ]
+  },
+  "verdict": {
+    "winner": "Hyperion",
+    "summary": "Hyperion wins decisively with 344% more readers (142,000 vs 32,000), higher rating (4.2 vs 4.0), and established classic status (Hugo Award, Locus Award winner). The Canterbury Tales structure with six pilgrims' stories is brilliantly executed—each tale is complete masterpiece in different genre. Sol Weintraub's Scholar's Tale (daughter Rachel aging backward) is one of sci-fi's most emotionally devastating stories. The Shrike is iconic terrifying creature. Ilium is wildly ambitious (Homer's Iliad on Mars, Greek gods literal, moravec robots, three parallel storylines) but niche appeal requiring Homer knowledge, 344% fewer readers, and weaker sequel (Olympos). Different purposes—Hyperion is essential foundational sci-fi, Ilium is intellectual curiosity for completists.",
+    "recommendation": "Read Hyperion first as essential sci-fi text every genre fan must experience. The Canterbury Tales structure is perfect—seven pilgrims journey to Time Tombs, each telling backstory tale: Priest's Tale (cruciform parasite creates immortality through resurrection with accumulated agony), Soldier's Tale (Kassad's time-traveling love with Moneta), Poet's Tale (Martin Silenus cyborg poet writing Cantos), Scholar's Tale (Sol Weintraub's daughter Rachel aging backward from 26 to infant—heartbreaking), Detective's Tale (Brawne Lamia investigating AI John Keats cybrid), Consul's Tale (rebellion against Hegemony). At 142,000 ratings and 4.2 stars, it won Hugo Award 1990 establishing instant classic status. The Shrike (four-meter chrome monster covered blades, impales victims on Tree of Pain) is genre's most iconic creature. Keats poetry integration adds depth but isn't required. Warning: 482 pages end on MASSIVE cliffhanger (zero resolution, must read Fall of Hyperion book 2 immediately), six tales uneven quality (Scholar's/Priest's masterpieces, Poet's drags), requires four-book commitment (2,000+ pages total Hyperion Cantos). Then consider Ilium ONLY if you're Dan Simmons completist who loves Homer's Iliad. The premise (Trojan War on Mars observed by resurrected classics professor, Greek gods literal using quantum tech, moravec robots from Jupiter investigating, post-humans on Earth) is wildly ambitious. Three parallel storylines converge slowly over 576 pages. Perfect for classics nerds—Achilles, Hector, Paris, Agamemnon recreated with nanotechnology enhancement. Moravecs (Mahnmut loves Proust, Orphu loves Shakespeare) are delightful. At 32,000 ratings and 4.0 stars (344% fewer readers), it's niche requiring Homer knowledge for full appreciation. Warning: sequel Olympos weaker, storylines take 400+ pages converging, self-indulgent erudition, less emotionally engaging than Hyperion. If you only read one, choose Hyperion for essential status, higher satisfaction, broader appeal, and cultural influence. Ilium is intellectual exercise; Hyperion is masterpiece."
+  }
 }

@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 67000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_BRIEF_HISTORY",
+    "amazonUrl": "https://www.amazon.com/dp/9780553380163?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
     "description": "A landmark volume in science writing by one of the great minds of our time, Stephen Hawking's book explores such profound questions as: How did the universe begin—and what made its start possible? Does time always flow forward? Is the universe unending—or are there boundaries? Told in language we all can understand, A Brief History of Time plunges into the exotic realms of black holes and quarks, of antimatter and arrows of time, of the big bang and a bigger God."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 34000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_ORDER_TIME",
+    "amazonUrl": "https://www.amazon.com/dp/9780735216105?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780735216105-L.jpg",
     "description": "One of TIME's Ten Best Nonfiction Books of the Decade. Why do we remember the past and not the future? What does it mean for time to 'flow'? Do we exist in time or does time exist in us? In lyric, accessible prose, Carlo Rovelli invites us to consider questions about the nature of time that continue to puzzle physicists and philosophers alike."
   },

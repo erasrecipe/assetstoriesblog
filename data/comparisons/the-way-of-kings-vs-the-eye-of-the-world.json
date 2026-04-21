@@ -1,148 +1,148 @@
 ﻿{
-    "slug":  "the-way-of-kings-vs-the-eye-of-the-world",
-    "title":  "The Way of Kings vs The Eye of the World: Head to Head Comparison",
-    "metaDescription":  "Brandon Sanderson\u0027s The Way of Kings vs Robert Jordan\u0027s The Eye of the World—which epic fantasy series should you start? Complete comparison.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "The Way of Kings",
-                  "subtitle":  "The Stormlight Archive, Book One",
-                  "author":  "Brandon Sanderson",
-                  "isbn":  "978-0765326355",
-                  "publishedYear":  2010,
-                  "pages":  1007,
-                  "rating":  4.7,
-                  "ratingCount":  145000,
-                  "price":  19.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_WAY_OF_KINGS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780765326355-L.jpg",
-                  "description":  "Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal warfare rages on, an ancient evil slowly awakens."
-              },
-    "book2":  {
-                  "title":  "The Eye of the World",
-                  "subtitle":  "The Wheel of Time, Book One",
-                  "author":  "Robert Jordan",
-                  "isbn":  "978-0812511819",
-                  "publishedYear":  1990,
-                  "pages":  782,
-                  "rating":  4.6,
-                  "ratingCount":  85000,
-                  "price":  19.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_EYE_OF_WORLD",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780812511819-L.jpg",
-                  "description":  "The Wheel of Time turns and Ages come and go. What was, what will be, and what is, may yet fall under the Shadow. Let the Dragon ride again on the winds of time. The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Series Length",
-                                         "book1":  "5 books published, more planned (ongoing)",
-                                         "book2":  "14 books completed (finished series)"
-                                     },
-                                     {
-                                         "feature":  "World-building",
-                                         "book1":  "Unique magic system (Surgebinding), incredible detail",
-                                         "book2":  "Classic epic fantasy with detailed magic system"
-                                     },
-                                     {
-                                         "feature":  "Pacing",
-                                         "book1":  "Slower start, builds momentum",
-                                         "book2":  "Faster opening, classic quest structure"
-                                     },
-                                     {
-                                         "feature":  "Character Focus",
-                                         "book1":  "Deep character development, multiple POVs",
-                                         "book2":  "Large ensemble cast, multiple storylines"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "1,007 pages (longer first book)",
-                                         "book2":  "782 pages (still substantial)"
-                                     },
-                                     {
-                                         "feature":  "Writing Style",
-                                         "book1":  "Modern, accessible, intricate plotting",
-                                         "book2":  "Traditional epic fantasy, more descriptive"
-                                     },
-                                     {
-                                         "feature":  "Magic System",
-                                         "book1":  "Hard magic system with clear rules (Sanderson\u0027s specialty)",
-                                         "book2":  "Softer magic, more mysterious"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2010 (modern fantasy)",
-                                         "book2":  "1990 (classic epic fantasy)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The Way of Kings launches Brandon Sanderson\u0027s Stormlight Archive with epic world building",
-                                              "The magic system using Stormlight through spren bonds feels scientifically grounded and inventive",
-                                              "At 1007 pages the massive scope delivers character depth and plot complexity worthy of length",
-                                              "Multiple POV characters from slave to assassin to scholar show society from all angles",
-                                              "Sanderson\u0027s hard magic rules and intricate plotting reward careful readers with payoffs",
-                                              "The flashback structure reveals Kaladin\u0027s backstory gradually creating emotional investment"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The 1007 page length intimidates new readers and requires serious time commitment",
-                                               "Some readers find the pacing too slow with excessive world building delaying plot",
-                                               "The complex magic system with spren and surgebinding overwhelms casual fantasy readers",
-                                               "First in ten book series means massive incomplete investment for full story resolution"
-                                           ],
-                       "book2Strengths":  [
-                                              "The Eye of the World launched Robert Jordan\u0027s Wheel of Time defining epic fantasy",
-                                              "The familiar farm boy chosen one arc provides accessible entry to fantasy genre",
-                                              "At 782 pages this balances world building with forward plot momentum better initially",
-                                              "Jordan creates rich world with distinct cultures geography and magic system through One Power",
-                                              "The Tolkien influences make this comfortable read for Lord of Rings fans transitioning",
-                                              "Published 1990 this influenced entire generation of epic fantasy that followed after"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The derivative Tolkien elements make this feel less original than later innovative fantasy",
-                                               "Gender dynamics and romance subplots feel dated by modern standards frustratingly",
-                                               "The fourteen book series remains unfinished by Jordan requiring Sanderson to complete it",
-                                               "Some characters fit archetypes too neatly lacking complexity of modern fantasy protagonists"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "The most important step a man can take. It\u0027s not the first one, is it? It\u0027s the next one. Always the next step.",
-                                 "Life before death. Strength before weakness. Journey before destination.",
-                                 "Sometimes a hypocrite is nothing more than a man in the process of changing.",
-                                 "The purpose of a storyteller is not to tell you how to think, but to give you questions to think upon.",
-                                 "Accept the pain, but don\u0027t accept that you deserved it.",
-                                 "You cannot have my pain!"
-                             ],
-                   "book2":  [
-                                 "The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again.",
-                                 "The Dark One stirs in Shayol Ghul. The Shadow grows. The end of the Age comes. We stand alone against the Shadow. We will not fail.",
-                                 "Duty is heavier than a mountain, death lighter than a feather.",
-                                 "The grave is no bar to my call.",
-                                 "We rode on the winds of the rising storm, we ran to the sounds of thunder.",
-                                 "The Wheel weaves as the Wheel wills."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Experience one of the best fantasy books ever written",
-                                  "Sanderson\u0027s magic system is the gold standard for hard magic",
-                                  "The character development is incredibly deep and satisfying",
-                                  "Perfect for readers who love intricate plotting and payoffs",
-                                  "More modern and accessible than classic epic fantasy",
-                                  "Join an active community reading the series as it\u0027s released"
-                              ],
-                    "book2":  [
-                                  "Read the completed epic fantasy series that defined a generation",
-                                  "Get a faster start with more immediate adventure",
-                                  "Experience classic epic fantasy at its finest",
-                                  "The series is finished—no waiting between books",
-                                  "Join one of fantasy\u0027s largest and most passionate fan communities",
-                                  "A rite of passage for serious fantasy readers"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Way of Kings",
-                    "summary":  "The Way of Kings wins for modern readers with more innovative magic and better character work. Kings 4.6 stars and 485,000 reviews versus Eye\u0027s 4.2 and 265,000 shows Sanderson surpassed Jordan\u0027s influence. Both launch massive series but Kings feels fresher while Eye shows age. Sanderson learned from Jordan improving execution. Kings represents epic fantasy\u0027s evolution beyond Tolkien derivatives.",
-                    "recommendation":  "Read The Way of Kings for modern epic fantasy with hard magic system and complex plotting. At 1007 pages Sanderson rewards investment with ten book series already four books deep. The Stormlight magic and character depth justify hype. Read Eye of the World for classic epic fantasy defining the genre in 1990. At 782 pages Jordan provides accessible entry but fourteen books completed posthumously by Sanderson. Both require massive commitment but Kings offers more innovative experience while Eye provides historical context."
-                }
+  "slug": "the-way-of-kings-vs-the-eye-of-the-world",
+  "title": "The Way of Kings vs The Eye of the World: Head to Head Comparison",
+  "metaDescription": "Brandon Sanderson's The Way of Kings vs Robert Jordan's The Eye of the World—which epic fantasy series should you start? Complete comparison.",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Way of Kings",
+    "subtitle": "The Stormlight Archive, Book One",
+    "author": "Brandon Sanderson",
+    "isbn": "978-0765326355",
+    "publishedYear": 2010,
+    "pages": 1007,
+    "rating": 4.7,
+    "ratingCount": 145000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/0765365278?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780765326355-L.jpg",
+    "description": "Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. As brutal warfare rages on, an ancient evil slowly awakens."
+  },
+  "book2": {
+    "title": "The Eye of the World",
+    "subtitle": "The Wheel of Time, Book One",
+    "author": "Robert Jordan",
+    "isbn": "978-0812511819",
+    "publishedYear": 1990,
+    "pages": 782,
+    "rating": 4.6,
+    "ratingCount": 85000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/1250251035?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780812511819-L.jpg",
+    "description": "The Wheel of Time turns and Ages come and go. What was, what will be, and what is, may yet fall under the Shadow. Let the Dragon ride again on the winds of time. The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Series Length",
+        "book1": "5 books published, more planned (ongoing)",
+        "book2": "14 books completed (finished series)"
+      },
+      {
+        "feature": "World-building",
+        "book1": "Unique magic system (Surgebinding), incredible detail",
+        "book2": "Classic epic fantasy with detailed magic system"
+      },
+      {
+        "feature": "Pacing",
+        "book1": "Slower start, builds momentum",
+        "book2": "Faster opening, classic quest structure"
+      },
+      {
+        "feature": "Character Focus",
+        "book1": "Deep character development, multiple POVs",
+        "book2": "Large ensemble cast, multiple storylines"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "1,007 pages (longer first book)",
+        "book2": "782 pages (still substantial)"
+      },
+      {
+        "feature": "Writing Style",
+        "book1": "Modern, accessible, intricate plotting",
+        "book2": "Traditional epic fantasy, more descriptive"
+      },
+      {
+        "feature": "Magic System",
+        "book1": "Hard magic system with clear rules (Sanderson's specialty)",
+        "book2": "Softer magic, more mysterious"
+      },
+      {
+        "feature": "Published",
+        "book1": "2010 (modern fantasy)",
+        "book2": "1990 (classic epic fantasy)"
+      }
+    ],
+    "book1Strengths": [
+      "The Way of Kings launches Brandon Sanderson's Stormlight Archive with epic world building",
+      "The magic system using Stormlight through spren bonds feels scientifically grounded and inventive",
+      "At 1007 pages the massive scope delivers character depth and plot complexity worthy of length",
+      "Multiple POV characters from slave to assassin to scholar show society from all angles",
+      "Sanderson's hard magic rules and intricate plotting reward careful readers with payoffs",
+      "The flashback structure reveals Kaladin's backstory gradually creating emotional investment"
+    ],
+    "book1Weaknesses": [
+      "The 1007 page length intimidates new readers and requires serious time commitment",
+      "Some readers find the pacing too slow with excessive world building delaying plot",
+      "The complex magic system with spren and surgebinding overwhelms casual fantasy readers",
+      "First in ten book series means massive incomplete investment for full story resolution"
+    ],
+    "book2Strengths": [
+      "The Eye of the World launched Robert Jordan's Wheel of Time defining epic fantasy",
+      "The familiar farm boy chosen one arc provides accessible entry to fantasy genre",
+      "At 782 pages this balances world building with forward plot momentum better initially",
+      "Jordan creates rich world with distinct cultures geography and magic system through One Power",
+      "The Tolkien influences make this comfortable read for Lord of Rings fans transitioning",
+      "Published 1990 this influenced entire generation of epic fantasy that followed after"
+    ],
+    "book2Weaknesses": [
+      "The derivative Tolkien elements make this feel less original than later innovative fantasy",
+      "Gender dynamics and romance subplots feel dated by modern standards frustratingly",
+      "The fourteen book series remains unfinished by Jordan requiring Sanderson to complete it",
+      "Some characters fit archetypes too neatly lacking complexity of modern fantasy protagonists"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The most important step a man can take. It's not the first one, is it? It's the next one. Always the next step.",
+      "Life before death. Strength before weakness. Journey before destination.",
+      "Sometimes a hypocrite is nothing more than a man in the process of changing.",
+      "The purpose of a storyteller is not to tell you how to think, but to give you questions to think upon.",
+      "Accept the pain, but don't accept that you deserved it.",
+      "You cannot have my pain!"
+    ],
+    "book2": [
+      "The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again.",
+      "The Dark One stirs in Shayol Ghul. The Shadow grows. The end of the Age comes. We stand alone against the Shadow. We will not fail.",
+      "Duty is heavier than a mountain, death lighter than a feather.",
+      "The grave is no bar to my call.",
+      "We rode on the winds of the rising storm, we ran to the sounds of thunder.",
+      "The Wheel weaves as the Wheel wills."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience one of the best fantasy books ever written",
+      "Sanderson's magic system is the gold standard for hard magic",
+      "The character development is incredibly deep and satisfying",
+      "Perfect for readers who love intricate plotting and payoffs",
+      "More modern and accessible than classic epic fantasy",
+      "Join an active community reading the series as it's released"
+    ],
+    "book2": [
+      "Read the completed epic fantasy series that defined a generation",
+      "Get a faster start with more immediate adventure",
+      "Experience classic epic fantasy at its finest",
+      "The series is finished—no waiting between books",
+      "Join one of fantasy's largest and most passionate fan communities",
+      "A rite of passage for serious fantasy readers"
+    ]
+  },
+  "verdict": {
+    "winner": "The Way of Kings",
+    "summary": "The Way of Kings wins for modern readers with more innovative magic and better character work. Kings 4.6 stars and 485,000 reviews versus Eye's 4.2 and 265,000 shows Sanderson surpassed Jordan's influence. Both launch massive series but Kings feels fresher while Eye shows age. Sanderson learned from Jordan improving execution. Kings represents epic fantasy's evolution beyond Tolkien derivatives.",
+    "recommendation": "Read The Way of Kings for modern epic fantasy with hard magic system and complex plotting. At 1007 pages Sanderson rewards investment with ten book series already four books deep. The Stormlight magic and character depth justify hype. Read Eye of the World for classic epic fantasy defining the genre in 1990. At 782 pages Jordan provides accessible entry but fourteen books completed posthumously by Sanderson. Both require massive commitment but Kings offers more innovative experience while Eye provides historical context."
+  }
 }

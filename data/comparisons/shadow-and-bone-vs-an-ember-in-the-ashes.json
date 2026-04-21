@@ -11,13 +11,13 @@
     "isbn": "978-1250027436",
     "publishedYear": 2012,
     "pages": 358,
-    "rating": 4.0,
+    "rating": 4,
     "ratingCount": 485000,
     "price": 11.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SHADOW_BONE",
+    "amazonUrl": "https://www.amazon.com/dp/9781250027436?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781250027436-L.jpg",
     "description": "Surrounded by enemies, the once-great nation of Ravka has been torn in two by the Shadow Fold, a swath of near impenetrable darkness crawling with monsters who feast on human flesh. Now its fate may rest on the shoulders of one lonely refugee. Alina Starkov has never been good at anything. But when her regiment is attacked on the Fold and her best friend is brutally injured, Alina reveals a dormant power that saves his life—a power that could be the key to setting her war-ravaged country free."
-    },
+  },
   "book2": {
     "title": "An Ember in the Ashes",
     "subtitle": "",
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 285000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_EMBER",
+    "amazonUrl": "https://www.amazon.com/dp/0451474938?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781595148049-L.jpg",
     "description": "Laia is a slave. Elias is a soldier. Neither is free. Under the Martial Empire, defiance is met with death. It is in this brutal world that Laia lives. When her brother is arrested for treason, Laia is forced to make a choice. In exchange for help from rebels who promise to rescue her brother, she will risk her life to spy for them from within the Empire's greatest military academy."
   },

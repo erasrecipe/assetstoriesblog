@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "reminiscences-stock-operator-vs-market-wizards",
   "title": "Reminiscences of a Stock Operator vs Market Wizards: Head to Head Comparison",
   "metaDescription": "Jesse Livermore's trading memoir vs Jack Schwager's trader interviews. Which legendary book reveals the secrets of successful trading more powerfully?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 6200,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_REMINISCENCES",
+    "amazonUrl": "https://www.amazon.com/dp/0471778734?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780471770886-L.jpg",
     "description": "Reminiscences of a Stock Operator is the fictionalized biography of Jesse Livermore, one of the greatest stock traders ever. Written by Edwin Lefèvre in 1923, this book has remained the most widely read, highly recommended investment book ever written."
   },
@@ -28,19 +28,47 @@
     "rating": 4.6,
     "ratingCount": 3800,
     "price": 24.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MARKET_WIZARDS",
+    "amazonUrl": "https://www.amazon.com/dp/0470137622?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780887306105-L.jpg",
     "description": "Market Wizards features interviews with top traders in all markets. These highly successful traders give their insights into the psychology of speculation and the emotional discipline required to succeed."
   },
   "comparison": {
     "table": [
-      {"feature": "Format", "book1": "Fictionalized biography—narrative story", "book2": "Interview format—Q&A with 17 traders"},
-      {"feature": "Time Period", "book1": "Early 1900s—bucket shops, 1907 and 1929 panics", "book2": "1980s—modern futures, options, systematic trading"},
-      {"feature": "Trading Style", "book1": "Livermore's trend-following, patience", "book2": "Multiple approaches—trend, contrarian, fundamental, technical"},
-      {"feature": "Key Strength", "book1": "Timeless wisdom about markets and psychology", "book2": "Diversity showing multiple paths to success"},
-      {"feature": "Best For", "book1": "Understanding market psychology and principles", "book2": "Learning from multiple successful traders"},
-      {"feature": "Page Count", "book1": "308 pages", "book2": "464 pages"},
-      {"feature": "Published", "book1": "1923", "book2": "1989"}
+      {
+        "feature": "Format",
+        "book1": "Fictionalized biography—narrative story",
+        "book2": "Interview format—Q&A with 17 traders"
+      },
+      {
+        "feature": "Time Period",
+        "book1": "Early 1900s—bucket shops, 1907 and 1929 panics",
+        "book2": "1980s—modern futures, options, systematic trading"
+      },
+      {
+        "feature": "Trading Style",
+        "book1": "Livermore's trend-following, patience",
+        "book2": "Multiple approaches—trend, contrarian, fundamental, technical"
+      },
+      {
+        "feature": "Key Strength",
+        "book1": "Timeless wisdom about markets and psychology",
+        "book2": "Diversity showing multiple paths to success"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding market psychology and principles",
+        "book2": "Learning from multiple successful traders"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "308 pages",
+        "book2": "464 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "1923",
+        "book2": "1989"
+      }
     ],
     "book1Strengths": [
       "Most famous trading book ever written—required reading for every trader. Published 1923, still #1 recommended 100+ years later. Timeless status unmatched",

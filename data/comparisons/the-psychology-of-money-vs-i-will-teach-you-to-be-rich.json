@@ -1,144 +1,144 @@
 ﻿{
-    "slug":  "the-psychology-of-money-vs-i-will-teach-you-to-be-rich",
-    "title":  "The Psychology of Money vs I Will Teach You to Be Rich: Head to Head Comparison",
-    "metaDescription":  "Compare The Psychology of Money vs I Will Teach You to Be Rich. Full comparison with pros, cons, and verdict. Which is better for you?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Finance \u0026 Investing",
-    "book1":  {
-                  "title":  "The Psychology of Money",
-                  "subtitle":  "Timeless Lessons on Wealth, Greed, and Happiness",
-                  "author":  "Morgan Housel",
-                  "isbn":  "978-0857197689",
-                  "publishedYear":  2020,
-                  "pages":  256,
-                  "rating":  4.6,
-                  "ratingCount":  98000,
-                  "price":  16.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_PSYCHOLOGY_MONEY",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
-                  "description":  "Morgan Housel shares 19 short stories exploring the strange ways people think about money. The Psychology of Money teaches that doing well with money has little to do with how smart you are and a lot to do with how you behave. Financial success is a soft skill, where how you behave is more important than what you know."
-              },
-    "book2":  {
-                  "title":  "I Will Teach You to Be Rich",
-                  "subtitle":  "No Guilt. No Excuses. Just a 6-Week Program That Works",
-                  "author":  "Ramit Sethi",
-                  "isbn":  "978-1523505746",
-                  "publishedYear":  2009,
-                  "pages":  304,
-                  "rating":  4.6,
-                  "ratingCount":  12000,
-                  "price":  18.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_TEACH_RICH",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781523505746-L.jpg",
-                  "description":  "Ramit Sethi provides a 6-week program for taking control of your finances. This no-BS approach covers credit cards, banking, budgeting, investing, and more. Sethi\u0027s philosophy focuses on automation, optimization, and spending extravagantly on what you love while cutting costs mercilessly on things you don\u0027t care about."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Philosophy and mindset",
-                                         "book2":  "Step-by-step tactical guide"
-                                     },
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "How to think about money",
-                                         "book2":  "What to do with your money"
-                                     },
-                                     {
-                                         "feature":  "Actionability",
-                                         "book1":  "Conceptual framework",
-                                         "book2":  "Immediate action steps (6-week program)"
-                                     },
-                                     {
-                                         "feature":  "Target Reader",
-                                         "book1":  "Anyone wanting wealth perspective",
-                                         "book2":  "Young professionals (20s-30s) starting out"
-                                     },
-                                     {
-                                         "feature":  "Structure",
-                                         "book1":  "19 independent stories/lessons",
-                                         "book2":  "Sequential 6-week program"
-                                     },
-                                     {
-                                         "feature":  "Investment Advice",
-                                         "book1":  "Minimal - broad concepts only",
-                                         "book2":  "Detailed - specific funds and accounts"
-                                     },
-                                     {
-                                         "feature":  "Reading Style",
-                                         "book1":  "Philosophical storytelling",
-                                         "book2":  "Practical how-to manual"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "256 pages",
-                                         "book2":  "304 pages"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Housel proves wealth is what you don\u0027t see because true rich people save money rather than display it",
-                                              "The compounding magic showing janitor Ronald Read dying with 8 million validates frugal living over high income",
-                                              "Tail events concept explains how a few big decisions matter more than decades of small optimizations",
-                                              "Short standalone chapters let you digest behavioral finance wisdom in bite sized pieces"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Heavy on philosophy and mindset but light on tactical steps for actually building wealth",
-                                               "Some advice like spend less feels obvious without addressing systemic barriers to saving",
-                                               "Limited investment guidance focuses on behavior over specific asset allocation or strategy"
-                                           ],
-                       "book2Strengths":  [
-                                              "The six week program with specific action steps makes getting rich feel achievable not overwhelming",
-                                              "Sethi\u0027s conscious spending plan lets you spend guilt free on what you love by cutting ruthlessly elsewhere",
-                                              "Automated money system using scheduled transfers removes willpower from the wealth building equation",
-                                              "The 85 percent solution philosophy prevents perfectionism paralysis by emphasizing good enough now beats perfect never"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The bro marketing tone and clickbait title can feel off putting despite solid underlying advice",
-                                               "Some aggressive negotiation tactics like calling credit cards monthly may not work for everyone",
-                                               "The focus on high earners optimizing income makes less sense for people in survival mode"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Doing well with money has little to do with how smart you are and a lot to do with how you behave.",
-                                 "The ability to do what you want, when you want, with who you want, for as long as you want, is priceless.",
-                                 "Wealth is what you don\u0027t see. It\u0027s the cars not purchased, the watches not worn.",
-                                 "Compounding works when you can give an asset years and years to grow.",
-                                 "Use money to gain control over your time, because not having control of your time is such a powerful and universal drag on happiness.",
-                                 "Be nicer and less flashy. No one is impressed with your possessions as much as you are."
-                             ],
-                   "book2":  [
-                                 "Spend extravagantly on the things you love, and cut costs mercilessly on the things you don\u0027t.",
-                                 "The key to being rich is automating your money flow.",
-                                 "Optimize your spending, not your deprivation.",
-                                 "You don\u0027t need to be an expert to get rich. You need to set up the right accounts and automate everything.",
-                                 "The best time to start investing was yesterday. The second best time is today.",
-                                 "Credit cards are like a knifeâ€”dangerous if misused, but incredibly useful if used correctly."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to understand the psychology behind wealth",
-                                  "You make okay money but still feel financially anxious",
-                                  "You want timeless principles, not tactical advice",
-                                  "You\u0027re interested in why people make bad money decisions",
-                                  "You want to change your relationship with money fundamentally",
-                                  "You appreciate storytelling and philosophy over step-by-step guides",
-                                  "You\u0027re any age and want perspective on wealth"
-                              ],
-                    "book2":  [
-                                  "You\u0027re in your 20s-30s and starting your financial journey",
-                                  "You need specific steps: which accounts, which funds, how much",
-                                  "You\u0027re overwhelmed and want someone to tell you exactly what to do",
-                                  "You want to automate your finances within 6 weeks",
-                                  "You need practical implementation, not philosophy",
-                                  "You want guilt-free permission to spend on things you love",
-                                  "You\u0027re ready to take immediate action"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "It Depends",
-                    "summary":  "Different problems, different solutions. Psychology of Money wins for mindset with 98,000 reviews at 4.6 stars versus IWTYTBR\u0027s 12,000 at 4.6—that\u0027s 8x more reach. Housel teaches why behavior beats intelligence through stories like Ronald Read saving $8M and Buffett\u0027s compounding patience. IWTYTBR wins for execution with Sethi\u0027s 6-week program covering exact banks, cards, and funds. Most people need both: Psychology for the mindset, IWTYTBR for the system.",
-                    "recommendation":  "Read The Psychology of Money first to fix your mindset. Housel\u0027s 2020 book has 19 stories that\u0027ll change how you think about wealth forever. The \u0027enough\u0027 concept shows how billionaires destroy themselves moving goalposts. Ronald Read the janitor saved $8M while Richard Fuscone the executive went bankrupt—behavior wins. Buffett made $84.5B of his $85B after age 50, proving compounding patience. The 256 pages work for any age or income level, and 98,000 readers rated it 4.6 stars. Then read I Will Teach You to Be Rich to build your actual financial system. Sethi\u0027s 6-week program from 2009 (updated 2019) gives exact steps: Week 1 optimize credit cards and banks, Week 2 beat your 401k, Week 6 automate everything. He names specific banks (Ally, Schwab), cards (Chase Sapphire), funds (VTSMX). The automation philosophy means set it once and forget it. His \u0027spend extravagantly on what you love, cut costs on what you don\u0027t\u0027 beats deprivation advice. Warning: aimed at 20-30 year olds, and the bro-ish tone annoys some readers. If you only read one, choose Psychology of Money for the complete mindset shift—but you\u0027ll still need IWTYTBR\u0027s tactics to actually implement anything."
-                }
+  "slug": "the-psychology-of-money-vs-i-will-teach-you-to-be-rich",
+  "title": "The Psychology of Money vs I Will Teach You to Be Rich: Head to Head Comparison",
+  "metaDescription": "Compare The Psychology of Money vs I Will Teach You to Be Rich. Full comparison with pros, cons, and verdict. Which is better for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Finance & Investing",
+  "book1": {
+    "title": "The Psychology of Money",
+    "subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
+    "author": "Morgan Housel",
+    "isbn": "978-0857197689",
+    "publishedYear": 2020,
+    "pages": 256,
+    "rating": 4.6,
+    "ratingCount": 98000,
+    "price": 16,
+    "amazonUrl": "https://www.amazon.com/dp/0857191281?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+    "description": "Morgan Housel shares 19 short stories exploring the strange ways people think about money. The Psychology of Money teaches that doing well with money has little to do with how smart you are and a lot to do with how you behave. Financial success is a soft skill, where how you behave is more important than what you know."
+  },
+  "book2": {
+    "title": "I Will Teach You to Be Rich",
+    "subtitle": "No Guilt. No Excuses. Just a 6-Week Program That Works",
+    "author": "Ramit Sethi",
+    "isbn": "978-1523505746",
+    "publishedYear": 2009,
+    "pages": 304,
+    "rating": 4.6,
+    "ratingCount": 12000,
+    "price": 18,
+    "amazonUrl": "https://www.amazon.com/dp/9781523505746?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781523505746-L.jpg",
+    "description": "Ramit Sethi provides a 6-week program for taking control of your finances. This no-BS approach covers credit cards, banking, budgeting, investing, and more. Sethi's philosophy focuses on automation, optimization, and spending extravagantly on what you love while cutting costs mercilessly on things you don't care about."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Approach",
+        "book1": "Philosophy and mindset",
+        "book2": "Step-by-step tactical guide"
+      },
+      {
+        "feature": "Main Focus",
+        "book1": "How to think about money",
+        "book2": "What to do with your money"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Conceptual framework",
+        "book2": "Immediate action steps (6-week program)"
+      },
+      {
+        "feature": "Target Reader",
+        "book1": "Anyone wanting wealth perspective",
+        "book2": "Young professionals (20s-30s) starting out"
+      },
+      {
+        "feature": "Structure",
+        "book1": "19 independent stories/lessons",
+        "book2": "Sequential 6-week program"
+      },
+      {
+        "feature": "Investment Advice",
+        "book1": "Minimal - broad concepts only",
+        "book2": "Detailed - specific funds and accounts"
+      },
+      {
+        "feature": "Reading Style",
+        "book1": "Philosophical storytelling",
+        "book2": "Practical how-to manual"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "256 pages",
+        "book2": "304 pages"
+      }
+    ],
+    "book1Strengths": [
+      "Housel proves wealth is what you don't see because true rich people save money rather than display it",
+      "The compounding magic showing janitor Ronald Read dying with 8 million validates frugal living over high income",
+      "Tail events concept explains how a few big decisions matter more than decades of small optimizations",
+      "Short standalone chapters let you digest behavioral finance wisdom in bite sized pieces"
+    ],
+    "book1Weaknesses": [
+      "Heavy on philosophy and mindset but light on tactical steps for actually building wealth",
+      "Some advice like spend less feels obvious without addressing systemic barriers to saving",
+      "Limited investment guidance focuses on behavior over specific asset allocation or strategy"
+    ],
+    "book2Strengths": [
+      "The six week program with specific action steps makes getting rich feel achievable not overwhelming",
+      "Sethi's conscious spending plan lets you spend guilt free on what you love by cutting ruthlessly elsewhere",
+      "Automated money system using scheduled transfers removes willpower from the wealth building equation",
+      "The 85 percent solution philosophy prevents perfectionism paralysis by emphasizing good enough now beats perfect never"
+    ],
+    "book2Weaknesses": [
+      "The bro marketing tone and clickbait title can feel off putting despite solid underlying advice",
+      "Some aggressive negotiation tactics like calling credit cards monthly may not work for everyone",
+      "The focus on high earners optimizing income makes less sense for people in survival mode"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Doing well with money has little to do with how smart you are and a lot to do with how you behave.",
+      "The ability to do what you want, when you want, with who you want, for as long as you want, is priceless.",
+      "Wealth is what you don't see. It's the cars not purchased, the watches not worn.",
+      "Compounding works when you can give an asset years and years to grow.",
+      "Use money to gain control over your time, because not having control of your time is such a powerful and universal drag on happiness.",
+      "Be nicer and less flashy. No one is impressed with your possessions as much as you are."
+    ],
+    "book2": [
+      "Spend extravagantly on the things you love, and cut costs mercilessly on the things you don't.",
+      "The key to being rich is automating your money flow.",
+      "Optimize your spending, not your deprivation.",
+      "You don't need to be an expert to get rich. You need to set up the right accounts and automate everything.",
+      "The best time to start investing was yesterday. The second best time is today.",
+      "Credit cards are like a knifeâ€”dangerous if misused, but incredibly useful if used correctly."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to understand the psychology behind wealth",
+      "You make okay money but still feel financially anxious",
+      "You want timeless principles, not tactical advice",
+      "You're interested in why people make bad money decisions",
+      "You want to change your relationship with money fundamentally",
+      "You appreciate storytelling and philosophy over step-by-step guides",
+      "You're any age and want perspective on wealth"
+    ],
+    "book2": [
+      "You're in your 20s-30s and starting your financial journey",
+      "You need specific steps: which accounts, which funds, how much",
+      "You're overwhelmed and want someone to tell you exactly what to do",
+      "You want to automate your finances within 6 weeks",
+      "You need practical implementation, not philosophy",
+      "You want guilt-free permission to spend on things you love",
+      "You're ready to take immediate action"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Different problems, different solutions. Psychology of Money wins for mindset with 98,000 reviews at 4.6 stars versus IWTYTBR's 12,000 at 4.6—that's 8x more reach. Housel teaches why behavior beats intelligence through stories like Ronald Read saving $8M and Buffett's compounding patience. IWTYTBR wins for execution with Sethi's 6-week program covering exact banks, cards, and funds. Most people need both: Psychology for the mindset, IWTYTBR for the system.",
+    "recommendation": "Read The Psychology of Money first to fix your mindset. Housel's 2020 book has 19 stories that'll change how you think about wealth forever. The 'enough' concept shows how billionaires destroy themselves moving goalposts. Ronald Read the janitor saved $8M while Richard Fuscone the executive went bankrupt—behavior wins. Buffett made $84.5B of his $85B after age 50, proving compounding patience. The 256 pages work for any age or income level, and 98,000 readers rated it 4.6 stars. Then read I Will Teach You to Be Rich to build your actual financial system. Sethi's 6-week program from 2009 (updated 2019) gives exact steps: Week 1 optimize credit cards and banks, Week 2 beat your 401k, Week 6 automate everything. He names specific banks (Ally, Schwab), cards (Chase Sapphire), funds (VTSMX). The automation philosophy means set it once and forget it. His 'spend extravagantly on what you love, cut costs on what you don't' beats deprivation advice. Warning: aimed at 20-30 year olds, and the bro-ish tone annoys some readers. If you only read one, choose Psychology of Money for the complete mindset shift—but you'll still need IWTYTBR's tactics to actually implement anything."
+  }
 }

@@ -1,144 +1,144 @@
 ﻿{
-    "slug":  "story-vs-save-the-cat",
-    "title":  "Story vs Save the Cat: Head to Head Comparison",
-    "metaDescription":  "Screenwriting guides compared: Robert McKee\u0027s Story vs Blake Snyder\u0027s Save the Cat. Which book is better for learning screenplay structure?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Self-Help \u0026 Personal Development",
-    "book1":  {
-                  "title":  "Story",
-                  "subtitle":  "Substance, Structure, Style and the Principles of Screenwriting",
-                  "author":  "Robert McKee",
-                  "isbn":  "978-0060391683",
-                  "publishedYear":  1997,
-                  "pages":  466,
-                  "rating":  4.6,
-                  "ratingCount":  12000,
-                  "price":  19.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780060391683-L.jpg",
-                  "description":  "Robert McKee\u0027s screenwriting workshops have earned him an international reputation for inspiring novices, refining works in progress and putting major screenwriting careers back on track. Quincy Jones, Diane Keaton, Gloria Steinem, Julia Roberts, John Cleese and David Bowie are just a few of his celebrity alumni. Writers, producers, development executives and agents all flock to his lecture series, praising it as a mesmerizing and intense learning experience."
-              },
-    "book2":  {
-                  "title":  "Save the Cat!",
-                  "subtitle":  "The Last Book on Screenwriting You\u0027ll Ever Need",
-                  "author":  "Blake Snyder",
-                  "isbn":  "978-1932907001",
-                  "publishedYear":  2005,
-                  "pages":  196,
-                  "rating":  4.6,
-                  "ratingCount":  8900,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781932907001-L.jpg",
-                  "description":  "This ultimate insider\u0027s guide reveals the secrets that none dare admit, told by a show biz veteran who\u0027s proven that you can sell your script if you can save the cat. Blake Snyder tells all in this fast, funny and candid look inside the movie business. He shows how all movies follow the same narrative structure, and how to use this structure to outline your screenplay from beginning to end."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Philosophical, theory-based",
-                                         "book2":  "Practical, formula-based"
-                                     },
-                                     {
-                                         "feature":  "Focus",
-                                         "book1":  "Deep story principles",
-                                         "book2":  "Genre templates \u0026 beats"
-                                     },
-                                     {
-                                         "feature":  "Length",
-                                         "book1":  "466 pages (comprehensive)",
-                                         "book2":  "196 pages (quick read)"
-                                     },
-                                     {
-                                         "feature":  "Tone",
-                                         "book1":  "Academic, intense, serious",
-                                         "book2":  "Casual, funny, accessible"
-                                     },
-                                     {
-                                         "feature":  "Target",
-                                         "book1":  "Serious writers seeking mastery",
-                                         "book2":  "Beginners needing quick start"
-                                     },
-                                     {
-                                         "feature":  "Actionability",
-                                         "book1":  "Requires interpretation \u0026 study",
-                                         "book2":  "Immediate templates \u0026 checklists"
-                                     },
-                                     {
-                                         "feature":  "Application",
-                                         "book1":  "All narrative forms",
-                                         "book2":  "Primarily screenplays"
-                                     },
-                                     {
-                                         "feature":  "Prescriptiveness",
-                                         "book1":  "Principles over formulas",
-                                         "book2":  "Very prescriptive formulas"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "McKee\u0027s 466-page masterwork is screenwriting gospel—Quincy Jones, Diane Keaton, Julia Roberts attended his workshops (legendary status)",
-                                              "\u0027True character revealed in choices under pressure\u0027 teaching revolutionized understanding of protagonist arcs and dramatic action",
-                                              "Published 1997, rated 4.6 with 12,000 reviews—applies to all narrative (novels/plays/films), not just Hollywood formulas",
-                                              "Gap theory profound—difference between expectation and result creates turning points that drive story forward organically",
-                                              "Teaches story design from first principles—Aristotle to Casablanca, builds complete narrative understanding versus templates"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "466 pages dense as academic textbook—requires multiple reads, note-taking, genuine study to absorb McKee\u0027s encyclopedic theory",
-                                               "Zero templates or beat sheets—McKee refuses formulas, demands writers think through principles (intimidating for beginners)",
-                                               "Tone uncompromising and intense—McKee\u0027s workshops famous for brutal honesty, book reflects that professorial seriousness",
-                                               "Rated 4.6 with 12K reviews vs Save the Cat\u0027s 4.6 with 8,900—equal rating but Story reached fewer readers (accessibility barrier)"
-                                           ],
-                       "book2Strengths":  [
-                                              "Blake Snyder Beat Sheet (BS2) revolutionized structure—15 beats timed to exact page numbers (Opening Image page 1, Midpoint 55, etc.)",
-                                              "10 genre categories brilliant—Monster in House, Golden Fleece, Buddy Love templates identify what story you\u0027re actually writing",
-                                              "\u0027Save the Cat\u0027 moment genius—hero does something likable early so audience roots for them (page 5-10 requirement)",
-                                              "Published 2005, rated 4.6 with 8,900 reviews—196 pages of conversational fun beats McKee\u0027s academic density for beginners",
-                                              "Snyder sold Stop! Or My Mom Will Shoot for $500K—proves commercial Hollywood formulas work despite artistic criticism"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "Formulaic to fault—every beat predetermined creates cookie-cutter scripts (All Is Lost at page 75, Dark Night Soul 75-85)",
-                                               "Professional writers mock it—\u0027Save the Cat killed cinema\u0027 criticisms cite Marvel/franchise homogeneity following Snyder templates",
-                                               "196 pages lack depth—you\u0027ll finish knowing WHAT beats to hit but not WHY they work or how to make them meaningful",
-                                               "Screenplay-specific—novelists and playwrights get less value than McKee\u0027s universal narrative principles applicable anywhere"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Story is about principles, not rules.",
-                                 "True character is revealed in the choices a human being makes under pressure.",
-                                 "The finest writing not only reveals true character, but arcs or changes that inner nature for better or worse.",
-                                 "A story is not only what you have to say, it\u0027s how you say it.",
-                                 "To be a storyteller is to be in touch with the deepest and most profound aspects of being human.",
-                                 "The more beautifully you shape your story around one clear idea, the more meanings audiences will discover in your film as they take your idea and follow its implications into every aspect of their lives."
-                             ],
-                   "book2":  [
-                                 "Save the Cat is the scene where we meet the hero and the hero does something—like saving a cat—that defines who he is and makes us, the audience, like him.",
-                                 "Every screenplay is exactly the same, structurally.",
-                                 "Give me the same thing... only different!",
-                                 "The hero must be proactive, not reactive.",
-                                 "All stories are about transformation.",
-                                 "It\u0027s all about the hero\u0027s journey—every movie is."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to master storytelling at the deepest, most profound level",
-                                  "You\u0027re serious about becoming a professional writer and need comprehensive education",
-                                  "You want principles that apply to all narrative forms, not just screenplays",
-                                  "You\u0027re willing to study and work hard to understand story structure deeply",
-                                  "You want to be respected by serious writers and understand film/literature history"
-                              ],
-                    "book2":  [
-                                  "You\u0027re a beginner who needs a simple, clear roadmap to structure your screenplay",
-                                  "You want immediate, actionable templates you can use right away",
-                                  "You prefer fun, accessible writing over dense academic theory",
-                                  "You need to write a screenplay quickly and want proven formulas",
-                                  "You want to understand Hollywood\u0027s commercial storytelling conventions"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "It Depends",
-                    "summary":  "McKee\u0027s Story wins for mastery—466 pages of Aristotle-to-Casablanca narrative theory builds complete understanding applicable to novels/plays/films. \u0027Character revealed in choices under pressure\u0027 and gap theory teach WHY stories work from first principles. Save the Cat wins for productivity—Blake Snyder Beat Sheet (15 beats, exact page numbers) gets beginners writing immediately. Both rated 4.6, but Story reached 12,000 reviews vs 8,900 showing broader respect despite accessibility barrier. Choose based on your needs: depth and mastery (Story) or speed and templates (Save the Cat).",
-                    "recommendation":  "For beginners needing immediate structure, start with Save the Cat (.99, 196 pages, 4.6 stars, 8,900 reviews). The Blake Snyder Beat Sheet revolutionized screenplay structure—15 beats at exact pages get you writing fast. \u0027Save the Cat\u0027 moment (hero does something likable page 5-10) and 10 genre categories (Monster in House, Golden Fleece, Buddy Love) identify what you\u0027re writing. Warning: formulaic to fault—every beat predetermined (Dark Night Soul 75-85) creates cookie-cutter scripts professionals mock. For serious writers seeking mastery, read Story (.99, 466 pages, 4.6 stars, 12,000 reviews). McKee\u0027s gap theory and character-under-pressure principles teach WHY beats work, applicable beyond screenplays to all narrative forms. Requires study and multiple reads but builds complete storytelling foundation. Ideal path: Start with Save the Cat to write fast, graduate to Story for depth."
-                }
+  "slug": "story-vs-save-the-cat",
+  "title": "Story vs Save the Cat: Head to Head Comparison",
+  "metaDescription": "Screenwriting guides compared: Robert McKee's Story vs Blake Snyder's Save the Cat. Which book is better for learning screenplay structure?",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Story",
+    "subtitle": "Substance, Structure, Style and the Principles of Screenwriting",
+    "author": "Robert McKee",
+    "isbn": "978-0060391683",
+    "publishedYear": 1997,
+    "pages": 466,
+    "rating": 4.6,
+    "ratingCount": 12000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/1737797904?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060391683-L.jpg",
+    "description": "Robert McKee's screenwriting workshops have earned him an international reputation for inspiring novices, refining works in progress and putting major screenwriting careers back on track. Quincy Jones, Diane Keaton, Gloria Steinem, Julia Roberts, John Cleese and David Bowie are just a few of his celebrity alumni. Writers, producers, development executives and agents all flock to his lecture series, praising it as a mesmerizing and intense learning experience."
+  },
+  "book2": {
+    "title": "Save the Cat!",
+    "subtitle": "The Last Book on Screenwriting You'll Ever Need",
+    "author": "Blake Snyder",
+    "isbn": "978-1932907001",
+    "publishedYear": 2005,
+    "pages": 196,
+    "rating": 4.6,
+    "ratingCount": 8900,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781932907001?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781932907001-L.jpg",
+    "description": "This ultimate insider's guide reveals the secrets that none dare admit, told by a show biz veteran who's proven that you can sell your script if you can save the cat. Blake Snyder tells all in this fast, funny and candid look inside the movie business. He shows how all movies follow the same narrative structure, and how to use this structure to outline your screenplay from beginning to end."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Approach",
+        "book1": "Philosophical, theory-based",
+        "book2": "Practical, formula-based"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Deep story principles",
+        "book2": "Genre templates & beats"
+      },
+      {
+        "feature": "Length",
+        "book1": "466 pages (comprehensive)",
+        "book2": "196 pages (quick read)"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Academic, intense, serious",
+        "book2": "Casual, funny, accessible"
+      },
+      {
+        "feature": "Target",
+        "book1": "Serious writers seeking mastery",
+        "book2": "Beginners needing quick start"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Requires interpretation & study",
+        "book2": "Immediate templates & checklists"
+      },
+      {
+        "feature": "Application",
+        "book1": "All narrative forms",
+        "book2": "Primarily screenplays"
+      },
+      {
+        "feature": "Prescriptiveness",
+        "book1": "Principles over formulas",
+        "book2": "Very prescriptive formulas"
+      }
+    ],
+    "book1Strengths": [
+      "McKee's 466-page masterwork is screenwriting gospel—Quincy Jones, Diane Keaton, Julia Roberts attended his workshops (legendary status)",
+      "'True character revealed in choices under pressure' teaching revolutionized understanding of protagonist arcs and dramatic action",
+      "Published 1997, rated 4.6 with 12,000 reviews—applies to all narrative (novels/plays/films), not just Hollywood formulas",
+      "Gap theory profound—difference between expectation and result creates turning points that drive story forward organically",
+      "Teaches story design from first principles—Aristotle to Casablanca, builds complete narrative understanding versus templates"
+    ],
+    "book1Weaknesses": [
+      "466 pages dense as academic textbook—requires multiple reads, note-taking, genuine study to absorb McKee's encyclopedic theory",
+      "Zero templates or beat sheets—McKee refuses formulas, demands writers think through principles (intimidating for beginners)",
+      "Tone uncompromising and intense—McKee's workshops famous for brutal honesty, book reflects that professorial seriousness",
+      "Rated 4.6 with 12K reviews vs Save the Cat's 4.6 with 8,900—equal rating but Story reached fewer readers (accessibility barrier)"
+    ],
+    "book2Strengths": [
+      "Blake Snyder Beat Sheet (BS2) revolutionized structure—15 beats timed to exact page numbers (Opening Image page 1, Midpoint 55, etc.)",
+      "10 genre categories brilliant—Monster in House, Golden Fleece, Buddy Love templates identify what story you're actually writing",
+      "'Save the Cat' moment genius—hero does something likable early so audience roots for them (page 5-10 requirement)",
+      "Published 2005, rated 4.6 with 8,900 reviews—196 pages of conversational fun beats McKee's academic density for beginners",
+      "Snyder sold Stop! Or My Mom Will Shoot for $500K—proves commercial Hollywood formulas work despite artistic criticism"
+    ],
+    "book2Weaknesses": [
+      "Formulaic to fault—every beat predetermined creates cookie-cutter scripts (All Is Lost at page 75, Dark Night Soul 75-85)",
+      "Professional writers mock it—'Save the Cat killed cinema' criticisms cite Marvel/franchise homogeneity following Snyder templates",
+      "196 pages lack depth—you'll finish knowing WHAT beats to hit but not WHY they work or how to make them meaningful",
+      "Screenplay-specific—novelists and playwrights get less value than McKee's universal narrative principles applicable anywhere"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Story is about principles, not rules.",
+      "True character is revealed in the choices a human being makes under pressure.",
+      "The finest writing not only reveals true character, but arcs or changes that inner nature for better or worse.",
+      "A story is not only what you have to say, it's how you say it.",
+      "To be a storyteller is to be in touch with the deepest and most profound aspects of being human.",
+      "The more beautifully you shape your story around one clear idea, the more meanings audiences will discover in your film as they take your idea and follow its implications into every aspect of their lives."
+    ],
+    "book2": [
+      "Save the Cat is the scene where we meet the hero and the hero does something—like saving a cat—that defines who he is and makes us, the audience, like him.",
+      "Every screenplay is exactly the same, structurally.",
+      "Give me the same thing... only different!",
+      "The hero must be proactive, not reactive.",
+      "All stories are about transformation.",
+      "It's all about the hero's journey—every movie is."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to master storytelling at the deepest, most profound level",
+      "You're serious about becoming a professional writer and need comprehensive education",
+      "You want principles that apply to all narrative forms, not just screenplays",
+      "You're willing to study and work hard to understand story structure deeply",
+      "You want to be respected by serious writers and understand film/literature history"
+    ],
+    "book2": [
+      "You're a beginner who needs a simple, clear roadmap to structure your screenplay",
+      "You want immediate, actionable templates you can use right away",
+      "You prefer fun, accessible writing over dense academic theory",
+      "You need to write a screenplay quickly and want proven formulas",
+      "You want to understand Hollywood's commercial storytelling conventions"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "McKee's Story wins for mastery—466 pages of Aristotle-to-Casablanca narrative theory builds complete understanding applicable to novels/plays/films. 'Character revealed in choices under pressure' and gap theory teach WHY stories work from first principles. Save the Cat wins for productivity—Blake Snyder Beat Sheet (15 beats, exact page numbers) gets beginners writing immediately. Both rated 4.6, but Story reached 12,000 reviews vs 8,900 showing broader respect despite accessibility barrier. Choose based on your needs: depth and mastery (Story) or speed and templates (Save the Cat).",
+    "recommendation": "For beginners needing immediate structure, start with Save the Cat (.99, 196 pages, 4.6 stars, 8,900 reviews). The Blake Snyder Beat Sheet revolutionized screenplay structure—15 beats at exact pages get you writing fast. 'Save the Cat' moment (hero does something likable page 5-10) and 10 genre categories (Monster in House, Golden Fleece, Buddy Love) identify what you're writing. Warning: formulaic to fault—every beat predetermined (Dark Night Soul 75-85) creates cookie-cutter scripts professionals mock. For serious writers seeking mastery, read Story (.99, 466 pages, 4.6 stars, 12,000 reviews). McKee's gap theory and character-under-pressure principles teach WHY beats work, applicable beyond screenplays to all narrative forms. Requires study and multiple reads but builds complete storytelling foundation. Ideal path: Start with Save the Cat to write fast, graduate to Story for depth."
+  }
 }

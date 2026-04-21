@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "guns-germs-and-steel-vs-why-nations-fail",
   "title": "Guns, Germs, and Steel vs Why Nations Fail: Head to Head Comparison",
   "metaDescription": "Jared Diamond's Guns, Germs, and Steel vs Acemoglu & Robinson's Why Nations Fail—geography vs institutions. Which theory explains global inequality?",
@@ -14,7 +14,7 @@
     "rating": 4.1,
     "ratingCount": 98000,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780393317558?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780393317558-L.jpg",
     "description": "Guns, Germs, and Steel is Jared Diamond's Pulitzer Prize-winning exploration of why Eurasian civilizations dominated the world. Diamond argues that geographic and environmental factors—not racial or cultural superiority—determined which societies developed advanced technology and conquered others. He examines how the availability of domesticable plants and animals, continental axis orientation, and disease resistance shaped human history over 13,000 years."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 28000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780307719225?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780307719225-L.jpg",
     "description": "Why Nations Fail presents a fundamentally different explanation for global inequality. Economists Daron Acemoglu and James Robinson argue that institutions—not geography or culture—determine whether nations succeed or fail. They distinguish between extractive institutions that concentrate power and wealth in elite hands, versus inclusive institutions that distribute power broadly and encourage innovation through creative destruction."
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "richest-man-babylon-vs-wealthy-barber",
   "title": "The Richest Man in Babylon vs The Wealthy Barber: Head to Head Comparison",
   "metaDescription": "George Clason's 1926 ancient parables vs David Chilton's 1989 Canadian common sense. Which timeless personal finance classic builds wealth more effectively?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 42000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_RICHEST_MAN_BABYLON",
+    "amazonUrl": "https://www.amazon.com/dp/1505334021?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781505339192-L.jpg",
     "description": "The Richest Man in Babylon is a timeless classic, revealing the secrets to making money and keeping it. This inspirational book is acclaimed as the greatest of all inspirational works on the subject of thrift, financial planning, and personal wealth. Through this classic work, George S. Clason dispenses financial advice through a collection of parables set in ancient Babylon."
   },
@@ -28,19 +28,47 @@
     "rating": 4.5,
     "ratingCount": 1800,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_WEALTHY_BARBER",
+    "amazonUrl": "https://www.amazon.com/dp/1559590898?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780761513117-L.jpg",
     "description": "The Wealthy Barber is the book that started it all. A fictional story about three young adults who learn the importance of saving and investing from Roy, a local barber who has amassed a small fortune through common sense and discipline. The book takes a friendly, conversational tone and presents financial advice in an easy-to-understand manner. It became Canada's best-selling financial book and has helped millions achieve financial independence."
   },
   "comparison": {
     "table": [
-      {"feature": "Setting", "book1": "Ancient Babylon, 4000 years ago", "book2": "Modern-day Canada, 1980s suburban setting"},
-      {"feature": "Format", "book1": "Collection of independent parables and stories", "book2": "Continuous narrative with recurring characters"},
-      {"feature": "Core Message", "book1": "Pay yourself first, make money work for you, avoid debt", "book2": "Save 10%, forced savings through automatic deductions, buy life insurance"},
-      {"feature": "Popularity", "book1": "42,000 ratings—massive classic status", "book2": "1,800 ratings—respected but smaller audience"},
-      {"feature": "Best For", "book1": "Universal principles that apply anywhere, anytime", "book2": "Practical Canadian/North American financial planning specifics"},
-      {"feature": "Page Count", "book1": "194 pages", "book2": "224 pages"},
-      {"feature": "Published", "book1": "1926", "book2": "1989"}
+      {
+        "feature": "Setting",
+        "book1": "Ancient Babylon, 4000 years ago",
+        "book2": "Modern-day Canada, 1980s suburban setting"
+      },
+      {
+        "feature": "Format",
+        "book1": "Collection of independent parables and stories",
+        "book2": "Continuous narrative with recurring characters"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "Pay yourself first, make money work for you, avoid debt",
+        "book2": "Save 10%, forced savings through automatic deductions, buy life insurance"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "42,000 ratings—massive classic status",
+        "book2": "1,800 ratings—respected but smaller audience"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Universal principles that apply anywhere, anytime",
+        "book2": "Practical Canadian/North American financial planning specifics"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "194 pages",
+        "book2": "224 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "1926",
+        "book2": "1989"
+      }
     ],
     "book1Strengths": [
       "Massive audience—42,000 ratings at 4.7 versus 1,800 at 4.5 (over 23x more readers). Nearly 100 years proves universal, timeless appeal across cultures and economies",

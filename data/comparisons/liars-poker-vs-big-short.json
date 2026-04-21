@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 4800,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LIARS_POKER",
+    "amazonUrl": "https://www.amazon.com/dp/9780393338690?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780393338690-L.jpg",
     "description": "Liar's Poker is a non-fiction, semi-autobiographical book by Michael Lewis describing the author's experiences as a bond salesman on Wall Street during the late 1980s. First published in 1989, it is considered one of the books that defined Wall Street during the 1980s, along with Bryan Burrough and John Helyar's Barbarians at the Gate. The book captures an important moment in financial history when bond traders overtook stock traders in the pecking order of Wall Street."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 8900,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_BIG_SHORT",
+    "amazonUrl": "https://www.amazon.com/dp/0393354320?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780393338829-L.jpg",
     "description": "The real story of the crash began in the 1980s, when the first generation of mortgage-backed securities began trading. It picked up speed in the 1990s, when collateralized debt obligations (CDOs) were introduced, and it accelerated into overdrive in the early 2000s. By 2005, the housing market was completely insane. The Big Short tells the story of the handful of investors who bet against the housing bubble and made billions when it collapsed."
   },

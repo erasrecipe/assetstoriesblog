@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "pitch-anything-vs-way-of-the-wolf",
   "title": "Pitch Anything vs Way of the Wolf: Head to Head Comparison",
   "metaDescription": "Oren Klaff's frame control method vs Jordan Belfort's straight line selling system. Which book teaches high-stakes persuasion and selling more effectively?",
@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 3200,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_PITCH_ANYTHING",
+    "amazonUrl": "https://www.amazon.com/dp/0071752854?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780071752855-L.jpg",
     "description": "When it comes to delivering a pitch, Oren Klaff has unparalleled credentials. Over the past 13 years, he has used his one-of-a-kind method to raise more than $400 million—and now, for the first time, he describes his formula to help you deliver a winning pitch in any business situation. Whether you're selling ideas to investors, pitching a client for new business, or even negotiating for a higher salary, Pitch Anything will transform the way you position your ideas."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 4100,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_WAY_OF_THE_WOLF",
+    "amazonUrl": "https://www.amazon.com/dp/1501160807?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501164286-L.jpg",
     "description": "For the first time ever, Jordan Belfort opens his playbook and gives you access to his exclusive step-by-step system—the same system he used to create massive wealth for himself, his clients, and his sales teams. Until now this revolutionary program was only available through Jordan's $1,997 online training. Now, in Way of the Wolf, Belfort is ready to unleash the power of persuasion to a whole new generation of readers."
   },

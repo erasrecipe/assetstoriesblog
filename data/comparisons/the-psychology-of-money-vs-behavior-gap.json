@@ -1,146 +1,146 @@
 ﻿{
-    "slug":  "the-psychology-of-money-vs-behavior-gap",
-    "title":  "The Psychology of Money vs Behavior Gap: Head to Head Comparison",
-    "metaDescription":  "Morgan Housel vs Carl Richards on money psychology. Two perspectives on why we make irrational financial decisions—which insights change your money behavior?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Business \u0026 Leadership",
-    "book1":  {
-                  "title":  "The Psychology of Money",
-                  "subtitle":  "Timeless Lessons on Wealth, Greed, and Happiness",
-                  "author":  "Morgan Housel",
-                  "isbn":  "978-0857197689",
-                  "publishedYear":  2020,
-                  "pages":  256,
-                  "rating":  4.7,
-                  "ratingCount":  145000,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_PSYCHOLOGY_MONEY",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
-                  "description":  "Doing well with money isn\u0027t necessarily about what you know. It\u0027s about how you behave. And behavior is hard to teach, even to really smart people. Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don\u0027t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together."
-              },
-    "book2":  {
-                  "title":  "The Behavior Gap",
-                  "subtitle":  "Simple Ways to Stop Doing Dumb Things with Money",
-                  "author":  "Carl Richards",
-                  "isbn":  "978-1591844723",
-                  "publishedYear":  2012,
-                  "pages":  176,
-                  "rating":  4.5,
-                  "ratingCount":  3200,
-                  "price":  15.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_BEHAVIOR_GAP",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781591844723-L.jpg",
-                  "description":  "Carl Richards, the Sketch Guy columnist for the New York Times, uses simple, elegant sketches to illustrate the often complex principles behind money and finance. This unique approach has made him one of the most widely read financial columnists on the web. In this pithy, entertaining, and eminently useful book, Richards uses those sketches to teach us how to avoid the traps of bad financial behavior."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "20 psychological lessons on wealth, greed, and happiness",
-                                         "book2":  "The gap between what we should do and what we actually do"
-                                     },
-                                     {
-                                         "feature":  "Structure",
-                                         "book1":  "20 standalone chapters, each teaching one lesson",
-                                         "book2":  "Shorter book with simple sketches illustrating concepts"
-                                     },
-                                     {
-                                         "feature":  "Core Insight",
-                                         "book1":  "Financial success is about behavior, not intelligence or knowledge",
-                                         "book2":  "We know what to do but don\u0027t do it—that\u0027s the behavior gap"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Stories and lessons from financial history",
-                                         "book2":  "Visual sketches with practical behavioral insights"
-                                     },
-                                     {
-                                         "feature":  "Depth",
-                                         "book1":  "More comprehensive—256 pages, 20 lessons",
-                                         "book2":  "More concise—176 pages, sketch-based"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Anyone wanting comprehensive psychology of money education",
-                                         "book2":  "People who need quick visual reminders about behavior"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "256 pages",
-                                         "book2":  "176 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2020",
-                                         "book2":  "2012"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Housel proves wealth is what you don\u0027t see because true rich people save rather than display status symbols",
-                                              "The compounding chapter showing Ronald Read the janitor dying with 8 million outearning doctors validates frugality",
-                                              "Tail events concept explains how a few big decisions matter more than decades of small optimizations",
-                                              "Short chapters make complex behavioral finance accessible without dumbing down the insights"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Some advice like save more feels obvious without addressing the systemic barriers preventing savings",
-                                               "The privilege of being able to delay gratification ignores survival mode many people live in",
-                                               "Limited practical investment guidance focuses more on mindset than actual portfolio construction"
-                                           ],
-                       "book2Strengths":  [
-                                              "Richards uses simple sketches to illustrate how emotions sabotage rational financial planning",
-                                              "The gap between what we should do and what we actually do gets acknowledged with empathy not judgment",
-                                              "Real client stories of panic selling and performance chasing make mistakes feel relatable not shameful",
-                                              "Focus on behavior over strategy shows why financial planning fails despite perfect spreadsheets"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The brevity leaves some readers wanting more depth on specific behavioral finance concepts",
-                                               "Some sketches feel too simplistic for readers familiar with basic behavioral economics",
-                                               "Less memorable than Housel\u0027s storytelling with specific examples and historical anecdotes"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Doing well with money has little to do with how smart you are and a lot to do with how you behave.",
-                                 "The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays.",
-                                 "The hardest financial skill is getting the goalpost to stop moving.",
-                                 "Spending money to show people how much money you have is the fastest way to have less money.",
-                                 "Being reasonable is more important than being rational.",
-                                 "Use money to gain control over your time.",
-                                 "Wealth is what you don\u0027t see. It\u0027s the cars not purchased. The diamonds not bought. The renovations postponed.",
-                                 "The highest form of wealth is the ability to wake up every morning and say, \u0027I can do whatever I want today.\u0027"
-                             ],
-                   "book2":  [
-                                 "The behavior gap is the difference between what we should do and what we actually do.",
-                                 "We\u0027re wired to make quick decisions based on incomplete information because for most of human history, that kept us alive.",
-                                 "Simple beats complex every time.",
-                                 "The problem is we don\u0027t know what we don\u0027t know.",
-                                 "Stop doing dumb things before you start trying to do smart things.",
-                                 "You can\u0027t budget your way to wealth, but you can spend your way to poverty.",
-                                 "Guessing is not a financial plan.",
-                                 "Focus on what you can control and ignore the rest."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Learn why financial success is 90% behavior and 10% knowledge",
-                                  "Get 20 profound lessons that will change your relationship with money",
-                                  "Understand why smart people make dumb money decisions",
-                                  "The \u0027enough\u0027 concept will transform your financial goals",
-                                  "One of the best and most popular money books ever written",
-                                  "Perfect blend of psychology, history, and practical wisdom"
-                              ],
-                    "book2":  [
-                                  "Carl\u0027s simple sketches make the behavior gap instantly clear",
-                                  "Quick read that delivers big insights in minimal time",
-                                  "Perfect for visual learners who struggle with dense financial books",
-                                  "Learn to stop making the same stupid money mistakes repeatedly",
-                                  "The sketches are memorable and shareable reminders",
-                                  "Great companion to more comprehensive financial books"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Psychology of Money",
-                    "summary":  "The Psychology of Money wins by a landslide. Housel\u0027s 2020 book hit 145,000 reviews at 4.7 stars versus Behavior Gap\u0027s 3,200 at 4.5—that\u0027s 45x more readers. Both teach behavioral finance, but Psychology delivers 20 comprehensive lessons with stories like Ronald Read (janitor who saved $8M) and Warren Buffett\u0027s compounding power. Behavior Gap offers brilliant sketches in 176 pages but lacks psychological depth. Psychology is the complete education; Behavior Gap is the visual reminder.",
-                    "recommendation":  "Read The Psychology of Money—it\u0027s one of the best finance books ever written. Housel published this in 2020 with 20 standalone chapters covering the full psychology of wealth and behavior. The \u0027enough\u0027 concept alone is worth the price: he shows how billionaires destroy themselves by never stopping the goalpost. Ronald Read the janitor saved $8 million while Richard Fuscone the executive went bankrupt—proof that behavior beats intelligence. Buffett\u0027s story drives home compounding: $84.5 billion of his $85 billion came after age 50. The 256 pages balance stories with practical lessons, and 145,000 readers rated it 4.7 stars. Read The Behavior Gap only if you\u0027re a visual learner who needs sketch reminders. Richards was the New York Times \u0027Sketch Guy\u0027 and his hand-drawn diagrams are brilliant—two overlapping circles, emotion-labeled graphs that explain why we buy high and sell low. The 176 pages take one sitting. But it\u0027s surface-level compared to Housel\u0027s depth, and published 2012 means it\u0027s missing eight years of research. Only 3,200 reviews versus 145,000 shows the reach gap. If you only read one, choose Psychology of Money for the complete education."
-                }
+  "slug": "the-psychology-of-money-vs-behavior-gap",
+  "title": "The Psychology of Money vs Behavior Gap: Head to Head Comparison",
+  "metaDescription": "Morgan Housel vs Carl Richards on money psychology. Two perspectives on why we make irrational financial decisions—which insights change your money behavior?",
+  "lastUpdated": "2026-02-07",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "The Psychology of Money",
+    "subtitle": "Timeless Lessons on Wealth, Greed, and Happiness",
+    "author": "Morgan Housel",
+    "isbn": "978-0857197689",
+    "publishedYear": 2020,
+    "pages": 256,
+    "rating": 4.7,
+    "ratingCount": 145000,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/0857191281?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+    "description": "Doing well with money isn't necessarily about what you know. It's about how you behave. And behavior is hard to teach, even to really smart people. Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don't make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together."
+  },
+  "book2": {
+    "title": "The Behavior Gap",
+    "subtitle": "Simple Ways to Stop Doing Dumb Things with Money",
+    "author": "Carl Richards",
+    "isbn": "978-1591844723",
+    "publishedYear": 2012,
+    "pages": 176,
+    "rating": 4.5,
+    "ratingCount": 3200,
+    "price": 15.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781591844723?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781591844723-L.jpg",
+    "description": "Carl Richards, the Sketch Guy columnist for the New York Times, uses simple, elegant sketches to illustrate the often complex principles behind money and finance. This unique approach has made him one of the most widely read financial columnists on the web. In this pithy, entertaining, and eminently useful book, Richards uses those sketches to teach us how to avoid the traps of bad financial behavior."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "20 psychological lessons on wealth, greed, and happiness",
+        "book2": "The gap between what we should do and what we actually do"
+      },
+      {
+        "feature": "Structure",
+        "book1": "20 standalone chapters, each teaching one lesson",
+        "book2": "Shorter book with simple sketches illustrating concepts"
+      },
+      {
+        "feature": "Core Insight",
+        "book1": "Financial success is about behavior, not intelligence or knowledge",
+        "book2": "We know what to do but don't do it—that's the behavior gap"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Stories and lessons from financial history",
+        "book2": "Visual sketches with practical behavioral insights"
+      },
+      {
+        "feature": "Depth",
+        "book1": "More comprehensive—256 pages, 20 lessons",
+        "book2": "More concise—176 pages, sketch-based"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Anyone wanting comprehensive psychology of money education",
+        "book2": "People who need quick visual reminders about behavior"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "256 pages",
+        "book2": "176 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2020",
+        "book2": "2012"
+      }
+    ],
+    "book1Strengths": [
+      "Housel proves wealth is what you don't see because true rich people save rather than display status symbols",
+      "The compounding chapter showing Ronald Read the janitor dying with 8 million outearning doctors validates frugality",
+      "Tail events concept explains how a few big decisions matter more than decades of small optimizations",
+      "Short chapters make complex behavioral finance accessible without dumbing down the insights"
+    ],
+    "book1Weaknesses": [
+      "Some advice like save more feels obvious without addressing the systemic barriers preventing savings",
+      "The privilege of being able to delay gratification ignores survival mode many people live in",
+      "Limited practical investment guidance focuses more on mindset than actual portfolio construction"
+    ],
+    "book2Strengths": [
+      "Richards uses simple sketches to illustrate how emotions sabotage rational financial planning",
+      "The gap between what we should do and what we actually do gets acknowledged with empathy not judgment",
+      "Real client stories of panic selling and performance chasing make mistakes feel relatable not shameful",
+      "Focus on behavior over strategy shows why financial planning fails despite perfect spreadsheets"
+    ],
+    "book2Weaknesses": [
+      "The brevity leaves some readers wanting more depth on specific behavioral finance concepts",
+      "Some sketches feel too simplistic for readers familiar with basic behavioral economics",
+      "Less memorable than Housel's storytelling with specific examples and historical anecdotes"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Doing well with money has little to do with how smart you are and a lot to do with how you behave.",
+      "The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays.",
+      "The hardest financial skill is getting the goalpost to stop moving.",
+      "Spending money to show people how much money you have is the fastest way to have less money.",
+      "Being reasonable is more important than being rational.",
+      "Use money to gain control over your time.",
+      "Wealth is what you don't see. It's the cars not purchased. The diamonds not bought. The renovations postponed.",
+      "The highest form of wealth is the ability to wake up every morning and say, 'I can do whatever I want today.'"
+    ],
+    "book2": [
+      "The behavior gap is the difference between what we should do and what we actually do.",
+      "We're wired to make quick decisions based on incomplete information because for most of human history, that kept us alive.",
+      "Simple beats complex every time.",
+      "The problem is we don't know what we don't know.",
+      "Stop doing dumb things before you start trying to do smart things.",
+      "You can't budget your way to wealth, but you can spend your way to poverty.",
+      "Guessing is not a financial plan.",
+      "Focus on what you can control and ignore the rest."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Learn why financial success is 90% behavior and 10% knowledge",
+      "Get 20 profound lessons that will change your relationship with money",
+      "Understand why smart people make dumb money decisions",
+      "The 'enough' concept will transform your financial goals",
+      "One of the best and most popular money books ever written",
+      "Perfect blend of psychology, history, and practical wisdom"
+    ],
+    "book2": [
+      "Carl's simple sketches make the behavior gap instantly clear",
+      "Quick read that delivers big insights in minimal time",
+      "Perfect for visual learners who struggle with dense financial books",
+      "Learn to stop making the same stupid money mistakes repeatedly",
+      "The sketches are memorable and shareable reminders",
+      "Great companion to more comprehensive financial books"
+    ]
+  },
+  "verdict": {
+    "winner": "The Psychology of Money",
+    "summary": "The Psychology of Money wins by a landslide. Housel's 2020 book hit 145,000 reviews at 4.7 stars versus Behavior Gap's 3,200 at 4.5—that's 45x more readers. Both teach behavioral finance, but Psychology delivers 20 comprehensive lessons with stories like Ronald Read (janitor who saved $8M) and Warren Buffett's compounding power. Behavior Gap offers brilliant sketches in 176 pages but lacks psychological depth. Psychology is the complete education; Behavior Gap is the visual reminder.",
+    "recommendation": "Read The Psychology of Money—it's one of the best finance books ever written. Housel published this in 2020 with 20 standalone chapters covering the full psychology of wealth and behavior. The 'enough' concept alone is worth the price: he shows how billionaires destroy themselves by never stopping the goalpost. Ronald Read the janitor saved $8 million while Richard Fuscone the executive went bankrupt—proof that behavior beats intelligence. Buffett's story drives home compounding: $84.5 billion of his $85 billion came after age 50. The 256 pages balance stories with practical lessons, and 145,000 readers rated it 4.7 stars. Read The Behavior Gap only if you're a visual learner who needs sketch reminders. Richards was the New York Times 'Sketch Guy' and his hand-drawn diagrams are brilliant—two overlapping circles, emotion-labeled graphs that explain why we buy high and sell low. The 176 pages take one sitting. But it's surface-level compared to Housel's depth, and published 2012 means it's missing eight years of research. Only 3,200 reviews versus 145,000 shows the reach gap. If you only read one, choose Psychology of Money for the complete education."
+  }
 }

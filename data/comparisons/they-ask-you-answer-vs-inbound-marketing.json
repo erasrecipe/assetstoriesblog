@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "they-ask-you-answer-vs-inbound-marketing",
   "title": "They Ask You Answer vs Inbound Marketing: Head to Head Comparison",
   "metaDescription": "Marcus Sheridan's They Ask You Answer vs Halligan & Shah's Inbound Marketing. Which content marketing framework drives more sales?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 2400,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THEY_ASK_YOU_ANSWER",
+    "amazonUrl": "https://www.amazon.com/dp/9781119610144?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781119610144-L.jpg",
     "description": "They Ask, You Answer is a straightforward guide filled with practical tactics and insights for transforming your marketing strategy. This inbound and content marketing book is written by one of the most exciting leaders in sales and marketing, Marcus Sheridan."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 890,
     "price": 24.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_INBOUND_MARKETING",
+    "amazonUrl": "https://www.amazon.com/dp/9781118896068?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781118896068-L.jpg",
     "description": "Get the latest information on inbound marketing to transform your business. Written by HubSpot's founders, this book shows you how to get found by customers online through SEO, blogging, and social media."
   },

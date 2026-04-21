@@ -1,147 +1,147 @@
 ﻿{
-    "slug":  "the-immortal-life-of-henrietta-lacks-vs-the-gene",
-    "title":  "The Immortal Life of Henrietta Lacks vs The Gene: Head to Head Comparison",
-    "metaDescription":  "Skloot\u0027s intimate personal story vs Mukherjee\u0027s sweeping genetics history. Which book better illuminates the human side of genetics?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "History \u0026 Philosophy",
-    "book1":  {
-                  "title":  "The Immortal Life of Henrietta Lacks",
-                  "subtitle":  "",
-                  "author":  "Rebecca Skloot",
-                  "isbn":  "978-1400052189",
-                  "publishedYear":  2010,
-                  "pages":  381,
-                  "rating":  4.7,
-                  "ratingCount":  456000,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_HENRIETTA_LACKS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781400052189-L.jpg",
-                  "description":  "Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor black tobacco farmer whose cells—taken without her knowledge in 1951—became one of the most important tools in medicine, vital for developing the polio vaccine, cloning, gene mapping, and more. Henrietta\u0027s cells have been bought and sold by the billions, yet she remains virtually unknown, and her family can\u0027t afford health insurance."
-              },
-    "book2":  {
-                  "title":  "The Gene",
-                  "subtitle":  "An Intimate History",
-                  "author":  "Siddhartha Mukherjee",
-                  "isbn":  "978-1476733500",
-                  "publishedYear":  2016,
-                  "pages":  592,
-                  "rating":  4.5,
-                  "ratingCount":  28000,
-                  "price":  19.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_THE_GENE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781476733500-L.jpg",
-                  "description":  "The Gene is the story of one of the most powerful and dangerous ideas in our history from the author of The Emperor of All Maladies. Weaving science, social history, and personal narrative to tell us the story of today\u0027s revolution in genetic medicine, Mukherjee poses the most urgent and necessary questions for the future. How much of who we are is written into our genes? How should we alter our genes when we can?"
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "One woman\u0027s story and her immortal cells",
-                                         "book2":  "Comprehensive history of genetics"
-                                     },
-                                     {
-                                         "feature":  "Narrative Style",
-                                         "book1":  "Investigative journalism, personal biography",
-                                         "book2":  "Epic historical narrative with memoir"
-                                     },
-                                     {
-                                         "feature":  "Scope",
-                                         "book1":  "Focused on Henrietta, HeLa cells, and her family",
-                                         "book2":  "150 years from Mendel to modern genomics"
-                                     },
-                                     {
-                                         "feature":  "Emotional Impact",
-                                         "book1":  "Deeply personal, emotionally powerful",
-                                         "book2":  "Philosophical, intellectually moving"
-                                     },
-                                     {
-                                         "feature":  "Core Themes",
-                                         "book1":  "Ethics, race, medical exploitation, consent",
-                                         "book2":  "Heredity, identity, gene editing, destiny"
-                                     },
-                                     {
-                                         "feature":  "Accessibility",
-                                         "book1":  "Very accessible, reads like a novel",
-                                         "book2":  "More complex, requires focus"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "381 pages",
-                                         "book2":  "592 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2010 (modern classic)",
-                                         "book2":  "2016 (Pulitzer finalist)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Skloot humanizes medical ethics violations through Lacks family personal story powerfully",
-                                              "The HeLa cells scientific impact shows how one woman changed medicine forever",
-                                              "At 381 pages this balances science, history, and human drama perfectly",
-                                              "The racial injustice and medical exploitation themes resonate with contemporary issues",
-                                              "Skloot\u0027s decade long research and relationship with Lacks family adds authenticity",
-                                              "The accessible science writing makes cell biology understandable to general readers"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The family dysfunction and ongoing struggles can feel depressing",
-                                               "Some readers want more cell biology science and less family drama",
-                                               "The ethical violations are disturbing requiring emotional processing",
-                                               "Deborah Lacks\u0027s mental health struggles dominate later sections heavily"
-                                           ],
-                       "book2Strengths":  [
-                                              "Mukherjee traces genetics from Mendel to CRISPR with epic historical scope",
-                                              "The personal family history of mental illness adds emotional resonance",
-                                              "At 592 pages this comprehensively covers science, ethics, and future",
-                                              "Pulitzer Prize winning author brings literary elegance to scientific narrative",
-                                              "The philosophical questions about genetic determinism feel profound",
-                                              "Published 2016 this captures genomics revolution at pivotal moment"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "At 592 pages the comprehensive scope demands significant time investment",
-                                               "Dense medical terminology and scientific detail can slow reading pace",
-                                               "Broader historical focus means less intimate human connection than Lacks",
-                                               "Some chapters feel more like textbook than narrative storytelling"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Henrietta\u0027s cells have now been living outside her body far longer than they ever lived inside it.",
-                                 "She\u0027s the most important person in the world and her family living in poverty. If our mother is so important to science, why can\u0027t we get health insurance?",
-                                 "Black scientists and technicians, many of them women, used cells from a black woman to help save the lives of millions of Americans, most of them white.",
-                                 "Henrietta Lacks was born in 1920 in Roanoke, Virginia. No one knows how she felt about dying, what she thought about when she thought about death, or what she saw when she looked at the tumor growing inside her.",
-                                 "The HeLa cells grew like nothing anyone had seen, doubling their numbers in twenty-four hours, sticking to glass, and surviving indefinitely."
-                             ],
-                   "book2":  [
-                                 "We are not prisoners of our genes, but neither are we entirely free from them.",
-                                 "The genome is not a passive blueprint. It is an active script, constantly being read and interpreted.",
-                                 "To understand heredity is to understand the essence of what makes us human.",
-                                 "In the beginning, there was an image. And the image was a man. And the man was a gene.",
-                                 "The gene is the organizing principle of modern biology.",
-                                 "What happens when the ability to manipulate genes becomes widely accessible?"
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want an emotionally powerful, human story about medical science",
-                                  "You\u0027re interested in bioethics, consent, and medical research ethics",
-                                  "You want to understand racial inequities in medicine",
-                                  "You enjoy investigative journalism and detective-like narratives",
-                                  "You prefer personal stories over broad historical sweeps",
-                                  "You want a book that\u0027s accessible, moving, and impossible to put down"
-                              ],
-                    "book2":  [
-                                  "You want comprehensive understanding of genetics from Mendel forward",
-                                  "You appreciate literary, philosophical science writing",
-                                  "You\u0027re interested in heredity, identity, and what makes us who we are",
-                                  "You want to understand gene editing and modern genetic technologies",
-                                  "You enjoy memoir woven into scientific history",
-                                  "You\u0027re ready for a longer, more demanding but profoundly rewarding read"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Immortal Life of Henrietta Lacks",
-                    "summary":  "For most readers, Henrietta Lacks wins. It\u0027s more accessible, emotionally powerful, and impossible to put down. According to us, Skloot tells a story that makes you feel genetics in your bones rather than just understand it intellectually. That said, The Gene is more comprehensive and essential for understanding genetics broadly. In our view, Henrietta\u0027s story is unforgettable and urgent; Mukherjee\u0027s history is profound and comprehensive. Choose based on whether you want emotional impact or intellectual breadth.",
-                    "recommendation":  "Start with The Immortal Life of Henrietta Lacks if you want to be moved and engaged immediately—it\u0027s shorter, more accessible, and raises crucial ethical questions through one powerful story. Read The Gene if you want comprehensive genetics knowledge and are ready for a longer, more demanding intellectual journey. Ideally, read both: Henrietta first for emotional grounding and ethics, then The Gene for the full historical and scientific context. Both are essential, but Henrietta is the one that will haunt you."
-                }
+  "slug": "the-immortal-life-of-henrietta-lacks-vs-the-gene",
+  "title": "The Immortal Life of Henrietta Lacks vs The Gene: Head to Head Comparison",
+  "metaDescription": "Skloot's intimate personal story vs Mukherjee's sweeping genetics history. Which book better illuminates the human side of genetics?",
+  "lastUpdated": "2026-02-07",
+  "category": "History & Philosophy",
+  "book1": {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "subtitle": "",
+    "author": "Rebecca Skloot",
+    "isbn": "978-1400052189",
+    "publishedYear": 2010,
+    "pages": 381,
+    "rating": 4.7,
+    "ratingCount": 456000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781400052189?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781400052189-L.jpg",
+    "description": "Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor black tobacco farmer whose cells—taken without her knowledge in 1951—became one of the most important tools in medicine, vital for developing the polio vaccine, cloning, gene mapping, and more. Henrietta's cells have been bought and sold by the billions, yet she remains virtually unknown, and her family can't afford health insurance."
+  },
+  "book2": {
+    "title": "The Gene",
+    "subtitle": "An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "978-1476733500",
+    "publishedYear": 2016,
+    "pages": 592,
+    "rating": 4.5,
+    "ratingCount": 28000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781476733500?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781476733500-L.jpg",
+    "description": "The Gene is the story of one of the most powerful and dangerous ideas in our history from the author of The Emperor of All Maladies. Weaving science, social history, and personal narrative to tell us the story of today's revolution in genetic medicine, Mukherjee poses the most urgent and necessary questions for the future. How much of who we are is written into our genes? How should we alter our genes when we can?"
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "One woman's story and her immortal cells",
+        "book2": "Comprehensive history of genetics"
+      },
+      {
+        "feature": "Narrative Style",
+        "book1": "Investigative journalism, personal biography",
+        "book2": "Epic historical narrative with memoir"
+      },
+      {
+        "feature": "Scope",
+        "book1": "Focused on Henrietta, HeLa cells, and her family",
+        "book2": "150 years from Mendel to modern genomics"
+      },
+      {
+        "feature": "Emotional Impact",
+        "book1": "Deeply personal, emotionally powerful",
+        "book2": "Philosophical, intellectually moving"
+      },
+      {
+        "feature": "Core Themes",
+        "book1": "Ethics, race, medical exploitation, consent",
+        "book2": "Heredity, identity, gene editing, destiny"
+      },
+      {
+        "feature": "Accessibility",
+        "book1": "Very accessible, reads like a novel",
+        "book2": "More complex, requires focus"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "381 pages",
+        "book2": "592 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2010 (modern classic)",
+        "book2": "2016 (Pulitzer finalist)"
+      }
+    ],
+    "book1Strengths": [
+      "Skloot humanizes medical ethics violations through Lacks family personal story powerfully",
+      "The HeLa cells scientific impact shows how one woman changed medicine forever",
+      "At 381 pages this balances science, history, and human drama perfectly",
+      "The racial injustice and medical exploitation themes resonate with contemporary issues",
+      "Skloot's decade long research and relationship with Lacks family adds authenticity",
+      "The accessible science writing makes cell biology understandable to general readers"
+    ],
+    "book1Weaknesses": [
+      "The family dysfunction and ongoing struggles can feel depressing",
+      "Some readers want more cell biology science and less family drama",
+      "The ethical violations are disturbing requiring emotional processing",
+      "Deborah Lacks's mental health struggles dominate later sections heavily"
+    ],
+    "book2Strengths": [
+      "Mukherjee traces genetics from Mendel to CRISPR with epic historical scope",
+      "The personal family history of mental illness adds emotional resonance",
+      "At 592 pages this comprehensively covers science, ethics, and future",
+      "Pulitzer Prize winning author brings literary elegance to scientific narrative",
+      "The philosophical questions about genetic determinism feel profound",
+      "Published 2016 this captures genomics revolution at pivotal moment"
+    ],
+    "book2Weaknesses": [
+      "At 592 pages the comprehensive scope demands significant time investment",
+      "Dense medical terminology and scientific detail can slow reading pace",
+      "Broader historical focus means less intimate human connection than Lacks",
+      "Some chapters feel more like textbook than narrative storytelling"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Henrietta's cells have now been living outside her body far longer than they ever lived inside it.",
+      "She's the most important person in the world and her family living in poverty. If our mother is so important to science, why can't we get health insurance?",
+      "Black scientists and technicians, many of them women, used cells from a black woman to help save the lives of millions of Americans, most of them white.",
+      "Henrietta Lacks was born in 1920 in Roanoke, Virginia. No one knows how she felt about dying, what she thought about when she thought about death, or what she saw when she looked at the tumor growing inside her.",
+      "The HeLa cells grew like nothing anyone had seen, doubling their numbers in twenty-four hours, sticking to glass, and surviving indefinitely."
+    ],
+    "book2": [
+      "We are not prisoners of our genes, but neither are we entirely free from them.",
+      "The genome is not a passive blueprint. It is an active script, constantly being read and interpreted.",
+      "To understand heredity is to understand the essence of what makes us human.",
+      "In the beginning, there was an image. And the image was a man. And the man was a gene.",
+      "The gene is the organizing principle of modern biology.",
+      "What happens when the ability to manipulate genes becomes widely accessible?"
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want an emotionally powerful, human story about medical science",
+      "You're interested in bioethics, consent, and medical research ethics",
+      "You want to understand racial inequities in medicine",
+      "You enjoy investigative journalism and detective-like narratives",
+      "You prefer personal stories over broad historical sweeps",
+      "You want a book that's accessible, moving, and impossible to put down"
+    ],
+    "book2": [
+      "You want comprehensive understanding of genetics from Mendel forward",
+      "You appreciate literary, philosophical science writing",
+      "You're interested in heredity, identity, and what makes us who we are",
+      "You want to understand gene editing and modern genetic technologies",
+      "You enjoy memoir woven into scientific history",
+      "You're ready for a longer, more demanding but profoundly rewarding read"
+    ]
+  },
+  "verdict": {
+    "winner": "The Immortal Life of Henrietta Lacks",
+    "summary": "For most readers, Henrietta Lacks wins. It's more accessible, emotionally powerful, and impossible to put down. According to us, Skloot tells a story that makes you feel genetics in your bones rather than just understand it intellectually. That said, The Gene is more comprehensive and essential for understanding genetics broadly. In our view, Henrietta's story is unforgettable and urgent; Mukherjee's history is profound and comprehensive. Choose based on whether you want emotional impact or intellectual breadth.",
+    "recommendation": "Start with The Immortal Life of Henrietta Lacks if you want to be moved and engaged immediately—it's shorter, more accessible, and raises crucial ethical questions through one powerful story. Read The Gene if you want comprehensive genetics knowledge and are ready for a longer, more demanding intellectual journey. Ideally, read both: Henrietta first for emotional grounding and ethics, then The Gene for the full historical and scientific context. Both are essential, but Henrietta is the one that will haunt you."
+  }
 }

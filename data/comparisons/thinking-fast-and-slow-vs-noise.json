@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 125000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THINKING_FAST_AND_SLOW",
+    "amazonUrl": "https://www.amazon.com/dp/0374533557?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
     "description": "A tour de force that reveals the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities—and also the faults and biases—of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 12000,
     "price": 20.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_NOISE",
+    "amazonUrl": "https://www.amazon.com/dp/1590194124?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780316451406-L.jpg",
     "description": "From the Nobel Prize-winning author of Thinking, Fast and Slow and the coauthor of Nudge, a revolutionary exploration of why people make bad judgments and how to make better ones. Imagine that two doctors in the same city give different diagnoses to identical patients—or that two judges in the same courthouse give markedly different sentences to people who have committed the same crime. Noise reveals the new science behind what we call noise: variability in judgments that should be identical."
   },

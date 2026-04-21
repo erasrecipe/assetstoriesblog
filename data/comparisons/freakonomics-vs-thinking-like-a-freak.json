@@ -1,157 +1,157 @@
 ﻿{
-    "slug": "freakonomics-vs-thinking-like-a-freak",
-    "title": "Freakonomics vs Thinking Like a Freak: Head to Head Comparison",
-    "metaDescription": "Compare Freakonomics vs Thinking Like a Freak. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated": "2026-02-07",
-    "category": "Psychology \u0026 Human Behavior",
-    "book1": {
-                  "title": "Freakonomics",
-                  "subtitle": "A Rogue Economist Explores the Hidden Side of Everything",
-                  "author": "Steven D. Levitt and Stephen J. Dubner",
-                  "isbn": "978-0060731335",
-                  "publishedYear": 2005,
-                  "pages": 336,
-                  "rating": 4.5,
-                  "ratingCount": 98000,
-                  "price": 17.99,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_FREAKONOMICS",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780060731335-L.jpg",
-                  "description": "Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much-heralded scholar who studies the riddles of everyday lifeâ€”from cheating and crime to sports and child-rearingâ€”and whose conclusions turn conventional wisdom on its head."
-              },
-    "book2": {
-                  "title": "Thinking Like a Freak",
-                  "subtitle": "The Authors of Freakonomics Offer to Retrain Your Brain",
-                  "author": "Steven D. Levitt and Stephen J. Dubner",
-                  "isbn": "978-0062218339",
-                  "publishedYear": 2014,
-                  "pages": 304,
-                  "rating": 4.4,
-                  "ratingCount": 18000,
-                  "price": 17.99,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_THINKING_FREAK",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780062218339-L.jpg",
-                  "description": "The New York Times bestselling Freakonomics changed the way we see the world, exposing the hidden side of just about everything. Now, with Think Like a Freak, Steven D. Levitt and Stephen J. Dubner have written their most revolutionary book yet. With their trademark blend of captivating storytelling and unconventional analysis, they take us inside their thought process and teach us all to think a bit more productively, more creatively, more rationallyâ€”to think, that is, like a Freak."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Main Focus",
-                                         "book1": "Revealing surprising truths about how the world works",
-                                         "book2": "Teaching you how to think differently and solve problems"
-                                     },
-                                     {
-                                         "feature": "Purpose",
-                                         "book1": "Show counterintuitive findings from economics research",
-                                         "book2": "Provide thinking tools and problem-solving framework"
-                                     },
-                                     {
-                                         "feature": "Content Type",
-                                         "book1": "Collection of fascinating case studies and analyses",
-                                         "book2": "Practical guide to thinking and decision-making"
-                                     },
-                                     {
-                                         "feature": "Approach",
-                                         "book1": "What we discoveredâ€”sharing insights",
-                                         "book2": "How to discoverâ€”sharing methodology"
-                                     },
-                                     {
-                                         "feature": "Entertainment Value",
-                                         "book1": "Extremely engagingâ€”pop culture phenomenon",
-                                         "book2": "Entertaining but more instructional"
-                                     },
-                                     {
-                                         "feature": "Best For",
-                                         "book1": "Mind-blowing insights that challenge assumptions",
-                                         "book2": "Learning practical thinking skills"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "336 pages",
-                                         "book2": "304 pages"
-                                     },
-                                     {
-                                         "feature": "Published",
-                                         "book1": "2005",
-                                         "book2": "2014"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "Steven Levitt won the John Bates Clark Medal (economics under 40). Stephen Dubner is a journalist. Together they created one of the most mind-blowing books of the 21st century—98,000 ratings at 4.5 stars",
-                                              "The abortion-crime hypothesis is unforgettable: Roe v Wade (1973) legalized abortion, unwanted children weren't born, crime dropped dramatically in the 1990s. Controversial as hell, backed by data. This chapter alone sparked years of debate",
-                                              "Drug dealer economics destroys the glamour myth: Sudhir Venkatesh's study shows foot soldiers earn $3.30/hour and live with their moms. The real money goes to the top. It's a tournament economy, like becoming a movie star",
-                                              "Swimming pool versus gun danger flips your intuition: if you have both, the pool is deadlier (1 in 11,000 versus 1 in 1 million+). You worry about the wrong things based on fear, not statistics",
-                                              "The sumo wrestling cheating analysis is brilliant: Levitt used match statistics to prove wrestlers throw matches when their opponents need wins. Data reveals corruption invisible to experts watching for decades",
-                                              "Real estate agent incentives explain everything: agents sell YOUR house faster and cheaper than their own. When it's their house, they wait 10+ days longer for 3% more money. Incentives matter more than expertise",
-                                              "Spawned the Freakonomics podcast (50M+ monthly downloads), SuperFreakonomics, Think Like a Freak, and a cultural movement. Information asymmetry and incentive thinking became mainstream",
-                                              "Reading this changed how I evaluate EVERYTHING—parenting advice, expert claims, conventional wisdom. Nothing looks the same after you learn to spot hidden incentives and question surface explanations"
-                                          ],
-                       "book1Weaknesses": [
-                                               "The abortion-crime hypothesis has been challenged repeatedly by other economists. Critics found coding errors and alternative explanations. Levitt defended it, but the controversy never died. You'll read this chapter and wonder who's right",
-                                               "It's a collection of unrelated insights, not a unified theory. Chapter 1: sumo cheating. Chapter 2: real estate agents. Chapter 3: drug dealers. They're fascinating but scattered. No overarching framework connects them",
-                                               "Teaches you WHAT they discovered, not HOW to discover it yourself. You'll finish with cool party facts but no methodology to apply to your own problems. Think Like a Freak fixes this",
-                                               "The contrarian stance can feel forced. 'Conventional wisdom is always wrong!' works great for abortion-crime and sumo cheating, but sometimes conventional wisdom is right. The reflexive contrarianism gets old",
-                                               "Published 2005—some examples feel dated. The drug dealer economics comes from 1990s Chicago gang research. The world has changed, though the principles hold",
-                                               "Less actionable than the sequel. You can't really USE most of these insights. Knowing swimming pools are dangerous doesn't change your decision-making process for other problems"
-                                           ],
-                       "book2Strengths": [
-                                              "The Kobayashi hot dog eating story is legendary: he revolutionized competitive eating by asking \u0027how do I make hot dogs easier to eat?\u0027 instead of \u0027how do I eat more hot dogs?\u0027 He dunked buns in water, broke dogs in half, doubled the world record from 25 to 50. Reframing the question unlocked everything",
-                                              "\u0027The three hardest words in the English language are I don\u0027t know\u0027 chapter destroys fake expertise. Admitting ignorance is powerful—it lets you learn. Most people pretend to know because they fear looking stupid",
-                                              "The think small framework is counterintuitive: don\u0027t try to solve world hunger, solve one cafeteria\u0027s food waste problem. Small problems have data, fast feedback loops, and achievable wins. Big problems paralyze you with complexity",
-                                              "The quitting chapter tackles sunk cost fallacy head-on: we stay in bad jobs, bad relationships, bad projects because we\u0027ve already invested so much. Levitt and Dubner show why quitting is often the smartest move, not failure",
-                                              "The cobra bounty story is perfect: British colonial India offered bounties for dead cobras. People started breeding cobras to collect bounties. When the program ended, breeders released cobras, making the problem worse. Incentives backfire when you don\u0027t think through second-order effects",
-                                              "More actionable than Freakonomics—this is HOW to think, not just WHAT to think about. You can apply these tools (reframe questions, admit ignorance, think small, quit strategically) to your actual problems",
-                                              "Third book in the series (after Freakonomics and SuperFreakonomics), published 2014. 18,000 ratings at 4.4 stars—solid, though didn\u0027t capture lightning twice"
-                                          ],
-                       "book2Weaknesses": [
-                                               "Only 18,000 ratings versus 98,000—this book reached 5.4x fewer people. The original Freakonomics became a cultural phenomenon. This sequel is merely good",
-                                               "Lower rating (4.4 vs 4.5) because readers wanted MORE mind-blowing revelations like abortion-crime or sumo cheating. Instead they got self-help advice about admitting ignorance and thinking small. Genre shift disappointed some fans",
-                                               "The \u0027how to think\u0027 advice can feel obvious. \u0027Ask better questions\u0027 and \u0027admit when you don\u0027t know things\u0027 aren\u0027t exactly revolutionary insights. Anyone who\u0027s read basic critical thinking already knows this",
-                                               "Less entertaining than Freakonomics—this is more instructional than shocking. The original made you go \u0027holy shit, swimming pools are more dangerous than guns!\u0027 This one makes you nod and think \u0027yeah, that makes sense\u0027",
-                                               "Suffers from sequel syndrome. The Kobayashi story is brilliant, the cobra bounty is memorable, but there\u0027s no equivalent to the abortion-crime bombshell. Diminishing returns on the formula",
-                                               "Published 2014—feels more like a blog post collection than a cohesive book. Some chapters could\u0027ve been cut without losing much. The original felt tight; this feels padded"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Morality, it could be argued, represents the way that people would like the world to workâ€”whereas economics represents how it actually does work.",
-                                 "An expert must be bold if he hopes to alchemize his homespun theory into conventional wisdom.",
-                                 "Knowing what to measure and how to measure it makes a complicated world much less so.",
-                                 "Incentives are the cornerstone of modern life.",
-                                 "Conventional wisdom is often wrong.",
-                                 "If you are willing to ask enough questions and confront conventional wisdom, you can find truths that other people have missed.",
-                                 "The typical drug dealer earns less than minimum wage. Why? Because the real money is made by the dealers at the top."
-                             ],
-                   "book2": [
-                                 "The three hardest words in the English language are \u0027I don\u0027t know.\u0027",
-                                 "Thinking like a Freak means being willing to walk away from a problem, however it defines you.",
-                                 "The first step to thinking like a Freak is to think small, not big.",
-                                 "The secret to success is being good at being imperfect.",
-                                 "If you want people to listen to you, tell them stories.",
-                                 "The key to learning is feedback. The problem is that we don\u0027t get much feedback, or we get bad feedback, or we ignore the feedback we do get.",
-                                 "The best way to get good at something is to get bad at something."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "Experience one of the most mind-blowing books of the 21st century",
-                                  "Challenge everything you thought you knew about how the world works",
-                                  "Get fascinating insights on crime, education, parenting, and human behavior",
-                                  "Join 98,000+ readers who had their worldview transformed",
-                                  "The gateway drug to thinking economically about everyday life",
-                                  "Entertaining as hellâ€”reads like a thriller, teaches like a textbook"
-                              ],
-                    "book2": [
-                                  "Learn the thinking methodology behind the Freakonomics insights",
-                                  "Get practical tools for better problem-solving and decision-making",
-                                  "Discover how to ask better questions and challenge assumptions",
-                                  "More actionable than Freakonomics for your own life",
-                                  "Perfect for anyone who loved Freakonomics and wants the \u0027how-to\u0027",
-                                  "Teaches you to think differently, not just learn different facts"
-                              ]
-                },
-    "verdict": {
-                    "winner": "Freakonomics",
-                    "summary": "Freakonomics wins decisively with 98,000 ratings at 4.5 stars versus 18,000 at 4.4. It\u0027s one of the most influential nonfiction books of the 21st century—the abortion-crime hypothesis, drug dealer economics ($3.30/hour), sumo cheating, swimming pool danger stats changed millions of readers\u0027 worldviews. Think Like a Freak teaches HOW to think (Kobayashi, cobra bounties, think small), which is valuable but less revolutionary. Freakonomics is the masterpiece. Think Like a Freak is the workbook.",
-                    "recommendation": "Read Freakonomics first, absolutely. Steven Levitt (John Bates Clark Medal winner) and Stephen Dubner created a cultural phenomenon. You\u0027ll learn the abortion-crime hypothesis (Roe v Wade 1973 → crime drop 1990s), Sudhir Venkatesh\u0027s drug dealer study (foot soldiers earn $3.30/hour, live with moms), sumo wrestling match-fixing revealed through statistics, real estate agent incentives (sell YOUR house faster/cheaper than their own), swimming pool versus gun danger (pools kill 1 in 11,000 vs guns 1 in 1 million+). These insights are unforgettable. The book spawned a podcast with 50M+ monthly downloads, SuperFreakonomics, and a cultural movement around incentive thinking and information asymmetry. Published 2005, still feels fresh. After Freakonomics, read Think Like a Freak only if you want the methodology. Kobayashi\u0027s hot dog eating revolution (doubled record 25→50 by reframing the question), the \u0027I don\u0027t know\u0027 chapter on admitting ignorance, think small framework (solve one cafeteria, not world hunger), quitting and sunk cost fallacy, cobra bounty backfire (breeding cobras for bounties). It\u0027s actionable and teaches you HOW to apply Freakonomics thinking to your problems. But it reached 5.4x fewer readers because it\u0027s self-help, not revelations. If you only read one, make it Freakonomics—it\u0027s the book that changes WHAT you think. Think Like a Freak changes HOW you think, which matters, but the original is essential reading."
-                }
+  "slug": "freakonomics-vs-thinking-like-a-freak",
+  "title": "Freakonomics vs Thinking Like a Freak: Head to Head Comparison",
+  "metaDescription": "Compare Freakonomics vs Thinking Like a Freak. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Psychology & Human Behavior",
+  "book1": {
+    "title": "Freakonomics",
+    "subtitle": "A Rogue Economist Explores the Hidden Side of Everything",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "isbn": "978-0060731335",
+    "publishedYear": 2005,
+    "pages": 336,
+    "rating": 4.5,
+    "ratingCount": 98000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/0060731338?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060731335-L.jpg",
+    "description": "Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much-heralded scholar who studies the riddles of everyday lifeâ€”from cheating and crime to sports and child-rearingâ€”and whose conclusions turn conventional wisdom on its head."
+  },
+  "book2": {
+    "title": "Thinking Like a Freak",
+    "subtitle": "The Authors of Freakonomics Offer to Retrain Your Brain",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "isbn": "978-0062218339",
+    "publishedYear": 2014,
+    "pages": 304,
+    "rating": 4.4,
+    "ratingCount": 18000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780062218339?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062218339-L.jpg",
+    "description": "The New York Times bestselling Freakonomics changed the way we see the world, exposing the hidden side of just about everything. Now, with Think Like a Freak, Steven D. Levitt and Stephen J. Dubner have written their most revolutionary book yet. With their trademark blend of captivating storytelling and unconventional analysis, they take us inside their thought process and teach us all to think a bit more productively, more creatively, more rationallyâ€”to think, that is, like a Freak."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Revealing surprising truths about how the world works",
+        "book2": "Teaching you how to think differently and solve problems"
+      },
+      {
+        "feature": "Purpose",
+        "book1": "Show counterintuitive findings from economics research",
+        "book2": "Provide thinking tools and problem-solving framework"
+      },
+      {
+        "feature": "Content Type",
+        "book1": "Collection of fascinating case studies and analyses",
+        "book2": "Practical guide to thinking and decision-making"
+      },
+      {
+        "feature": "Approach",
+        "book1": "What we discoveredâ€”sharing insights",
+        "book2": "How to discoverâ€”sharing methodology"
+      },
+      {
+        "feature": "Entertainment Value",
+        "book1": "Extremely engagingâ€”pop culture phenomenon",
+        "book2": "Entertaining but more instructional"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Mind-blowing insights that challenge assumptions",
+        "book2": "Learning practical thinking skills"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "336 pages",
+        "book2": "304 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2005",
+        "book2": "2014"
+      }
+    ],
+    "book1Strengths": [
+      "Steven Levitt won the John Bates Clark Medal (economics under 40). Stephen Dubner is a journalist. Together they created one of the most mind-blowing books of the 21st century—98,000 ratings at 4.5 stars",
+      "The abortion-crime hypothesis is unforgettable: Roe v Wade (1973) legalized abortion, unwanted children weren't born, crime dropped dramatically in the 1990s. Controversial as hell, backed by data. This chapter alone sparked years of debate",
+      "Drug dealer economics destroys the glamour myth: Sudhir Venkatesh's study shows foot soldiers earn $3.30/hour and live with their moms. The real money goes to the top. It's a tournament economy, like becoming a movie star",
+      "Swimming pool versus gun danger flips your intuition: if you have both, the pool is deadlier (1 in 11,000 versus 1 in 1 million+). You worry about the wrong things based on fear, not statistics",
+      "The sumo wrestling cheating analysis is brilliant: Levitt used match statistics to prove wrestlers throw matches when their opponents need wins. Data reveals corruption invisible to experts watching for decades",
+      "Real estate agent incentives explain everything: agents sell YOUR house faster and cheaper than their own. When it's their house, they wait 10+ days longer for 3% more money. Incentives matter more than expertise",
+      "Spawned the Freakonomics podcast (50M+ monthly downloads), SuperFreakonomics, Think Like a Freak, and a cultural movement. Information asymmetry and incentive thinking became mainstream",
+      "Reading this changed how I evaluate EVERYTHING—parenting advice, expert claims, conventional wisdom. Nothing looks the same after you learn to spot hidden incentives and question surface explanations"
+    ],
+    "book1Weaknesses": [
+      "The abortion-crime hypothesis has been challenged repeatedly by other economists. Critics found coding errors and alternative explanations. Levitt defended it, but the controversy never died. You'll read this chapter and wonder who's right",
+      "It's a collection of unrelated insights, not a unified theory. Chapter 1: sumo cheating. Chapter 2: real estate agents. Chapter 3: drug dealers. They're fascinating but scattered. No overarching framework connects them",
+      "Teaches you WHAT they discovered, not HOW to discover it yourself. You'll finish with cool party facts but no methodology to apply to your own problems. Think Like a Freak fixes this",
+      "The contrarian stance can feel forced. 'Conventional wisdom is always wrong!' works great for abortion-crime and sumo cheating, but sometimes conventional wisdom is right. The reflexive contrarianism gets old",
+      "Published 2005—some examples feel dated. The drug dealer economics comes from 1990s Chicago gang research. The world has changed, though the principles hold",
+      "Less actionable than the sequel. You can't really USE most of these insights. Knowing swimming pools are dangerous doesn't change your decision-making process for other problems"
+    ],
+    "book2Strengths": [
+      "The Kobayashi hot dog eating story is legendary: he revolutionized competitive eating by asking 'how do I make hot dogs easier to eat?' instead of 'how do I eat more hot dogs?' He dunked buns in water, broke dogs in half, doubled the world record from 25 to 50. Reframing the question unlocked everything",
+      "'The three hardest words in the English language are I don't know' chapter destroys fake expertise. Admitting ignorance is powerful—it lets you learn. Most people pretend to know because they fear looking stupid",
+      "The think small framework is counterintuitive: don't try to solve world hunger, solve one cafeteria's food waste problem. Small problems have data, fast feedback loops, and achievable wins. Big problems paralyze you with complexity",
+      "The quitting chapter tackles sunk cost fallacy head-on: we stay in bad jobs, bad relationships, bad projects because we've already invested so much. Levitt and Dubner show why quitting is often the smartest move, not failure",
+      "The cobra bounty story is perfect: British colonial India offered bounties for dead cobras. People started breeding cobras to collect bounties. When the program ended, breeders released cobras, making the problem worse. Incentives backfire when you don't think through second-order effects",
+      "More actionable than Freakonomics—this is HOW to think, not just WHAT to think about. You can apply these tools (reframe questions, admit ignorance, think small, quit strategically) to your actual problems",
+      "Third book in the series (after Freakonomics and SuperFreakonomics), published 2014. 18,000 ratings at 4.4 stars—solid, though didn't capture lightning twice"
+    ],
+    "book2Weaknesses": [
+      "Only 18,000 ratings versus 98,000—this book reached 5.4x fewer people. The original Freakonomics became a cultural phenomenon. This sequel is merely good",
+      "Lower rating (4.4 vs 4.5) because readers wanted MORE mind-blowing revelations like abortion-crime or sumo cheating. Instead they got self-help advice about admitting ignorance and thinking small. Genre shift disappointed some fans",
+      "The 'how to think' advice can feel obvious. 'Ask better questions' and 'admit when you don't know things' aren't exactly revolutionary insights. Anyone who's read basic critical thinking already knows this",
+      "Less entertaining than Freakonomics—this is more instructional than shocking. The original made you go 'holy shit, swimming pools are more dangerous than guns!' This one makes you nod and think 'yeah, that makes sense'",
+      "Suffers from sequel syndrome. The Kobayashi story is brilliant, the cobra bounty is memorable, but there's no equivalent to the abortion-crime bombshell. Diminishing returns on the formula",
+      "Published 2014—feels more like a blog post collection than a cohesive book. Some chapters could've been cut without losing much. The original felt tight; this feels padded"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Morality, it could be argued, represents the way that people would like the world to workâ€”whereas economics represents how it actually does work.",
+      "An expert must be bold if he hopes to alchemize his homespun theory into conventional wisdom.",
+      "Knowing what to measure and how to measure it makes a complicated world much less so.",
+      "Incentives are the cornerstone of modern life.",
+      "Conventional wisdom is often wrong.",
+      "If you are willing to ask enough questions and confront conventional wisdom, you can find truths that other people have missed.",
+      "The typical drug dealer earns less than minimum wage. Why? Because the real money is made by the dealers at the top."
+    ],
+    "book2": [
+      "The three hardest words in the English language are 'I don't know.'",
+      "Thinking like a Freak means being willing to walk away from a problem, however it defines you.",
+      "The first step to thinking like a Freak is to think small, not big.",
+      "The secret to success is being good at being imperfect.",
+      "If you want people to listen to you, tell them stories.",
+      "The key to learning is feedback. The problem is that we don't get much feedback, or we get bad feedback, or we ignore the feedback we do get.",
+      "The best way to get good at something is to get bad at something."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience one of the most mind-blowing books of the 21st century",
+      "Challenge everything you thought you knew about how the world works",
+      "Get fascinating insights on crime, education, parenting, and human behavior",
+      "Join 98,000+ readers who had their worldview transformed",
+      "The gateway drug to thinking economically about everyday life",
+      "Entertaining as hellâ€”reads like a thriller, teaches like a textbook"
+    ],
+    "book2": [
+      "Learn the thinking methodology behind the Freakonomics insights",
+      "Get practical tools for better problem-solving and decision-making",
+      "Discover how to ask better questions and challenge assumptions",
+      "More actionable than Freakonomics for your own life",
+      "Perfect for anyone who loved Freakonomics and wants the 'how-to'",
+      "Teaches you to think differently, not just learn different facts"
+    ]
+  },
+  "verdict": {
+    "winner": "Freakonomics",
+    "summary": "Freakonomics wins decisively with 98,000 ratings at 4.5 stars versus 18,000 at 4.4. It's one of the most influential nonfiction books of the 21st century—the abortion-crime hypothesis, drug dealer economics ($3.30/hour), sumo cheating, swimming pool danger stats changed millions of readers' worldviews. Think Like a Freak teaches HOW to think (Kobayashi, cobra bounties, think small), which is valuable but less revolutionary. Freakonomics is the masterpiece. Think Like a Freak is the workbook.",
+    "recommendation": "Read Freakonomics first, absolutely. Steven Levitt (John Bates Clark Medal winner) and Stephen Dubner created a cultural phenomenon. You'll learn the abortion-crime hypothesis (Roe v Wade 1973 → crime drop 1990s), Sudhir Venkatesh's drug dealer study (foot soldiers earn $3.30/hour, live with moms), sumo wrestling match-fixing revealed through statistics, real estate agent incentives (sell YOUR house faster/cheaper than their own), swimming pool versus gun danger (pools kill 1 in 11,000 vs guns 1 in 1 million+). These insights are unforgettable. The book spawned a podcast with 50M+ monthly downloads, SuperFreakonomics, and a cultural movement around incentive thinking and information asymmetry. Published 2005, still feels fresh. After Freakonomics, read Think Like a Freak only if you want the methodology. Kobayashi's hot dog eating revolution (doubled record 25→50 by reframing the question), the 'I don't know' chapter on admitting ignorance, think small framework (solve one cafeteria, not world hunger), quitting and sunk cost fallacy, cobra bounty backfire (breeding cobras for bounties). It's actionable and teaches you HOW to apply Freakonomics thinking to your problems. But it reached 5.4x fewer readers because it's self-help, not revelations. If you only read one, make it Freakonomics—it's the book that changes WHAT you think. Think Like a Freak changes HOW you think, which matters, but the original is essential reading."
+  }
 }

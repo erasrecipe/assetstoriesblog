@@ -1,152 +1,152 @@
 ﻿{
-    "slug":  "a-study-in-scarlet-vs-the-hound-of-the-baskervilles",
-    "title":  "A Study in Scarlet vs The Hound of the Baskervilles: Head to Head Comparison",
-    "metaDescription":  "Sherlock Holmes classics compared: A Study in Scarlet vs The Hound of the Baskervilles. Which Arthur Conan Doyle mystery should you read first?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "A Study in Scarlet",
-                  "subtitle":  "",
-                  "author":  "Arthur Conan Doyle",
-                  "isbn":  "978-0143106630",
-                  "publishedYear":  1887,
-                  "pages":  176,
-                  "rating":  4.2,
-                  "ratingCount":  289000,
-                  "price":  12.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780143106630-L.jpg",
-                  "description":  "A Study in Scarlet is the first published story involving the legendary Sherlock Holmes, one of the most famous literary detectives of all time. A corpse is found, locked inside a house with the word \u0027Rache\u0027 written in blood on the wall. Dr. John Watson has just returned from Afghanistan and is looking for rooms in London when a mutual acquaintance introduces him to Sherlock Holmes. They agree to share rooms at 221B Baker Street, and Watson is introduced to Holmes\u0027s unique methods of investigation. The case involves revenge, murder, and Mormons in America. The story is told in two parts—the first follows Holmes and Watson\u0027s investigation in London, while the second provides the backstory of the murder in the American West."
-              },
-    "book2":  {
-                  "title":  "The Hound of the Baskervilles",
-                  "subtitle":  "",
-                  "author":  "Arthur Conan Doyle",
-                  "isbn":  "978-0143106630",
-                  "publishedYear":  1902,
-                  "pages":  256,
-                  "rating":  4.3,
-                  "ratingCount":  567000,
-                  "price":  13.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780143106630-L.jpg",
-                  "description":  "The Baskerville family is haunted by a phantom beast which roams the mist-shrouded moors around the isolated Baskerville Hall on Dartmoor. Now the hound seems to be stalking the young Sir Henry, new heir to the Baskerville estate. Is this legendary curse real or is there a more rational explanation for the death of Sir Charles Baskerville? Sherlock Holmes and his companion Dr Watson are faced with their most terrifying case yet. They must break the curse before another murder occurs."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Series Position",
-                                         "book1":  "First Sherlock Holmes story ever",
-                                         "book2":  "Later novel (after hiatus)"
-                                     },
-                                     {
-                                         "feature":  "Introduction",
-                                         "book1":  "Holmes and Watson meet for first time",
-                                         "book2":  "Established partnership"
-                                     },
-                                     {
-                                         "feature":  "Setting",
-                                         "book1":  "Primarily London",
-                                         "book2":  "Dartmoor moors (atmospheric)"
-                                     },
-                                     {
-                                         "feature":  "Mystery Type",
-                                         "book1":  "Murder with revenge backstory",
-                                         "book2":  "Supernatural curse vs rational crime"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "176 pages (shorter)",
-                                         "book2":  "256 pages (longer)"
-                                     },
-                                     {
-                                         "feature":  "Structure",
-                                         "book1":  "Two parts (London, then Utah flashback)",
-                                         "book2":  "Linear narrative"
-                                     },
-                                     {
-                                         "feature":  "Atmosphere",
-                                         "book1":  "Urban Victorian mystery",
-                                         "book2":  "Gothic horror on misty moors"
-                                     },
-                                     {
-                                         "feature":  "Holmes Presence",
-                                         "book1":  "Central throughout",
-                                         "book2":  "Absent for significant middle section"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The first meeting between Holmes and Watson in the chemistry lab creates one of literature\u0027s greatest partnerships instantly",
-                                              "At 112 pages with 365,000 ratings at 4.0 stars this introduces deductive reasoning that defined detective fiction forever",
-                                              "Holmes\u0027s character is established perfectly with his cocaine habit, violin playing, and brilliant eccentric personality traits",
-                                              "The mystery structure with London crime and Utah Mormon flashback influenced how detective stories are told to this day",
-                                              "Watson as narrator gives readers an everyman perspective making Holmes\u0027s genius accessible instead of alienating and remote",
-                                              "Short enough at 112 pages to read quickly but packed with enough ideas to launch 60 stories in the Holmes canon",
-                                              "The opening where Holmes deduces Watson\u0027s military service from appearance alone demonstrates his method brilliantly clearly"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The Mormon flashback section in part two feels disconnected from the London mystery and drags for modern readers badly",
-                                               "At 4.0 stars same as Hound both are rated identically showing readers equally split on which story is superior",
-                                               "The resolution relies on coincidence with the killer conveniently dying before trial which feels like cheating the solution",
-                                               "Doyle\u0027s portrayal of Mormons is wildly inaccurate and offensive based on anti Mormon propaganda not actual research",
-                                               "Being the first Holmes story means the character isn\u0027t fully formed yet compared to later refined versions of him",
-                                               "The mystery itself is fairly straightforward without the complexity of later cases like Hound\u0027s supernatural elements"
-                                           ],
-                       "book2Strengths":  [
-                                              "The supernatural hound legend on foggy moors creates Gothic atmosphere unmatched in any other Holmes adventure story",
-                                              "At 256 pages with 520,000 ratings at 4.0 stars this is considered the best Sherlock Holmes novel by most fans",
-                                              "The Baskerville curse blending family history with present danger gives both historical depth and immediate stakes working together",
-                                              "Watson gets to investigate solo for much of the book proving he\u0027s competent not just Holmes\u0027s bumbling sidekick assistant",
-                                              "The Devonshire moor setting is atmospheric and menacing making location feel like a character itself in the mystery",
-                                              "The revelation that Holmes was secretly on the moor the whole time is satisfying twist on the detective genre expectations",
-                                              "Balances Gothic horror elements with rational deduction showing how Holmes debunks supernatural explanations with science"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "At 256 pages it\u0027s more than double the length of Study in Scarlet making it a bigger commitment for casual readers",
-                                               "The mystery is fairly obvious to modern readers who have seen this setup repeated in countless adaptations and homages",
-                                               "Holmes is absent for large sections which frustrated readers who want him center stage solving puzzles constantly throughout",
-                                               "The villain\u0027s plot is convoluted and overly elaborate when simpler methods would have achieved his goals more effectively",
-                                               "Some supernatural atmosphere is lost when Holmes explains everything rationally making it feel less scary in retrospect",
-                                               "Only 520,000 ratings versus 365,000 for Study shows Hound is more popular but not by the massive margin you\u0027d expect"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "You see, but you do not observe. The distinction is clear.",
-                                 "There is nothing more deceptive than an obvious fact.",
-                                 "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-                                 "I consider that a man\u0027s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.",
-                                 "It is a capital mistake to theorize before one has data."
-                             ],
-                   "book2":  [
-                                 "The world is full of obvious things which nobody by any chance ever observes.",
-                                 "There is nothing more stimulating than a case where everything goes against you.",
-                                 "Mr. Holmes, they were the footprints of a gigantic hound!",
-                                 "The devil\u0027s agents may be of flesh and blood, may they not?",
-                                 "Never trust to general impressions, my boy, but concentrate yourself upon details."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to see Holmes and Watson meet for the very first time",
-                                  "You\u0027re interested in the origins of detective fiction",
-                                  "You want to understand how Holmes\u0027s methods were established",
-                                  "You prefer shorter, more accessible Victorian novels",
-                                  "You\u0027re a completist who wants to read the series in order",
-                                  "You enjoy seeing a legendary character\u0027s debut"
-                              ],
-                    "book2":  [
-                                  "You want the most atmospheric and gothic Holmes story",
-                                  "You love supernatural horror mixed with rational detection",
-                                  "You prefer more sophisticated, fully developed mysteries",
-                                  "You enjoy isolated, moody settings like misty moors",
-                                  "You want what\u0027s generally considered Doyle\u0027s best work",
-                                  "You can enjoy Holmes stories without needing the origin story"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Hound of the Baskervilles",
-                    "summary":  "The Hound of the Baskervilles wins decisively—567,000 ratings vs 289,000, higher score (4.3 vs 4.2), and universally considered Doyle\u0027s masterpiece. The gothic atmosphere (misty Dartmoor moors, spectral hound, Grimpen Mire), sophisticated plot, and perfect supernatural-vs-rational tension make it unforgettable. A Study in Scarlet is historically crucial (Holmes and Watson\u0027s first meeting!) but the jarring Utah backstory and two-part structure hurt it. Hound = atmospheric perfection. Study = historical origin story. Most readers should experience Doyle at his peak (Hound) rather than his rough debut (Study).",
-                    "recommendation":  "Start with The Hound of the Baskervilles if you want the best Holmes experience—atmospheric gothic mystery on foggy moors with a phosphorescent hound, curse legend, and brilliant villain. At 256 pages, it\u0027s Doyle\u0027s masterpiece. You\u0027ll understand Holmes and Watson\u0027s dynamic without needing the origin story. Read A Study in Scarlet if you\u0027re a completist who wants the first meeting at Barts Hospital (\u0027You have been in Afghanistan, I perceive\u0027), the birth of 221B Baker Street, and the origin of detective fiction itself. Warning: the 50-page Utah Mormon flashback is rough. Ideal path for most readers? Hound first (best quality) → Study in Scarlet (historical context) → rest of canon. But purists will insist on chronological order despite Study\u0027s flaws."
-                }
+  "slug": "a-study-in-scarlet-vs-the-hound-of-the-baskervilles",
+  "title": "A Study in Scarlet vs The Hound of the Baskervilles: Head to Head Comparison",
+  "metaDescription": "Sherlock Holmes classics compared: A Study in Scarlet vs The Hound of the Baskervilles. Which Arthur Conan Doyle mystery should you read first?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "A Study in Scarlet",
+    "subtitle": "",
+    "author": "Arthur Conan Doyle",
+    "isbn": "978-0143106630",
+    "publishedYear": 1887,
+    "pages": 176,
+    "rating": 4.2,
+    "ratingCount": 289000,
+    "price": 12.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780143106630?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143106630-L.jpg",
+    "description": "A Study in Scarlet is the first published story involving the legendary Sherlock Holmes, one of the most famous literary detectives of all time. A corpse is found, locked inside a house with the word 'Rache' written in blood on the wall. Dr. John Watson has just returned from Afghanistan and is looking for rooms in London when a mutual acquaintance introduces him to Sherlock Holmes. They agree to share rooms at 221B Baker Street, and Watson is introduced to Holmes's unique methods of investigation. The case involves revenge, murder, and Mormons in America. The story is told in two parts—the first follows Holmes and Watson's investigation in London, while the second provides the backstory of the murder in the American West."
+  },
+  "book2": {
+    "title": "The Hound of the Baskervilles",
+    "subtitle": "",
+    "author": "Arthur Conan Doyle",
+    "isbn": "978-0143106630",
+    "publishedYear": 1902,
+    "pages": 256,
+    "rating": 4.3,
+    "ratingCount": 567000,
+    "price": 13.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780143106630?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143106630-L.jpg",
+    "description": "The Baskerville family is haunted by a phantom beast which roams the mist-shrouded moors around the isolated Baskerville Hall on Dartmoor. Now the hound seems to be stalking the young Sir Henry, new heir to the Baskerville estate. Is this legendary curse real or is there a more rational explanation for the death of Sir Charles Baskerville? Sherlock Holmes and his companion Dr Watson are faced with their most terrifying case yet. They must break the curse before another murder occurs."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Series Position",
+        "book1": "First Sherlock Holmes story ever",
+        "book2": "Later novel (after hiatus)"
+      },
+      {
+        "feature": "Introduction",
+        "book1": "Holmes and Watson meet for first time",
+        "book2": "Established partnership"
+      },
+      {
+        "feature": "Setting",
+        "book1": "Primarily London",
+        "book2": "Dartmoor moors (atmospheric)"
+      },
+      {
+        "feature": "Mystery Type",
+        "book1": "Murder with revenge backstory",
+        "book2": "Supernatural curse vs rational crime"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "176 pages (shorter)",
+        "book2": "256 pages (longer)"
+      },
+      {
+        "feature": "Structure",
+        "book1": "Two parts (London, then Utah flashback)",
+        "book2": "Linear narrative"
+      },
+      {
+        "feature": "Atmosphere",
+        "book1": "Urban Victorian mystery",
+        "book2": "Gothic horror on misty moors"
+      },
+      {
+        "feature": "Holmes Presence",
+        "book1": "Central throughout",
+        "book2": "Absent for significant middle section"
+      }
+    ],
+    "book1Strengths": [
+      "The first meeting between Holmes and Watson in the chemistry lab creates one of literature's greatest partnerships instantly",
+      "At 112 pages with 365,000 ratings at 4.0 stars this introduces deductive reasoning that defined detective fiction forever",
+      "Holmes's character is established perfectly with his cocaine habit, violin playing, and brilliant eccentric personality traits",
+      "The mystery structure with London crime and Utah Mormon flashback influenced how detective stories are told to this day",
+      "Watson as narrator gives readers an everyman perspective making Holmes's genius accessible instead of alienating and remote",
+      "Short enough at 112 pages to read quickly but packed with enough ideas to launch 60 stories in the Holmes canon",
+      "The opening where Holmes deduces Watson's military service from appearance alone demonstrates his method brilliantly clearly"
+    ],
+    "book1Weaknesses": [
+      "The Mormon flashback section in part two feels disconnected from the London mystery and drags for modern readers badly",
+      "At 4.0 stars same as Hound both are rated identically showing readers equally split on which story is superior",
+      "The resolution relies on coincidence with the killer conveniently dying before trial which feels like cheating the solution",
+      "Doyle's portrayal of Mormons is wildly inaccurate and offensive based on anti Mormon propaganda not actual research",
+      "Being the first Holmes story means the character isn't fully formed yet compared to later refined versions of him",
+      "The mystery itself is fairly straightforward without the complexity of later cases like Hound's supernatural elements"
+    ],
+    "book2Strengths": [
+      "The supernatural hound legend on foggy moors creates Gothic atmosphere unmatched in any other Holmes adventure story",
+      "At 256 pages with 520,000 ratings at 4.0 stars this is considered the best Sherlock Holmes novel by most fans",
+      "The Baskerville curse blending family history with present danger gives both historical depth and immediate stakes working together",
+      "Watson gets to investigate solo for much of the book proving he's competent not just Holmes's bumbling sidekick assistant",
+      "The Devonshire moor setting is atmospheric and menacing making location feel like a character itself in the mystery",
+      "The revelation that Holmes was secretly on the moor the whole time is satisfying twist on the detective genre expectations",
+      "Balances Gothic horror elements with rational deduction showing how Holmes debunks supernatural explanations with science"
+    ],
+    "book2Weaknesses": [
+      "At 256 pages it's more than double the length of Study in Scarlet making it a bigger commitment for casual readers",
+      "The mystery is fairly obvious to modern readers who have seen this setup repeated in countless adaptations and homages",
+      "Holmes is absent for large sections which frustrated readers who want him center stage solving puzzles constantly throughout",
+      "The villain's plot is convoluted and overly elaborate when simpler methods would have achieved his goals more effectively",
+      "Some supernatural atmosphere is lost when Holmes explains everything rationally making it feel less scary in retrospect",
+      "Only 520,000 ratings versus 365,000 for Study shows Hound is more popular but not by the massive margin you'd expect"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "You see, but you do not observe. The distinction is clear.",
+      "There is nothing more deceptive than an obvious fact.",
+      "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+      "I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose.",
+      "It is a capital mistake to theorize before one has data."
+    ],
+    "book2": [
+      "The world is full of obvious things which nobody by any chance ever observes.",
+      "There is nothing more stimulating than a case where everything goes against you.",
+      "Mr. Holmes, they were the footprints of a gigantic hound!",
+      "The devil's agents may be of flesh and blood, may they not?",
+      "Never trust to general impressions, my boy, but concentrate yourself upon details."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to see Holmes and Watson meet for the very first time",
+      "You're interested in the origins of detective fiction",
+      "You want to understand how Holmes's methods were established",
+      "You prefer shorter, more accessible Victorian novels",
+      "You're a completist who wants to read the series in order",
+      "You enjoy seeing a legendary character's debut"
+    ],
+    "book2": [
+      "You want the most atmospheric and gothic Holmes story",
+      "You love supernatural horror mixed with rational detection",
+      "You prefer more sophisticated, fully developed mysteries",
+      "You enjoy isolated, moody settings like misty moors",
+      "You want what's generally considered Doyle's best work",
+      "You can enjoy Holmes stories without needing the origin story"
+    ]
+  },
+  "verdict": {
+    "winner": "The Hound of the Baskervilles",
+    "summary": "The Hound of the Baskervilles wins decisively—567,000 ratings vs 289,000, higher score (4.3 vs 4.2), and universally considered Doyle's masterpiece. The gothic atmosphere (misty Dartmoor moors, spectral hound, Grimpen Mire), sophisticated plot, and perfect supernatural-vs-rational tension make it unforgettable. A Study in Scarlet is historically crucial (Holmes and Watson's first meeting!) but the jarring Utah backstory and two-part structure hurt it. Hound = atmospheric perfection. Study = historical origin story. Most readers should experience Doyle at his peak (Hound) rather than his rough debut (Study).",
+    "recommendation": "Start with The Hound of the Baskervilles if you want the best Holmes experience—atmospheric gothic mystery on foggy moors with a phosphorescent hound, curse legend, and brilliant villain. At 256 pages, it's Doyle's masterpiece. You'll understand Holmes and Watson's dynamic without needing the origin story. Read A Study in Scarlet if you're a completist who wants the first meeting at Barts Hospital ('You have been in Afghanistan, I perceive'), the birth of 221B Baker Street, and the origin of detective fiction itself. Warning: the 50-page Utah Mormon flashback is rough. Ideal path for most readers? Hound first (best quality) → Study in Scarlet (historical context) → rest of canon. But purists will insist on chronological order despite Study's flaws."
+  }
 }

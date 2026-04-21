@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "trust-me-im-lying-vs-contagious",
   "title": "Trust Me I'm Lying vs Contagious: Head to Head Comparison",
   "metaDescription": "Ryan Holiday's Trust Me I'm Lying vs Jonah Berger's Contagious. Dark media manipulation vs viral marketing science-which wins?",
@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 12000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TRUST_ME_IM_LYING",
+    "amazonUrl": "https://www.amazon.com/dp/9781591846284?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781591846284-L.jpg",
     "description": "You've seen it all before. A malicious online rumor costs a company millions. A political sideshow derails the national news cycle and destroys a candidate. Some product or celebrity zooms from total obscurity to viral sensation. What you don't know is that someone is responsible for all this. Ryan Holiday was that someone."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 18000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_CONTAGIOUS",
+    "amazonUrl": "https://www.amazon.com/dp/1451686585?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781451686579-L.jpg",
     "description": "Why do some products get more word of mouth than others? Why does some online content go viral? Wharton marketing professor Jonah Berger has spent over 15 years studying how social influence works and how it drives products and ideas to catch on."
   },

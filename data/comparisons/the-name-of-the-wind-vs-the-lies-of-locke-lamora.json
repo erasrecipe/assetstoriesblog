@@ -1,148 +1,148 @@
 ﻿{
-    "slug":  "the-name-of-the-wind-vs-the-lies-of-locke-lamora",
-    "title":  "The Name of the Wind vs The Lies of Locke Lamora: Head to Head Comparison",
-    "metaDescription":  "Patrick Rothfuss vs Scott Lynch—which fantasy book reigns supreme? The Name of the Wind or The Lies of Locke Lamora? Complete comparison.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "The Name of the Wind",
-                  "subtitle":  "The Kingkiller Chronicle, Day One",
-                  "author":  "Patrick Rothfuss",
-                  "isbn":  "978-0756404741",
-                  "publishedYear":  2007,
-                  "pages":  662,
-                  "rating":  4.5,
-                  "ratingCount":  275000,
-                  "price":  18.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_NAME_OF_WIND",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg",
-                  "description":  "Told in Kvothe\u0027s own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature."
-              },
-    "book2":  {
-                  "title":  "The Lies of Locke Lamora",
-                  "subtitle":  "Gentleman Bastard, Book One",
-                  "author":  "Scott Lynch",
-                  "isbn":  "978-0553588941",
-                  "publishedYear":  2006,
-                  "pages":  499,
-                  "rating":  4.3,
-                  "ratingCount":  125000,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_LIES_LOCKE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780553588941-L.jpg",
-                  "description":  "An orphan\u0027s life is harsh—and often short—in the mysterious island city of Camorr. But young Locke Lamora dodges death and slavery, becoming a thief under the tutelage of a gifted con artist. As leader of the band of light-fingered brothers known as the Gentleman Bastards, Locke is soon infamous, fooling even the underworld\u0027s most feared ruler. But in the shadows lurks someone still more ambitious and deadly. Faced with a bloody coup that threatens to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the enemy at his own brutal game—or die trying."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Character",
-                                         "book1":  "Kvothe—legendary wizard telling his own story",
-                                         "book2":  "Locke Lamora—con artist and thief"
-                                     },
-                                     {
-                                         "feature":  "Plot Focus",
-                                         "book1":  "Coming-of-age at magic university, frame narrative",
-                                         "book2":  "Heist and revenge in a fantasy Venice"
-                                     },
-                                     {
-                                         "feature":  "Prose Quality",
-                                         "book1":  "Lyrical, beautiful, highly literary",
-                                         "book2":  "Sharp, witty, dialogue-driven"
-                                     },
-                                     {
-                                         "feature":  "Pacing",
-                                         "book1":  "Slower, more contemplative",
-                                         "book2":  "Fast-paced, action-packed"
-                                     },
-                                     {
-                                         "feature":  "Magic System",
-                                         "book1":  "Sympathy—detailed and central to story",
-                                         "book2":  "Magic exists but is background to the plot"
-                                     },
-                                     {
-                                         "feature":  "Series Status",
-                                         "book1":  "Unfinished—waiting for book 3 since 2011",
-                                         "book2":  "Unfinished—4 books planned, 3 released"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "662 pages",
-                                         "book2":  "499 pages (quicker read)"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2007",
-                                         "book2":  "2006"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The Name of the Wind introduces Kvothe\u0027s legendary story with gorgeous lyrical prose throughout",
-                                              "Patrick Rothfuss creates Sympathy magic system with scientific thermodynamics feeling fresh inventive",
-                                              "At 662 pages the university setting provides Harry Potter meets Game of Thrones appeal",
-                                              "The frame narrative with present day Kvothe adds mystery about what happened to legendary hero",
-                                              "Rothfuss balances character development with world building never sacrificing one for other",
-                                              "The music magic with Kvothe as musician adds artistic dimension beyond typical sword sorcery"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The slow university pacing frustrates readers expecting epic fantasy adventure action constantly",
-                                               "Kvothe\u0027s perfection at everything strains believability despite framing as unreliable narrator",
-                                               "The trilogy remains unfinished with third book delayed over decade infuriating fans",
-                                               "Female characters feel underdeveloped with Denna particularly frustrating as manic pixie dream girl"
-                                           ],
-                       "book2Strengths":  [
-                                              "The Lies of Locke Lamora delivers Ocean\u0027s Eleven style heists in Renaissance Venice fantasy",
-                                              "Scott Lynch creates Camorr with vivid criminal underworld and corrupt nobility beautifully detailed",
-                                              "At 499 pages the brisk heist pacing keeps pages turning with constant clever schemes",
-                                              "Locke and Jean\u0027s friendship provides genuine emotional core beyond plot mechanics throughout",
-                                              "The Bondsmagi magic wielders add mysterious threat without over explaining magical system",
-                                              "Lynch balances humor and darkness making brutal moments hit harder after witty banter"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The flashback structure interrupts heist momentum switching between past and present constantly",
-                                               "Some plot twists rely on withheld information readers couldn\u0027t have predicted fairly",
-                                               "The violence can feel gratuitous particularly torture scenes that disturb sensitive readers",
-                                               "Later books in series decline in quality making this strongest entry unfortunately"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "It\u0027s like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story.",
-                                 "Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.",
-                                 "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.",
-                                 "It\u0027s the questions we can\u0027t answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he\u0027ll look for his own answers.",
-                                 "Half of seeming clever is keeping your mouth shut at the right times.",
-                                 "Call a jack a jack. Call a spade a spade. But always call a whore a lady. Their lives are hard enough, and it never hurts to be polite."
-                             ],
-                   "book2":  [
-                                 "Nice bird, asshole.",
-                                 "Someday, Locke Lamora, someday, you\u0027re going to fuck up so magnificently, so ambitiously, so overwhelmingly that the sky will light up and the moons will spin and the gods themselves will shit comets with glee. And I just hope I\u0027m still around to see it.",
-                                 "I only steal because my dear old family needs the money to live!",
-                                 "The water was calm, the world was still, and between them they had no problems that couldn\u0027t be solved with a bit of gold and a bit of steel.",
-                                 "Difficult\u0027 and \u0027impossible\u0027 are cousins often mistaken for one another, with very little in common.",
-                                 "To us, my brothers. To us—bastards to the bitter end."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Experience some of the most beautiful prose in modern fantasy",
-                                  "Fall in love with Kvothe\u0027s storytelling and mysterious past",
-                                  "Perfect for readers who appreciate literary, contemplative fantasy",
-                                  "The magic university setting is addictive",
-                                  "One of the most beloved fantasy books of the 21st century",
-                                  "The frame narrative structure adds depth and intrigue"
-                              ],
-                    "book2":  [
-                                  "Get a thrilling heist plot with clever cons and schemes",
-                                  "Enjoy razor-sharp wit and hilarious dialogue",
-                                  "Perfect for readers who want fast-paced, fun fantasy",
-                                  "Locke and Jean\u0027s friendship is heartwarming and genuine",
-                                  "Fantasy Venice is a brilliantly realized setting",
-                                  "More action and less introspection than Name of the Wind"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Name of the Wind",
-                    "summary":  "Name of the Wind wins with higher ratings and more passionate fanbase despite Locke Lamora\u0027s completed series advantage. Kvothe\u0027s story captivated 385,000 readers at 4.6 stars versus Locke\u0027s 285,000 at 4.3 stars. Both deliver quality fantasy but Rothfuss\u0027s prose and magic system edge Lynch\u0027s heist fun. The unfinished trilogy frustrates but Name of Wind remains more beloved despite that.",
-                    "recommendation":  "Read Name of the Wind for gorgeous prose and Sympathy magic system if you can handle unfinished trilogy. At 662 pages Rothfuss delivers university fantasy that influenced generation. The lyrical writing justifies the hype. Read Locke Lamora for completed heist fantasy series with Renaissance thieves and dark humor. At 499 pages Lynch moves faster with Ocean\u0027s Eleven energy. Both excel but Name of Wind achieves higher literary quality while Locke offers better plot satisfaction with finished series."
-                }
+  "slug": "the-name-of-the-wind-vs-the-lies-of-locke-lamora",
+  "title": "The Name of the Wind vs The Lies of Locke Lamora: Head to Head Comparison",
+  "metaDescription": "Patrick Rothfuss vs Scott Lynch—which fantasy book reigns supreme? The Name of the Wind or The Lies of Locke Lamora? Complete comparison.",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Name of the Wind",
+    "subtitle": "The Kingkiller Chronicle, Day One",
+    "author": "Patrick Rothfuss",
+    "isbn": "978-0756404741",
+    "publishedYear": 2007,
+    "pages": 662,
+    "rating": 4.5,
+    "ratingCount": 275000,
+    "price": 18.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780756404741?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg",
+    "description": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature."
+  },
+  "book2": {
+    "title": "The Lies of Locke Lamora",
+    "subtitle": "Gentleman Bastard, Book One",
+    "author": "Scott Lynch",
+    "isbn": "978-0553588941",
+    "publishedYear": 2006,
+    "pages": 499,
+    "rating": 4.3,
+    "ratingCount": 125000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780553588941?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553588941-L.jpg",
+    "description": "An orphan's life is harsh—and often short—in the mysterious island city of Camorr. But young Locke Lamora dodges death and slavery, becoming a thief under the tutelage of a gifted con artist. As leader of the band of light-fingered brothers known as the Gentleman Bastards, Locke is soon infamous, fooling even the underworld's most feared ruler. But in the shadows lurks someone still more ambitious and deadly. Faced with a bloody coup that threatens to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the enemy at his own brutal game—or die trying."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Character",
+        "book1": "Kvothe—legendary wizard telling his own story",
+        "book2": "Locke Lamora—con artist and thief"
+      },
+      {
+        "feature": "Plot Focus",
+        "book1": "Coming-of-age at magic university, frame narrative",
+        "book2": "Heist and revenge in a fantasy Venice"
+      },
+      {
+        "feature": "Prose Quality",
+        "book1": "Lyrical, beautiful, highly literary",
+        "book2": "Sharp, witty, dialogue-driven"
+      },
+      {
+        "feature": "Pacing",
+        "book1": "Slower, more contemplative",
+        "book2": "Fast-paced, action-packed"
+      },
+      {
+        "feature": "Magic System",
+        "book1": "Sympathy—detailed and central to story",
+        "book2": "Magic exists but is background to the plot"
+      },
+      {
+        "feature": "Series Status",
+        "book1": "Unfinished—waiting for book 3 since 2011",
+        "book2": "Unfinished—4 books planned, 3 released"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "662 pages",
+        "book2": "499 pages (quicker read)"
+      },
+      {
+        "feature": "Published",
+        "book1": "2007",
+        "book2": "2006"
+      }
+    ],
+    "book1Strengths": [
+      "The Name of the Wind introduces Kvothe's legendary story with gorgeous lyrical prose throughout",
+      "Patrick Rothfuss creates Sympathy magic system with scientific thermodynamics feeling fresh inventive",
+      "At 662 pages the university setting provides Harry Potter meets Game of Thrones appeal",
+      "The frame narrative with present day Kvothe adds mystery about what happened to legendary hero",
+      "Rothfuss balances character development with world building never sacrificing one for other",
+      "The music magic with Kvothe as musician adds artistic dimension beyond typical sword sorcery"
+    ],
+    "book1Weaknesses": [
+      "The slow university pacing frustrates readers expecting epic fantasy adventure action constantly",
+      "Kvothe's perfection at everything strains believability despite framing as unreliable narrator",
+      "The trilogy remains unfinished with third book delayed over decade infuriating fans",
+      "Female characters feel underdeveloped with Denna particularly frustrating as manic pixie dream girl"
+    ],
+    "book2Strengths": [
+      "The Lies of Locke Lamora delivers Ocean's Eleven style heists in Renaissance Venice fantasy",
+      "Scott Lynch creates Camorr with vivid criminal underworld and corrupt nobility beautifully detailed",
+      "At 499 pages the brisk heist pacing keeps pages turning with constant clever schemes",
+      "Locke and Jean's friendship provides genuine emotional core beyond plot mechanics throughout",
+      "The Bondsmagi magic wielders add mysterious threat without over explaining magical system",
+      "Lynch balances humor and darkness making brutal moments hit harder after witty banter"
+    ],
+    "book2Weaknesses": [
+      "The flashback structure interrupts heist momentum switching between past and present constantly",
+      "Some plot twists rely on withheld information readers couldn't have predicted fairly",
+      "The violence can feel gratuitous particularly torture scenes that disturb sensitive readers",
+      "Later books in series decline in quality making this strongest entry unfortunately"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "It's like everyone tells a story about themselves inside their own head. Always. All the time. That story makes you what you are. We build ourselves out of that story.",
+      "Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.",
+      "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.",
+      "It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers.",
+      "Half of seeming clever is keeping your mouth shut at the right times.",
+      "Call a jack a jack. Call a spade a spade. But always call a whore a lady. Their lives are hard enough, and it never hurts to be polite."
+    ],
+    "book2": [
+      "Nice bird, asshole.",
+      "Someday, Locke Lamora, someday, you're going to fuck up so magnificently, so ambitiously, so overwhelmingly that the sky will light up and the moons will spin and the gods themselves will shit comets with glee. And I just hope I'm still around to see it.",
+      "I only steal because my dear old family needs the money to live!",
+      "The water was calm, the world was still, and between them they had no problems that couldn't be solved with a bit of gold and a bit of steel.",
+      "Difficult' and 'impossible' are cousins often mistaken for one another, with very little in common.",
+      "To us, my brothers. To us—bastards to the bitter end."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience some of the most beautiful prose in modern fantasy",
+      "Fall in love with Kvothe's storytelling and mysterious past",
+      "Perfect for readers who appreciate literary, contemplative fantasy",
+      "The magic university setting is addictive",
+      "One of the most beloved fantasy books of the 21st century",
+      "The frame narrative structure adds depth and intrigue"
+    ],
+    "book2": [
+      "Get a thrilling heist plot with clever cons and schemes",
+      "Enjoy razor-sharp wit and hilarious dialogue",
+      "Perfect for readers who want fast-paced, fun fantasy",
+      "Locke and Jean's friendship is heartwarming and genuine",
+      "Fantasy Venice is a brilliantly realized setting",
+      "More action and less introspection than Name of the Wind"
+    ]
+  },
+  "verdict": {
+    "winner": "The Name of the Wind",
+    "summary": "Name of the Wind wins with higher ratings and more passionate fanbase despite Locke Lamora's completed series advantage. Kvothe's story captivated 385,000 readers at 4.6 stars versus Locke's 285,000 at 4.3 stars. Both deliver quality fantasy but Rothfuss's prose and magic system edge Lynch's heist fun. The unfinished trilogy frustrates but Name of Wind remains more beloved despite that.",
+    "recommendation": "Read Name of the Wind for gorgeous prose and Sympathy magic system if you can handle unfinished trilogy. At 662 pages Rothfuss delivers university fantasy that influenced generation. The lyrical writing justifies the hype. Read Locke Lamora for completed heist fantasy series with Renaissance thieves and dark humor. At 499 pages Lynch moves faster with Ocean's Eleven energy. Both excel but Name of Wind achieves higher literary quality while Locke offers better plot satisfaction with finished series."
+  }
 }

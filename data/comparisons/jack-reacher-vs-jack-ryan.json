@@ -1,144 +1,144 @@
 ﻿{
-    "slug": "jack-reacher-vs-jack-ryan",
-    "title": "Jack Reacher vs Jack Ryan: Head to Head Comparison",
-    "metaDescription": "Compare Killing Floor vs The Hunt for Red October. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated": "2026-02-07",
-    "category": "Fiction \u0026 Literature",
-    "book1": {
-                  "title": "Killing Floor",
-                  "subtitle": "Jack Reacher, Book 1",
-                  "author": "Lee Child",
-                  "isbn": "978-0515153651",
-                  "publishedYear": 1997,
-                  "pages": 534,
-                  "rating": 4.6,
-                  "ratingCount": 234000,
-                  "price": 14.99,
-                  "amazonUrl": "PLACEHOLDER",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780515153651-L.jpg",
-                  "description": "Ex-military policeman Jack Reacher is a drifter. He\u0027s just passing through Margrave, Georgia, and in less than an hour, he\u0027s arrested for murder. Not much of a welcome. All Reacher knows is that he didn\u0027t kill anybody. At least not here. Not lately. But he doesn\u0027t stand a chance of convincing anyone. Not in Margrave, Georgia. Not a chance in hell."
-              },
-    "book2": {
-                  "title": "The Hunt for Red October",
-                  "subtitle": "Jack Ryan, Book 1",
-                  "author": "Tom Clancy",
-                  "isbn": "978-0425133514",
-                  "publishedYear": 1984,
-                  "pages": 387,
-                  "rating": 4.7,
-                  "ratingCount": 156000,
-                  "price": 15.99,
-                  "amazonUrl": "PLACEHOLDER",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780425133514-L.jpg",
-                  "description": "Somewhere under the Atlantic, a Soviet sub commander has just made a fateful decision. The Red October is heading west. The Americans want her. The Russians want her back. And the most incredible chase in history is on."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Protagonist Type",
-                                         "book1": "Lone wolf drifter",
-                                         "book2": "CIA analyst turned operative"
-                                     },
-                                     {
-                                         "feature": "Action Style",
-                                         "book1": "Hand-to-hand combat, personal",
-                                         "book2": "Military strategy, global scale"
-                                     },
-                                     {
-                                         "feature": "Scope",
-                                         "book1": "Small-town mysteries",
-                                         "book2": "International geopolitical thrillers"
-                                     },
-                                     {
-                                         "feature": "Technical Detail",
-                                         "book1": "Minimal, story-focused",
-                                         "book2": "Extremely detailed military tech"
-                                     },
-                                     {
-                                         "feature": "Complexity",
-                                         "book1": "Straightforward, accessible",
-                                         "book2": "Complex plots with many characters"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "~500 pages average",
-                                         "book2": "~600+ pages average"
-                                     },
-                                     {
-                                         "feature": "Series Length",
-                                         "book1": "28+ books (ongoing)",
-                                         "book2": "20+ books (complete after Clancy\u0027s death)"
-                                     },
-                                     {
-                                         "feature": "Reading Speed",
-                                         "book1": "Fast page-turners",
-                                         "book2": "Slower, denser reading"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "Reacher as 6'5\" drifter with no phone or home—pure lone wolf fantasy executed perfectly across 28+ books",
-                                              "The Margrave conspiracy in Killing Floor hooks instantly—Reacher arrested for murder within an hour",
-                                              "Each novel standalone—start anywhere, no backstory needed, which beats Ryan's interconnected saga",
-                                              "234,000 ratings at 4.6 stars for Killing Floor—higher than Red October's 4.7 but with more accessibility",
-                                              "Fight scenes are brutal and satisfying—Reacher's military precision without Ryan's tech-heavy strategy",
-                                              "Zero learning curve—if you can read action movies, you can enjoy Reacher without submarine manuals"
-                                          ],
-                       "book1Weaknesses": [
-                                               "Formula becomes obvious—Reacher drifts in, locals underestimate him, he destroys everyone, moves on",
-                                               "Reacher never loses, never doubts, never grows—superhuman competence gets boring after 10+ books",
-                                               "Shallow compared to Clancy's geopolitics—this is cotton candy versus a four-course meal intellectually",
-                                               "Women exist to sleep with Reacher once then vanish—romance is transactional and forgettable"
-                                           ],
-                       "book2Strengths": [
-                                              "Red October's submarine defection feels like real Cold War chess—Captain Ramius's escape is brilliant",
-                                              "Clancy's sonar tech details are so accurate the Navy investigated him—you learn actual caterpillar drive concepts",
-                                              "Ryan as CIA analyst who becomes accidental hero is relatable—he's smart, not superhuman like Reacher",
-                                              "156,000 ratings at 4.7 stars—classic status earned, this book invented techno-thriller genre in 1984",
-                                              "Multi-threaded plot with Soviet, American, and submarine perspectives creates genuine complexity",
-                                              "Ryan's arc from desk analyst to President across 20+ books gives actual character development"
-                                          ],
-                       "book2Weaknesses": [
-                                               "Sonar frequency explanations and submarine specs slow pacing—casual readers skim pages of tech manuals",
-                                               "Cold War Soviet threat feels dated in 2026—the USS Dallas hunting Red October lacks modern relevance",
-                                               "You need patience for 600+ pages of dense prose versus Reacher's breezy 500—this demands concentration",
-                                               "Series order matters—jumping into book 7 without context confuses, unlike Reacher's standalone structure"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Hope for the best, plan for the worst.",
-                                 "I don\u0027t want to put a hole in you. But I will if you force me to.",
-                                 "You do not mess with the special investigators.",
-                                 "People who don\u0027t like me are either people I\u0027ve never met, or people I\u0027ve met.",
-                                 "I\u0027m not a vagrant. I\u0027m a hobo. Big difference."
-                             ],
-                   "book2": [
-                                 "The good of the many outweigh the good of the few, or the one.",
-                                 "The difference between fiction and reality? Fiction has to make sense.",
-                                 "Man is a creature of hope and invention, both of which belie the idea that things cannot be changed.",
-                                 "I am a politician, which means I am a cheat and a liar, and when I am not kissing babies I am stealing their lollipops.",
-                                 "Civilians listened to officers, which said a lot about the intelligence of civilians."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "You want pure, undemanding entertainmentâ€”the literary equivalent of an action movie",
-                                  "You love the lone wolf drifter fantasy of a supremely capable hero",
-                                  "You prefer personal, hand-to-hand action over military strategy",
-                                  "You want standalone books you can read in any order",
-                                  "You need fast page-turners perfect for beach or airplane reading"
-                              ],
-                    "book2": [
-                                  "You love detailed military technology and geopolitical strategy",
-                                  "You want intelligent thrillers that make you think about global politics",
-                                  "You prefer a more realistic, relatable protagonist who grows over time",
-                                  "You enjoy complex plots with multiple interconnected storylines",
-                                  "You\u0027re interested in Cold War history and modern military operations"
-                              ]
-                },
-    "verdict": {
-                    "winner": "It Depends",
-                    "summary": "Different lanes entirely. Red October edges out with 4.7 versus 4.6 stars, but Killing Floor has more ratings (234K vs 156K). Reacher is pure accessible fun—standalone books, minimal tech, satisfying violence. Ryan is intellectual depth—Cold War geopolitics, submarine technology so detailed the Navy investigated Clancy, multi-threaded complexity. Reacher for entertainment, Ryan for substance. Neither is better—one's an action movie, one's a documentary thriller.",
-                    "recommendation": "Read Killing Floor if you want pure escapist fun. You'll get Reacher's 6'5\" drifter mystique, the Margrave murder conspiracy that hooks in one hour, brutal fight scenes using military precision, and zero learning curve—just enjoy. It's standalone so you can jump anywhere in the 28-book series. Perfect for beaches, planes, unwinding. Read The Hunt for Red October if you want intellectual thrillers. You'll get Captain Ramius's brilliant defection plan, caterpillar drive submarine tech so accurate the Navy investigated Clancy, Ryan's evolution from analyst to accidental hero, and genuine Cold War geopolitics. It's dense (600+ pages of tech details) but educational—you actually learn military strategy. Most readers? Start Reacher for instant gratification. Military/politics nerds? Go Ryan for depth. They're not competitors—one's cotton candy, one's a feast."
-                }
+  "slug": "jack-reacher-vs-jack-ryan",
+  "title": "Jack Reacher vs Jack Ryan: Head to Head Comparison",
+  "metaDescription": "Compare Killing Floor vs The Hunt for Red October. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "Killing Floor",
+    "subtitle": "Jack Reacher, Book 1",
+    "author": "Lee Child",
+    "isbn": "978-0515153651",
+    "publishedYear": 1997,
+    "pages": 534,
+    "rating": 4.6,
+    "ratingCount": 234000,
+    "price": 14.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780515153651?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780515153651-L.jpg",
+    "description": "Ex-military policeman Jack Reacher is a drifter. He's just passing through Margrave, Georgia, and in less than an hour, he's arrested for murder. Not much of a welcome. All Reacher knows is that he didn't kill anybody. At least not here. Not lately. But he doesn't stand a chance of convincing anyone. Not in Margrave, Georgia. Not a chance in hell."
+  },
+  "book2": {
+    "title": "The Hunt for Red October",
+    "subtitle": "Jack Ryan, Book 1",
+    "author": "Tom Clancy",
+    "isbn": "978-0425133514",
+    "publishedYear": 1984,
+    "pages": 387,
+    "rating": 4.7,
+    "ratingCount": 156000,
+    "price": 15.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780425133514?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780425133514-L.jpg",
+    "description": "Somewhere under the Atlantic, a Soviet sub commander has just made a fateful decision. The Red October is heading west. The Americans want her. The Russians want her back. And the most incredible chase in history is on."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Protagonist Type",
+        "book1": "Lone wolf drifter",
+        "book2": "CIA analyst turned operative"
+      },
+      {
+        "feature": "Action Style",
+        "book1": "Hand-to-hand combat, personal",
+        "book2": "Military strategy, global scale"
+      },
+      {
+        "feature": "Scope",
+        "book1": "Small-town mysteries",
+        "book2": "International geopolitical thrillers"
+      },
+      {
+        "feature": "Technical Detail",
+        "book1": "Minimal, story-focused",
+        "book2": "Extremely detailed military tech"
+      },
+      {
+        "feature": "Complexity",
+        "book1": "Straightforward, accessible",
+        "book2": "Complex plots with many characters"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "~500 pages average",
+        "book2": "~600+ pages average"
+      },
+      {
+        "feature": "Series Length",
+        "book1": "28+ books (ongoing)",
+        "book2": "20+ books (complete after Clancy's death)"
+      },
+      {
+        "feature": "Reading Speed",
+        "book1": "Fast page-turners",
+        "book2": "Slower, denser reading"
+      }
+    ],
+    "book1Strengths": [
+      "Reacher as 6'5\" drifter with no phone or home—pure lone wolf fantasy executed perfectly across 28+ books",
+      "The Margrave conspiracy in Killing Floor hooks instantly—Reacher arrested for murder within an hour",
+      "Each novel standalone—start anywhere, no backstory needed, which beats Ryan's interconnected saga",
+      "234,000 ratings at 4.6 stars for Killing Floor—higher than Red October's 4.7 but with more accessibility",
+      "Fight scenes are brutal and satisfying—Reacher's military precision without Ryan's tech-heavy strategy",
+      "Zero learning curve—if you can read action movies, you can enjoy Reacher without submarine manuals"
+    ],
+    "book1Weaknesses": [
+      "Formula becomes obvious—Reacher drifts in, locals underestimate him, he destroys everyone, moves on",
+      "Reacher never loses, never doubts, never grows—superhuman competence gets boring after 10+ books",
+      "Shallow compared to Clancy's geopolitics—this is cotton candy versus a four-course meal intellectually",
+      "Women exist to sleep with Reacher once then vanish—romance is transactional and forgettable"
+    ],
+    "book2Strengths": [
+      "Red October's submarine defection feels like real Cold War chess—Captain Ramius's escape is brilliant",
+      "Clancy's sonar tech details are so accurate the Navy investigated him—you learn actual caterpillar drive concepts",
+      "Ryan as CIA analyst who becomes accidental hero is relatable—he's smart, not superhuman like Reacher",
+      "156,000 ratings at 4.7 stars—classic status earned, this book invented techno-thriller genre in 1984",
+      "Multi-threaded plot with Soviet, American, and submarine perspectives creates genuine complexity",
+      "Ryan's arc from desk analyst to President across 20+ books gives actual character development"
+    ],
+    "book2Weaknesses": [
+      "Sonar frequency explanations and submarine specs slow pacing—casual readers skim pages of tech manuals",
+      "Cold War Soviet threat feels dated in 2026—the USS Dallas hunting Red October lacks modern relevance",
+      "You need patience for 600+ pages of dense prose versus Reacher's breezy 500—this demands concentration",
+      "Series order matters—jumping into book 7 without context confuses, unlike Reacher's standalone structure"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Hope for the best, plan for the worst.",
+      "I don't want to put a hole in you. But I will if you force me to.",
+      "You do not mess with the special investigators.",
+      "People who don't like me are either people I've never met, or people I've met.",
+      "I'm not a vagrant. I'm a hobo. Big difference."
+    ],
+    "book2": [
+      "The good of the many outweigh the good of the few, or the one.",
+      "The difference between fiction and reality? Fiction has to make sense.",
+      "Man is a creature of hope and invention, both of which belie the idea that things cannot be changed.",
+      "I am a politician, which means I am a cheat and a liar, and when I am not kissing babies I am stealing their lollipops.",
+      "Civilians listened to officers, which said a lot about the intelligence of civilians."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want pure, undemanding entertainmentâ€”the literary equivalent of an action movie",
+      "You love the lone wolf drifter fantasy of a supremely capable hero",
+      "You prefer personal, hand-to-hand action over military strategy",
+      "You want standalone books you can read in any order",
+      "You need fast page-turners perfect for beach or airplane reading"
+    ],
+    "book2": [
+      "You love detailed military technology and geopolitical strategy",
+      "You want intelligent thrillers that make you think about global politics",
+      "You prefer a more realistic, relatable protagonist who grows over time",
+      "You enjoy complex plots with multiple interconnected storylines",
+      "You're interested in Cold War history and modern military operations"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Different lanes entirely. Red October edges out with 4.7 versus 4.6 stars, but Killing Floor has more ratings (234K vs 156K). Reacher is pure accessible fun—standalone books, minimal tech, satisfying violence. Ryan is intellectual depth—Cold War geopolitics, submarine technology so detailed the Navy investigated Clancy, multi-threaded complexity. Reacher for entertainment, Ryan for substance. Neither is better—one's an action movie, one's a documentary thriller.",
+    "recommendation": "Read Killing Floor if you want pure escapist fun. You'll get Reacher's 6'5\" drifter mystique, the Margrave murder conspiracy that hooks in one hour, brutal fight scenes using military precision, and zero learning curve—just enjoy. It's standalone so you can jump anywhere in the 28-book series. Perfect for beaches, planes, unwinding. Read The Hunt for Red October if you want intellectual thrillers. You'll get Captain Ramius's brilliant defection plan, caterpillar drive submarine tech so accurate the Navy investigated Clancy, Ryan's evolution from analyst to accidental hero, and genuine Cold War geopolitics. It's dense (600+ pages of tech details) but educational—you actually learn military strategy. Most readers? Start Reacher for instant gratification. Military/politics nerds? Go Ryan for depth. They're not competitors—one's cotton candy, one's a feast."
+  }
 }

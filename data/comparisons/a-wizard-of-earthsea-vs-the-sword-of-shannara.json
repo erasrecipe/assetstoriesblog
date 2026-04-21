@@ -1,154 +1,154 @@
 ﻿{
-    "slug":  "a-wizard-of-earthsea-vs-the-sword-of-shannara",
-    "title":  "A Wizard of Earthsea vs The Sword of Shannara: Head to Head Comparison",
-    "metaDescription":  "Ursula K. Le Guin\u0027s A Wizard of Earthsea vs Terry Brooks\u0027 The Sword of Shannara—which classic fantasy should you read? Complete comparison.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "A Wizard of Earthsea",
-                  "subtitle":  "The Earthsea Cycle, Book One",
-                  "author":  "Ursula K. Le Guin",
-                  "isbn":  "978-0547722023",
-                  "publishedYear":  1968,
-                  "pages":  183,
-                  "rating":  4.0,
-                  "ratingCount":  142000,
-                  "price":  14.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_WIZARD_EARTHSEA",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780547722023-L.jpg",
-                  "description":  "Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death\u0027s threshold to restore the balance."
-              },
-    "book2":  {
-                  "title":  "The Sword of Shannara",
-                  "subtitle":  "",
-                  "author":  "Terry Brooks",
-                  "isbn":  "978-0345314253",
-                  "publishedYear":  1977,
-                  "pages":  726,
-                  "rating":  3.9,
-                  "ratingCount":  98000,
-                  "price":  9.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_SWORD_SHANNARA",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780345314253-L.jpg",
-                  "description":  "Living in peaceful Shady Vale, Shea Ohmsford knew little of the troubles that plagued the rest of the world. Then the giant, forbidding Allanon revealed that the supposedly dead Warlock Lord was plotting to destroy everything in his wake. The sole weapon against this Power of Darkness was the Sword of Shannara, which could only be used by a true heir of Shannara—and Shea was the last of the bloodline."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Length",
-                                         "book1":  "183 pages (short, focused)",
-                                         "book2":  "726 pages (epic quest)"
-                                     },
-                                     {
-                                         "feature":  "Style",
-                                         "book1":  "Literary, philosophical, introspective",
-                                         "book2":  "Adventure-driven, Tolkien-inspired"
-                                     },
-                                     {
-                                         "feature":  "Plot Structure",
-                                         "book1":  "Coming-of-age, internal journey",
-                                         "book2":  "Classic quest—destroy the dark lord"
-                                     },
-                                     {
-                                         "feature":  "Magic System",
-                                         "book1":  "True names—knowing the essence of things",
-                                         "book2":  "Traditional magic, artifacts, druids"
-                                     },
-                                     {
-                                         "feature":  "Themes",
-                                         "book1":  "Balance, pride, shadow self, responsibility",
-                                         "book2":  "Good vs evil, heroism, destiny"
-                                     },
-                                     {
-                                         "feature":  "Influence",
-                                         "book1":  "Literary masterpiece, changed fantasy",
-                                         "book2":  "Commercial success, popularized fantasy novels"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "1968 (groundbreaking)",
-                                         "book2":  "1977 (post-Tolkien boom)"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Readers wanting literary depth and philosophy",
-                                         "book2":  "Readers wanting epic adventure and action"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Ged\u0027s coming of age journey from arrogant boy to wise archmage is one of fantasy\u0027s most psychologically deep character arcs",
-                                              "At 183 pages with 340,000 ratings at 4.0 stars this proves you don\u0027t need 800 page epics to create profound fantasy",
-                                              "The magic system where knowing true names gives power over things is philosophically rich and internally consistent throughout",
-                                              "Le Guin\u0027s prose is literary and poetic elevating fantasy to high art instead of just adventure escapism entertainment",
-                                              "The shadow that Ged releases representing his own darkness makes this a Jungian psychological journey not just quest",
-                                              "Published 1968 this influenced every fantasy author after from Rothfuss to Sanderson with the wizard school concept",
-                                              "The archipelago world building with scattered islands and seafaring cultures feels unique compared to generic medieval Europe"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "At 183 pages some readers want more world building and character development feeling the brevity leaves questions unanswered",
-                                               "The pacing is slow and contemplative which frustrates readers expecting constant action and adventure typical of fantasy",
-                                               "Le Guin\u0027s literary style can feel distant and philosophical compared to more accessible page turner fantasy adventure books",
-                                               "Published 1968 means some language and attitudes feel dated especially around gender with very few female characters present",
-                                               "The ending is quiet and introspective without epic battle which disappoints readers wanting climactic confrontation payoff",
-                                               "Only 340,000 ratings versus Shannara\u0027s 180,000 shows Earthsea is more popular but not by the massive margin expected"
-                                           ],
-                       "book2Strengths":  [
-                                              "The quest structure with finding the Sword of Shannara to defeat the Warlock Lord gives clear stakes and momentum",
-                                              "At 726 pages with 180,000 ratings at 3.8 stars this launched one of fantasy\u0027s biggest multi series franchises",
-                                              "The detailed world building with different races like Druids, Elves, Dwarves creates rich Middle Earth influenced setting",
-                                              "Brooks writes accessible page turner prose making 726 pages fly by for readers who want entertaining adventure story",
-                                              "The found family dynamic with Shea, Flick, Menion, and Allanon creates emotional investment in the fellowship\u0027s journey",
-                                              "Published 1977 this helped keep epic fantasy alive between Tolkien and the modern fantasy boom of the 1990s",
-                                              "The series has 30 plus books giving you endless content if you fall in love with the world and characters"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The Lord of the Rings copying is so blatant it feels like fan fiction with Druids as Gandalf and Skull Bearers as Nazgul",
-                                               "At 3.8 stars versus Earthsea\u0027s 4.0 readers found it less original and artistically accomplished despite being entertaining",
-                                               "The prose is workmanlike and functional without Le Guin\u0027s literary beauty making it feel like mass market paperback product",
-                                               "At 726 pages it\u0027s four times longer than Earthsea yet covers similar thematic ground with less psychological depth",
-                                               "The magic system is vague and inconsistent compared to Earthsea\u0027s carefully constructed true names logic and rules",
-                                               "The derivative nature means if you\u0027ve read Tolkien you can predict every major plot beat before it happens clearly"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "It is very hard for evil to take hold of the unconsenting soul.",
-                                 "To light a candle is to cast a shadow.",
-                                 "Only in silence the word, only in dark the light, only in dying life: bright the hawk\u0027s flight on the empty sky.",
-                                 "You thought, as a boy, that a mage is one who can do anything. So I thought, once. So did we all. And the truth is that as a man\u0027s real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.",
-                                 "Need alone is not enough to set power free: there must be knowledge.",
-                                 "The shadow is on the other side of our psyche, the dark brother of the conscious mind."
-                             ],
-                   "book2":  [
-                                 "The Sword of Shannara is the physical manifestation of the truth.",
-                                 "Even the smallest person can change the course of the future.",
-                                 "Sometimes what we seek is right before us, though we fail to see it.",
-                                 "The greatest threat to any man is himself.",
-                                 "Destiny is not something that can be forced or denied.",
-                                 "The truth is the most powerful weapon of all."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Experience one of fantasy\u0027s most influential and literary works",
-                                  "Short enough to read quickly but deep enough to think about for years",
-                                  "Le Guin\u0027s true names magic system is elegant and meaningful",
-                                  "Ged\u0027s confrontation with his shadow self is psychologically profound",
-                                  "Beautiful prose that elevates fantasy to literature",
-                                  "Essential reading for understanding modern fantasy"
-                              ],
-                    "book2":  [
-                                  "Get an epic 726-page adventure in classic fantasy style",
-                                  "Perfect if you loved Lord of the Rings and want more",
-                                  "Straightforward quest narrative is satisfying and accessible",
-                                  "Gateway to a massive series of 30+ Shannara books",
-                                  "More action and adventure than contemplative Earthsea",
-                                  "The first fantasy to hit the New York Times bestseller list"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "A Wizard of Earthsea",
-                    "summary":  "A Wizard of Earthsea wins decisively for literary quality—142,000 ratings vs 98,000, 4.0 vs 3.9 stars, and it\u0027s a masterpiece that changed fantasy. Le Guin\u0027s true names magic, Ged\u0027s shadow integration, and philosophical depth (balance, responsibility, pride) are profound. At 183 pages vs 726, it\u0027s 75% shorter yet more impactful. The Sword of Shannara offers epic adventure but is universally criticized as Lord of the Rings derivative—halfling from peaceful valley, wise wizard, quest to destroy dark lord. Brooks = commercial Tolkien copy. Le Guin = literary innovation. Choose quality (Earthsea) or quantity (Shannara).",
-                    "recommendation":  "Read A Wizard of Earthsea first—it\u0027s short (183 pages), brilliant, and essential fantasy literature. Le Guin\u0027s prose is gorgeous, Ged\u0027s shadow confrontation is psychologically profound, and true names magic is elegant. You\u0027ll finish in a weekend and think about it for years. Read The Sword of Shannara ONLY if you specifically want 726 pages of Tolkien-style adventure and don\u0027t mind derivative plot. The quest structure (gather companions, retrieve artifact, defeat dark lord) is satisfying but unoriginal. For most readers: Earthsea for literary quality and lasting impact, Shannara for epic scope and comfort-food adventure. If you loved Lord of the Rings and want MORE Tolkien, Brooks delivers that. If you want fantasy that\u0027s literary art, Le Guin is untouchable."
-                }
+  "slug": "a-wizard-of-earthsea-vs-the-sword-of-shannara",
+  "title": "A Wizard of Earthsea vs The Sword of Shannara: Head to Head Comparison",
+  "metaDescription": "Ursula K. Le Guin's A Wizard of Earthsea vs Terry Brooks' The Sword of Shannara—which classic fantasy should you read? Complete comparison.",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "A Wizard of Earthsea",
+    "subtitle": "The Earthsea Cycle, Book One",
+    "author": "Ursula K. Le Guin",
+    "isbn": "978-0547722023",
+    "publishedYear": 1968,
+    "pages": 183,
+    "rating": 4,
+    "ratingCount": 142000,
+    "price": 14.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780547722023?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780547722023-L.jpg",
+    "description": "Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance."
+  },
+  "book2": {
+    "title": "The Sword of Shannara",
+    "subtitle": "",
+    "author": "Terry Brooks",
+    "isbn": "978-0345314253",
+    "publishedYear": 1977,
+    "pages": 726,
+    "rating": 3.9,
+    "ratingCount": 98000,
+    "price": 9.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780345314253?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780345314253-L.jpg",
+    "description": "Living in peaceful Shady Vale, Shea Ohmsford knew little of the troubles that plagued the rest of the world. Then the giant, forbidding Allanon revealed that the supposedly dead Warlock Lord was plotting to destroy everything in his wake. The sole weapon against this Power of Darkness was the Sword of Shannara, which could only be used by a true heir of Shannara—and Shea was the last of the bloodline."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Length",
+        "book1": "183 pages (short, focused)",
+        "book2": "726 pages (epic quest)"
+      },
+      {
+        "feature": "Style",
+        "book1": "Literary, philosophical, introspective",
+        "book2": "Adventure-driven, Tolkien-inspired"
+      },
+      {
+        "feature": "Plot Structure",
+        "book1": "Coming-of-age, internal journey",
+        "book2": "Classic quest—destroy the dark lord"
+      },
+      {
+        "feature": "Magic System",
+        "book1": "True names—knowing the essence of things",
+        "book2": "Traditional magic, artifacts, druids"
+      },
+      {
+        "feature": "Themes",
+        "book1": "Balance, pride, shadow self, responsibility",
+        "book2": "Good vs evil, heroism, destiny"
+      },
+      {
+        "feature": "Influence",
+        "book1": "Literary masterpiece, changed fantasy",
+        "book2": "Commercial success, popularized fantasy novels"
+      },
+      {
+        "feature": "Published",
+        "book1": "1968 (groundbreaking)",
+        "book2": "1977 (post-Tolkien boom)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Readers wanting literary depth and philosophy",
+        "book2": "Readers wanting epic adventure and action"
+      }
+    ],
+    "book1Strengths": [
+      "Ged's coming of age journey from arrogant boy to wise archmage is one of fantasy's most psychologically deep character arcs",
+      "At 183 pages with 340,000 ratings at 4.0 stars this proves you don't need 800 page epics to create profound fantasy",
+      "The magic system where knowing true names gives power over things is philosophically rich and internally consistent throughout",
+      "Le Guin's prose is literary and poetic elevating fantasy to high art instead of just adventure escapism entertainment",
+      "The shadow that Ged releases representing his own darkness makes this a Jungian psychological journey not just quest",
+      "Published 1968 this influenced every fantasy author after from Rothfuss to Sanderson with the wizard school concept",
+      "The archipelago world building with scattered islands and seafaring cultures feels unique compared to generic medieval Europe"
+    ],
+    "book1Weaknesses": [
+      "At 183 pages some readers want more world building and character development feeling the brevity leaves questions unanswered",
+      "The pacing is slow and contemplative which frustrates readers expecting constant action and adventure typical of fantasy",
+      "Le Guin's literary style can feel distant and philosophical compared to more accessible page turner fantasy adventure books",
+      "Published 1968 means some language and attitudes feel dated especially around gender with very few female characters present",
+      "The ending is quiet and introspective without epic battle which disappoints readers wanting climactic confrontation payoff",
+      "Only 340,000 ratings versus Shannara's 180,000 shows Earthsea is more popular but not by the massive margin expected"
+    ],
+    "book2Strengths": [
+      "The quest structure with finding the Sword of Shannara to defeat the Warlock Lord gives clear stakes and momentum",
+      "At 726 pages with 180,000 ratings at 3.8 stars this launched one of fantasy's biggest multi series franchises",
+      "The detailed world building with different races like Druids, Elves, Dwarves creates rich Middle Earth influenced setting",
+      "Brooks writes accessible page turner prose making 726 pages fly by for readers who want entertaining adventure story",
+      "The found family dynamic with Shea, Flick, Menion, and Allanon creates emotional investment in the fellowship's journey",
+      "Published 1977 this helped keep epic fantasy alive between Tolkien and the modern fantasy boom of the 1990s",
+      "The series has 30 plus books giving you endless content if you fall in love with the world and characters"
+    ],
+    "book2Weaknesses": [
+      "The Lord of the Rings copying is so blatant it feels like fan fiction with Druids as Gandalf and Skull Bearers as Nazgul",
+      "At 3.8 stars versus Earthsea's 4.0 readers found it less original and artistically accomplished despite being entertaining",
+      "The prose is workmanlike and functional without Le Guin's literary beauty making it feel like mass market paperback product",
+      "At 726 pages it's four times longer than Earthsea yet covers similar thematic ground with less psychological depth",
+      "The magic system is vague and inconsistent compared to Earthsea's carefully constructed true names logic and rules",
+      "The derivative nature means if you've read Tolkien you can predict every major plot beat before it happens clearly"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "It is very hard for evil to take hold of the unconsenting soul.",
+      "To light a candle is to cast a shadow.",
+      "Only in silence the word, only in dark the light, only in dying life: bright the hawk's flight on the empty sky.",
+      "You thought, as a boy, that a mage is one who can do anything. So I thought, once. So did we all. And the truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do.",
+      "Need alone is not enough to set power free: there must be knowledge.",
+      "The shadow is on the other side of our psyche, the dark brother of the conscious mind."
+    ],
+    "book2": [
+      "The Sword of Shannara is the physical manifestation of the truth.",
+      "Even the smallest person can change the course of the future.",
+      "Sometimes what we seek is right before us, though we fail to see it.",
+      "The greatest threat to any man is himself.",
+      "Destiny is not something that can be forced or denied.",
+      "The truth is the most powerful weapon of all."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience one of fantasy's most influential and literary works",
+      "Short enough to read quickly but deep enough to think about for years",
+      "Le Guin's true names magic system is elegant and meaningful",
+      "Ged's confrontation with his shadow self is psychologically profound",
+      "Beautiful prose that elevates fantasy to literature",
+      "Essential reading for understanding modern fantasy"
+    ],
+    "book2": [
+      "Get an epic 726-page adventure in classic fantasy style",
+      "Perfect if you loved Lord of the Rings and want more",
+      "Straightforward quest narrative is satisfying and accessible",
+      "Gateway to a massive series of 30+ Shannara books",
+      "More action and adventure than contemplative Earthsea",
+      "The first fantasy to hit the New York Times bestseller list"
+    ]
+  },
+  "verdict": {
+    "winner": "A Wizard of Earthsea",
+    "summary": "A Wizard of Earthsea wins decisively for literary quality—142,000 ratings vs 98,000, 4.0 vs 3.9 stars, and it's a masterpiece that changed fantasy. Le Guin's true names magic, Ged's shadow integration, and philosophical depth (balance, responsibility, pride) are profound. At 183 pages vs 726, it's 75% shorter yet more impactful. The Sword of Shannara offers epic adventure but is universally criticized as Lord of the Rings derivative—halfling from peaceful valley, wise wizard, quest to destroy dark lord. Brooks = commercial Tolkien copy. Le Guin = literary innovation. Choose quality (Earthsea) or quantity (Shannara).",
+    "recommendation": "Read A Wizard of Earthsea first—it's short (183 pages), brilliant, and essential fantasy literature. Le Guin's prose is gorgeous, Ged's shadow confrontation is psychologically profound, and true names magic is elegant. You'll finish in a weekend and think about it for years. Read The Sword of Shannara ONLY if you specifically want 726 pages of Tolkien-style adventure and don't mind derivative plot. The quest structure (gather companions, retrieve artifact, defeat dark lord) is satisfying but unoriginal. For most readers: Earthsea for literary quality and lasting impact, Shannara for epic scope and comfort-food adventure. If you loved Lord of the Rings and want MORE Tolkien, Brooks delivers that. If you want fantasy that's literary art, Le Guin is untouchable."
+  }
 }

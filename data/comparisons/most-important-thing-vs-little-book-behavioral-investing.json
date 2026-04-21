@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 4800,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MOST_IMPORTANT_THING",
+    "amazonUrl": "https://www.amazon.com/dp/9780231162845?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780231162845-L.jpg",
     "description": "The Most Important Thing is a compilation of investment insight and philosophy from Howard Marks, co-founder and chairman of Oaktree Capital Management. Each chapter covers a different aspect of investing, and each one is the 'most important thing.' Marks emphasizes risk management, second-level thinking, and understanding market cycles. The book features commentary from leading value investors including Christopher Davis, Joel Greenblatt, Paul Johnson, and others."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 520,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_BEHAVIORAL_INVESTING",
+    "amazonUrl": "https://www.amazon.com/dp/0470452503?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780470686027-L.jpg",
     "description": "The Little Book of Behavioral Investing shows you how to avoid the most common and costly investment mistakes. James Montier, a leading behavioral finance expert, explains the psychological biases and emotional mistakes that lead investors astray. Rather than being an academic treatise, this practical guide helps investors understand their own behavior and develop strategies to overcome destructive patterns."
   },

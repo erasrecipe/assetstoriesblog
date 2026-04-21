@@ -1,147 +1,147 @@
 ﻿{
-    "slug":  "never-split-the-difference-vs-getting-to-yes",
-    "title":  "Never Split the Difference vs Getting to Yes: Head to Head Comparison",
-    "metaDescription":  "Never Split the Difference vs Getting to Yes: FBI hostage tactics vs Harvard negotiation. Which framework wins? Compare emotional vs rational approach.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Business \u0026 Leadership",
-    "book1":  {
-                  "title":  "Never Split the Difference",
-                  "subtitle":  "Negotiating As If Your Life Depended On It",
-                  "author":  "Chris Voss",
-                  "isbn":  "978-0062407801",
-                  "publishedYear":  2016,
-                  "pages":  288,
-                  "rating":  4.8,
-                  "ratingCount":  67000,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_NEVER_SPLIT_DIFFERENCE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780062407801-L.jpg",
-                  "description":  "After a stint policing Kansas City, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with bank robbers and terrorists. Never Split the Difference takes you inside high-stakes negotiations, revealing the skills that helped him save lives and how to apply them to everyday situations."
-              },
-    "book2":  {
-                  "title":  "Getting to Yes",
-                  "subtitle":  "Negotiating Agreement Without Giving In",
-                  "author":  "Roger Fisher, William Ury, Bruce Patton",
-                  "isbn":  "978-0143118756",
-                  "publishedYear":  1981,
-                  "pages":  240,
-                  "rating":  4.5,
-                  "ratingCount":  8500,
-                  "price":  17.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_GETTING_TO_YES",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780143118756-L.jpg",
-                  "description":  "Since 1981, Getting to Yes has been translated into 18 languages and sold over 5 million copies. This worldwide bestseller presents a straightforward, universally applicable method for negotiating personal and professional disputes without getting taken and without getting angry."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "Tactical empathy and psychological manipulation",
-                                         "book2":  "Principled negotiation and win-win solutions"
-                                     },
-                                     {
-                                         "feature":  "Author Background",
-                                         "book1":  "FBI hostage negotiator—life-or-death stakes",
-                                         "book2":  "Harvard professors—academic research and theory"
-                                     },
-                                     {
-                                         "feature":  "Philosophy",
-                                         "book1":  "Negotiation is emotional, not rational—use psychology",
-                                         "book2":  "Separate people from problem, focus on interests not positions"
-                                     },
-                                     {
-                                         "feature":  "Key Frameworks",
-                                         "book1":  "Tactical empathy, calibrated questions, mirroring, labeling",
-                                         "book2":  "BATNA, objective criteria, mutual gain options"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Tactical, psychological, street-smart—win through empathy",
-                                         "book2":  "Principled, rational, collaborative—win together"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Adversarial negotiations, sales, tough conversations",
-                                         "book2":  "Business partnerships, conflict resolution, collaborative deals"
-                                     },
-                                     {
-                                         "feature":  "Reading Experience",
-                                         "book1":  "Engaging thriller with hostage stories",
-                                         "book2":  "Dry textbook with case studies"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "288 pages",
-                                         "book2":  "240 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2016 (modern, fresh)",
-                                         "book2":  "1981 (classic, foundational)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Voss\u0027s FBI hostage negotiation tactics like tactical empathy work for salary talks and business deals",
-                                              "Mirroring and labeling emotions disarm the other side by making them feel heard before you ask for anything",
-                                              "The calibrated questions framework using how and what questions guides without triggering defensiveness",
-                                              "That\u0027s right moment when they summarize your position proves you truly understand them not just heard them"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The aggressive tone and win lose framing feels adversarial compared to collaborative negotiation approaches",
-                                               "Some techniques like accusation audits can backfire if you misjudge the relationship or power dynamics",
-                                               "Limited guidance on negotiations where ongoing relationships matter more than this single deal"
-                                           ],
-                       "book2Strengths":  [
-                                              "The separate people from problem principle prevents personal attacks from derailing productive negotiations",
-                                              "BATNA concept of knowing your best alternative gives you power to walk away from bad deals",
-                                              "Focus on interests not positions uncovers the real needs beneath stated demands for creative solutions",
-                                              "The principled negotiation framework works for everything from business mergers to family disputes"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The assumption both sides want win win ignores situations with genuinely incompatible interests",
-                                               "Some critics find the approach too soft when facing hardball negotiators who exploit cooperation",
-                                               "The 1981 examples feel dated compared to modern negotiation contexts with email and remote work"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Negotiation is not an act of battle; it\u0027s a process of discovery.",
-                                 "He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.",
-                                 "The beauty of empathy is that it doesn\u0027t demand that you agree with the other person\u0027s ideas.",
-                                 "No deal is better than a bad deal.",
-                                 "Tactical empathy brings our attention to both the emotional obstacles and the potential pathways to getting an agreement done.",
-                                 "Compromise is often a bad deal and you\u0027re better off with no deal."
-                             ],
-                   "book2":  [
-                                 "Separate the people from the problem.",
-                                 "Focus on interests, not positions.",
-                                 "The reason you negotiate is to produce something better than the results you can obtain without negotiating.",
-                                 "Invent options for mutual gain.",
-                                 "Insist on using objective criteria.",
-                                 "Develop your BATNA—the Best Alternative To a Negotiated Agreement."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You need tactical techniques—mirroring, labeling, calibrated questions—you can use in conversations today.",
-                                  "You\u0027re in sales, business development, or roles requiring tough negotiations regularly.",
-                                  "You want engaging stories that make learning negotiation actually fun instead of academic.",
-                                  "You face adversarial negotiations where the other party isn\u0027t interested in win-win.",
-                                  "You need to understand the emotional and psychological aspects of persuasion.",
-                                  "You want modern tactics (2016) that address contemporary business situations."
-                              ],
-                    "book2":  [
-                                  "You want foundational principles every negotiator must know—this is Negotiation 101.",
-                                  "You need to understand BATNA before walking into any negotiation.",
-                                  "You\u0027re building partnerships and need to preserve long-term relationships through principled deals.",
-                                  "You value ethical, collaborative approaches over tactical manipulation.",
-                                  "You want academic rigor and research-backed frameworks.",
-                                  "You appreciate timeless classics that have taught negotiation for 40+ years."
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Never Split the Difference",
-                    "summary":  "Never Split the Difference wins for most modern readers. The numbers don\u0027t lie: 4.8 stars with 67,000 ratings versus 4.5 stars with 8,500 ratings. Nearly 8x more readers, higher rating. Voss gives you tactics (mirroring, labeling, calibrated questions), thriller-style stories, and psychological realism. Fisher and Ury give you principles (BATNA, objective criteria, mutual gain), academic rigor, and collaborative frameworks. Both essential. Voss for winning tough negotiations. Getting to Yes for building lasting partnerships. Read Voss first—it\u0027s way more fun and immediately actionable.",
-                    "recommendation":  "Read Never Split the Difference first. Start with Voss. Hostage negotiation stories will keep you hooked while you learn mirroring (repeat last 3 words with upward inflection), labeling (name their emotions before they do), calibrated questions (\u0027How am I supposed to do that?\u0027), and the Accusation Audit (list everything terrible they might think about you upfront). These tactics work immediately in salary negotiations, sales calls, difficult conversations. 288 pages that read like a thriller. Then read Getting to Yes for the principles Voss doesn\u0027t cover. Learn BATNA—your Best Alternative To Negotiated Agreement, your walkaway point, your power. Understand \u0027separate people from problems\u0027 (attack the issue together, not each other). Master objective criteria (reference market rates and external standards instead of arguing positions). Focus on interests not positions. Invent options for mutual gain. These principles matter for long-term partnerships where win-win isn\u0027t optional. The sequence works because tactics before principles feels natural. Learn what works (Voss), then learn the ethical framework for when to use it (Fisher and Ury). Together they\u0027re complete: Never Split the Difference teaches you how to win adversarial negotiations—tough sales, salary talks, one-time deals where the other party plays hardball. Getting to Yes teaches you how to build collaborative partnerships—business relationships, vendor agreements, situations where you\u0027ll work together for years. You need both. Voss without Fisher is manipulation. Fisher without Voss is naivety. Read both. Start with Voss for tactics and engagement. Follow with Getting to Yes for principles and BATNA. One weekend each, negotiation mastery for life."
-                }
+  "slug": "never-split-the-difference-vs-getting-to-yes",
+  "title": "Never Split the Difference vs Getting to Yes: Head to Head Comparison",
+  "metaDescription": "Never Split the Difference vs Getting to Yes: FBI hostage tactics vs Harvard negotiation. Which framework wins? Compare emotional vs rational approach.",
+  "lastUpdated": "2026-02-07",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "Never Split the Difference",
+    "subtitle": "Negotiating As If Your Life Depended On It",
+    "author": "Chris Voss",
+    "isbn": "978-0062407801",
+    "publishedYear": 2016,
+    "pages": 288,
+    "rating": 4.8,
+    "ratingCount": 67000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/0062407805?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062407801-L.jpg",
+    "description": "After a stint policing Kansas City, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with bank robbers and terrorists. Never Split the Difference takes you inside high-stakes negotiations, revealing the skills that helped him save lives and how to apply them to everyday situations."
+  },
+  "book2": {
+    "title": "Getting to Yes",
+    "subtitle": "Negotiating Agreement Without Giving In",
+    "author": "Roger Fisher, William Ury, Bruce Patton",
+    "isbn": "978-0143118756",
+    "publishedYear": 1981,
+    "pages": 240,
+    "rating": 4.5,
+    "ratingCount": 8500,
+    "price": 17,
+    "amazonUrl": "https://www.amazon.com/dp/0143118422?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143118756-L.jpg",
+    "description": "Since 1981, Getting to Yes has been translated into 18 languages and sold over 5 million copies. This worldwide bestseller presents a straightforward, universally applicable method for negotiating personal and professional disputes without getting taken and without getting angry."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Tactical empathy and psychological manipulation",
+        "book2": "Principled negotiation and win-win solutions"
+      },
+      {
+        "feature": "Author Background",
+        "book1": "FBI hostage negotiator—life-or-death stakes",
+        "book2": "Harvard professors—academic research and theory"
+      },
+      {
+        "feature": "Philosophy",
+        "book1": "Negotiation is emotional, not rational—use psychology",
+        "book2": "Separate people from problem, focus on interests not positions"
+      },
+      {
+        "feature": "Key Frameworks",
+        "book1": "Tactical empathy, calibrated questions, mirroring, labeling",
+        "book2": "BATNA, objective criteria, mutual gain options"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Tactical, psychological, street-smart—win through empathy",
+        "book2": "Principled, rational, collaborative—win together"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Adversarial negotiations, sales, tough conversations",
+        "book2": "Business partnerships, conflict resolution, collaborative deals"
+      },
+      {
+        "feature": "Reading Experience",
+        "book1": "Engaging thriller with hostage stories",
+        "book2": "Dry textbook with case studies"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "288 pages",
+        "book2": "240 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2016 (modern, fresh)",
+        "book2": "1981 (classic, foundational)"
+      }
+    ],
+    "book1Strengths": [
+      "Voss's FBI hostage negotiation tactics like tactical empathy work for salary talks and business deals",
+      "Mirroring and labeling emotions disarm the other side by making them feel heard before you ask for anything",
+      "The calibrated questions framework using how and what questions guides without triggering defensiveness",
+      "That's right moment when they summarize your position proves you truly understand them not just heard them"
+    ],
+    "book1Weaknesses": [
+      "The aggressive tone and win lose framing feels adversarial compared to collaborative negotiation approaches",
+      "Some techniques like accusation audits can backfire if you misjudge the relationship or power dynamics",
+      "Limited guidance on negotiations where ongoing relationships matter more than this single deal"
+    ],
+    "book2Strengths": [
+      "The separate people from problem principle prevents personal attacks from derailing productive negotiations",
+      "BATNA concept of knowing your best alternative gives you power to walk away from bad deals",
+      "Focus on interests not positions uncovers the real needs beneath stated demands for creative solutions",
+      "The principled negotiation framework works for everything from business mergers to family disputes"
+    ],
+    "book2Weaknesses": [
+      "The assumption both sides want win win ignores situations with genuinely incompatible interests",
+      "Some critics find the approach too soft when facing hardball negotiators who exploit cooperation",
+      "The 1981 examples feel dated compared to modern negotiation contexts with email and remote work"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Negotiation is not an act of battle; it's a process of discovery.",
+      "He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.",
+      "The beauty of empathy is that it doesn't demand that you agree with the other person's ideas.",
+      "No deal is better than a bad deal.",
+      "Tactical empathy brings our attention to both the emotional obstacles and the potential pathways to getting an agreement done.",
+      "Compromise is often a bad deal and you're better off with no deal."
+    ],
+    "book2": [
+      "Separate the people from the problem.",
+      "Focus on interests, not positions.",
+      "The reason you negotiate is to produce something better than the results you can obtain without negotiating.",
+      "Invent options for mutual gain.",
+      "Insist on using objective criteria.",
+      "Develop your BATNA—the Best Alternative To a Negotiated Agreement."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You need tactical techniques—mirroring, labeling, calibrated questions—you can use in conversations today.",
+      "You're in sales, business development, or roles requiring tough negotiations regularly.",
+      "You want engaging stories that make learning negotiation actually fun instead of academic.",
+      "You face adversarial negotiations where the other party isn't interested in win-win.",
+      "You need to understand the emotional and psychological aspects of persuasion.",
+      "You want modern tactics (2016) that address contemporary business situations."
+    ],
+    "book2": [
+      "You want foundational principles every negotiator must know—this is Negotiation 101.",
+      "You need to understand BATNA before walking into any negotiation.",
+      "You're building partnerships and need to preserve long-term relationships through principled deals.",
+      "You value ethical, collaborative approaches over tactical manipulation.",
+      "You want academic rigor and research-backed frameworks.",
+      "You appreciate timeless classics that have taught negotiation for 40+ years."
+    ]
+  },
+  "verdict": {
+    "winner": "Never Split the Difference",
+    "summary": "Never Split the Difference wins for most modern readers. The numbers don't lie: 4.8 stars with 67,000 ratings versus 4.5 stars with 8,500 ratings. Nearly 8x more readers, higher rating. Voss gives you tactics (mirroring, labeling, calibrated questions), thriller-style stories, and psychological realism. Fisher and Ury give you principles (BATNA, objective criteria, mutual gain), academic rigor, and collaborative frameworks. Both essential. Voss for winning tough negotiations. Getting to Yes for building lasting partnerships. Read Voss first—it's way more fun and immediately actionable.",
+    "recommendation": "Read Never Split the Difference first. Start with Voss. Hostage negotiation stories will keep you hooked while you learn mirroring (repeat last 3 words with upward inflection), labeling (name their emotions before they do), calibrated questions ('How am I supposed to do that?'), and the Accusation Audit (list everything terrible they might think about you upfront). These tactics work immediately in salary negotiations, sales calls, difficult conversations. 288 pages that read like a thriller. Then read Getting to Yes for the principles Voss doesn't cover. Learn BATNA—your Best Alternative To Negotiated Agreement, your walkaway point, your power. Understand 'separate people from problems' (attack the issue together, not each other). Master objective criteria (reference market rates and external standards instead of arguing positions). Focus on interests not positions. Invent options for mutual gain. These principles matter for long-term partnerships where win-win isn't optional. The sequence works because tactics before principles feels natural. Learn what works (Voss), then learn the ethical framework for when to use it (Fisher and Ury). Together they're complete: Never Split the Difference teaches you how to win adversarial negotiations—tough sales, salary talks, one-time deals where the other party plays hardball. Getting to Yes teaches you how to build collaborative partnerships—business relationships, vendor agreements, situations where you'll work together for years. You need both. Voss without Fisher is manipulation. Fisher without Voss is naivety. Read both. Start with Voss for tactics and engagement. Follow with Getting to Yes for principles and BATNA. One weekend each, negotiation mastery for life."
+  }
 }

@@ -1,150 +1,150 @@
 ﻿{
-    "slug": "steve-jobs-vs-elon-musk-biography",
-    "title": "Steve Jobs vs Elon Musk Biography: Head to Head Comparison",
-    "metaDescription": "Compare Steve Jobs vs Elon Musk. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated": "2026-02-07",
-    "category": "Business \u0026 Leadership",
-    "book1": {
-                  "title": "Steve Jobs",
-                  "subtitle": "",
-                  "author": "Walter Isaacson",
-                  "isbn": "978-1451648539",
-                  "publishedYear": 2011,
-                  "pages": 656,
-                  "rating": 4.6,
-                  "ratingCount": 89000,
-                  "price": 21.00,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_STEVE_JOBS",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
-                  "description": "Based on more than forty interviews with Steve Jobs conducted over two yearsâ€”as well as interviews with more than 100 family members, friends, adversaries, competitors, and colleaguesâ€”Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing."
-              },
-    "book2": {
-                  "title": "Elon Musk",
-                  "subtitle": "Tesla, SpaceX, and the Quest for a Fantastic Future",
-                  "author": "Ashlee Vance",
-                  "isbn": "978-0062301239",
-                  "publishedYear": 2015,
-                  "pages": 400,
-                  "rating": 4.6,
-                  "ratingCount": 67000,
-                  "price": 19.99,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_ELON_MUSK",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg",
-                  "description": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley\u0027s most exciting, unpredictable, and ambitious entrepreneursâ€”a real-life Tony Starkâ€”and a fascinating exploration of the renewal of American invention and its new makers. Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet companies, PayPal, for $1.5 billion."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Main Focus",
-                                         "book1": "Perfection, design, and creating beloved products",
-                                         "book2": "Impossible missions: Mars, electric cars, renewable energy"
-                                     },
-                                     {
-                                         "feature": "Subject\u0027s Approach",
-                                         "book1": "Obsessive focus on user experience and simplicity",
-                                         "book2": "First-principles thinking and solving humanity\u0027s biggest problems"
-                                     },
-                                     {
-                                         "feature": "Industries Transformed",
-                                         "book1": "6 industries: computers, movies, music, phones, tablets, publishing",
-                                         "book2": "3+ industries: payments, electric cars, space travel, solar"
-                                     },
-                                     {
-                                         "feature": "Biography Style",
-                                         "book1": "Comprehensive, authorized, conducted with Jobs before death",
-                                         "book2": "Investigative journalism with limited Musk cooperation"
-                                     },
-                                     {
-                                         "feature": "Author Background",
-                                         "book1": "Walter Isaacsonâ€”legendary biographer (Einstein, Franklin)",
-                                         "book2": "Ashlee Vanceâ€”tech journalist and writer"
-                                     },
-                                     {
-                                         "feature": "Best For",
-                                         "book1": "Understanding product design and company culture",
-                                         "book2": "Understanding audacious goal-setting and execution"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "656 pages",
-                                         "book2": "400 pages"
-                                     },
-                                     {
-                                         "feature": "Published",
-                                         "book1": "2011 (after Jobs\u0027 death)",
-                                         "book2": "2015 (Musk still active)"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "Jobs authorized 40+ interviews before 2011 death—Isaacson got unprecedented access to flaws ('I don't think I've been particularly nice')",
-                                              "The 1997 Apple return is legendary—97 days from bankruptcy, killed Newton/Cyberdog, launched Think Different, stock $3→$365 by 2011",
-                                              "iPod/iTunes disruption detailed—convinced music labels to sell songs $0.99 each, destroyed CD industry, revolutionized distribution",
-                                              "Published 2011, rated 4.6 with 89,000 reviews—656 pages covering 6 industries (computers/movies/music/phones/tablets/publishing)",
-                                              "Jony Ive partnership crystallized—'Simplicity is the ultimate sophistication,' aluminum unibody MacBook, iPhone's single button philosophy"
-                                          ],
-                       "book1Weaknesses": [
-                                               "656 pages exhausting—Sculley betrayal, NeXT wilderness years, Pixar battles drag despite being historically important",
-                                               "Jobs' cruelty documented brutally—calling employees 'fucking idiots,' denying Lisa paternity, parking in handicap spots regularly",
-                                               "Published 2011, outdated—misses Apple Watch, AirPods, Services revenue ($78B by 2021), Tim Cook's post-Jobs success",
-                                               "Rated 4.6 with 89K reviews vs Musk's 4.6 with 67K—equal rating but Jobs reached broader audience (biography genre peak)"
-                                           ],
-                       "book2Strengths": [
-                                              "December 2008 near-death gripping—SpaceX 3 rocket failures, Tesla weeks from bankruptcy, divorce, invested last $40M personal funds",
-                                              "First-principles thinking revolutionary—questioned rocket costs from materials up, built Falcon 9 for $60M vs industry $400M",
-                                              "Fourth SpaceX launch success September 2008—NASA awarded $1.6B contract hours later, saved company from collapse",
-                                              "Published 2015, rated 4.6 with 67,000 reviews—400 pages covering PayPal/SpaceX/Tesla/SolarCity during most productive period",
-                                              "Vance got rare access—toured SpaceX factory, interviewed engineers anonymously, documented 100-hour work weeks culture"
-                                          ],
-                       "book2Weaknesses": [
-                                               "400 pages cover 4+ companies rushed—PayPal saga compressed, SolarCity barely explored compared to SpaceX/Tesla depth",
-                                               "Published 2015, massively outdated—misses Neuralink, Boring Company, Starlink, Twitter/X $44B acquisition and chaos",
-                                               "Vance less prestigious than Isaacson—tech journalist vs legendary biographer (Einstein, Franklin, Da Vinci) shows in narrative polish",
-                                               "Musk's 2016-2026 controversies unaddressed—SEC fraud charges, COVID denial, Twitter implosion complicates hero narrative retrospectively"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
-                                 "I want to put a ding in the universe.",
-                                 "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple.",
-                                 "Innovation distinguishes between a leader and a follower.",
-                                 "Real artists ship.",
-                                 "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
-                                 "It\u0027s really hard to design products by focus groups. A lot of times, people don\u0027t know what they want until you show it to them.",
-                                 "The people who are crazy enough to think they can change the world are the ones who do."
-                             ],
-                   "book2": [
-                                 "I think it\u0027s possible for ordinary people to choose to be extraordinary.",
-                                 "When something is important enough, you do it even if the odds are not in your favor.",
-                                 "Failure is an option here. If things are not failing, you are not innovating enough.",
-                                 "I could either watch it happen or be a part of it.",
-                                 "The first step is to establish that something is possible; then probability will occur.",
-                                 "People should pursue what they\u0027re passionate about. That will make them happier than pretty much anything else.",
-                                 "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it\u0027s not.",
-                                 "Some people don\u0027t like change, but you need to embrace change if the alternative is disaster."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "Learn from the most successful product designer in history",
-                                  "Understand how obsessive focus on user experience creates beloved products",
-                                  "See how one person can revolutionize six different industries",
-                                  "The Apple comeback story is the greatest business turnaround ever told",
-                                  "Get deep insights into design philosophy and simplicity",
-                                  "Essential reading for anyone in technology, product, or design"
-                              ],
-                    "book2": [
-                                  "Learn how to think from first principles and question everything",
-                                  "See how audacious goal-setting can bend reality (Mars, electric cars, reusable rockets)",
-                                  "The SpaceX story shows how to persist through impossible odds",
-                                  "Understand how to tackle humanity\u0027s biggest problems",
-                                  "Get inspired to think exponentially bigger about your goals",
-                                  "Essential for entrepreneurs who want to create world-changing companies"
-                              ]
-                },
-    "verdict": {
-                    "winner": "It Depends",
-                    "summary": "According to us, these biographies serve different purposes. Steve Jobs is the more polished, complete biography of a finished lifeâ€”perfect for understanding product design and company culture. Elon Musk is the more urgent, action-packed story of someone actively changing the worldâ€”perfect for understanding audacious execution. In our opinion, Jobs was the master of making technology beautiful and simple; Musk is the master of making the impossible possible. Both are essential entrepreneurs, but they optimized for different things.",
-                    "recommendation": "If you\u0027re in product, design, or building consumer technology, read Steve Jobs firstâ€”it\u0027s the definitive guide to creating products people love. If you\u0027re trying to solve hard technical problems or want to think bigger, read Elon Muskâ€”the first-principles thinking alone is worth it. The Jobs biography is more literary and complete; the Musk biography is more energizing and relevant to today\u0027s challenges. Ideally, read both: Jobs teaches you to make it beautiful, Musk teaches you to make it possible. Start with whichever entrepreneur\u0027s approach resonates more with your goals."
-                }
+  "slug": "steve-jobs-vs-elon-musk-biography",
+  "title": "Steve Jobs vs Elon Musk Biography: Head to Head Comparison",
+  "metaDescription": "Compare Steve Jobs vs Elon Musk. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "Steve Jobs",
+    "subtitle": "",
+    "author": "Walter Isaacson",
+    "isbn": "978-1451648539",
+    "publishedYear": 2011,
+    "pages": 656,
+    "rating": 4.6,
+    "ratingCount": 89000,
+    "price": 21,
+    "amazonUrl": "https://www.amazon.com/dp/1451648537?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
+    "description": "Based on more than forty interviews with Steve Jobs conducted over two yearsâ€”as well as interviews with more than 100 family members, friends, adversaries, competitors, and colleaguesâ€”Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing."
+  },
+  "book2": {
+    "title": "Elon Musk",
+    "subtitle": "Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "author": "Ashlee Vance",
+    "isbn": "978-0062301239",
+    "publishedYear": 2015,
+    "pages": 400,
+    "rating": 4.6,
+    "ratingCount": 67000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/006230123X?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062301239-L.jpg",
+    "description": "In the spirit of Steve Jobs and Moneyball, Elon Musk is both an illuminating and authorized look at the extraordinary life of one of Silicon Valley's most exciting, unpredictable, and ambitious entrepreneursâ€”a real-life Tony Starkâ€”and a fascinating exploration of the renewal of American invention and its new makers. Elon Musk spotlights the technology and vision of Elon Musk, the renowned entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, who sold one of his Internet companies, PayPal, for $1.5 billion."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Perfection, design, and creating beloved products",
+        "book2": "Impossible missions: Mars, electric cars, renewable energy"
+      },
+      {
+        "feature": "Subject's Approach",
+        "book1": "Obsessive focus on user experience and simplicity",
+        "book2": "First-principles thinking and solving humanity's biggest problems"
+      },
+      {
+        "feature": "Industries Transformed",
+        "book1": "6 industries: computers, movies, music, phones, tablets, publishing",
+        "book2": "3+ industries: payments, electric cars, space travel, solar"
+      },
+      {
+        "feature": "Biography Style",
+        "book1": "Comprehensive, authorized, conducted with Jobs before death",
+        "book2": "Investigative journalism with limited Musk cooperation"
+      },
+      {
+        "feature": "Author Background",
+        "book1": "Walter Isaacsonâ€”legendary biographer (Einstein, Franklin)",
+        "book2": "Ashlee Vanceâ€”tech journalist and writer"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding product design and company culture",
+        "book2": "Understanding audacious goal-setting and execution"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "656 pages",
+        "book2": "400 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2011 (after Jobs' death)",
+        "book2": "2015 (Musk still active)"
+      }
+    ],
+    "book1Strengths": [
+      "Jobs authorized 40+ interviews before 2011 death—Isaacson got unprecedented access to flaws ('I don't think I've been particularly nice')",
+      "The 1997 Apple return is legendary—97 days from bankruptcy, killed Newton/Cyberdog, launched Think Different, stock $3→$365 by 2011",
+      "iPod/iTunes disruption detailed—convinced music labels to sell songs $0.99 each, destroyed CD industry, revolutionized distribution",
+      "Published 2011, rated 4.6 with 89,000 reviews—656 pages covering 6 industries (computers/movies/music/phones/tablets/publishing)",
+      "Jony Ive partnership crystallized—'Simplicity is the ultimate sophistication,' aluminum unibody MacBook, iPhone's single button philosophy"
+    ],
+    "book1Weaknesses": [
+      "656 pages exhausting—Sculley betrayal, NeXT wilderness years, Pixar battles drag despite being historically important",
+      "Jobs' cruelty documented brutally—calling employees 'fucking idiots,' denying Lisa paternity, parking in handicap spots regularly",
+      "Published 2011, outdated—misses Apple Watch, AirPods, Services revenue ($78B by 2021), Tim Cook's post-Jobs success",
+      "Rated 4.6 with 89K reviews vs Musk's 4.6 with 67K—equal rating but Jobs reached broader audience (biography genre peak)"
+    ],
+    "book2Strengths": [
+      "December 2008 near-death gripping—SpaceX 3 rocket failures, Tesla weeks from bankruptcy, divorce, invested last $40M personal funds",
+      "First-principles thinking revolutionary—questioned rocket costs from materials up, built Falcon 9 for $60M vs industry $400M",
+      "Fourth SpaceX launch success September 2008—NASA awarded $1.6B contract hours later, saved company from collapse",
+      "Published 2015, rated 4.6 with 67,000 reviews—400 pages covering PayPal/SpaceX/Tesla/SolarCity during most productive period",
+      "Vance got rare access—toured SpaceX factory, interviewed engineers anonymously, documented 100-hour work weeks culture"
+    ],
+    "book2Weaknesses": [
+      "400 pages cover 4+ companies rushed—PayPal saga compressed, SolarCity barely explored compared to SpaceX/Tesla depth",
+      "Published 2015, massively outdated—misses Neuralink, Boring Company, Starlink, Twitter/X $44B acquisition and chaos",
+      "Vance less prestigious than Isaacson—tech journalist vs legendary biographer (Einstein, Franklin, Da Vinci) shows in narrative polish",
+      "Musk's 2016-2026 controversies unaddressed—SEC fraud charges, COVID denial, Twitter implosion complicates hero narrative retrospectively"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
+      "I want to put a ding in the universe.",
+      "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple.",
+      "Innovation distinguishes between a leader and a follower.",
+      "Real artists ship.",
+      "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them.",
+      "The people who are crazy enough to think they can change the world are the ones who do."
+    ],
+    "book2": [
+      "I think it's possible for ordinary people to choose to be extraordinary.",
+      "When something is important enough, you do it even if the odds are not in your favor.",
+      "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "I could either watch it happen or be a part of it.",
+      "The first step is to establish that something is possible; then probability will occur.",
+      "People should pursue what they're passionate about. That will make them happier than pretty much anything else.",
+      "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.",
+      "Some people don't like change, but you need to embrace change if the alternative is disaster."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Learn from the most successful product designer in history",
+      "Understand how obsessive focus on user experience creates beloved products",
+      "See how one person can revolutionize six different industries",
+      "The Apple comeback story is the greatest business turnaround ever told",
+      "Get deep insights into design philosophy and simplicity",
+      "Essential reading for anyone in technology, product, or design"
+    ],
+    "book2": [
+      "Learn how to think from first principles and question everything",
+      "See how audacious goal-setting can bend reality (Mars, electric cars, reusable rockets)",
+      "The SpaceX story shows how to persist through impossible odds",
+      "Understand how to tackle humanity's biggest problems",
+      "Get inspired to think exponentially bigger about your goals",
+      "Essential for entrepreneurs who want to create world-changing companies"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "According to us, these biographies serve different purposes. Steve Jobs is the more polished, complete biography of a finished lifeâ€”perfect for understanding product design and company culture. Elon Musk is the more urgent, action-packed story of someone actively changing the worldâ€”perfect for understanding audacious execution. In our opinion, Jobs was the master of making technology beautiful and simple; Musk is the master of making the impossible possible. Both are essential entrepreneurs, but they optimized for different things.",
+    "recommendation": "If you're in product, design, or building consumer technology, read Steve Jobs firstâ€”it's the definitive guide to creating products people love. If you're trying to solve hard technical problems or want to think bigger, read Elon Muskâ€”the first-principles thinking alone is worth it. The Jobs biography is more literary and complete; the Musk biography is more energizing and relevant to today's challenges. Ideally, read both: Jobs teaches you to make it beautiful, Musk teaches you to make it possible. Start with whichever entrepreneur's approach resonates more with your goals."
+  }
 }

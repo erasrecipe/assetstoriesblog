@@ -11,10 +11,10 @@
     "isbn": "978-0765382030",
     "publishedYear": 2008,
     "pages": 400,
-    "rating": 4.0,
+    "rating": 4,
     "ratingCount": 185000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780765382030?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780765382030-L.jpg",
     "description": "The Three-Body Problem is the first book in the Remembrance of Earth's Past trilogy and winner of the 2015 Hugo Award. Set against the backdrop of China's Cultural Revolution, it tells the story of humanity's first contact with an alien civilization. When scientists begin dying mysteriously, nanomaterials researcher Wang Miao is drawn into a secret military investigation. He discovers a virtual reality game called Three Body that holds the key to understanding an approaching alien invasion. Liu Cixin combines hard science with philosophical questions about civilization, morality, and humanity's place in the universe."
   },
@@ -28,7 +28,7 @@
     "rating": 4.2,
     "ratingCount": 142000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780553283686?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780553283686-L.jpg",
     "description": "Hyperion is the first book in the Hyperion Cantos series and winner of the 1990 Hugo Award. Set in the far future, seven pilgrims journey to the planet Hyperion to meet the Shrike, a mysterious creature that may hold the key to saving humanity. Each pilgrim tells their story, revealing why they've been chosen for this final journey. Structured like The Canterbury Tales, Hyperion weaves together multiple narratives spanning cyberpunk detectives, war stories, love affairs, and religious quests. Dan Simmons creates a rich, complex universe that explores time, consciousness, artificial intelligence, and what it means to be human."
   },

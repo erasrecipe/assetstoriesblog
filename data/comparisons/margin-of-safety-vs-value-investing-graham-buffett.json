@@ -13,8 +13,8 @@
     "pages": 224,
     "rating": 4.7,
     "ratingCount": 680,
-    "price": 2000.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MARGIN_OF_SAFETY",
+    "price": 2000,
+    "amazonUrl": "https://www.amazon.com/dp/9780887305108?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780887305108-L.jpg",
     "description": "Margin of Safety is a rare and legendary book on value investing by Seth Klarman, one of the world's most successful value investors. The book has been out of print for years and used copies sell for thousands of dollars. It emphasizes risk avoidance as the primary concern for investors, with value investing as the risk-averse approach. Klarman explains why most investors fail and how to avoid their mistakes through disciplined value investing."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 890,
     "price": 34.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_VALUE_INVESTING_GRAHAM_BUFFETT",
+    "amazonUrl": "https://www.amazon.com/dp/0470053301?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780471463399-L.jpg",
     "description": "Written by a team led by Columbia Business School professor Bruce Greenwald, this book explains value investing as taught by Benjamin Graham and Warren Buffett. It provides a systematic approach to finding undervalued stocks through three methods: net-net analysis, earnings power value, and franchise value. This comprehensive guide shows how to apply Graham's principles in modern markets."
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "unshakeable-vs-little-book-common-sense-investing",
   "title": "Unshakeable vs The Little Book of Common Sense Investing: Head to Head Comparison",
   "metaDescription": "Unshakeable vs Little Book of Common Sense Investing: Tony Robbins' guide vs Jack Bogle's index fund classic. Which investing book wins for beginners?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 5400,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_UNSHAKEABLE",
+    "amazonUrl": "https://www.amazon.com/dp/1501164603?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501164583-L.jpg",
     "description": "Tony Robbins returns with the sequel to MONEY Master the Game. After interviewing fifty of the world's greatest financial minds and penning the #1 New York Times bestseller Money: Master the Game, Tony Robbins returns with a step-by-step playbook, taking you on a journey to transform your financial life and accelerate your path to financial freedom."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 8900,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_COMMON_SENSE",
+    "amazonUrl": "https://www.amazon.com/dp/1119404507?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781119404507-L.jpg",
     "description": "The best-selling investing 'bible' offers new information, new insights, and new perspectives. The Little Book of Common Sense Investing is the classic guide to getting smart about the market. Legendary mutual fund pioneer John C. Bogle reveals his key to getting more out of investing: low-cost index funds."
   },

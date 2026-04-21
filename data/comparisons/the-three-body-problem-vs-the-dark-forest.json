@@ -11,10 +11,10 @@
     "isbn": "978-0765382030",
     "publishedYear": 2008,
     "pages": 400,
-    "rating": 4.0,
+    "rating": 4,
     "ratingCount": 185000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THREE_BODY",
+    "amazonUrl": "https://www.amazon.com/dp/9780765382030?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780765382030-L.jpg",
     "description": "Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 95000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_DARK_FOREST",
+    "amazonUrl": "https://www.amazon.com/dp/9780765386694?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780765386694-L.jpg",
     "description": "In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion—in just four centuries' time. The aliens' human collaborators may have been defeated, but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are totally exposed to the enemy. Only the human mind remains a secret. This is the motivation for the Wallfacer Project, a daring plan that grants four men enormous resources to design secret strategies, hidden through deceit and misdirection from Earth and Trisolaris alike."
   },

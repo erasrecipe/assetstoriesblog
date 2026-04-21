@@ -1,146 +1,146 @@
 ﻿{
-    "slug":  "measure-what-matters-vs-radical-focus",
-    "title":  "Measure What Matters vs Radical Focus: Head to Head Comparison",
-    "metaDescription":  "Compare Measure What Matters vs Radical Focus. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Business \u0026 Leadership",
-    "book1":  {
-                  "title":  "Measure What Matters",
-                  "subtitle":  "How Google, Bono, and the Gates Foundation Rock the World with OKRs",
-                  "author":  "John Doerr",
-                  "isbn":  "978-0525536222",
-                  "publishedYear":  2018,
-                  "pages":  320,
-                  "rating":  4.5,
-                  "ratingCount":  8900,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MEASURE_WHAT_MATTERS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780525536222-L.jpg",
-                  "description":  "In the fall of 1999, John Doerr met with the founders of a start-up whom he\u0027d just given $12.5 million, the biggest investment of his career. Larry Page and Sergey Brin had amazing technology, entrepreneurial energy, and sky-high ambitions, but no real business plan. For Google to change the world, they would have to learn to make tough choices on priorities while keeping their team on track. Doerr taught them about a proven approach to operating excellence: Objectives and Key Results (OKRs)."
-              },
-    "book2":  {
-                  "title":  "Radical Focus",
-                  "subtitle":  "Achieving Your Most Important Goals with Objectives and Key Results",
-                  "author":  "Christina Wodtke",
-                  "isbn":  "978-0996006088",
-                  "publishedYear":  2016,
-                  "pages":  150,
-                  "rating":  4.4,
-                  "ratingCount":  1200,
-                  "price":  14.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_RADICAL_FOCUS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780996006088-L.jpg",
-                  "description":  "Radical Focus is a must-read for anyone who wants to accomplish amazing things. The author pulls from her experience with technology companies to teach a practical approach to Objectives and Key Results (OKRs) that can work for any size company. The book uses a relatable fable about a struggling startup, then breaks down exactly how to implement OKRs in your organization."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "Comprehensive OKR methodology with real-world case studies from major companies",
-                                         "book2":  "Practical OKR implementation through a startup fable and step-by-step framework"
-                                     },
-                                     {
-                                         "feature":  "Core Approach",
-                                         "book1":  "Inspirational case studies and historical context of OKRs",
-                                         "book2":  "Actionable fable followed by tactical implementation guide"
-                                     },
-                                     {
-                                         "feature":  "Length",
-                                         "book1":  "320 pagesâ€”comprehensive and detailed",
-                                         "book2":  "150 pagesâ€”concise and immediately actionable"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Leaders wanting inspiration and proof that OKRs work at scale",
-                                         "book2":  "Teams needing a practical playbook to start OKRs immediately"
-                                     },
-                                     {
-                                         "feature":  "Examples",
-                                         "book1":  "Google, Intel, Bono\u0027s ONE campaign, Gates Foundation",
-                                         "book2":  "Fictional startup TeaBee, highly relatable small company struggles"
-                                     },
-                                     {
-                                         "feature":  "Implementation Detail",
-                                         "book1":  "Strategic overview with principles and philosophy",
-                                         "book2":  "Tactical checklist, meeting cadences, and week-by-week guidance"
-                                     },
-                                     {
-                                         "feature":  "Reading Time",
-                                         "book1":  "Longer read, multiple case studies",
-                                         "book2":  "Can finish in a few hours, instant implementation"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2018",
-                                         "book2":  "2016"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Doerr shows how OKRs scaled Google from 40 to 60,000 employees by aligning objectives across the company",
-                                              "The objectives and key results framework separates aspirational what from measurable how with clarity",
-                                              "Real case studies from Intel, Gates Foundation, and YouTube prove OKRs work beyond just tech startups",
-                                              "CFR conversations feedback and recognition system prevents OKRs from becoming soulless metrics exercises"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The Google worship can feel cult like rather than objectively analyzing when OKRs fail or don\u0027t fit",
-                                               "Some smaller companies find the quarterly OKR cycle too rigid for fast changing startup environments",
-                                               "Limited guidance on what to do when key results conflict or teams game the metrics"
-                                           ],
-                       "book2Strengths":  [
-                                              "The fable format following Hanna and Jack makes OKR implementation feel concrete through narrative",
-                                              "Narrowing to one company objective focuses teams instead of spreading thin across multiple priorities",
-                                              "The confidence voting and health metrics prevent teams from declaring victory on failing objectives",
-                                              "Practical templates and meeting structures give you exact formats to run your own OKR process"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The fictional story can feel contrived when pushing OKR lessons rather than organic character development",
-                                               "Less breadth than Measure What Matters since it focuses on single company implementation story",
-                                               "Some readers prefer pure nonfiction case studies over business fables for learning frameworks"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Ideas are easy. Execution is everything.",
-                                 "It almost doesn\u0027t matter what you know. It\u0027s what you can do with whatever you know or can acquire and actually accomplish that tends to be valued here.",
-                                 "OKRs surface your primary goals. They channel efforts and coordination. They link diverse operations, lending purpose and unity to the entire organization.",
-                                 "When people help choose a course of action, they are more likely to see it through.",
-                                 "An effective goal-setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts.",
-                                 "What matters is not how many ideas you have, but how many you make happen.",
-                                 "OKRs are not a silver bullet. They cannot substitute for sound judgment, strong leadership, or a creative workplace culture.",
-                                 "Goals may cause systematic problems in organizations due to narrowed focus, unethical behavior, increased risk taking, decreased cooperation, and decreased motivation."
-                             ],
-                   "book2":  [
-                                 "Without focus, you cannot say no.",
-                                 "The role of a leader is not to come up with all the great ideas. The role of a leader is to create an environment in which great ideas can happen.",
-                                 "Confidence is not a number, it\u0027s a conversation.",
-                                 "OKRs are a framework for having a conversation about what matters.",
-                                 "If you can\u0027t commit, you can\u0027t plan.",
-                                 "Saying yes to one thing means saying no to everything else.",
-                                 "Weekly check-ins are where the magic happens.",
-                                 "Your team needs to understand that priorities are more important than the plan."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Learn OKRs from the man who brought them to Google and Intel",
-                                  "Get inspired by case studies from the world\u0027s most successful organizations",
-                                  "Understand the strategic \u0027why\u0027 behind OKRs at a deep level",
-                                  "See how OKRs work in tech, nonprofits, and social movements",
-                                  "Learn about CFRs (Conversations, Feedback, Recognition) that complement OKRs",
-                                  "Perfect if you need to convince leadership that OKRs are worth adopting"
-                              ],
-                    "book2":  [
-                                  "Start implementing OKRs tomorrow with practical, step-by-step guidance",
-                                  "Learn through a relatable fable that shows common mistakes and how to fix them",
-                                  "Get specific meeting formats, agendas, and weekly check-in templates",
-                                  "Perfect for startups and small teams that need immediate action",
-                                  "Understand the confidence scoring system that makes OKRs actually useful",
-                                  "Finish the book in a few hours and have a complete implementation plan"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "It Depends",
-                    "summary":  "Measure What Matters dominates with 8,900 ratings at 4.5 versus 1,200 at 4.4—Doerr\u0027s VC credibility (brought OKRs to Google) and case studies (Google, Intel, Gates Foundation) inspire at scale. Radical Focus offers tactical fable (TeaBee startup) with confidence scoring, meeting agendas, weekly check-ins across 150 pages—implement Monday morning. Doerr for strategic \u0027why\u0027 and proof, Wodtke for practical \u0027how\u0027 and execution. Different purposes—inspiration versus implementation.",
-                    "recommendation":  "Read Radical Focus if you want immediate OKR implementation. You\u0027ll get TeaBee startup fable showing common mistakes, confidence scoring system for key results, specific meeting agendas and check-in formats, weekly rhythms, two-part structure (fable + manual), and 150 pages you can finish in one sitting then execute Monday. Perfect for startups and small teams needing action now. Read Measure What Matters if you need strategic depth and proof. You\u0027ll get Doerr\u0027s VC credibility (brought OKRs to Google in 1999), four OKR superpowers (Focus, Align, Track, Stretch), Google/Intel/Gates Foundation case studies, CFRs (Conversations, Feedback, Recognition), contributions from Larry Page and Bill Gates, and 320 pages inspiring transformation at scale. Perfect for convincing executives or understanding \u0027why.\u0027 Most teams starting OKRs? Choose Radical Focus (tactical, faster). Leading large organization or need buy-in? Choose Measure What Matters (authoritative, comprehensive). Ideally read both—Radical Focus for how, Measure What Matters for why."
-                }
+  "slug": "measure-what-matters-vs-radical-focus",
+  "title": "Measure What Matters vs Radical Focus: Head to Head Comparison",
+  "metaDescription": "Compare Measure What Matters vs Radical Focus. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "Measure What Matters",
+    "subtitle": "How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+    "author": "John Doerr",
+    "isbn": "978-0525536222",
+    "publishedYear": 2018,
+    "pages": 320,
+    "rating": 4.5,
+    "ratingCount": 8900,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/0525536221?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525536222-L.jpg",
+    "description": "In the fall of 1999, John Doerr met with the founders of a start-up whom he'd just given $12.5 million, the biggest investment of his career. Larry Page and Sergey Brin had amazing technology, entrepreneurial energy, and sky-high ambitions, but no real business plan. For Google to change the world, they would have to learn to make tough choices on priorities while keeping their team on track. Doerr taught them about a proven approach to operating excellence: Objectives and Key Results (OKRs)."
+  },
+  "book2": {
+    "title": "Radical Focus",
+    "subtitle": "Achieving Your Most Important Goals with Objectives and Key Results",
+    "author": "Christina Wodtke",
+    "isbn": "978-0996006088",
+    "publishedYear": 2016,
+    "pages": 150,
+    "rating": 4.4,
+    "ratingCount": 1200,
+    "price": 14.99,
+    "amazonUrl": "https://www.amazon.com/dp/0996006008?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780996006088-L.jpg",
+    "description": "Radical Focus is a must-read for anyone who wants to accomplish amazing things. The author pulls from her experience with technology companies to teach a practical approach to Objectives and Key Results (OKRs) that can work for any size company. The book uses a relatable fable about a struggling startup, then breaks down exactly how to implement OKRs in your organization."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Comprehensive OKR methodology with real-world case studies from major companies",
+        "book2": "Practical OKR implementation through a startup fable and step-by-step framework"
+      },
+      {
+        "feature": "Core Approach",
+        "book1": "Inspirational case studies and historical context of OKRs",
+        "book2": "Actionable fable followed by tactical implementation guide"
+      },
+      {
+        "feature": "Length",
+        "book1": "320 pagesâ€”comprehensive and detailed",
+        "book2": "150 pagesâ€”concise and immediately actionable"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Leaders wanting inspiration and proof that OKRs work at scale",
+        "book2": "Teams needing a practical playbook to start OKRs immediately"
+      },
+      {
+        "feature": "Examples",
+        "book1": "Google, Intel, Bono's ONE campaign, Gates Foundation",
+        "book2": "Fictional startup TeaBee, highly relatable small company struggles"
+      },
+      {
+        "feature": "Implementation Detail",
+        "book1": "Strategic overview with principles and philosophy",
+        "book2": "Tactical checklist, meeting cadences, and week-by-week guidance"
+      },
+      {
+        "feature": "Reading Time",
+        "book1": "Longer read, multiple case studies",
+        "book2": "Can finish in a few hours, instant implementation"
+      },
+      {
+        "feature": "Published",
+        "book1": "2018",
+        "book2": "2016"
+      }
+    ],
+    "book1Strengths": [
+      "Doerr shows how OKRs scaled Google from 40 to 60,000 employees by aligning objectives across the company",
+      "The objectives and key results framework separates aspirational what from measurable how with clarity",
+      "Real case studies from Intel, Gates Foundation, and YouTube prove OKRs work beyond just tech startups",
+      "CFR conversations feedback and recognition system prevents OKRs from becoming soulless metrics exercises"
+    ],
+    "book1Weaknesses": [
+      "The Google worship can feel cult like rather than objectively analyzing when OKRs fail or don't fit",
+      "Some smaller companies find the quarterly OKR cycle too rigid for fast changing startup environments",
+      "Limited guidance on what to do when key results conflict or teams game the metrics"
+    ],
+    "book2Strengths": [
+      "The fable format following Hanna and Jack makes OKR implementation feel concrete through narrative",
+      "Narrowing to one company objective focuses teams instead of spreading thin across multiple priorities",
+      "The confidence voting and health metrics prevent teams from declaring victory on failing objectives",
+      "Practical templates and meeting structures give you exact formats to run your own OKR process"
+    ],
+    "book2Weaknesses": [
+      "The fictional story can feel contrived when pushing OKR lessons rather than organic character development",
+      "Less breadth than Measure What Matters since it focuses on single company implementation story",
+      "Some readers prefer pure nonfiction case studies over business fables for learning frameworks"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Ideas are easy. Execution is everything.",
+      "It almost doesn't matter what you know. It's what you can do with whatever you know or can acquire and actually accomplish that tends to be valued here.",
+      "OKRs surface your primary goals. They channel efforts and coordination. They link diverse operations, lending purpose and unity to the entire organization.",
+      "When people help choose a course of action, they are more likely to see it through.",
+      "An effective goal-setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts.",
+      "What matters is not how many ideas you have, but how many you make happen.",
+      "OKRs are not a silver bullet. They cannot substitute for sound judgment, strong leadership, or a creative workplace culture.",
+      "Goals may cause systematic problems in organizations due to narrowed focus, unethical behavior, increased risk taking, decreased cooperation, and decreased motivation."
+    ],
+    "book2": [
+      "Without focus, you cannot say no.",
+      "The role of a leader is not to come up with all the great ideas. The role of a leader is to create an environment in which great ideas can happen.",
+      "Confidence is not a number, it's a conversation.",
+      "OKRs are a framework for having a conversation about what matters.",
+      "If you can't commit, you can't plan.",
+      "Saying yes to one thing means saying no to everything else.",
+      "Weekly check-ins are where the magic happens.",
+      "Your team needs to understand that priorities are more important than the plan."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Learn OKRs from the man who brought them to Google and Intel",
+      "Get inspired by case studies from the world's most successful organizations",
+      "Understand the strategic 'why' behind OKRs at a deep level",
+      "See how OKRs work in tech, nonprofits, and social movements",
+      "Learn about CFRs (Conversations, Feedback, Recognition) that complement OKRs",
+      "Perfect if you need to convince leadership that OKRs are worth adopting"
+    ],
+    "book2": [
+      "Start implementing OKRs tomorrow with practical, step-by-step guidance",
+      "Learn through a relatable fable that shows common mistakes and how to fix them",
+      "Get specific meeting formats, agendas, and weekly check-in templates",
+      "Perfect for startups and small teams that need immediate action",
+      "Understand the confidence scoring system that makes OKRs actually useful",
+      "Finish the book in a few hours and have a complete implementation plan"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Measure What Matters dominates with 8,900 ratings at 4.5 versus 1,200 at 4.4—Doerr's VC credibility (brought OKRs to Google) and case studies (Google, Intel, Gates Foundation) inspire at scale. Radical Focus offers tactical fable (TeaBee startup) with confidence scoring, meeting agendas, weekly check-ins across 150 pages—implement Monday morning. Doerr for strategic 'why' and proof, Wodtke for practical 'how' and execution. Different purposes—inspiration versus implementation.",
+    "recommendation": "Read Radical Focus if you want immediate OKR implementation. You'll get TeaBee startup fable showing common mistakes, confidence scoring system for key results, specific meeting agendas and check-in formats, weekly rhythms, two-part structure (fable + manual), and 150 pages you can finish in one sitting then execute Monday. Perfect for startups and small teams needing action now. Read Measure What Matters if you need strategic depth and proof. You'll get Doerr's VC credibility (brought OKRs to Google in 1999), four OKR superpowers (Focus, Align, Track, Stretch), Google/Intel/Gates Foundation case studies, CFRs (Conversations, Feedback, Recognition), contributions from Larry Page and Bill Gates, and 320 pages inspiring transformation at scale. Perfect for convincing executives or understanding 'why.' Most teams starting OKRs? Choose Radical Focus (tactical, faster). Leading large organization or need buy-in? Choose Measure What Matters (authoritative, comprehensive). Ideally read both—Radical Focus for how, Measure What Matters for why."
+  }
 }

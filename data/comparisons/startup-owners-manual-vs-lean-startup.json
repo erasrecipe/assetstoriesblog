@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 2400,
     "price": 29.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780984999309?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780984999309-L.jpg",
     "description": "The Startup Owner's Manual is Steve Blank's comprehensive guide to Customer Development, the methodology that inspired Lean Startup. The book provides step-by-step instructions for discovering and validating your business model. Blank presents detailed frameworks for customer discovery, customer validation, customer creation, and company building. At 608 pages, it's encyclopedic—covering web/mobile startups and physical channel startups separately. The book is a practical workbook with checklists, templates, and specific actions. It's dense and detailed, designed to be referenced throughout your startup journey. This is the textbook; Lean Startup is the manifesto."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 12500,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0307887898?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
     "description": "The Lean Startup introduced the world to build-measure-learn loops, minimum viable products (MVPs), and validated learning. Eric Ries adapted principles from lean manufacturing to startups, arguing that success comes from rapid experimentation, customer feedback, and iterative design. The book popularized concepts that revolutionized how startups are built. Ries emphasizes eliminating waste, learning what customers actually want, and pivoting based on evidence. Unlike The Startup Owner's Manual's detailed playbook, this is an accessible manifesto that changed startup culture. It's shorter, more philosophical, and focuses on principles over checklists. The book that launched the lean startup movement."
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "pre-suasion-vs-instant-influence",
   "title": "Pre-Suasion vs Instant Influence: Head to Head Comparison",
   "metaDescription": "Robert Cialdini's Pre-Suasion vs Michael Pantalon's Instant Influence—strategic priming vs tactical questioning. Which persuasion method works best?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 5100,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781501109805?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501109805-L.jpg",
     "description": "The author of Influence reveals that the secret to persuasion doesn't lie in the message itself, but in the key moment before that message is delivered. What you present first changes how people experience what you present next."
   },
@@ -28,19 +28,47 @@
     "rating": 4.3,
     "ratingCount": 680,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/006124189X?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780316128575-L.jpg",
     "description": "Based on motivational interviewing and used by clinical psychologist Michael Pantalon, this simple six-step method helps you influence anyone to do anything in six minutes or less by helping them discover their own motivation."
   },
   "comparison": {
     "table": [
-      {"feature": "Main Focus", "book1": "Strategic priming before persuasion", "book2": "Tactical six-question method"},
-      {"feature": "Author", "book1": "Robert Cialdini—godfather of influence", "book2": "Michael Pantalon—clinical psychologist"},
-      {"feature": "Core Concept", "book1": "Attention is influence—prime first", "book2": "Six questions to activate intrinsic motivation"},
-      {"feature": "Scope", "book1": "Broad—marketing, leadership, negotiations", "book2": "Narrow—one-on-one influence situations"},
-      {"feature": "Complexity", "book1": "Comprehensive at 464 pages", "book2": "Simple at 160 pages"},
-      {"feature": "Page Count", "book1": "464 pages", "book2": "160 pages"},
-      {"feature": "Published", "book1": "2016", "book2": "2011"}
+      {
+        "feature": "Main Focus",
+        "book1": "Strategic priming before persuasion",
+        "book2": "Tactical six-question method"
+      },
+      {
+        "feature": "Author",
+        "book1": "Robert Cialdini—godfather of influence",
+        "book2": "Michael Pantalon—clinical psychologist"
+      },
+      {
+        "feature": "Core Concept",
+        "book1": "Attention is influence—prime first",
+        "book2": "Six questions to activate intrinsic motivation"
+      },
+      {
+        "feature": "Scope",
+        "book1": "Broad—marketing, leadership, negotiations",
+        "book2": "Narrow—one-on-one influence situations"
+      },
+      {
+        "feature": "Complexity",
+        "book1": "Comprehensive at 464 pages",
+        "book2": "Simple at 160 pages"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "464 pages",
+        "book2": "160 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2016",
+        "book2": "2011"
+      }
     ],
     "book1Strengths": [
       "Written by Robert Cialdini, author of Influence (3 million copies sold). He's the godfather of influence psychology—Arizona State professor studying persuasion for 35+ years",

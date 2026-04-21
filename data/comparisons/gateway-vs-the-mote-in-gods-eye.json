@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "gateway-vs-the-mote-in-gods-eye",
   "title": "Gateway vs The Mote in God's Eye: Head to Head Comparison",
   "metaDescription": "Frederik Pohl's Gateway vs Niven & Pournelle's The Mote in God's Eye—which classic sci-fi first contact story is better? Expert comparison.",
@@ -11,10 +11,10 @@
     "isbn": "978-0345475831",
     "publishedYear": 1977,
     "pages": 313,
-    "rating": 4.0,
+    "rating": 4,
     "ratingCount": 52000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_GATEWAY",
+    "amazonUrl": "https://www.amazon.com/dp/9780345475831?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780345475831-L.jpg",
     "description": "Seeded among the stars are troves of valuable artifacts left behind by the Heechee, an enigmatic alien race. Robinette Broadhead, a desperate gambler, wins enough money to buy a ticket to Gateway—an asteroid outpost where the Heechee spacecraft are stored. The ships are pre-programmed to reach their destinations, but no one knows where they're going or what they'll find. Some return with incredible wealth. Some never return at all."
   },
@@ -28,7 +28,7 @@
     "rating": 4.2,
     "ratingCount": 35000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MOTE",
+    "amazonUrl": "https://www.amazon.com/dp/9780671741921?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780671741921-L.jpg",
     "description": "In the year 3016, humanity has colonized hundreds of worlds. But first contact with an alien species is about to change everything. An alien light sail ship enters human space from the Mote, a red giant star with a supergiant companion. What the crew of the spaceship finds in the Mote system is the most remarkable—and the most ominous—discovery in human history."
   },

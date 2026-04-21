@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "richest-man-babylon-vs-total-money-makeover",
   "title": "The Richest Man in Babylon vs The Total Money Makeover: Head to Head Comparison",
   "metaDescription": "Ancient parables vs debt snowball system: Clason's 1926 Babylon wisdom vs Ramsey's 7 Baby Steps. Which money book transforms your finances faster?",
@@ -13,8 +13,8 @@
     "pages": 194,
     "rating": 4.7,
     "ratingCount": 87000,
-    "price": 9.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_RICHEST_BABYLON",
+    "price": 9,
+    "amazonUrl": "https://www.amazon.com/dp/1505334021?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781505339192-L.jpg",
     "description": "George Clason presents timeless financial principles through entertaining parables set in ancient Babylon. The book teaches wealth-building fundamentals: pay yourself first, live below your means, make your money work for you, protect your wealth, own your home, ensure future income, and increase your earning ability. These simple principles have guided millions toward financial success for nearly a century."
   },
@@ -27,21 +27,53 @@
     "pages": 272,
     "rating": 4.7,
     "ratingCount": 52000,
-    "price": 16.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TOTAL_MONEY_MAKEOVER",
+    "price": 16,
+    "amazonUrl": "https://www.amazon.com/dp/0785289577?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781595555274-L.jpg",
     "description": "Dave Ramsey provides a step-by-step plan to get out of debt and build wealth. His famous Baby Steps system guides readers from saving $1,000 emergency fund through paying off all debt using the debt snowball method, building a full emergency fund, investing 15% for retirement, saving for kids' college, paying off the mortgage early, and finally building wealth and giving. The approach is behavioral-focused and intensely practical."
   },
   "comparison": {
     "table": [
-      {"feature": "Format", "book1": "Parables and stories from ancient Babylon", "book2": "Direct instruction with action steps"},
-      {"feature": "Core Principle", "book1": "Pay yourself first (save 10%)", "book2": "Debt snowball - eliminate debt first"},
-      {"feature": "Primary Focus", "book1": "Building wealth through saving and investing", "book2": "Getting out of debt and staying out"},
-      {"feature": "Actionability", "book1": "Timeless principles to apply yourself", "book2": "Exact 7-step system to follow"},
-      {"feature": "Best For", "book1": "Learning foundational money wisdom", "book2": "People drowning in consumer debt"},
-      {"feature": "Philosophy", "book1": "Universal truths that never change", "book2": "Behavior modification and discipline"},
-      {"feature": "Page Count", "book1": "194 pages", "book2": "272 pages"},
-      {"feature": "Published", "book1": "1926 (nearly 100 years old)", "book2": "2003"}
+      {
+        "feature": "Format",
+        "book1": "Parables and stories from ancient Babylon",
+        "book2": "Direct instruction with action steps"
+      },
+      {
+        "feature": "Core Principle",
+        "book1": "Pay yourself first (save 10%)",
+        "book2": "Debt snowball - eliminate debt first"
+      },
+      {
+        "feature": "Primary Focus",
+        "book1": "Building wealth through saving and investing",
+        "book2": "Getting out of debt and staying out"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Timeless principles to apply yourself",
+        "book2": "Exact 7-step system to follow"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Learning foundational money wisdom",
+        "book2": "People drowning in consumer debt"
+      },
+      {
+        "feature": "Philosophy",
+        "book1": "Universal truths that never change",
+        "book2": "Behavior modification and discipline"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "194 pages",
+        "book2": "272 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "1926 (nearly 100 years old)",
+        "book2": "2003"
+      }
     ],
     "book1Strengths": [
       "Published 1926, still #1 recommended personal finance book. Seven Cures for a Lean Purse (pay yourself first, control expenditures, make gold multiply) proven for 100 years across every economy",

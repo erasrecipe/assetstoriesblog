@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "the-alchemist-vs-siddhartha",
   "title": "The Alchemist vs Siddhartha: Head to Head Comparison",
   "metaDescription": "Compare Paulo Coelho's The Alchemist vs Hermann Hesse's Siddhartha. Which spiritual journey will inspire your own quest for meaning and purpose?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 245000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THE_ALCHEMIST",
+    "amazonUrl": "https://www.amazon.com/dp/0062315007?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
     "description": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different-and far more satisfying-than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 78000,
     "price": 13.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SIDDHARTHA",
+    "amazonUrl": "https://www.amazon.com/dp/9780553208849?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780553208849-L.jpg",
     "description": "Hermann Hesse's classic novel has delighted, inspired, and influenced generations of readers, writers, and thinkers. In this story of a wealthy Indian Brahmin who casts off a life of privilege to seek spiritual fulfillment, Hesse synthesizes disparate philosophies-Eastern religions, Jungian archetypes, Western individualism-into a unique vision of life as art."
   },

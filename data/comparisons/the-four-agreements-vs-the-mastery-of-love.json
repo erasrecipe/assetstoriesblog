@@ -1,150 +1,150 @@
 ﻿{
-    "slug":  "the-four-agreements-vs-the-mastery-of-love",
-    "title":  "The Four Agreements vs The Mastery of Love: Head to Head Comparison",
-    "metaDescription":  "Compare Don Miguel Ruiz\u0027s The Four Agreements vs The Mastery of Love. Two Toltec wisdom classics - which transformative guide to freedom should you read first?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Self-Help \u0026 Personal Development",
-    "book1":  {
-                  "title":  "The Four Agreements",
-                  "subtitle":  "A Practical Guide to Personal Freedom",
-                  "author":  "Don Miguel Ruiz",
-                  "isbn":  "978-1878424310",
-                  "publishedYear":  1997,
-                  "pages":  160,
-                  "rating":  4.7,
-                  "ratingCount":  98000,
-                  "price":  12.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_FOUR_AGREEMENTS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781878424310-L.jpg",
-                  "description":  "In The Four Agreements, don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. The Four Agreements are: Be Impeccable With Your Word, Don\u0027t Take Anything Personally, Don\u0027t Make Assumptions, and Always Do Your Best."
-              },
-    "book2":  {
-                  "title":  "The Mastery of Love",
-                  "subtitle":  "A Practical Guide to the Art of Relationship",
-                  "author":  "Don Miguel Ruiz",
-                  "isbn":  "978-1878424457",
-                  "publishedYear":  1999,
-                  "pages":  192,
-                  "rating":  4.6,
-                  "ratingCount":  32000,
-                  "price":  13.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MASTERY_OF_LOVE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781878424457-L.jpg",
-                  "description":  "In The Mastery of Love, don Miguel Ruiz illuminates the fear-based beliefs and assumptions that undermine love and lead to suffering and drama in our relationships. Using insightful stories to bring his message to life, Ruiz shows us how to heal our emotional wounds, recover the freedom and joy that are our birthright, and restore the spirit of playfulness that is vital to loving relationships."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Publication Order",
-                                         "book1":  "First (1997) - foundation",
-                                         "book2":  "Second (1999) - builds on principles"
-                                     },
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "Personal freedom and self-mastery",
-                                         "book2":  "Love and relationships"
-                                     },
-                                     {
-                                         "feature":  "Core Teaching",
-                                         "book1":  "Four agreements for living",
-                                         "book2":  "Understanding and practicing unconditional love"
-                                     },
-                                     {
-                                         "feature":  "Scope",
-                                         "book1":  "Universal principles for all life areas",
-                                         "book2":  "Specifically focused on relationships"
-                                     },
-                                     {
-                                         "feature":  "Practicality",
-                                         "book1":  "Simple, memorable four agreements",
-                                         "book2":  "Deeper psychological exploration"
-                                     },
-                                     {
-                                         "feature":  "Accessibility",
-                                         "book1":  "Extremely simple and direct",
-                                         "book2":  "Requires more reflection and depth"
-                                     },
-                                     {
-                                         "feature":  "Length",
-                                         "book1":  "160 pages (quick read)",
-                                         "book2":  "192 pages (slightly longer)"
-                                     },
-                                     {
-                                         "feature":  "Target Transformation",
-                                         "book1":  "Breaking domestication and self-judgment",
-                                         "book2":  "Healing wounds and loving authentically"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The four simple agreements create memorable framework you can actually remember and apply daily",
-                                              "Be impeccable with your word resonates as foundation for integrity in all relationships",
-                                              "At 138 pages the brevity makes this accessible without overwhelming spiritual seekers",
-                                              "Ruiz draws from Toltec wisdom offering alternative to Western self help approaches",
-                                              "The agreements work across contexts from business to family to personal growth",
-                                              "The concept of domestication explains how society programs limiting beliefs clearly"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The simplicity can feel too basic for readers wanting deeper psychological frameworks",
-                                               "Some Toltec spiritual concepts feel appropriated without sufficient cultural context",
-                                               "The agreements sound easy but implementing them proves far harder than book suggests",
-                                               "Ruiz writing style repeats core concepts making thin book feel padded at times"
-                                           ],
-                       "book2Strengths":  [
-                                              "Mastery of Love applies Four Agreements specifically to romantic relationships deeply",
-                                              "The concept of love as addiction versus unconditional love reframes relationship dynamics",
-                                              "Ruiz explains how childhood wounds create relationship patterns with compassion not blame",
-                                              "At 209 pages this provides more depth than Four Agreements while staying accessible",
-                                              "The book addresses both healing yourself and choosing healthy partners practically",
-                                              "The metaphor of the magical kitchen illustrates self love concept memorably"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The idealistic view of unconditional love can feel unrealistic for actual human relationships",
-                                               "Some readers find the spiritual framing too woo for practical relationship advice",
-                                               "The book assumes both partners commit to growth which rarely happens simultaneously",
-                                               "Less broadly applicable than Four Agreements making this more niche audience"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Be impeccable with your word. Speak with integrity. Say only what you mean.",
-                                 "Don\u0027t take anything personally. Nothing others do is because of you.",
-                                 "Don\u0027t make assumptions. Find the courage to ask questions and express what you really want.",
-                                 "Always do your best. Your best is going to change from moment to moment.",
-                                 "Death is the teacher that shows you how to be alive.",
-                                 "You are never responsible for the actions of others; you are only responsible for you."
-                             ],
-                   "book2":  [
-                                 "You don\u0027t need anyone\u0027s love to be happy. You can be happy just by loving.",
-                                 "The relationship you have with yourself is the most important relationship you will ever have.",
-                                 "If you base your happiness on what someone else does, you are making that person responsible for your happiness.",
-                                 "When you love yourself, you don\u0027t need anyone to love you.",
-                                 "The only way to master love is to practice love.",
-                                 "True love has no conditions. Love is giving, not taking."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want simple, powerful principles for all areas of life",
-                                  "You need to break free from self-limiting beliefs",
-                                  "You take things too personally and it\u0027s ruining your peace",
-                                  "You want practical wisdom you can apply immediately",
-                                  "You make too many assumptions and it causes problems",
-                                  "You want a short, transformative book (160 pages)",
-                                  "You need universal life principles, not just relationship advice"
-                              ],
-                    "book2":  [
-                                  "You\u0027re struggling in your romantic relationships",
-                                  "You need to understand self-love before loving others",
-                                  "You seek external validation and want to stop",
-                                  "You want deeper understanding of why relationships fail",
-                                  "You\u0027re ready to heal emotional wounds from past relationships",
-                                  "You want to practice unconditional vs conditional love",
-                                  "You need help understanding fear-based relationship patterns"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Four Agreements",
-                    "summary":  "In our opinion, The Four Agreements wins as the essential starting point because it provides universal principles that apply to all of life, not just relationships. It\u0027s simpler, more memorable, and has transformed millions of lives. The Mastery of Love is excellent for diving deeper into relationships specifically, but you\u0027ll benefit more from it after internalizing the Four Agreements. That said, if relationships are your primary struggle, Mastery of Love could be more immediately impactful.",
-                    "recommendation":  "We recommend reading The Four Agreements first. It\u0027s shorter, simpler, and gives you the foundation of Toltec wisdom. The four agreements will transform how you move through the world. Once you\u0027ve internalized those principles, read The Mastery of Love to understand how they specifically apply to relationships and self-love. The combination is powerful: Four Agreements teaches you how to live with personal freedom, and Mastery of Love teaches you how to love without fear. Both are essential Don Miguel Ruiz books. If you only read one, choose The Four Agreements for universal application. But if relationships are your biggest struggle, you might find Mastery of Love more immediately life-changing. Ideally, read both—they\u0027re short books that pack incredible wisdom."
-                }
+  "slug": "the-four-agreements-vs-the-mastery-of-love",
+  "title": "The Four Agreements vs The Mastery of Love: Head to Head Comparison",
+  "metaDescription": "Compare Don Miguel Ruiz's The Four Agreements vs The Mastery of Love. Two Toltec wisdom classics - which transformative guide to freedom should you read first?",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "The Four Agreements",
+    "subtitle": "A Practical Guide to Personal Freedom",
+    "author": "Don Miguel Ruiz",
+    "isbn": "978-1878424310",
+    "publishedYear": 1997,
+    "pages": 160,
+    "rating": 4.7,
+    "ratingCount": 98000,
+    "price": 12.99,
+    "amazonUrl": "https://www.amazon.com/dp/1569253106?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781878424310-L.jpg",
+    "description": "In The Four Agreements, don Miguel Ruiz reveals the source of self-limiting beliefs that rob us of joy and create needless suffering. Based on ancient Toltec wisdom, The Four Agreements offer a powerful code of conduct that can rapidly transform our lives to a new experience of freedom, true happiness, and love. The Four Agreements are: Be Impeccable With Your Word, Don't Take Anything Personally, Don't Make Assumptions, and Always Do Your Best."
+  },
+  "book2": {
+    "title": "The Mastery of Love",
+    "subtitle": "A Practical Guide to the Art of Relationship",
+    "author": "Don Miguel Ruiz",
+    "isbn": "978-1878424457",
+    "publishedYear": 1999,
+    "pages": 192,
+    "rating": 4.6,
+    "ratingCount": 32000,
+    "price": 13.99,
+    "amazonUrl": "https://www.amazon.com/dp/014312417X?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781878424457-L.jpg",
+    "description": "In The Mastery of Love, don Miguel Ruiz illuminates the fear-based beliefs and assumptions that undermine love and lead to suffering and drama in our relationships. Using insightful stories to bring his message to life, Ruiz shows us how to heal our emotional wounds, recover the freedom and joy that are our birthright, and restore the spirit of playfulness that is vital to loving relationships."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Publication Order",
+        "book1": "First (1997) - foundation",
+        "book2": "Second (1999) - builds on principles"
+      },
+      {
+        "feature": "Main Focus",
+        "book1": "Personal freedom and self-mastery",
+        "book2": "Love and relationships"
+      },
+      {
+        "feature": "Core Teaching",
+        "book1": "Four agreements for living",
+        "book2": "Understanding and practicing unconditional love"
+      },
+      {
+        "feature": "Scope",
+        "book1": "Universal principles for all life areas",
+        "book2": "Specifically focused on relationships"
+      },
+      {
+        "feature": "Practicality",
+        "book1": "Simple, memorable four agreements",
+        "book2": "Deeper psychological exploration"
+      },
+      {
+        "feature": "Accessibility",
+        "book1": "Extremely simple and direct",
+        "book2": "Requires more reflection and depth"
+      },
+      {
+        "feature": "Length",
+        "book1": "160 pages (quick read)",
+        "book2": "192 pages (slightly longer)"
+      },
+      {
+        "feature": "Target Transformation",
+        "book1": "Breaking domestication and self-judgment",
+        "book2": "Healing wounds and loving authentically"
+      }
+    ],
+    "book1Strengths": [
+      "The four simple agreements create memorable framework you can actually remember and apply daily",
+      "Be impeccable with your word resonates as foundation for integrity in all relationships",
+      "At 138 pages the brevity makes this accessible without overwhelming spiritual seekers",
+      "Ruiz draws from Toltec wisdom offering alternative to Western self help approaches",
+      "The agreements work across contexts from business to family to personal growth",
+      "The concept of domestication explains how society programs limiting beliefs clearly"
+    ],
+    "book1Weaknesses": [
+      "The simplicity can feel too basic for readers wanting deeper psychological frameworks",
+      "Some Toltec spiritual concepts feel appropriated without sufficient cultural context",
+      "The agreements sound easy but implementing them proves far harder than book suggests",
+      "Ruiz writing style repeats core concepts making thin book feel padded at times"
+    ],
+    "book2Strengths": [
+      "Mastery of Love applies Four Agreements specifically to romantic relationships deeply",
+      "The concept of love as addiction versus unconditional love reframes relationship dynamics",
+      "Ruiz explains how childhood wounds create relationship patterns with compassion not blame",
+      "At 209 pages this provides more depth than Four Agreements while staying accessible",
+      "The book addresses both healing yourself and choosing healthy partners practically",
+      "The metaphor of the magical kitchen illustrates self love concept memorably"
+    ],
+    "book2Weaknesses": [
+      "The idealistic view of unconditional love can feel unrealistic for actual human relationships",
+      "Some readers find the spiritual framing too woo for practical relationship advice",
+      "The book assumes both partners commit to growth which rarely happens simultaneously",
+      "Less broadly applicable than Four Agreements making this more niche audience"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Be impeccable with your word. Speak with integrity. Say only what you mean.",
+      "Don't take anything personally. Nothing others do is because of you.",
+      "Don't make assumptions. Find the courage to ask questions and express what you really want.",
+      "Always do your best. Your best is going to change from moment to moment.",
+      "Death is the teacher that shows you how to be alive.",
+      "You are never responsible for the actions of others; you are only responsible for you."
+    ],
+    "book2": [
+      "You don't need anyone's love to be happy. You can be happy just by loving.",
+      "The relationship you have with yourself is the most important relationship you will ever have.",
+      "If you base your happiness on what someone else does, you are making that person responsible for your happiness.",
+      "When you love yourself, you don't need anyone to love you.",
+      "The only way to master love is to practice love.",
+      "True love has no conditions. Love is giving, not taking."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want simple, powerful principles for all areas of life",
+      "You need to break free from self-limiting beliefs",
+      "You take things too personally and it's ruining your peace",
+      "You want practical wisdom you can apply immediately",
+      "You make too many assumptions and it causes problems",
+      "You want a short, transformative book (160 pages)",
+      "You need universal life principles, not just relationship advice"
+    ],
+    "book2": [
+      "You're struggling in your romantic relationships",
+      "You need to understand self-love before loving others",
+      "You seek external validation and want to stop",
+      "You want deeper understanding of why relationships fail",
+      "You're ready to heal emotional wounds from past relationships",
+      "You want to practice unconditional vs conditional love",
+      "You need help understanding fear-based relationship patterns"
+    ]
+  },
+  "verdict": {
+    "winner": "The Four Agreements",
+    "summary": "In our opinion, The Four Agreements wins as the essential starting point because it provides universal principles that apply to all of life, not just relationships. It's simpler, more memorable, and has transformed millions of lives. The Mastery of Love is excellent for diving deeper into relationships specifically, but you'll benefit more from it after internalizing the Four Agreements. That said, if relationships are your primary struggle, Mastery of Love could be more immediately impactful.",
+    "recommendation": "We recommend reading The Four Agreements first. It's shorter, simpler, and gives you the foundation of Toltec wisdom. The four agreements will transform how you move through the world. Once you've internalized those principles, read The Mastery of Love to understand how they specifically apply to relationships and self-love. The combination is powerful: Four Agreements teaches you how to live with personal freedom, and Mastery of Love teaches you how to love without fear. Both are essential Don Miguel Ruiz books. If you only read one, choose The Four Agreements for universal application. But if relationships are your biggest struggle, you might find Mastery of Love more immediately life-changing. Ideally, read both—they're short books that pack incredible wisdom."
+  }
 }

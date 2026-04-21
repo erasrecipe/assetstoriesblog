@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "grit-vs-mindset",
   "title": "Grit vs Mindset: Head to Head Comparison",
   "metaDescription": "Angela Duckworth's Grit vs Carol Dweck's Mindset—passion + perseverance vs growth mindset. Which psychology of success book should you read first?",
@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 320000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/1505511104?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501111112-L.jpg",
     "description": "Angela Duckworth, MacArthur Genius Grant psychologist, shows that outstanding achievement comes from grit—passion and perseverance for long-term goals—more than talent. Her research on West Point cadets, National Spelling Bee champions, and high achievers proves that grit predicts success better than IQ. Grit = Talent × Effort (skill), then Skill × Effort = Achievement (effort counts twice). The book explores how to develop grit through interest cultivation, deliberate practice, purpose connection, and growth mindset hope."
   },
@@ -28,7 +28,7 @@
     "rating": 4.2,
     "ratingCount": 550000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0345472322?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg",
     "description": "Carol Dweck, Stanford psychologist with decades of research, discovered that success depends on mindset. People with a fixed mindset believe abilities are unchangeable—you're either smart or you're not. People with a growth mindset believe abilities develop through effort—challenges are opportunities, not threats. Growth mindset people embrace learning, persist through setbacks, and achieve more. The book shows how to shift from fixed to growth mindset in learning, relationships, parenting, business, and sports."
   },

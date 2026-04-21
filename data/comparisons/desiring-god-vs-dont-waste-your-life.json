@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 8500,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781601423108?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781601423108-L.jpg",
     "description": "Desiring God presents John Piper's theology of Christian Hedonism—the idea that God is most glorified in us when we are most satisfied in Him. Piper argues that pursuing joy in God is not optional or selfish but the very essence of worship. The book explores how delighting in God transforms everything: worship, love, Scripture, prayer, money, marriage, and missions. Piper uses Scripture extensively to show that God commands us to be happy in Him. This theological framework has influenced millions and sparked the Desiring God ministry. It's Piper's foundational work explaining his life philosophy and ministry vision."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 6200,
     "price": 13.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781433537455?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781433537455-L.jpg",
     "description": "Don't Waste Your Life is John Piper's passionate call to live for something greater than comfort and self-fulfillment. The book challenges the American dream of safety, prosperity, and retirement, arguing that life is too short and eternity too long to waste on trivial pursuits. Piper urges readers to make their lives count for God's glory and the advance of the gospel. The book is more practical and urgent than Desiring God, addressing career choices, risk, suffering, and legacy. It's shorter, more accessible, and designed to wake people up to purpose. The message is clear: live dangerously for Christ or waste the gift of life."
   },
@@ -120,7 +120,7 @@
       "Life is war. That's not all it is. But it is always that.",
       "Caring for the poor is one way to show that we do not waste our lives.",
       "The greatest enemy of hunger for God is not poison but apple pie."
-  ]
+    ]
   },
   "whyRead": {
     "book1": [

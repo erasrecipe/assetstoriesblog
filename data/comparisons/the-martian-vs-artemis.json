@@ -1,148 +1,148 @@
 ﻿{
-    "slug":  "the-martian-vs-artemis",
-    "title":  "The Martian vs Artemis: Head to Head Comparison",
-    "metaDescription":  "Andy Weir\u0027s The Martian vs Artemis—which sci-fi adventure is better? Complete comparison of survival on Mars vs heist on the Moon.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "The Martian",
-                  "subtitle":  "",
-                  "author":  "Andy Weir",
-                  "isbn":  "978-0553418026",
-                  "publishedYear":  2011,
-                  "pages":  369,
-                  "rating":  4.7,
-                  "ratingCount":  525000,
-                  "price":  9.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_THE_MARTIAN",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780553418026-L.jpg",
-                  "description":  "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he\u0027s sure he\u0027ll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he\u0027s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. But Mark isn\u0027t ready to give up yet."
-              },
-    "book2":  {
-                  "title":  "Artemis",
-                  "subtitle":  "",
-                  "author":  "Andy Weir",
-                  "isbn":  "978-0553448122",
-                  "publishedYear":  2017,
-                  "pages":  305,
-                  "rating":  3.9,
-                  "ratingCount":  145000,
-                  "price":  14.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_ARTEMIS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780553448122-L.jpg",
-                  "description":  "Jazz Bashara is a criminal. Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you\u0027re not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you\u0027ve got debts to pay and your job as a porter barely covers the rent. Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Setting",
-                                         "book1":  "Mars—survival against nature",
-                                         "book2":  "Moon city Artemis—heist and intrigue"
-                                     },
-                                     {
-                                         "feature":  "Protagonist",
-                                         "book1":  "Mark Watney—optimistic engineer",
-                                         "book2":  "Jazz Bashara—cynical smuggler"
-                                     },
-                                     {
-                                         "feature":  "Plot Type",
-                                         "book1":  "Survival story, problem-solving",
-                                         "book2":  "Heist thriller with action"
-                                     },
-                                     {
-                                         "feature":  "Tone",
-                                         "book1":  "Inspiring, uplifting, hopeful",
-                                         "book2":  "Darker, more cynical"
-                                     },
-                                     {
-                                         "feature":  "Science",
-                                         "book1":  "Hard science—survival engineering",
-                                         "book2":  "Hard science—economics, welding, chemistry"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "525,000 reviews—massive hit",
-                                         "book2":  "145,000 reviews—less popular"
-                                     },
-                                     {
-                                         "feature":  "Ratings",
-                                         "book1":  "4.7 (one of highest-rated sci-fi)",
-                                         "book2":  "3.9 (disappointing to many fans)"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "369 pages",
-                                         "book2":  "305 pages (shorter)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Watney solving survival problems with science and humor creates irresistible MacGyver in space",
-                                              "The log entry format makes complex orbital mechanics accessible to general readers brilliantly",
-                                              "At 369 pages the pacing never drags as each disaster leads to new ingenious solution",
-                                              "Weir\u0027s science accuracy impresses NASA while remaining entertaining not textbook dry throughout",
-                                              "The optimistic tone about human ingenuity feels refreshing in cynical times uplifting readers",
-                                              "Watney\u0027s constant wisecracks keep dark survival scenario from becoming depressing or grim"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The one note snarky humor gets exhausting for readers wanting emotional depth beyond jokes",
-                                               "Female characters feel thinly developed serving mainly functional plot roles unfortunately",
-                                               "Some readers find relentless problem solving repetitive despite cleverness of solutions",
-                                               "The happy ending feels inevitable robbing some tension from survival stakes overall"
-                                           ],
-                       "book2Strengths":  [
-                                              "Jazz as lunar city smuggler brings noir detective energy to hard science fiction fresh",
-                                              "The moon colony Artemis feels lived in with economic systems and social classes detailed",
-                                              "Weir explores lunar tourism industry and gig economy extrapolated to space realistically",
-                                              "At 305 pages the heist plot moves quickly without Martian survival procedural pacing",
-                                              "The diverse cast with Saudi Arabian protagonist offers fresh perspective in sci fi",
-                                              "The first person narration gives Jazz distinct voice beyond Watney clone attempts"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "Jazz personality feels forced with try hard edginess lacking Watney\u0027s natural charm",
-                                               "The heist mechanics require conveniences and lucky breaks straining credibility badly",
-                                               "Less innovative than Martian making this feel competent but derivative follow up",
-                                               "Some readers find Jazz\u0027s sex jokes and attitude grating rather than endearing"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "I\u0027m pretty much fucked. That\u0027s my considered opinion. Fucked.",
-                                 "I\u0027m going to have to science the shit out of this.",
-                                 "At some point, everything\u0027s gonna go south on you... everything\u0027s going to go south and you\u0027re going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.",
-                                 "Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped.",
-                                 "I admit it\u0027s fatally dangerous, but consider this: I\u0027d get to fly around like Iron Man.",
-                                 "I guarantee you that at some point, everything\u0027s going to go south on you and you\u0027re going to say, \u0027This is it. This is how I end.\u0027 Now you can either accept that, or you can get to work."
-                             ],
-                   "book2":  [
-                                 "If I had a trophy for every stupid thing I\u0027d done, I\u0027d be the NASA of stupidity.",
-                                 "The moon is a harsh mistress. Actually, she\u0027s not harsh. She\u0027ll kill you instantly if you screw up.",
-                                 "There\u0027s really only one rule in low-gravity welding: Don\u0027t screw up.",
-                                 "Economics is a bitch when you\u0027re on the moon.",
-                                 "I am not a criminal. I\u0027m a porter. Well, okay. I\u0027m a smuggler.",
-                                 "Life on Artemis is expensive. Like, really expensive."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Experience one of the highest-rated sci-fi books ever",
-                                  "Mark Watney is one of fiction\u0027s most lovable protagonists",
-                                  "The survival problem-solving is endlessly engaging",
-                                  "Perfect balance of humor, science, and tension",
-                                  "Accessible to both sci-fi fans and general readers",
-                                  "Inspiring message about human ingenuity and perseverance"
-                              ],
-                    "book2":  [
-                                  "Get Andy Weir\u0027s take on lunar colonization",
-                                  "The heist plot provides variety from survival stories",
-                                  "Artemis city is a well-realized lunar setting",
-                                  "Shorter at 305 pages for a quicker read",
-                                  "Weir\u0027s hard science applied to moon economics",
-                                  "Female protagonist for readers wanting that perspective"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Martian",
-                    "summary":  "The Martian wins by miles with 4.7 stars and 525,000 reviews versus Artemis\u0027s 3.9 and 145,000 proving Weir peaked early. Watney\u0027s potato farming on Mars created more tension than Jazz\u0027s entire lunar heist. The difference isn\u0027t subtle. Watney feels like real person you\u0027d grab beers with while Jazz feels like Weir trying too hard to write different character. Martian transcends genre while Artemis barely registers.",
-                    "recommendation":  "Start with The Martian absolutely. It\u0027s rare science fiction that transcends the genre as non sci fi readers devoured it equally. The hydrazine chemistry feels like watching brilliant friend solve impossible puzzle and Watney\u0027s log entries balance technical precision with genuine humor. Published 2011 it sparked Matt Damon film and influenced hard sci fi generation. Skip Artemis unless you\u0027re completist as it disappoints offering competent moon heist without Martian\u0027s magic. The 525,000 reviews versus 145,000 tells the story clearly."
-                }
+  "slug": "the-martian-vs-artemis",
+  "title": "The Martian vs Artemis: Head to Head Comparison",
+  "metaDescription": "Andy Weir's The Martian vs Artemis—which sci-fi adventure is better? Complete comparison of survival on Mars vs heist on the Moon.",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Martian",
+    "subtitle": "",
+    "author": "Andy Weir",
+    "isbn": "978-0553418026",
+    "publishedYear": 2011,
+    "pages": 369,
+    "rating": 4.7,
+    "ratingCount": 525000,
+    "price": 9.99,
+    "amazonUrl": "https://www.amazon.com/dp/0553418025?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553418026-L.jpg",
+    "description": "Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he's sure he'll be the first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he's alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. But Mark isn't ready to give up yet."
+  },
+  "book2": {
+    "title": "Artemis",
+    "subtitle": "",
+    "author": "Andy Weir",
+    "isbn": "978-0553448122",
+    "publishedYear": 2017,
+    "pages": 305,
+    "rating": 3.9,
+    "ratingCount": 145000,
+    "price": 14.99,
+    "amazonUrl": "https://www.amazon.com/dp/0553418076?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780553448122-L.jpg",
+    "description": "Jazz Bashara is a criminal. Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent. Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Setting",
+        "book1": "Mars—survival against nature",
+        "book2": "Moon city Artemis—heist and intrigue"
+      },
+      {
+        "feature": "Protagonist",
+        "book1": "Mark Watney—optimistic engineer",
+        "book2": "Jazz Bashara—cynical smuggler"
+      },
+      {
+        "feature": "Plot Type",
+        "book1": "Survival story, problem-solving",
+        "book2": "Heist thriller with action"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Inspiring, uplifting, hopeful",
+        "book2": "Darker, more cynical"
+      },
+      {
+        "feature": "Science",
+        "book1": "Hard science—survival engineering",
+        "book2": "Hard science—economics, welding, chemistry"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "525,000 reviews—massive hit",
+        "book2": "145,000 reviews—less popular"
+      },
+      {
+        "feature": "Ratings",
+        "book1": "4.7 (one of highest-rated sci-fi)",
+        "book2": "3.9 (disappointing to many fans)"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "369 pages",
+        "book2": "305 pages (shorter)"
+      }
+    ],
+    "book1Strengths": [
+      "Watney solving survival problems with science and humor creates irresistible MacGyver in space",
+      "The log entry format makes complex orbital mechanics accessible to general readers brilliantly",
+      "At 369 pages the pacing never drags as each disaster leads to new ingenious solution",
+      "Weir's science accuracy impresses NASA while remaining entertaining not textbook dry throughout",
+      "The optimistic tone about human ingenuity feels refreshing in cynical times uplifting readers",
+      "Watney's constant wisecracks keep dark survival scenario from becoming depressing or grim"
+    ],
+    "book1Weaknesses": [
+      "The one note snarky humor gets exhausting for readers wanting emotional depth beyond jokes",
+      "Female characters feel thinly developed serving mainly functional plot roles unfortunately",
+      "Some readers find relentless problem solving repetitive despite cleverness of solutions",
+      "The happy ending feels inevitable robbing some tension from survival stakes overall"
+    ],
+    "book2Strengths": [
+      "Jazz as lunar city smuggler brings noir detective energy to hard science fiction fresh",
+      "The moon colony Artemis feels lived in with economic systems and social classes detailed",
+      "Weir explores lunar tourism industry and gig economy extrapolated to space realistically",
+      "At 305 pages the heist plot moves quickly without Martian survival procedural pacing",
+      "The diverse cast with Saudi Arabian protagonist offers fresh perspective in sci fi",
+      "The first person narration gives Jazz distinct voice beyond Watney clone attempts"
+    ],
+    "book2Weaknesses": [
+      "Jazz personality feels forced with try hard edginess lacking Watney's natural charm",
+      "The heist mechanics require conveniences and lucky breaks straining credibility badly",
+      "Less innovative than Martian making this feel competent but derivative follow up",
+      "Some readers find Jazz's sex jokes and attitude grating rather than endearing"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "I'm pretty much fucked. That's my considered opinion. Fucked.",
+      "I'm going to have to science the shit out of this.",
+      "At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work.",
+      "Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped.",
+      "I admit it's fatally dangerous, but consider this: I'd get to fly around like Iron Man.",
+      "I guarantee you that at some point, everything's going to go south on you and you're going to say, 'This is it. This is how I end.' Now you can either accept that, or you can get to work."
+    ],
+    "book2": [
+      "If I had a trophy for every stupid thing I'd done, I'd be the NASA of stupidity.",
+      "The moon is a harsh mistress. Actually, she's not harsh. She'll kill you instantly if you screw up.",
+      "There's really only one rule in low-gravity welding: Don't screw up.",
+      "Economics is a bitch when you're on the moon.",
+      "I am not a criminal. I'm a porter. Well, okay. I'm a smuggler.",
+      "Life on Artemis is expensive. Like, really expensive."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Experience one of the highest-rated sci-fi books ever",
+      "Mark Watney is one of fiction's most lovable protagonists",
+      "The survival problem-solving is endlessly engaging",
+      "Perfect balance of humor, science, and tension",
+      "Accessible to both sci-fi fans and general readers",
+      "Inspiring message about human ingenuity and perseverance"
+    ],
+    "book2": [
+      "Get Andy Weir's take on lunar colonization",
+      "The heist plot provides variety from survival stories",
+      "Artemis city is a well-realized lunar setting",
+      "Shorter at 305 pages for a quicker read",
+      "Weir's hard science applied to moon economics",
+      "Female protagonist for readers wanting that perspective"
+    ]
+  },
+  "verdict": {
+    "winner": "The Martian",
+    "summary": "The Martian wins by miles with 4.7 stars and 525,000 reviews versus Artemis's 3.9 and 145,000 proving Weir peaked early. Watney's potato farming on Mars created more tension than Jazz's entire lunar heist. The difference isn't subtle. Watney feels like real person you'd grab beers with while Jazz feels like Weir trying too hard to write different character. Martian transcends genre while Artemis barely registers.",
+    "recommendation": "Start with The Martian absolutely. It's rare science fiction that transcends the genre as non sci fi readers devoured it equally. The hydrazine chemistry feels like watching brilliant friend solve impossible puzzle and Watney's log entries balance technical precision with genuine humor. Published 2011 it sparked Matt Damon film and influenced hard sci fi generation. Skip Artemis unless you're completist as it disappoints offering competent moon heist without Martian's magic. The 525,000 reviews versus 145,000 tells the story clearly."
+  }
 }

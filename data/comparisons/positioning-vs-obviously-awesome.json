@@ -1,144 +1,144 @@
 ﻿{
-    "slug":  "positioning-vs-obviously-awesome",
-    "title":  "Positioning vs Obviously Awesome: Head to Head Comparison",
-    "metaDescription":  "Compare Positioning vs Obviously Awesome. Al Ries\u0027 classic positioning vs April Dunford\u0027s modern framework - which positioning strategy wins?",
-    "lastUpdated":  "2026-02-10",
-    "category":  "Sales \u0026 Marketing",
-    "book1":  {
-                  "title":  "Positioning",
-                  "subtitle":  "The Battle for Your Mind",
-                  "author":  "Al Ries and Jack Trout",
-                  "isbn":  "978-0071373586",
-                  "publishedYear":  1981,
-                  "pages":  213,
-                  "rating":  4.3,
-                  "ratingCount":  3800,
-                  "price":  17.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_POSITIONING",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780071373586-L.jpg",
-                  "description":  "Al Ries and Jack Trout introduced the concept of positioning—not what you do to a product, but what you do to the mind of the prospect. They argue that in an overcommunicated society, the only way to cut through is to own a specific position in the customer\u0027s mind. This classic text explains how to position yourself against competitors, reposition competitors, and avoid being repositioned by others. The principles remain foundational to marketing strategy."
-              },
-    "book2":  {
-                  "title":  "Obviously Awesome",
-                  "subtitle":  "How to Nail Product Positioning so Customers Get It, Buy It, Love It",
-                  "author":  "April Dunford",
-                  "isbn":  "978-1999023003",
-                  "publishedYear":  2019,
-                  "pages":  192,
-                  "rating":  4.5,
-                  "ratingCount":  1200,
-                  "price":  19.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_OBVIOUSLY_AWESOME",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781999023003-L.jpg",
-                  "description":  "April Dunford presents a step-by-step positioning process specifically for B2B tech products. She identifies five components of effective positioning: competitive alternatives, unique attributes, value, target market, and market category. Dunford draws from her experience positioning multiple tech startups to show how to make products obviously awesome to the right customers. This modern framework provides tactical steps for positioning in today\u0027s crowded tech landscape."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Era",
-                                         "book1":  "Classic (1981) - foundational",
-                                         "book2":  "Modern (2019) - tactical"
-                                     },
-                                     {
-                                         "feature":  "Focus",
-                                         "book1":  "Owning a position in the mind",
-                                         "book2":  "B2B tech product positioning process"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Conceptual and strategic",
-                                         "book2":  "Process-driven and tactical"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Understanding positioning principles",
-                                         "book2":  "Actually doing positioning work"
-                                     },
-                                     {
-                                         "feature":  "Industry",
-                                         "book1":  "Any industry or category",
-                                         "book2":  "B2B tech and startups primarily"
-                                     },
-                                     {
-                                         "feature":  "Framework",
-                                         "book1":  "Principles and case studies",
-                                         "book2":  "5-component positioning canvas"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "3,800 ratings - 4.3 stars",
-                                         "book2":  "1,200 ratings - 4.5 stars"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "213 pages",
-                                         "book2":  "192 pages"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Ries and Trout prove you must own a word in customer minds like Volvo owns safety or FedEx owns overnight",
-                                              "The ladder concept showing market leaders get remembered while number three fades explains category dominance",
-                                              "Real campaign examples from Avis We Try Harder to 7Up Uncola demonstrate positioning working in practice",
-                                              "The focus on perception over product quality challenges engineers who think best features automatically win"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The 1981 advertising context predates internet search and social media that changed how positioning works",
-                                               "Some examples from tobacco and alcohol industries feel dated and ethically questionable today",
-                                               "Limited practical guidance on actually executing positioning beyond stating you need to own a concept"
-                                           ],
-                       "book2Strengths":  [
-                                              "Dunford\u0027s five component framework of competitive alternatives, unique features, value, target customer, and market category makes positioning actionable",
-                                              "The positioning canvas worksheet gives you exact template to work through your own positioning systematically",
-                                              "Sales focused approach proves positioning works when prospects immediately understand why they should care",
-                                              "Real B2B tech examples show the framework working for complex products not just consumer brands"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The step by step process can feel mechanical compared to Ries and Trout\u0027s creative advertising insights",
-                                               "Heavy B2B software focus makes some techniques less applicable to consumer products or services",
-                                               "Some readers want more examples of positioning failures to learn what not to do"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
-                                 "The basic approach of positioning is not to create something new and different, but to manipulate what\u0027s already up there in the mind.",
-                                 "In communication, less is more. Simplicity is the key.",
-                                 "The mind, as a defense against the volume of today\u0027s communications, screens and rejects much of the information offered it.",
-                                 "To succeed in our overcommunicated society, a company must create a position in the prospect\u0027s mind.",
-                                 "It\u0027s better to be first in the mind than to be first in the marketplace."
-                             ],
-                   "book2":  [
-                                 "Good positioning makes it obvious why your product is the best choice for a particular target market.",
-                                 "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about.",
-                                 "Your product\u0027s strengths are only strengths if they matter to your target customer.",
-                                 "The market you choose to compete in will determine who you compete with and how customers evaluate alternatives.",
-                                 "If customers don\u0027t understand why your product is special, they will ignore it or dismiss it as \u0027nice to have.\u0027",
-                                 "Most positioning problems are actually market category problems."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to understand the foundational concept of positioning",
-                                  "You need timeless strategic principles",
-                                  "You work in any industry (not just tech)",
-                                  "You want to understand why positioning matters",
-                                  "You want the classic that everyone references",
-                                  "You\u0027re interested in marketing history",
-                                  "You need conceptual understanding first"
-                              ],
-                    "book2":  [
-                                  "You\u0027re positioning a B2B tech product or startup",
-                                  "You need an actual process to follow step-by-step",
-                                  "You want modern, tactical positioning work",
-                                  "You\u0027re in SaaS, software, or tech",
-                                  "You need to position a product this month",
-                                  "You want a positioning canvas to work through",
-                                  "You prefer tactical over theoretical"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "It Depends",
-                    "summary":  "Positioning wins as the essential classic everyone should read (3,800 ratings at 4.3). Ries and Trout created the positioning concept—own a word in the mind (Volvo=Safety), be first in mind not market. Published 1981, timeless principles work any industry. Obviously Awesome wins on tactical usefulness (1,200 at 4.5) for actually doing positioning work. Dunford\u0027s 5-component canvas (Competitive Alternatives, Unique Attributes, Value, Target Market, Category) is actionable for B2B tech.",
-                    "recommendation":  "Read Positioning first to understand what positioning actually is and why it matters. Al Ries and Jack Trout created the concept in 1981—every marketer should know foundational principles. \u0027Positioning is not what you do to a product, it\u0027s what you do to the mind of the prospect.\u0027 Own a word in the mind (Volvo=Safety, FedEx=Overnight). \u0027It\u0027s better to be first in mind than first in market.\u0027 Avis positioned #2 (\u0027We Try Harder\u0027), 7-Up became \u0027Uncola\u0027, Miller Lite created light beer category. Works any industry—consumer goods, services, B2B. The 213 pages are conceptual but timeless. Yes, examples dated (1980s when TV was only media), but mind psychology unchanged. Then read Obviously Awesome if you\u0027re in B2B tech and need to actually position a product. April Dunford\u0027s 5-component canvas is actionable: Competitive Alternatives (what would customers use if you didn\u0027t exist?), Unique Attributes (what makes you different?), Value (why does different matter?), Target Market, Market Category. She positioned 16 startups as VP Marketing, understands modern tech buying (references Slack, Zoom). Perfect for SaaS, software, tech startups. 192 pages, read Saturday morning, apply Monday. Higher rating (4.5 vs 4.3) shows modern readers find it more useful. But only 1,200 ratings versus 3,800—narrower B2B tech focus limits broader impact. If you only read one, choose Positioning for universal principles. If you\u0027re shipping B2B software Tuesday, choose Obviously Awesome for tactical canvas."
-                }
+  "slug": "positioning-vs-obviously-awesome",
+  "title": "Positioning vs Obviously Awesome: Head to Head Comparison",
+  "metaDescription": "Compare Positioning vs Obviously Awesome. Al Ries' classic positioning vs April Dunford's modern framework - which positioning strategy wins?",
+  "lastUpdated": "2026-02-10",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "Positioning",
+    "subtitle": "The Battle for Your Mind",
+    "author": "Al Ries and Jack Trout",
+    "isbn": "978-0071373586",
+    "publishedYear": 1981,
+    "pages": 213,
+    "rating": 4.3,
+    "ratingCount": 3800,
+    "price": 17,
+    "amazonUrl": "https://www.amazon.com/dp/9780071373586?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780071373586-L.jpg",
+    "description": "Al Ries and Jack Trout introduced the concept of positioning—not what you do to a product, but what you do to the mind of the prospect. They argue that in an overcommunicated society, the only way to cut through is to own a specific position in the customer's mind. This classic text explains how to position yourself against competitors, reposition competitors, and avoid being repositioned by others. The principles remain foundational to marketing strategy."
+  },
+  "book2": {
+    "title": "Obviously Awesome",
+    "subtitle": "How to Nail Product Positioning so Customers Get It, Buy It, Love It",
+    "author": "April Dunford",
+    "isbn": "978-1999023003",
+    "publishedYear": 2019,
+    "pages": 192,
+    "rating": 4.5,
+    "ratingCount": 1200,
+    "price": 19,
+    "amazonUrl": "https://www.amazon.com/dp/9781999023003?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781999023003-L.jpg",
+    "description": "April Dunford presents a step-by-step positioning process specifically for B2B tech products. She identifies five components of effective positioning: competitive alternatives, unique attributes, value, target market, and market category. Dunford draws from her experience positioning multiple tech startups to show how to make products obviously awesome to the right customers. This modern framework provides tactical steps for positioning in today's crowded tech landscape."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Era",
+        "book1": "Classic (1981) - foundational",
+        "book2": "Modern (2019) - tactical"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Owning a position in the mind",
+        "book2": "B2B tech product positioning process"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Conceptual and strategic",
+        "book2": "Process-driven and tactical"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Understanding positioning principles",
+        "book2": "Actually doing positioning work"
+      },
+      {
+        "feature": "Industry",
+        "book1": "Any industry or category",
+        "book2": "B2B tech and startups primarily"
+      },
+      {
+        "feature": "Framework",
+        "book1": "Principles and case studies",
+        "book2": "5-component positioning canvas"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "3,800 ratings - 4.3 stars",
+        "book2": "1,200 ratings - 4.5 stars"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "213 pages",
+        "book2": "192 pages"
+      }
+    ],
+    "book1Strengths": [
+      "Ries and Trout prove you must own a word in customer minds like Volvo owns safety or FedEx owns overnight",
+      "The ladder concept showing market leaders get remembered while number three fades explains category dominance",
+      "Real campaign examples from Avis We Try Harder to 7Up Uncola demonstrate positioning working in practice",
+      "The focus on perception over product quality challenges engineers who think best features automatically win"
+    ],
+    "book1Weaknesses": [
+      "The 1981 advertising context predates internet search and social media that changed how positioning works",
+      "Some examples from tobacco and alcohol industries feel dated and ethically questionable today",
+      "Limited practical guidance on actually executing positioning beyond stating you need to own a concept"
+    ],
+    "book2Strengths": [
+      "Dunford's five component framework of competitive alternatives, unique features, value, target customer, and market category makes positioning actionable",
+      "The positioning canvas worksheet gives you exact template to work through your own positioning systematically",
+      "Sales focused approach proves positioning works when prospects immediately understand why they should care",
+      "Real B2B tech examples show the framework working for complex products not just consumer brands"
+    ],
+    "book2Weaknesses": [
+      "The step by step process can feel mechanical compared to Ries and Trout's creative advertising insights",
+      "Heavy B2B software focus makes some techniques less applicable to consumer products or services",
+      "Some readers want more examples of positioning failures to learn what not to do"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Positioning is not what you do to a product. Positioning is what you do to the mind of the prospect.",
+      "The basic approach of positioning is not to create something new and different, but to manipulate what's already up there in the mind.",
+      "In communication, less is more. Simplicity is the key.",
+      "The mind, as a defense against the volume of today's communications, screens and rejects much of the information offered it.",
+      "To succeed in our overcommunicated society, a company must create a position in the prospect's mind.",
+      "It's better to be first in the mind than to be first in the marketplace."
+    ],
+    "book2": [
+      "Good positioning makes it obvious why your product is the best choice for a particular target market.",
+      "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about.",
+      "Your product's strengths are only strengths if they matter to your target customer.",
+      "The market you choose to compete in will determine who you compete with and how customers evaluate alternatives.",
+      "If customers don't understand why your product is special, they will ignore it or dismiss it as 'nice to have.'",
+      "Most positioning problems are actually market category problems."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to understand the foundational concept of positioning",
+      "You need timeless strategic principles",
+      "You work in any industry (not just tech)",
+      "You want to understand why positioning matters",
+      "You want the classic that everyone references",
+      "You're interested in marketing history",
+      "You need conceptual understanding first"
+    ],
+    "book2": [
+      "You're positioning a B2B tech product or startup",
+      "You need an actual process to follow step-by-step",
+      "You want modern, tactical positioning work",
+      "You're in SaaS, software, or tech",
+      "You need to position a product this month",
+      "You want a positioning canvas to work through",
+      "You prefer tactical over theoretical"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Positioning wins as the essential classic everyone should read (3,800 ratings at 4.3). Ries and Trout created the positioning concept—own a word in the mind (Volvo=Safety), be first in mind not market. Published 1981, timeless principles work any industry. Obviously Awesome wins on tactical usefulness (1,200 at 4.5) for actually doing positioning work. Dunford's 5-component canvas (Competitive Alternatives, Unique Attributes, Value, Target Market, Category) is actionable for B2B tech.",
+    "recommendation": "Read Positioning first to understand what positioning actually is and why it matters. Al Ries and Jack Trout created the concept in 1981—every marketer should know foundational principles. 'Positioning is not what you do to a product, it's what you do to the mind of the prospect.' Own a word in the mind (Volvo=Safety, FedEx=Overnight). 'It's better to be first in mind than first in market.' Avis positioned #2 ('We Try Harder'), 7-Up became 'Uncola', Miller Lite created light beer category. Works any industry—consumer goods, services, B2B. The 213 pages are conceptual but timeless. Yes, examples dated (1980s when TV was only media), but mind psychology unchanged. Then read Obviously Awesome if you're in B2B tech and need to actually position a product. April Dunford's 5-component canvas is actionable: Competitive Alternatives (what would customers use if you didn't exist?), Unique Attributes (what makes you different?), Value (why does different matter?), Target Market, Market Category. She positioned 16 startups as VP Marketing, understands modern tech buying (references Slack, Zoom). Perfect for SaaS, software, tech startups. 192 pages, read Saturday morning, apply Monday. Higher rating (4.5 vs 4.3) shows modern readers find it more useful. But only 1,200 ratings versus 3,800—narrower B2B tech focus limits broader impact. If you only read one, choose Positioning for universal principles. If you're shipping B2B software Tuesday, choose Obviously Awesome for tactical canvas."
+  }
 }

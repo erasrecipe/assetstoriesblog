@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "quit-like-millionaire-vs-financial-freedom",
   "title": "Quit Like a Millionaire vs Financial Freedom: Head to Head Comparison",
   "metaDescription": "Kristy Shen's FIRE journey vs Grant Sabatier's rapid wealth blueprint. Which book will help you achieve financial freedom faster?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 3600,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_QUIT_LIKE_MILLIONAIRE",
+    "amazonUrl": "https://www.amazon.com/dp/9780525538691?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780525538691-L.jpg",
     "description": "Quit Like a Millionaire tells the story of Kristy Shen and Bryce Leung, who retired at 31 with a million-dollar portfolio. Starting from poverty, they achieved financial independence through extreme frugality, index investing, and geographic arbitrage. The book combines personal memoir with practical strategies for achieving FIRE (Financial Independence, Retire Early), including detailed calculations and the math of early retirement."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 2100,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_FINANCIAL_FREEDOM",
+    "amazonUrl": "https://www.amazon.com/dp/9780525534686?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780525534686-L.jpg",
     "description": "Financial Freedom shows how Grant Sabatier went from $2.26 in his bank account to over $1.25 million in five years. The book provides a comprehensive plan for achieving financial independence at any age through side hustles, aggressive saving, and smart investing. Sabatier emphasizes building wealth quickly through entrepreneurship and multiple income streams rather than extreme frugality alone."
   },

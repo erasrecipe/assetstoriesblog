@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "rising-strong-vs-dare-to-lead",
   "title": "Rising Strong vs Dare to Lead: Head to Head Comparison",
   "metaDescription": "Brené Brown's Rising Strong vs Dare to Lead—resilience after failure vs courageous leadership. Which vulnerability book transforms you more effectively?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 18000,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_RISING_STRONG",
+    "amazonUrl": "https://www.amazon.com/dp/1101982589?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780812995824-L.jpg",
     "description": "Social scientist Brené Brown has ignited a global conversation on courage, vulnerability, shame, and worthiness. Her pioneering work uncovered a profound truth: Vulnerability—the willingness to show up and be seen with no guarantee of outcome—is the only path to more love, belonging, creativity, and joy. But living a brave life is not always easy: We are, inevitably, going to stumble and fall. Rising Strong examines what it takes to get back up and how owning our stories of struggle transforms us."
   },
@@ -28,19 +28,47 @@
     "rating": 4.7,
     "ratingCount": 28000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_DARE_TO_LEAD",
+    "amazonUrl": "https://www.amazon.com/dp/0399592524?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780399592522-L.jpg",
     "description": "Leadership is not about titles, status, and wielding power. A leader is anyone who takes responsibility for recognizing the potential in people and ideas, and has the courage to develop that potential. When we dare to lead, we don't pretend to have the right answers; we stay curious and ask the right questions. We don't avoid difficult conversations and situations; we lean into vulnerability."
   },
   "comparison": {
     "table": [
-      {"feature": "Main Focus", "book1": "Getting back up after failure and disappointment", "book2": "Leading with courage and vulnerability"},
-      {"feature": "Core Framework", "book1": "Rising Strong Process: Reckoning, Rumble, Revolution", "book2": "Four skill sets for daring leadership"},
-      {"feature": "Primary Audience", "book1": "Anyone dealing with setbacks and failure", "book2": "Leaders, managers, aspiring leaders"},
-      {"feature": "Application", "book1": "Personal resilience in all life areas", "book2": "Professional leadership and organizational culture"},
-      {"feature": "Page Count", "book1": "336 pages", "book2": "320 pages"},
-      {"feature": "Published", "book1": "2015", "book2": "2018 (most recent)"},
-      {"feature": "Ratings", "book1": "18,000 at 4.5", "book2": "28,000 at 4.7 (higher)"}
+      {
+        "feature": "Main Focus",
+        "book1": "Getting back up after failure and disappointment",
+        "book2": "Leading with courage and vulnerability"
+      },
+      {
+        "feature": "Core Framework",
+        "book1": "Rising Strong Process: Reckoning, Rumble, Revolution",
+        "book2": "Four skill sets for daring leadership"
+      },
+      {
+        "feature": "Primary Audience",
+        "book1": "Anyone dealing with setbacks and failure",
+        "book2": "Leaders, managers, aspiring leaders"
+      },
+      {
+        "feature": "Application",
+        "book1": "Personal resilience in all life areas",
+        "book2": "Professional leadership and organizational culture"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "336 pages",
+        "book2": "320 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2015",
+        "book2": "2018 (most recent)"
+      },
+      {
+        "feature": "Ratings",
+        "book1": "18,000 at 4.5",
+        "book2": "28,000 at 4.7 (higher)"
+      }
     ],
     "book1Strengths": [
       "The Rising Strong process brilliantly practical: Reckoning (recognize emotions), Rumble (get honest about stories we tell ourselves), Revolution (write new ending based on truth)",

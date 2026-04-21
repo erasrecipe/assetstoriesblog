@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "happiness-hypothesis-vs-stumbling-on-happiness",
   "title": "The Happiness Hypothesis vs Stumbling on Happiness: Head to Head Comparison",
   "metaDescription": "Jonathan Haidt's Happiness Hypothesis vs Daniel Gilbert's Stumbling on Happiness—ancient wisdom vs prediction biases. Which happiness book wins?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 85000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780465028023?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780465028023-L.jpg",
     "description": "The Happiness Hypothesis examines 10 Great Ideas from ancient philosophical and religious traditions (Buddha, Confucius, Stoics) in light of modern psychological research. Jonathan Haidt, leading positive psychology researcher, explores what ancient wisdom and modern science tell us about how to live. The central metaphor—the mind divided like a rider (reason) on an elephant (emotion)—explains why changing ourselves is so difficult but not impossible."
   },
@@ -28,7 +28,7 @@
     "rating": 4.1,
     "ratingCount": 125000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781400077427?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781400077427-L.jpg",
     "description": "Stumbling on Happiness explores why we're so bad at predicting what will make us happy. Harvard psychologist Daniel Gilbert uses research in psychology and neuroscience to show how our brains systematically fail to imagine the future accurately through presentism (viewing future through present lens), impact bias (overestimating emotional impact), and rationalization (we adapt faster than we think). We think we know what will make us happy, but we're usually wrong."
   },

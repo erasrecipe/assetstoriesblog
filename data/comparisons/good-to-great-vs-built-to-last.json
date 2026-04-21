@@ -1,147 +1,147 @@
 ﻿{
-    "slug":  "good-to-great-vs-built-to-last",
-    "title":  "Good to Great vs Built to Last: Head to Head Comparison",
-    "metaDescription":  "Jim Collins\u0027 Good to Great vs Built to Last compared. Level 5 Leadership vs BHAG. Which Collins framework should you read first?",
-    "lastUpdated":  "2026-02-12",
-    "category":  "Business \u0026 Leadership",
-    "book1":  {
-                  "title":  "Good to Great",
-                  "subtitle":  "Why Some Companies Make the Leap and Others Don\u0027t",
-                  "author":  "Jim Collins",
-                  "isbn":  "978-0066620992",
-                  "publishedYear":  2001,
-                  "pages":  320,
-                  "rating":  4.5,
-                  "ratingCount":  48000,
-                  "price":  19.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg",
-                  "description":  "Good to Great asks: Can a good company become a great company, and if so, how? Jim Collins led a 5-year research study analyzing 11 companies that made the leap from good performance to great results and sustained those results for at least 15 years. The research identified key concepts: Level 5 Leadership (humble yet driven), First Who Then What (right people before strategy), Hedgehog Concept (3-circle intersection), Flywheel Effect (cumulative momentum), and Stockdale Paradox (brutal facts + unwavering faith)."
-              },
-    "book2":  {
-                  "title":  "Built to Last",
-                  "subtitle":  "Successful Habits of Visionary Companies",
-                  "author":  "Jim Collins and Jerry I. Porras",
-                  "isbn":  "978-0060516406",
-                  "publishedYear":  1994,
-                  "pages":  368,
-                  "rating":  4.4,
-                  "ratingCount":  32000,
-                  "price":  18.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780060516406-L.jpg",
-                  "description":  "Built to Last examines 18 exceptional companies that have thrived for 50-100+ years. The 6-year Stanford research project compared visionary companies to their competitors to discover what makes them endure across generations. Key concepts: Core Ideology (values + purpose that never change), BHAG (Big Hairy Audacious Goals), Clock Building vs Time Telling (systems over charisma), Preserve Core/Stimulate Progress (balance stability with innovation), Cult-like Cultures around core values."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "Transform good companies into great ones",
-                                         "book2":  "Build companies that endure 50-100+ years"
-                                     },
-                                     {
-                                         "feature":  "Central Question",
-                                         "book1":  "What makes the leap from good to great?",
-                                         "book2":  "What makes visionary companies last generations?"
-                                     },
-                                     {
-                                         "feature":  "Key Frameworks",
-                                         "book1":  "Level 5 Leadership, Hedgehog Concept, Flywheel",
-                                         "book2":  "Core Ideology, BHAG, Preserve Core/Stimulate Progress"
-                                     },
-                                     {
-                                         "feature":  "Time Horizon",
-                                         "book1":  "Transformation period (years to decades)",
-                                         "book2":  "Multi-generational endurance (50-100+ years)"
-                                     },
-                                     {
-                                         "feature":  "Research",
-                                         "book1":  "5-year study, 11 companies",
-                                         "book2":  "6-year study, 18 companies"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "48,000 ratings - 4.5 stars",
-                                         "book2":  "32,000 ratings - 4.4 stars"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2001 (more recent)",
-                                         "book2":  "1994 (written first, 7 years earlier)"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Leaders transforming existing organizations",
-                                         "book2":  "Founders building multi-generational companies"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The hedgehog concept of passion, skill, and economics intersecting gives you a simple filter for strategic decisions",
-                                              "Level 5 leadership combining personal humility with professional will explains why ego driven CEOs often fail",
-                                              "First who then what principle means getting the right people on the bus before deciding where to drive it",
-                                              "The flywheel effect shows how sustained effort compounds over time rather than relying on silver bullet solutions"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Some featured companies like Circuit City later failed, undermining Collins\u0027s criteria for greatness",
-                                               "The survivorship bias ignores companies that followed the same principles but still didn\u0027t succeed",
-                                               "Corporate focus makes the lessons less applicable to startups, nonprofits, or individual careers"
-                                           ],
-                       "book2Strengths":  [
-                                              "Clock building not time telling means creating systems and culture that outlast any single leader",
-                                              "The preserve core stimulate progress paradox shows how companies stay true while constantly innovating",
-                                              "Cult like cultures around core values explain why companies like Disney and 3M thrive for generations",
-                                              "Longer historical lens studying companies over decades provides richer patterns than five year comparisons"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The visionary company standard feels impossibly high for normal businesses just trying to survive",
-                                               "Some examples like HP and Sony have declined since publication, questioning the timeless principles",
-                                               "Dense academic writing makes it harder to extract actionable insights compared to Good to Great"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Good is the enemy of great.",
-                                 "Level 5 leaders channel their ego needs away from themselves and into the larger goal of building a great company.",
-                                 "Confront the brutal facts, yet never lose faith.",
-                                 "First who, then what—get the right people on the bus before you decide where to drive it.",
-                                 "The Hedgehog Concept: A simple, crystalline concept that flows from deep understanding about the intersection of three circles.",
-                                 "The flywheel effect: There was no single defining action, no grand program, no one killer innovation.",
-                                 "Technology is an accelerator, not a creator of momentum.",
-                                 "Greatness is not a function of circumstance. Greatness, it turns out, is largely a matter of conscious choice."
-                             ],
-                   "book2":  [
-                                 "Visionary companies preserve their core values and purpose while their business strategies and operating practices endlessly adapt to a changing world.",
-                                 "Clock building, not time telling. Build an organization that can tick along for decades or generations.",
-                                 "Core ideology = core values + purpose.",
-                                 "A BHAG is a huge and daunting goal—like a big mountain to climb.",
-                                 "Preserve the core and stimulate progress.",
-                                 "Visionary companies make some of their best moves by experimentation, trial and error, opportunism, and—quite literally—accident.",
-                                 "The real question is not, \u0027Does this company have core values?\u0027 The question is, \u0027Does it have the RIGHT core values for itself?\u0027"
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You\u0027re leading an existing organization that\u0027s good but not great",
-                                  "You need Level 5 Leadership—most influential leadership framework",
-                                  "You want the Hedgehog Concept (passion/skill/economics intersection)",
-                                  "You need to understand First Who Then What (people before strategy)",
-                                  "You want to build Flywheel momentum through consistent effort",
-                                  "You want higher rating (4.5 vs 4.4) and more readers (48K vs 32K)",
-                                  "You prefer shorter, tighter read (320 vs 368 pages)"
-                              ],
-                    "book2":  [
-                                  "You\u0027re a founder building company meant to outlast you (decades)",
-                                  "You need to define Core Ideology (values + purpose) for generations",
-                                  "You want to set BHAGs—Big Hairy Audacious Goals",
-                                  "You\u0027re building clock-building systems over time-telling charisma",
-                                  "You want most comprehensive study of 50-100+ year companies",
-                                  "You need Preserve Core/Stimulate Progress for multi-generational success",
-                                  "You\u0027re willing to read denser, more academic 368 pages for depth"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Good to Great",
-                    "summary":  "Good to Great wins for most business leaders with higher rating (4.5 versus 4.4) and 50% more readers (48,000 versus 32,000). It addresses the more urgent need—transforming existing organizations from good performance to great results. Level 5 Leadership (humble yet driven), Hedgehog Concept (passion/skill/economics intersection), First Who Then What (people before strategy), and Flywheel Effect (cumulative momentum) are more immediately actionable than Built to Last\u0027s multi-generational frameworks (Core Ideology, BHAG, Preserve Core/Stimulate Progress). Published 2001 versus 1994, it\u0027s also more recent and tighter at 320 pages versus 368. Built to Last is better for founders embedding enduring values from day one, but Good to Great serves operating leaders better.",
-                    "recommendation":  "Read Good to Great first if you\u0027re leading an existing organization. At 320 pages with 48,000 ratings at 4.5 stars, Collins\u0027 2001 masterpiece teaches transformation through Level 5 Leadership (humble leaders who channel ambition into company success—Darwin Smith at Kimberly-Clark wore polyester suits but delivered 4x market returns), Hedgehog Concept (Walgreens focused on profit per customer visit, not total revenue), First Who Then What (get right people on bus before deciding direction), and Flywheel Effect (Kroger pushed consistently for 20 years before breakthrough). You can implement these frameworks Monday morning. The Stockdale Paradox (confront brutal facts while maintaining unwavering faith) applies to every business crisis. Weaknesses: several \u0027great\u0027 companies later failed (Circuit City bankruptcy, Fannie Mae collapse, Wells Fargo fraud), survivorship bias in research methodology, examples are 25 years old. After mastering Good to Great, read Built to Last if you\u0027re a founder building for multi-generational endurance. At 368 pages with 32,000 at 4.4 stars, Collins and Porras\u0027 1994 study of 18 companies lasting 50-100+ years teaches Core Ideology (Disney\u0027s \u0027make people happy\u0027 purpose never changed), BHAG (Boeing betting company on 747), Clock Building not Time Telling (build systems that outlast you), and Preserve Core/Stimulate Progress (3M keeps innovation sacred, changes everything else). It\u0027s denser and more academic, but if you\u0027re embedding values into a startup, these frameworks prevent needing transformation later. Skip if you need quarterly results—this is century-long thinking."
-                }
+  "slug": "good-to-great-vs-built-to-last",
+  "title": "Good to Great vs Built to Last: Head to Head Comparison",
+  "metaDescription": "Jim Collins' Good to Great vs Built to Last compared. Level 5 Leadership vs BHAG. Which Collins framework should you read first?",
+  "lastUpdated": "2026-02-12",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "Good to Great",
+    "subtitle": "Why Some Companies Make the Leap and Others Don't",
+    "author": "Jim Collins",
+    "isbn": "978-0066620992",
+    "publishedYear": 2001,
+    "pages": 320,
+    "rating": 4.5,
+    "ratingCount": 48000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780066620992?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780066620992-L.jpg",
+    "description": "Good to Great asks: Can a good company become a great company, and if so, how? Jim Collins led a 5-year research study analyzing 11 companies that made the leap from good performance to great results and sustained those results for at least 15 years. The research identified key concepts: Level 5 Leadership (humble yet driven), First Who Then What (right people before strategy), Hedgehog Concept (3-circle intersection), Flywheel Effect (cumulative momentum), and Stockdale Paradox (brutal facts + unwavering faith)."
+  },
+  "book2": {
+    "title": "Built to Last",
+    "subtitle": "Successful Habits of Visionary Companies",
+    "author": "Jim Collins and Jerry I. Porras",
+    "isbn": "978-0060516406",
+    "publishedYear": 1994,
+    "pages": 368,
+    "rating": 4.4,
+    "ratingCount": 32000,
+    "price": 18.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780060516406?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060516406-L.jpg",
+    "description": "Built to Last examines 18 exceptional companies that have thrived for 50-100+ years. The 6-year Stanford research project compared visionary companies to their competitors to discover what makes them endure across generations. Key concepts: Core Ideology (values + purpose that never change), BHAG (Big Hairy Audacious Goals), Clock Building vs Time Telling (systems over charisma), Preserve Core/Stimulate Progress (balance stability with innovation), Cult-like Cultures around core values."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Transform good companies into great ones",
+        "book2": "Build companies that endure 50-100+ years"
+      },
+      {
+        "feature": "Central Question",
+        "book1": "What makes the leap from good to great?",
+        "book2": "What makes visionary companies last generations?"
+      },
+      {
+        "feature": "Key Frameworks",
+        "book1": "Level 5 Leadership, Hedgehog Concept, Flywheel",
+        "book2": "Core Ideology, BHAG, Preserve Core/Stimulate Progress"
+      },
+      {
+        "feature": "Time Horizon",
+        "book1": "Transformation period (years to decades)",
+        "book2": "Multi-generational endurance (50-100+ years)"
+      },
+      {
+        "feature": "Research",
+        "book1": "5-year study, 11 companies",
+        "book2": "6-year study, 18 companies"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "48,000 ratings - 4.5 stars",
+        "book2": "32,000 ratings - 4.4 stars"
+      },
+      {
+        "feature": "Published",
+        "book1": "2001 (more recent)",
+        "book2": "1994 (written first, 7 years earlier)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Leaders transforming existing organizations",
+        "book2": "Founders building multi-generational companies"
+      }
+    ],
+    "book1Strengths": [
+      "The hedgehog concept of passion, skill, and economics intersecting gives you a simple filter for strategic decisions",
+      "Level 5 leadership combining personal humility with professional will explains why ego driven CEOs often fail",
+      "First who then what principle means getting the right people on the bus before deciding where to drive it",
+      "The flywheel effect shows how sustained effort compounds over time rather than relying on silver bullet solutions"
+    ],
+    "book1Weaknesses": [
+      "Some featured companies like Circuit City later failed, undermining Collins's criteria for greatness",
+      "The survivorship bias ignores companies that followed the same principles but still didn't succeed",
+      "Corporate focus makes the lessons less applicable to startups, nonprofits, or individual careers"
+    ],
+    "book2Strengths": [
+      "Clock building not time telling means creating systems and culture that outlast any single leader",
+      "The preserve core stimulate progress paradox shows how companies stay true while constantly innovating",
+      "Cult like cultures around core values explain why companies like Disney and 3M thrive for generations",
+      "Longer historical lens studying companies over decades provides richer patterns than five year comparisons"
+    ],
+    "book2Weaknesses": [
+      "The visionary company standard feels impossibly high for normal businesses just trying to survive",
+      "Some examples like HP and Sony have declined since publication, questioning the timeless principles",
+      "Dense academic writing makes it harder to extract actionable insights compared to Good to Great"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Good is the enemy of great.",
+      "Level 5 leaders channel their ego needs away from themselves and into the larger goal of building a great company.",
+      "Confront the brutal facts, yet never lose faith.",
+      "First who, then what—get the right people on the bus before you decide where to drive it.",
+      "The Hedgehog Concept: A simple, crystalline concept that flows from deep understanding about the intersection of three circles.",
+      "The flywheel effect: There was no single defining action, no grand program, no one killer innovation.",
+      "Technology is an accelerator, not a creator of momentum.",
+      "Greatness is not a function of circumstance. Greatness, it turns out, is largely a matter of conscious choice."
+    ],
+    "book2": [
+      "Visionary companies preserve their core values and purpose while their business strategies and operating practices endlessly adapt to a changing world.",
+      "Clock building, not time telling. Build an organization that can tick along for decades or generations.",
+      "Core ideology = core values + purpose.",
+      "A BHAG is a huge and daunting goal—like a big mountain to climb.",
+      "Preserve the core and stimulate progress.",
+      "Visionary companies make some of their best moves by experimentation, trial and error, opportunism, and—quite literally—accident.",
+      "The real question is not, 'Does this company have core values?' The question is, 'Does it have the RIGHT core values for itself?'"
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You're leading an existing organization that's good but not great",
+      "You need Level 5 Leadership—most influential leadership framework",
+      "You want the Hedgehog Concept (passion/skill/economics intersection)",
+      "You need to understand First Who Then What (people before strategy)",
+      "You want to build Flywheel momentum through consistent effort",
+      "You want higher rating (4.5 vs 4.4) and more readers (48K vs 32K)",
+      "You prefer shorter, tighter read (320 vs 368 pages)"
+    ],
+    "book2": [
+      "You're a founder building company meant to outlast you (decades)",
+      "You need to define Core Ideology (values + purpose) for generations",
+      "You want to set BHAGs—Big Hairy Audacious Goals",
+      "You're building clock-building systems over time-telling charisma",
+      "You want most comprehensive study of 50-100+ year companies",
+      "You need Preserve Core/Stimulate Progress for multi-generational success",
+      "You're willing to read denser, more academic 368 pages for depth"
+    ]
+  },
+  "verdict": {
+    "winner": "Good to Great",
+    "summary": "Good to Great wins for most business leaders with higher rating (4.5 versus 4.4) and 50% more readers (48,000 versus 32,000). It addresses the more urgent need—transforming existing organizations from good performance to great results. Level 5 Leadership (humble yet driven), Hedgehog Concept (passion/skill/economics intersection), First Who Then What (people before strategy), and Flywheel Effect (cumulative momentum) are more immediately actionable than Built to Last's multi-generational frameworks (Core Ideology, BHAG, Preserve Core/Stimulate Progress). Published 2001 versus 1994, it's also more recent and tighter at 320 pages versus 368. Built to Last is better for founders embedding enduring values from day one, but Good to Great serves operating leaders better.",
+    "recommendation": "Read Good to Great first if you're leading an existing organization. At 320 pages with 48,000 ratings at 4.5 stars, Collins' 2001 masterpiece teaches transformation through Level 5 Leadership (humble leaders who channel ambition into company success—Darwin Smith at Kimberly-Clark wore polyester suits but delivered 4x market returns), Hedgehog Concept (Walgreens focused on profit per customer visit, not total revenue), First Who Then What (get right people on bus before deciding direction), and Flywheel Effect (Kroger pushed consistently for 20 years before breakthrough). You can implement these frameworks Monday morning. The Stockdale Paradox (confront brutal facts while maintaining unwavering faith) applies to every business crisis. Weaknesses: several 'great' companies later failed (Circuit City bankruptcy, Fannie Mae collapse, Wells Fargo fraud), survivorship bias in research methodology, examples are 25 years old. After mastering Good to Great, read Built to Last if you're a founder building for multi-generational endurance. At 368 pages with 32,000 at 4.4 stars, Collins and Porras' 1994 study of 18 companies lasting 50-100+ years teaches Core Ideology (Disney's 'make people happy' purpose never changed), BHAG (Boeing betting company on 747), Clock Building not Time Telling (build systems that outlast you), and Preserve Core/Stimulate Progress (3M keeps innovation sacred, changes everything else). It's denser and more academic, but if you're embedding values into a startup, these frameworks prevent needing transformation later. Skip if you need quarterly results—this is century-long thinking."
+  }
 }

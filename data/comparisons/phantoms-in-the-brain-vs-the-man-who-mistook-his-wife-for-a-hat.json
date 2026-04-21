@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "phantoms-in-the-brain-vs-the-man-who-mistook-his-wife-for-a-hat",
   "title": "Phantoms in the Brain vs The Man Who Mistook His Wife for a Hat: Head to Head Comparison",
   "metaDescription": "V.S. Ramachandran's Phantoms in the Brain vs Oliver Sacks's The Man Who Mistook His Wife for a Hat—which neurological case study book is better?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 5200,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_PHANTOMS",
+    "amazonUrl": "https://www.amazon.com/dp/9780688172176?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780688172176-L.jpg",
     "description": "Neuroscientist V.S. Ramachandran is internationally renowned for uncovering answers to the deep and quirky questions of human nature that few scientists have dared to address. His bold insights about the brain are matched only by the stunning simplicity of his experiments—using such low-tech tools as cotton swabs, glasses of water and dime-store mirrors. In Phantoms in the Brain, Dr. Ramachandran recounts how his work with patients who have bizarre neurological disorders has revealed new insights into the workings of the normal brain."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 18000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MAN_WHO_MISTOOK",
+    "amazonUrl": "https://www.amazon.com/dp/9780684853949?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780684853949-L.jpg",
     "description": "In his most extraordinary book, Oliver Sacks recounts the stories of patients lost in the bizarre, apparently inescapable world of neurological disorders: people afflicted with fantastic perceptual and intellectual aberrations; patients who have lost their memories and with them the greater part of their pasts; people who are no longer able to recognize people and common objects; who are stricken with violent tics and grimaces or who shout involuntary obscenities; whose limbs have become alien to them."
   },

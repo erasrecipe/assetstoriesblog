@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "glucose-revolution-vs-the-obesity-code",
   "title": "Glucose Revolution vs The Obesity Code: Head to Head Comparison",
   "metaDescription": "Jessie Inchauspé's Glucose Revolution vs Dr. Jason Fung's Obesity Code—glucose hacks vs intermittent fasting. Which metabolic health approach works?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 58000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781982179793?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781982179793-L.jpg",
     "description": "Biochemist Jessie Inchauspé, known as Glucose Goddess on Instagram (3M+ followers), presents 10 simple glucose hacks to flatten blood sugar spikes. Using data from continuous glucose monitors, she shows how eating vegetables first, adding vinegar to meals, walking after eating, and timing your carbs can prevent energy crashes, reduce cravings, improve skin, and slow aging—all without eliminating foods you love."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 67000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/1771642901?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781771641258-L.jpg",
     "description": "Nephrologist Dr. Jason Fung argues that obesity is a hormonal disorder, not a caloric one. Insulin resistance drives weight gain, and the solution is lowering insulin through intermittent fasting and reducing refined carbs. Fung debunks the calories-in-calories-out myth and presents fasting protocols (16:8, 24-hour fasts, alternate-day) to reverse type 2 diabetes, metabolic syndrome, and obesity."
   },

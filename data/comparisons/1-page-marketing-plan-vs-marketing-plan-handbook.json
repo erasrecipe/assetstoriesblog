@@ -1,160 +1,160 @@
 ﻿{
-    "slug":  "1-page-marketing-plan-vs-marketing-plan-handbook",
-    "title":  "The 1-Page Marketing Plan vs The Marketing Plan Handbook: Head to Head Comparison",
-    "metaDescription":  "Allan Dib\u0027s simplified one-page approach vs Alexander Chernev\u0027s comprehensive handbook. Which marketing planning method will get you results faster?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Sales \u0026 Marketing",
-    "book1":  {
-                  "title":  "The 1-Page Marketing Plan",
-                  "subtitle":  "Get New Customers, Make More Money, And Stand Out From The Crowd",
-                  "author":  "Allan Dib",
-                  "isbn":  "978-1989603000",
-                  "publishedYear":  2016,
-                  "pages":  256,
-                  "rating":  4.6,
-                  "ratingCount":  6800,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_1_PAGE_MARKETING_PLAN",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781989603000-L.jpg",
-                  "description":  "To build a successful business, you need to stop doing random acts of marketing and start following a reliable plan for rapid business growth. Traditional marketing advice is no longer enough. The 1-Page Marketing Plan shows you how to use modern marketing tactics to get more customers and stand out from the crowd. You\u0027ll learn a simple, yet effective nine-step process that any business can use to craft a marketing plan that generates consistent results."
-              },
-    "book2":  {
-                  "title":  "The Marketing Plan Handbook",
-                  "subtitle":  "Develop Big-Picture Marketing Plans for Pennies on the Dollar",
-                  "author":  "Alexander Chernev",
-                  "isbn":  "978-1936572052",
-                  "publishedYear":  2011,
-                  "pages":  352,
-                  "rating":  4.3,
-                  "ratingCount":  420,
-                  "price":  24.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MARKETING_PLAN_HANDBOOK",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781936572052-L.jpg",
-                  "description":  "The Marketing Plan Handbook is a practical guide to developing a marketing plan. Written by a leading marketing professor at the Kellogg School of Management, this hands-on guide provides step-by-step instruction on how to create an actionable marketing plan that will help you achieve your business objectives. Unlike most marketing planning books, this one is designed to give you the tools you need to create a plan quickly and efficiently."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Main Focus",
-                                         "book1":  "Creating a simple one-page marketing plan for small businesses",
-                                         "book2":  "Comprehensive academic marketing planning framework"
-                                     },
-                                     {
-                                         "feature":  "Core Framework",
-                                         "book1":  "9-square canvas: Before (Prospects) â†’ During (Leads) â†’ After (Customers)",
-                                         "book2":  "Traditional marketing plan structure: Analysis, Strategy, Tactics, Implementation, Control"
-                                     },
-                                     {
-                                         "feature":  "Target Audience",
-                                         "book1":  "Small business owners, entrepreneurs, solopreneurs",
-                                         "book2":  "Marketing professionals, MBA students, corporate marketers"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Simplified, practical, anti-academic",
-                                         "book2":  "Academic, comprehensive, traditional"
-                                     },
-                                     {
-                                         "feature":  "Key Strength",
-                                         "book1":  "Simplicity—you can create a plan on one page",
-                                         "book2":  "Comprehensiveness—covers every aspect of marketing planning"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Small businesses that need to start marketing now",
-                                         "book2":  "Corporations and marketers needing formal, detailed plans"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "256 pages",
-                                         "book2":  "352 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2016",
-                                         "book2":  "2011"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The 9 square canvas breaks marketing into Before, During, and After phases with Prospects, Leads, and Customers in each",
-                                              "The PVP formula asks if your business creates Personal fulfillment, Value to marketplace, and Profitability all at once",
-                                              "Direct response marketing emphasis means every ad must have a trackable call to action with measurable ROI you can verify",
-                                              "The Target Market selection is ruthless pushing you to niche down so far it feels uncomfortable but captures attention",
-                                              "Massive validation with 6,800 ratings at 4.6 stars versus The Handbook\u0027s 420 ratings proves this resonates incredibly widely",
-                                              "The Lead Nurturing section destroys always be closing by showing how education based marketing builds trust first",
-                                              "The Lifetime Customer Value math changes everything by focusing on repeat business instead of one time transactions only",
-                                              "You can complete this in one afternoon because the canvas fits on one page and forces clarity through simplicity"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The one page canvas is too simple for enterprise companies running complex multi channel campaigns across different regions",
-                                               "He barely touches brand strategy because everything is direct response which misses emotional connection and loyalty building",
-                                               "The examples skew heavily toward service businesses and B2B so retail and CPG readers need to translate concepts heavily",
-                                               "Almost evangelical about niching down but some businesses genuinely need broad appeal to achieve economies of scale",
-                                               "Marketing purists will hate this because he dismisses traditional concepts like the 4Ps as useless academic nonsense",
-                                               "Technology references from 2016 feel dated when he talks about Facebook ads and Google AdWords pre iOS 14 privacy changes"
-                                           ],
-                       "book2Strengths":  [
-                                              "The G-STIC framework covers Goal, Strategy, Tactics, Implementation, and Control as the gold standard planning process",
-                                              "Alexander Chernev is a Kellogg School professor so Northwestern\u0027s marketing PhD rigor backs every single framework here",
-                                              "The market analysis section is MBA level thorough with SWOT analysis, Porter\u0027s Five Forces, and competitive mapping tools",
-                                              "Chapter 6 on value proposition breaks down functional value, psychological value, and monetary value with real precision",
-                                              "The implementation timeline and control mechanisms are corporate grade with KPIs, dashboards, and quarterly review cycles",
-                                              "Perfect for B2B enterprise sales with 6 to 12 month cycles because the depth matches the complexity perfectly well",
-                                              "Includes actual case study templates and worksheets so the appendix has fill in the blank frameworks you can use",
-                                              "The competitive analysis chapter teaches you to map competitors on value curves and identify differentiation gaps clearly"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "Tiny audience proves the problem with only 420 ratings versus 6,800 for The 1-Page Plan because most find it too dry",
-                                               "Published 2011 means it completely misses modern digital marketing like social media, influencers, and content marketing",
-                                               "The writing is dry and academic like he\u0027s publishing in Journal of Marketing Research not helping actual entrepreneurs",
-                                               "Analysis paralysis is a real danger because you could spend 3 months doing SWOT analysis and never execute anything",
-                                               "Assumes you have a marketing team and budget for market research, agencies, and multi channel campaigns running",
-                                               "Lower rating at 4.3 versus 4.6 suggests even people who bought it weren\u0027t thrilled with the practical value delivered",
-                                               "The price is  versus  for The 1-Page Plan and you get less practical value for launching campaigns quickly"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "A business without a marketing plan is like a plane without a flight plan.",
-                                 "You\u0027re not in the business you think you\u0027re in. You\u0027re in the business of marketing the business you think you\u0027re in.",
-                                 "The single biggest mistake businesses make is focusing on tactics before strategy.",
-                                 "Your marketing message should be about your prospects, not about you.",
-                                 "A marketing plan that fits on one page is better than a 100-page plan that never gets executed.",
-                                 "Stop random acts of marketing and start following a plan.",
-                                 "The goal of marketing is not to get more customers. It\u0027s to get better customers.",
-                                 "If you\u0027re not making offers, you\u0027re not really in business."
-                             ],
-                   "book2":  [
-                                 "A marketing plan is a written document that defines a company\u0027s marketing strategy.",
-                                 "Effective marketing planning starts with a clear understanding of the market and the competition.",
-                                 "The purpose of marketing is to create value for the company by creating value for its customers.",
-                                 "A marketing plan without a clear value proposition is destined to fail.",
-                                 "Implementation is where most marketing plans fail.",
-                                 "The marketing plan should be a living document that evolves with the market.",
-                                 "Competitive analysis is not about copying competitors; it\u0027s about understanding the competitive landscape."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Create a complete marketing plan in hours on one page",
-                                  "Master the 9-square framework for the customer journey",
-                                  "Get practical direct response marketing tactics that work",
-                                  "Perfect for small businesses overwhelmed by traditional planning",
-                                  "Stop random acts of marketing and follow a system",
-                                  "Allan\u0027s no-nonsense approach cuts through marketing BS"
-                              ],
-                    "book2":  [
-                                  "Get comprehensive coverage of traditional marketing planning",
-                                  "Learn from a Kellogg School of Management professor",
-                                  "Create formal marketing plans that satisfy corporate requirements",
-                                  "Master market analysis and competitive strategy frameworks",
-                                  "Perfect for MBA students and corporate marketers",
-                                  "Understand the complete marketing planning process"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The 1-Page Marketing Plan",
-                    "summary":  "The 1-Page Marketing Plan wins decisively for 90% of businesses—6,800 ratings at 4.6 stars vs 420 ratings at 4.3 stars tells you everything. Dib solves the real problem: businesses that need to START marketing, not perfect it. The 9-square canvas (Before/During/After customer journey) gets you from zero to a complete plan in one afternoon. The Marketing Plan Handbook is academically rigorous but practically useless for small businesses—352 pages of SWOT analysis and Porter\u0027s Five Forces won\u0027t help when you need customers NOW. Different problems entirely: Dib for execution, Chernev for corporate documentation.",
-                    "recommendation":  "Read The 1-Page Marketing Plan FIRST if you\u0027re a small business owner, entrepreneur, solopreneur, or consultant under $10M revenue. The 9-square canvas (Select Target Market, Craft Message, Reach Prospects → Capture Leads, Nurture, Convert → Deliver, Increase Value, Orchestrate Referrals) gives you a complete system you can implement immediately. The PVP formula (Personal fulfillment + Value to marketplace + Profitability) alone is worth the price—it forces you to find work you love that the market values AND that makes money. The direct response marketing emphasis (every ad trackable, measurable ROI) will save you from wasting money on brand awareness campaigns that don\u0027t move the needle. THEN read The Marketing Plan Handbook only if you\u0027re in corporate marketing, presenting to a board that expects traditional frameworks, or getting an MBA. The G-STIC framework (Goal-Strategy-Tactics-Implementation-Control), SWOT analysis, and Porter\u0027s Five Forces will satisfy stakeholders who want formal documentation. If you only read one: The 1-Page Marketing Plan, no question. A plan you execute beats a perfect plan that sits in a drawer. Dib\u0027s approach has 16x more readers and a higher rating because it actually gets implemented—that\u0027s what matters."
-                }
+  "slug": "1-page-marketing-plan-vs-marketing-plan-handbook",
+  "title": "The 1-Page Marketing Plan vs The Marketing Plan Handbook: Head to Head Comparison",
+  "metaDescription": "Allan Dib's simplified one-page approach vs Alexander Chernev's comprehensive handbook. Which marketing planning method will get you results faster?",
+  "lastUpdated": "2026-02-07",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "The 1-Page Marketing Plan",
+    "subtitle": "Get New Customers, Make More Money, And Stand Out From The Crowd",
+    "author": "Allan Dib",
+    "isbn": "978-1989603000",
+    "publishedYear": 2016,
+    "pages": 256,
+    "rating": 4.6,
+    "ratingCount": 6800,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781989603000?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781989603000-L.jpg",
+    "description": "To build a successful business, you need to stop doing random acts of marketing and start following a reliable plan for rapid business growth. Traditional marketing advice is no longer enough. The 1-Page Marketing Plan shows you how to use modern marketing tactics to get more customers and stand out from the crowd. You'll learn a simple, yet effective nine-step process that any business can use to craft a marketing plan that generates consistent results."
+  },
+  "book2": {
+    "title": "The Marketing Plan Handbook",
+    "subtitle": "Develop Big-Picture Marketing Plans for Pennies on the Dollar",
+    "author": "Alexander Chernev",
+    "isbn": "978-1936572052",
+    "publishedYear": 2011,
+    "pages": 352,
+    "rating": 4.3,
+    "ratingCount": 420,
+    "price": 24.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781936572052?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781936572052-L.jpg",
+    "description": "The Marketing Plan Handbook is a practical guide to developing a marketing plan. Written by a leading marketing professor at the Kellogg School of Management, this hands-on guide provides step-by-step instruction on how to create an actionable marketing plan that will help you achieve your business objectives. Unlike most marketing planning books, this one is designed to give you the tools you need to create a plan quickly and efficiently."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Creating a simple one-page marketing plan for small businesses",
+        "book2": "Comprehensive academic marketing planning framework"
+      },
+      {
+        "feature": "Core Framework",
+        "book1": "9-square canvas: Before (Prospects) â†’ During (Leads) â†’ After (Customers)",
+        "book2": "Traditional marketing plan structure: Analysis, Strategy, Tactics, Implementation, Control"
+      },
+      {
+        "feature": "Target Audience",
+        "book1": "Small business owners, entrepreneurs, solopreneurs",
+        "book2": "Marketing professionals, MBA students, corporate marketers"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Simplified, practical, anti-academic",
+        "book2": "Academic, comprehensive, traditional"
+      },
+      {
+        "feature": "Key Strength",
+        "book1": "Simplicity—you can create a plan on one page",
+        "book2": "Comprehensiveness—covers every aspect of marketing planning"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Small businesses that need to start marketing now",
+        "book2": "Corporations and marketers needing formal, detailed plans"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "256 pages",
+        "book2": "352 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2016",
+        "book2": "2011"
+      }
+    ],
+    "book1Strengths": [
+      "The 9 square canvas breaks marketing into Before, During, and After phases with Prospects, Leads, and Customers in each",
+      "The PVP formula asks if your business creates Personal fulfillment, Value to marketplace, and Profitability all at once",
+      "Direct response marketing emphasis means every ad must have a trackable call to action with measurable ROI you can verify",
+      "The Target Market selection is ruthless pushing you to niche down so far it feels uncomfortable but captures attention",
+      "Massive validation with 6,800 ratings at 4.6 stars versus The Handbook's 420 ratings proves this resonates incredibly widely",
+      "The Lead Nurturing section destroys always be closing by showing how education based marketing builds trust first",
+      "The Lifetime Customer Value math changes everything by focusing on repeat business instead of one time transactions only",
+      "You can complete this in one afternoon because the canvas fits on one page and forces clarity through simplicity"
+    ],
+    "book1Weaknesses": [
+      "The one page canvas is too simple for enterprise companies running complex multi channel campaigns across different regions",
+      "He barely touches brand strategy because everything is direct response which misses emotional connection and loyalty building",
+      "The examples skew heavily toward service businesses and B2B so retail and CPG readers need to translate concepts heavily",
+      "Almost evangelical about niching down but some businesses genuinely need broad appeal to achieve economies of scale",
+      "Marketing purists will hate this because he dismisses traditional concepts like the 4Ps as useless academic nonsense",
+      "Technology references from 2016 feel dated when he talks about Facebook ads and Google AdWords pre iOS 14 privacy changes"
+    ],
+    "book2Strengths": [
+      "The G-STIC framework covers Goal, Strategy, Tactics, Implementation, and Control as the gold standard planning process",
+      "Alexander Chernev is a Kellogg School professor so Northwestern's marketing PhD rigor backs every single framework here",
+      "The market analysis section is MBA level thorough with SWOT analysis, Porter's Five Forces, and competitive mapping tools",
+      "Chapter 6 on value proposition breaks down functional value, psychological value, and monetary value with real precision",
+      "The implementation timeline and control mechanisms are corporate grade with KPIs, dashboards, and quarterly review cycles",
+      "Perfect for B2B enterprise sales with 6 to 12 month cycles because the depth matches the complexity perfectly well",
+      "Includes actual case study templates and worksheets so the appendix has fill in the blank frameworks you can use",
+      "The competitive analysis chapter teaches you to map competitors on value curves and identify differentiation gaps clearly"
+    ],
+    "book2Weaknesses": [
+      "Tiny audience proves the problem with only 420 ratings versus 6,800 for The 1-Page Plan because most find it too dry",
+      "Published 2011 means it completely misses modern digital marketing like social media, influencers, and content marketing",
+      "The writing is dry and academic like he's publishing in Journal of Marketing Research not helping actual entrepreneurs",
+      "Analysis paralysis is a real danger because you could spend 3 months doing SWOT analysis and never execute anything",
+      "Assumes you have a marketing team and budget for market research, agencies, and multi channel campaigns running",
+      "Lower rating at 4.3 versus 4.6 suggests even people who bought it weren't thrilled with the practical value delivered",
+      "The price is  versus  for The 1-Page Plan and you get less practical value for launching campaigns quickly"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "A business without a marketing plan is like a plane without a flight plan.",
+      "You're not in the business you think you're in. You're in the business of marketing the business you think you're in.",
+      "The single biggest mistake businesses make is focusing on tactics before strategy.",
+      "Your marketing message should be about your prospects, not about you.",
+      "A marketing plan that fits on one page is better than a 100-page plan that never gets executed.",
+      "Stop random acts of marketing and start following a plan.",
+      "The goal of marketing is not to get more customers. It's to get better customers.",
+      "If you're not making offers, you're not really in business."
+    ],
+    "book2": [
+      "A marketing plan is a written document that defines a company's marketing strategy.",
+      "Effective marketing planning starts with a clear understanding of the market and the competition.",
+      "The purpose of marketing is to create value for the company by creating value for its customers.",
+      "A marketing plan without a clear value proposition is destined to fail.",
+      "Implementation is where most marketing plans fail.",
+      "The marketing plan should be a living document that evolves with the market.",
+      "Competitive analysis is not about copying competitors; it's about understanding the competitive landscape."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Create a complete marketing plan in hours on one page",
+      "Master the 9-square framework for the customer journey",
+      "Get practical direct response marketing tactics that work",
+      "Perfect for small businesses overwhelmed by traditional planning",
+      "Stop random acts of marketing and follow a system",
+      "Allan's no-nonsense approach cuts through marketing BS"
+    ],
+    "book2": [
+      "Get comprehensive coverage of traditional marketing planning",
+      "Learn from a Kellogg School of Management professor",
+      "Create formal marketing plans that satisfy corporate requirements",
+      "Master market analysis and competitive strategy frameworks",
+      "Perfect for MBA students and corporate marketers",
+      "Understand the complete marketing planning process"
+    ]
+  },
+  "verdict": {
+    "winner": "The 1-Page Marketing Plan",
+    "summary": "The 1-Page Marketing Plan wins decisively for 90% of businesses—6,800 ratings at 4.6 stars vs 420 ratings at 4.3 stars tells you everything. Dib solves the real problem: businesses that need to START marketing, not perfect it. The 9-square canvas (Before/During/After customer journey) gets you from zero to a complete plan in one afternoon. The Marketing Plan Handbook is academically rigorous but practically useless for small businesses—352 pages of SWOT analysis and Porter's Five Forces won't help when you need customers NOW. Different problems entirely: Dib for execution, Chernev for corporate documentation.",
+    "recommendation": "Read The 1-Page Marketing Plan FIRST if you're a small business owner, entrepreneur, solopreneur, or consultant under $10M revenue. The 9-square canvas (Select Target Market, Craft Message, Reach Prospects → Capture Leads, Nurture, Convert → Deliver, Increase Value, Orchestrate Referrals) gives you a complete system you can implement immediately. The PVP formula (Personal fulfillment + Value to marketplace + Profitability) alone is worth the price—it forces you to find work you love that the market values AND that makes money. The direct response marketing emphasis (every ad trackable, measurable ROI) will save you from wasting money on brand awareness campaigns that don't move the needle. THEN read The Marketing Plan Handbook only if you're in corporate marketing, presenting to a board that expects traditional frameworks, or getting an MBA. The G-STIC framework (Goal-Strategy-Tactics-Implementation-Control), SWOT analysis, and Porter's Five Forces will satisfy stakeholders who want formal documentation. If you only read one: The 1-Page Marketing Plan, no question. A plan you execute beats a perfect plan that sits in a drawer. Dib's approach has 16x more readers and a higher rating because it actually gets implemented—that's what matters."
+  }
 }

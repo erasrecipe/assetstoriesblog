@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "random-walk-down-wall-street-vs-little-book-common-sense-investing",
   "title": "A Random Walk Down Wall Street vs The Little Book of Common Sense Investing: Head to Head Comparison",
   "metaDescription": "Burton Malkiel's investing classic vs John Bogle's index fund manifesto. Which legendary book will transform your investment strategy more effectively?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 4100,
     "price": 20.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_RANDOM_WALK",
+    "amazonUrl": "https://www.amazon.com/dp/0393354320?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780393358384-L.jpg",
     "description": "A Random Walk Down Wall Street has long been established as a classic on investing. Burton Malkiel's comprehensive look at investing and the stock market presents compelling arguments for the random walk theory—the idea that short-term stock price movements are random and unpredictable. The book demonstrates why it's impossible to consistently beat the market through stock picking or market timing, making the case for low-cost index fund investing."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 7200,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_COMMON_SENSE",
+    "amazonUrl": "https://www.amazon.com/dp/1119404507?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781119404507-L.jpg",
     "description": "The best-selling investing 'bible' offers new information, new insights, and timeless wisdom for building wealth. The Little Book of Common Sense Investing is the classic guide to getting smart about the market. Legendary mutual fund pioneer John C. Bogle reveals his key to getting more out of investing: low-cost index funds. Bogle describes the simplest and most effective investment strategy for building wealth over the long term: buy and hold, at very low cost, a mutual fund that tracks a broad stock market Index."
   },

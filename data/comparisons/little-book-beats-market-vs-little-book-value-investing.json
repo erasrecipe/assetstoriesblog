@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 2900,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_BEATS_MARKET",
+    "amazonUrl": "https://www.amazon.com/dp/0471738507?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780470624159-L.jpg",
     "description": "In The Little Book That Beats the Market, Joel Greenblatt, founder and managing partner of Gotham Capital, details a mechanical method for finding good businesses, buying those businesses at bargain prices, and then how to follow up for long-term results. The Magic Formula is surprisingly simple—combining a high return on capital with a high earnings yield systematically beats the market over time."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 780,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_VALUE_INVESTING",
+    "amazonUrl": "https://www.amazon.com/dp/0470053301?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780470055892-L.jpg",
     "description": "The Little Book of Value Investing is a classic text for investors who want to understand how to find stocks with intrinsic value above their current market prices. Christopher Browne, a longtime disciple of Benjamin Graham and Warren Buffett, explains value investing principles and shows readers how to apply them to find undervalued stocks in any market environment."
   },

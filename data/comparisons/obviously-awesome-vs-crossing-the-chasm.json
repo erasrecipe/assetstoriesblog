@@ -1,161 +1,161 @@
 ﻿{
-    "slug": "obviously-awesome-vs-crossing-the-chasm",
-    "title": "Obviously Awesome vs Crossing the Chasm: Head to Head Comparison",
-    "metaDescription": "Compare Obviously Awesome vs Crossing the Chasm. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated": "2026-02-07",
-    "category": "Sales \u0026 Marketing",
-    "book1": {
-                  "title": "Obviously Awesome",
-                  "subtitle": "How to Nail Product Positioning so Customers Get It, Buy It, Love It",
-                  "author": "April Dunford",
-                  "isbn": "978-1999023003",
-                  "publishedYear": 2019,
-                  "pages": 224,
-                  "rating": 4.6,
-                  "ratingCount": 1800,
-                  "price": 19.99,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_OBVIOUSLY_AWESOME",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781999023003-L.jpg",
-                  "description": "You know your product is awesomeâ€”but does anybody else? Forget everything you thought you knew about positioning. Successfully connecting your product with consumers isn\u0027t a matter of following trends, comparing yourself to the competition or trying to attract the widest customer base. April Dunford\u0027s Obviously Awesome shows you how to use a simple, structured process to position your product so that prospects see it as truly awesomeâ€”and genuinely want to buy it."
-              },
-    "book2": {
-                  "title": "Crossing the Chasm",
-                  "subtitle": "Marketing and Selling Disruptive Products to Mainstream Customers",
-                  "author": "Geoffrey A. Moore",
-                  "isbn": "978-0062292988",
-                  "publishedYear": 1991,
-                  "pages": 320,
-                  "rating": 4.4,
-                  "ratingCount": 3200,
-                  "price": 18.99,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_CROSSING_THE_CHASM",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780062292988-L.jpg",
-                  "description": "Here is the bestselling guide that created a new game plan for marketing in high-tech industries. Crossing the Chasm has become the bible for bringing cutting-edge products to progressively larger markets. This edition provides new insights into the realities of high-tech marketing, with special emphasis on the Internet. It\u0027s essential reading for anyone with a stake in the world\u0027s most exciting marketplace."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Main Focus",
-                                         "book1": "Product positioningâ€”how to articulate what makes your product different and valuable",
-                                         "book2": "Market adoptionâ€”how to cross from early adopters to mainstream market"
-                                     },
-                                     {
-                                         "feature": "Core Framework",
-                                         "book1": "10-step positioning process: Best Features Ã¢â€ â€™ Value Ã¢â€ â€™ Market Ã¢â€ â€™ Alternatives Ã¢â€ â€™ Positioning",
-                                         "book2": "Technology Adoption Lifecycle: Innovators Ã¢â€ â€™ Early Adopters Ã¢â€ â€™ Chasm Ã¢â€ â€™ Early Majority Ã¢â€ â€™ Late Majority Ã¢â€ â€™ Laggards"
-                                     },
-                                     {
-                                         "feature": "Key Problem",
-                                         "book1": "Your positioning is weak and customers don\u0027t understand your value",
-                                         "book2": "You have early adopters but can\u0027t break into the mainstream market"
-                                     },
-                                     {
-                                         "feature": "Primary Audience",
-                                         "book1": "Product marketers, founders, anyone defining product positioning",
-                                         "book2": "Tech companies scaling from early adopters to mass market"
-                                     },
-                                     {
-                                         "feature": "Best For",
-                                         "book1": "Clarifying positioning for any product at any stage",
-                                         "book2": "Understanding why adoption stalls and how to cross into mainstream"
-                                     },
-                                     {
-                                         "feature": "Era",
-                                         "book1": "2019â€”modern, reflects current market dynamics",
-                                         "book2": "1991â€”classic but some examples feel dated"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "224 pages",
-                                         "book2": "320 pages"
-                                     },
-                                     {
-                                         "feature": "Published",
-                                         "book1": "2019",
-                                         "book2": "1991"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "The 10-step positioning process is brilliantly practical and actionable",
-                                              "Modern (2019)â€”reflects current market realities and customer expectations",
-                                              "April Dunford\u0027s experience positioning 16+ companies shows throughout",
-                                              "Shorter at 224 pagesâ€”more focused and digestible",
-                                              "Works for any product, not just high-tech",
-                                              "The positioning canvas is a fantastic tool you can use immediately",
-                                              "Higher rating (4.6 vs 4.4) shows strong practical impact",
-                                              "Examples span B2B SaaS, consumer products, and services"
-                                          ],
-                       "book1Weaknesses": [
-                                               "Doesn\u0027t address market adoption dynamics beyond positioning",
-                                               "Smaller audience (1,800 vs 3,200)â€”less mainstream recognition",
-                                               "Less focus on the scaling and growth challenges",
-                                               "Doesn\u0027t explain why products fail to cross into mainstream",
-                                               "More tactical than strategicâ€”doesn\u0027t cover market timing",
-                                               "Assumes you have product-market fit already"
-                                           ],
-                       "book2Strengths": [
-                                              "The definitive book on technology adoption and market dynamics",
-                                              "The Chasm concept has become part of startup vocabulary",
-                                              "Larger audience (3,200 vs 1,800) shows broader influence",
-                                              "Explains why so many great products fail to scale",
-                                              "The bowling pin strategy for market entry is brilliant",
-                                              "Essential reading for understanding market dynamics",
-                                              "The whole product concept is invaluable for product strategy",
-                                              "Has stood the test of time for 30+ years"
-                                          ],
-                       "book2Weaknesses": [
-                                               "Published 1991â€”many examples (workstations, PDAs) feel very dated",
-                                               "Longer at 320 pages with some repetitive sections",
-                                               "The technology focus may not translate to all industries",
-                                               "Lower rating (4.4 vs 4.6) suggests some readers find it less actionable",
-                                               "Doesn\u0027t provide a step-by-step positioning framework",
-                                               "Can feel theoretical rather than immediately practical",
-                                               "Some concepts need translation to modern markets"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about.",
-                                 "Your best features are not your positioning.",
-                                 "Positioning isn\u0027t what you say about yourself; it\u0027s what the market understands about you.",
-                                 "If you don\u0027t deliberately position yourself, the market will do it for youâ€”and you won\u0027t like the result.",
-                                 "Context is everything in positioning.",
-                                 "The goal of positioning is to control the story about your product in the market.",
-                                 "Good positioning makes it obvious why your product is different and worth paying for.",
-                                 "Position your product in a market where you can credibly claim to be the best."
-                             ],
-                   "book2": [
-                                 "The chasm represents the gulf between two distinct marketplaces for technology productsâ€”the first being an early market dominated by early adopters, and the second a mainstream market dominated by the early majority.",
-                                 "Visionaries and pragmatists have very different expectations, and they need to be marketed to very differently.",
-                                 "To cross the chasm, you must focus exclusively on achieving a dominant position in one or two narrowly bounded market segments.",
-                                 "The number one corporate objective, when crossing the chasm, is to secure a distribution channel into the mainstream market.",
-                                 "If you try to cross the chasm without a target market focus, you will fall into it.",
-                                 "Whole product means the complete set of products and services needed to achieve the compelling reason to buy.",
-                                 "The bowling pin strategy: knock over one pin, then use that success to knock over the next.",
-                                 "Pragmatists buy from market leaders, not from technology leaders."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "Get the 10-step process for nailing product positioning",
-                                  "Learn why best features don\u0027t equal good positioning",
-                                  "Master the positioning canvas tool for immediate implementation",
-                                  "Understand how to articulate differentiated value clearly",
-                                  "Perfect for product marketers and founders positioning products",
-                                  "Modern framework that reflects current market dynamics"
-                              ],
-                    "book2": [
-                                  "Understand the Technology Adoption Lifecycle and the Chasm",
-                                  "Learn why products with early traction fail to scale",
-                                  "Master the bowling pin strategy for market entry",
-                                  "Discover the whole product concept for mainstream success",
-                                  "Essential for tech companies crossing into mainstream markets",
-                                  "The definitive book on market dynamics and adoption"
-                              ]
-                },
-    "verdict": {
-                    "winner": "It Depends",
-                    "summary": "Obviously Awesome wins if your challenge is positioningâ€”customers don\u0027t understand your value or what makes you different. The 10-step process is more actionable and modern. Crossing the Chasm wins if you have early adopters but can\u0027t break into mainstreamâ€”it explains market dynamics and adoption. Dunford is about messaging; Moore is about market strategy. Different problems, different solutions.",
-                    "recommendation": "If you\u0027re struggling with positioning and customers don\u0027t \u0027get\u0027 your product, start with Obviously Awesome. April\u0027s framework is immediately actionable and will clarify your messaging. If you have early traction but sales have stalled at the chasm, read Crossing the Chasm to understand market dynamics and how to reach pragmatists. For tech founders, read both: Obviously Awesome for positioning, Crossing the Chasm for market strategy. If you only read one and positioning is your issue, choose Obviously Awesomeâ€”it\u0027s more tactical and modern. Both are essential, just at different stages."
-                }
+  "slug": "obviously-awesome-vs-crossing-the-chasm",
+  "title": "Obviously Awesome vs Crossing the Chasm: Head to Head Comparison",
+  "metaDescription": "Compare Obviously Awesome vs Crossing the Chasm. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "Obviously Awesome",
+    "subtitle": "How to Nail Product Positioning so Customers Get It, Buy It, Love It",
+    "author": "April Dunford",
+    "isbn": "978-1999023003",
+    "publishedYear": 2019,
+    "pages": 224,
+    "rating": 4.6,
+    "ratingCount": 1800,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781999023003?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781999023003-L.jpg",
+    "description": "You know your product is awesomeâ€”but does anybody else? Forget everything you thought you knew about positioning. Successfully connecting your product with consumers isn't a matter of following trends, comparing yourself to the competition or trying to attract the widest customer base. April Dunford's Obviously Awesome shows you how to use a simple, structured process to position your product so that prospects see it as truly awesomeâ€”and genuinely want to buy it."
+  },
+  "book2": {
+    "title": "Crossing the Chasm",
+    "subtitle": "Marketing and Selling Disruptive Products to Mainstream Customers",
+    "author": "Geoffrey A. Moore",
+    "isbn": "978-0062292988",
+    "publishedYear": 1991,
+    "pages": 320,
+    "rating": 4.4,
+    "ratingCount": 3200,
+    "price": 18.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780062292988?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780062292988-L.jpg",
+    "description": "Here is the bestselling guide that created a new game plan for marketing in high-tech industries. Crossing the Chasm has become the bible for bringing cutting-edge products to progressively larger markets. This edition provides new insights into the realities of high-tech marketing, with special emphasis on the Internet. It's essential reading for anyone with a stake in the world's most exciting marketplace."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Product positioningâ€”how to articulate what makes your product different and valuable",
+        "book2": "Market adoptionâ€”how to cross from early adopters to mainstream market"
+      },
+      {
+        "feature": "Core Framework",
+        "book1": "10-step positioning process: Best Features Ã¢â€ â€™ Value Ã¢â€ â€™ Market Ã¢â€ â€™ Alternatives Ã¢â€ â€™ Positioning",
+        "book2": "Technology Adoption Lifecycle: Innovators Ã¢â€ â€™ Early Adopters Ã¢â€ â€™ Chasm Ã¢â€ â€™ Early Majority Ã¢â€ â€™ Late Majority Ã¢â€ â€™ Laggards"
+      },
+      {
+        "feature": "Key Problem",
+        "book1": "Your positioning is weak and customers don't understand your value",
+        "book2": "You have early adopters but can't break into the mainstream market"
+      },
+      {
+        "feature": "Primary Audience",
+        "book1": "Product marketers, founders, anyone defining product positioning",
+        "book2": "Tech companies scaling from early adopters to mass market"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Clarifying positioning for any product at any stage",
+        "book2": "Understanding why adoption stalls and how to cross into mainstream"
+      },
+      {
+        "feature": "Era",
+        "book1": "2019â€”modern, reflects current market dynamics",
+        "book2": "1991â€”classic but some examples feel dated"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "224 pages",
+        "book2": "320 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2019",
+        "book2": "1991"
+      }
+    ],
+    "book1Strengths": [
+      "The 10-step positioning process is brilliantly practical and actionable",
+      "Modern (2019)â€”reflects current market realities and customer expectations",
+      "April Dunford's experience positioning 16+ companies shows throughout",
+      "Shorter at 224 pagesâ€”more focused and digestible",
+      "Works for any product, not just high-tech",
+      "The positioning canvas is a fantastic tool you can use immediately",
+      "Higher rating (4.6 vs 4.4) shows strong practical impact",
+      "Examples span B2B SaaS, consumer products, and services"
+    ],
+    "book1Weaknesses": [
+      "Doesn't address market adoption dynamics beyond positioning",
+      "Smaller audience (1,800 vs 3,200)â€”less mainstream recognition",
+      "Less focus on the scaling and growth challenges",
+      "Doesn't explain why products fail to cross into mainstream",
+      "More tactical than strategicâ€”doesn't cover market timing",
+      "Assumes you have product-market fit already"
+    ],
+    "book2Strengths": [
+      "The definitive book on technology adoption and market dynamics",
+      "The Chasm concept has become part of startup vocabulary",
+      "Larger audience (3,200 vs 1,800) shows broader influence",
+      "Explains why so many great products fail to scale",
+      "The bowling pin strategy for market entry is brilliant",
+      "Essential reading for understanding market dynamics",
+      "The whole product concept is invaluable for product strategy",
+      "Has stood the test of time for 30+ years"
+    ],
+    "book2Weaknesses": [
+      "Published 1991â€”many examples (workstations, PDAs) feel very dated",
+      "Longer at 320 pages with some repetitive sections",
+      "The technology focus may not translate to all industries",
+      "Lower rating (4.4 vs 4.6) suggests some readers find it less actionable",
+      "Doesn't provide a step-by-step positioning framework",
+      "Can feel theoretical rather than immediately practical",
+      "Some concepts need translation to modern markets"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Positioning is the act of deliberately defining how you are the best at something that a defined market cares a lot about.",
+      "Your best features are not your positioning.",
+      "Positioning isn't what you say about yourself; it's what the market understands about you.",
+      "If you don't deliberately position yourself, the market will do it for youâ€”and you won't like the result.",
+      "Context is everything in positioning.",
+      "The goal of positioning is to control the story about your product in the market.",
+      "Good positioning makes it obvious why your product is different and worth paying for.",
+      "Position your product in a market where you can credibly claim to be the best."
+    ],
+    "book2": [
+      "The chasm represents the gulf between two distinct marketplaces for technology productsâ€”the first being an early market dominated by early adopters, and the second a mainstream market dominated by the early majority.",
+      "Visionaries and pragmatists have very different expectations, and they need to be marketed to very differently.",
+      "To cross the chasm, you must focus exclusively on achieving a dominant position in one or two narrowly bounded market segments.",
+      "The number one corporate objective, when crossing the chasm, is to secure a distribution channel into the mainstream market.",
+      "If you try to cross the chasm without a target market focus, you will fall into it.",
+      "Whole product means the complete set of products and services needed to achieve the compelling reason to buy.",
+      "The bowling pin strategy: knock over one pin, then use that success to knock over the next.",
+      "Pragmatists buy from market leaders, not from technology leaders."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Get the 10-step process for nailing product positioning",
+      "Learn why best features don't equal good positioning",
+      "Master the positioning canvas tool for immediate implementation",
+      "Understand how to articulate differentiated value clearly",
+      "Perfect for product marketers and founders positioning products",
+      "Modern framework that reflects current market dynamics"
+    ],
+    "book2": [
+      "Understand the Technology Adoption Lifecycle and the Chasm",
+      "Learn why products with early traction fail to scale",
+      "Master the bowling pin strategy for market entry",
+      "Discover the whole product concept for mainstream success",
+      "Essential for tech companies crossing into mainstream markets",
+      "The definitive book on market dynamics and adoption"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "Obviously Awesome wins if your challenge is positioningâ€”customers don't understand your value or what makes you different. The 10-step process is more actionable and modern. Crossing the Chasm wins if you have early adopters but can't break into mainstreamâ€”it explains market dynamics and adoption. Dunford is about messaging; Moore is about market strategy. Different problems, different solutions.",
+    "recommendation": "If you're struggling with positioning and customers don't 'get' your product, start with Obviously Awesome. April's framework is immediately actionable and will clarify your messaging. If you have early traction but sales have stalled at the chasm, read Crossing the Chasm to understand market dynamics and how to reach pragmatists. For tech founders, read both: Obviously Awesome for positioning, Crossing the Chasm for market strategy. If you only read one and positioning is your issue, choose Obviously Awesomeâ€”it's more tactical and modern. Both are essential, just at different stages."
+  }
 }

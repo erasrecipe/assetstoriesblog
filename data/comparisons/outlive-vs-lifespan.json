@@ -1,148 +1,148 @@
-{
-    "slug": "outlive-vs-lifespan",
-    "title": "Outlive vs Lifespan: Head to Head Comparison",
-    "metaDescription": "Compare Outlive vs Lifespan. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
-    "lastUpdated": "2026-02-10",
-    "category": "Health & Wellness",
-    "book1": {
-        "title": "Outlive",
-        "subtitle": "The Science and Art of Longevity",
-        "author": "Peter Attia",
-        "isbn": "978-0593236598",
-        "publishedYear": 2023,
-        "pages": 496,
-        "rating": 4.7,
-        "ratingCount": 67000,
-        "price": 21.99,
-        "amazonUrl": "PLACEHOLDER_AMAZON_URL_OUTLIVE",
-        "coverImage": "https://covers.openlibrary.org/b/isbn/9780593236598-L.jpg",
-        "description": "Wouldn't you like to live longer? And better? In this operating manual for longevity, Dr. Peter Attia draws on the latest science to deliver innovative nutritional interventions, techniques for optimizing exercise and sleep, and tools for addressing emotional and mental health. With Outlive's help, you will learn how to live longer and live better—with vigor, strength, endurance, and vitality."
-    },
-    "book2": {
-        "title": "Lifespan",
-        "subtitle": "Why We Age—and Why We Don't Have To",
-        "author": "David A. Sinclair",
-        "isbn": "978-1501191978",
-        "publishedYear": 2019,
-        "pages": 432,
-        "rating": 4.5,
-        "ratingCount": 58000,
-        "price": 19.99,
-        "amazonUrl": "PLACEHOLDER_AMAZON_URL_LIFESPAN",
-        "coverImage": "https://covers.openlibrary.org/b/isbn/9781501191978-L.jpg",
-        "description": "A groundbreaking exploration of why we age and how we can slow and even reverse it. In this paradigm-shifting book, Dr. David Sinclair reveals that aging is not inevitable and presents a bold new theory about what causes us to age. He discusses current cutting-edge research and shares discoveries from his own Harvard lab that could dramatically extend our lifespans—and potentially eliminate age-related diseases."
-    },
-    "comparison": {
-        "table": [
-            {
-                "feature": "Main Focus",
-                "book1": "Healthspan - living better longer (Medicine 3.0)",
-                "book2": "Lifespan - extending maximum life (aging research)"
-            },
-            {
-                "feature": "Approach",
-                "book1": "Practical interventions you can do now",
-                "book2": "Future potential and current research"
-            },
-            {
-                "feature": "Core Philosophy",
-                "book1": "Prevent the Four Horsemen diseases",
-                "book2": "Aging is a disease we can cure"
-            },
-            {
-                "feature": "Actionability",
-                "book1": "Extremely practical with protocols",
-                "book2": "Some actionable, some speculative"
-            },
-            {
-                "feature": "Exercise Focus",
-                "book1": "Extensive - different zones and types",
-                "book2": "Mentioned but less detailed"
-            },
-            {
-                "feature": "Supplements",
-                "book1": "Cautious, evidence-based approach",
-                "book2": "Personal regimen shared (NAD+, resveratrol, metformin)"
-            },
-            {
-                "feature": "Tone",
-                "book1": "Practical doctor focused on patients",
-                "book2": "Optimistic scientist focused on future"
-            },
-            {
-                "feature": "Page Count",
-                "book1": "496 pages",
-                "book2": "432 pages"
-            }
-        ],
-        "book1Strengths": [
-            "Medicine 3.0 framework revolutionary: Medicine 1.0 pre-scientific (leeches), Medicine 2.0 reactive (treat after symptoms), Medicine 3.0 proactive prevention. Instead of waiting for heart attack at 60, identify risk at 40 and intervene early",
-            "Four Horsemen framework brilliantly clear: chronic diseases killing most are (1) heart disease, (2) cancer, (3) neurodegenerative disease, (4) type 2 diabetes. Attia's protocols prevent all four simultaneously through exercise, nutrition, sleep, emotional health",
-            "Detailed exercise protocols: Zone 2 cardio 3-4 hours/week builds mitochondrial capacity, VO2 max intervals improve peak aerobic capacity (correlates longevity), strength training 3x/week prevents sarcopenia, stability prevents falls",
-            "Addresses emotional health deeply—unexpected but critical. Attia shares therapy journey, explains how childhood trauma affects health behaviors. Unresolved emotional issues drive stress, cortisol dysregulation, poor sleep. Can't optimize physiology while ignoring psychology",
-            "Evidence-based without overpromising: skeptical of supplements (most lack evidence), cautious about fasting claims, honest about uncertainty (metformin human lifespan unclear despite rodent studies). Separates proven interventions from speculation"
-        ],
-        "book1Weaknesses": [
-            "At 496 pages, long and overwhelming—exercise chapter alone 50+ pages. Attia goes deep on every topic (metabolic dysfunction, lipoproteins, cancer screening, Alzheimer's). Comprehensive but dense",
-            "Very technical—may require rereading. Explains ApoB particles, insulin resistance mechanisms, beta-amyloid pathology, VO2 max physiology in detail. Some chapters demand concentration. If you struggle with scientific concepts, need to slow down",
-            "Exercise protocols complex and time-intensive: 3-4 hours Zone 2 weekly, plus VO2 max intervals, plus 3 strength sessions, plus stability totals 6-8 hours minimum. For busy people, daunting. Attia acknowledges but no shortcuts",
-            "Less focus on cutting-edge research: doesn't discuss NAD+ boosters, senolytics, or future therapies much. Focuses on proven interventions now (exercise, nutrition, sleep). If you want speculation about anti-aging pills, you'll be disappointed"
-        ],
-        "book2Strengths": [
-            "Information Theory of Aging paradigm-shifting: aging is loss of epigenetic information (cellular instructions). DNA is digital (doesn't degrade much), epigenetics analog (degrade like scratched CDs). If we restore epigenetic information, we can reverse aging",
-            "Optimistic vision of aging as treatable disease: Sinclair believes we can extend healthy human lifespan to 120+ years within our lifetime. Seen it in mice (lab extended mouse lifespan 30%). Human trials underway. Optimism infectious—aging isn't something to accept passively",
-            "Covers cutting-edge research: sirtuins (longevity genes) require NAD+ to function, NAD+ declines with age, NAD+ precursors (NMN, NR) might restore youthful levels. Resveratrol (red wine) activates sirtuins. Frontier science you won't get from Attia",
-            "Shares personal supplement regimen: 1g NMN daily (NAD+ booster, $50-100/month), 1g resveratrol, 500mg metformin, vitamin D, vitamin K2. Tracks biomarkers, reports biological age younger than chronological. Shows what leading researcher does himself",
-            "Easy to understand complex biology: writes clearly about epigenetics, gene expression, cellular senescence, mTOR, autophagy. Uses metaphors (DNA as music score, epigenetics as conductor). Accessible popular science"
-        ],
-        "book2Weaknesses": [
-            "Some recommendations speculative or not yet proven in humans: NAD+ boosters show promise in mice and early trials, but we don't have 20-year human studies. Resveratrol research mixed. Metformin for longevity isn't FDA-approved. Sinclair honest about uncertainty but still recommends based on incomplete evidence",
-            "Sinclair's supplement protocol controversial: some argue NAD+ precursors overhyped, resveratrol benefits questionable, metformin for non-diabetics lacks evidence. Peter Attia more skeptical. Scientific community divided on whether cutting-edge or premature",
-            "Published 2019, some research updated or contradicted since: longevity science moves fast. New trials on NAD+ boosters, senolytics, rapamycin published. Book captures 2019 knowledge but may be outdated on details",
-            "Less practical exercise and nutrition guidance: Sinclair discusses exercise benefits (activates AMPK, promotes autophagy) but doesn't give detailed protocols. Nutrition advice general (eat less, intermittent fasting). If you want actionable workout plans, Attia far superior"
-        ]
-    },
-    "quotes": {
-        "book1": [
-            "The goal is not to live forever. The goal is to live better—to have more years of good health.",
-            "Medicine 3.0 is about prevention and optimization, not just treatment.",
-            "The Four Horsemen of chronic disease are heart disease, cancer, neurodegenerative disease, and type 2 diabetes.",
-            "Exercise is the most powerful longevity drug we have.",
-            "Healthspan is what matters. Living longer but poorly is not the goal.",
-            "The question is not just how long you will live, but how well you will live."
-        ],
-        "book2": [
-            "Aging is not inevitable. It's a disease, and that disease is treatable.",
-            "There are three main longevity genes: sirtuins, AMPK, and mTOR.",
-            "What you eat and how much you exercise influence how you age at the cellular level.",
-            "We can live to be over 100 in relatively good health. The science is there.",
-            "Information is lost over time—that's why we age.",
-            "The goal is not to live forever but to stay younger longer."
-        ]
-    },
-    "whyRead": {
-        "book1": [
-            "You want practical, actionable protocols to implement now",
-            "You're focused on healthspan—living better, not just longer",
-            "You want detailed exercise and nutrition guidance",
-            "You need to prevent or manage chronic diseases",
-            "You appreciate evidence-based medicine over speculation",
-            "You want comprehensive coverage of physical and emotional health",
-            "You're willing to invest time in understanding complex protocols"
-        ],
-        "book2": [
-            "You're fascinated by cutting-edge aging research",
-            "You want to understand the biology of why we age",
-            "You're interested in supplements like NAD+, resveratrol, metformin",
-            "You prefer an optimistic, future-focused perspective",
-            "You want inspiration about what's possible in longevity",
-            "You're comfortable with some speculation alongside science",
-            "You want a shorter, more accessible read than Outlive"
-        ]
-    },
-    "verdict": {
-        "winner": "Outlive",
-        "summary": "Outlive wins for most readers with 67,000 ratings at 4.7 stars versus 58,000 at 4.5 stars. Attia provides comprehensive, practical protocols you can implement today to extend healthspan through Medicine 3.0 framework (proactive prevention versus reactive treatment), Four Horsemen disease prevention (heart disease, cancer, dementia, diabetes), detailed exercise protocols (Zone 2 cardio, VO2 max intervals, strength training), and emotional health integration. Lifespan is fascinating for understanding aging biology (Information Theory, sirtuins, NAD+) and cutting-edge research, but more speculative and less immediately practical. Outlive is the doctor's manual for patients; Lifespan is the scientist's vision of the future.",
-        "recommendation": "Read Outlive first if you want to take action on health and longevity immediately. Peter Attia's Medicine 3.0 framework shifts from reactive treatment (waits for heart attack at 60) to proactive prevention (identify risk at 40 and intervene early). The Four Horsemen protocols target preventing heart disease, cancer, neurodegenerative disease, and diabetes simultaneously through detailed exercise (Zone 2 cardio 3-4 hours weekly builds mitochondrial capacity, VO2 max intervals improve peak aerobic capacity correlating with longevity, strength training 3x weekly prevents sarcopenia), nutrition guidance, sleep optimization, and emotional health (Attia shares therapy journey, explains how trauma affects health behaviors). It's 496 pages of comprehensive, evidence-based protocols—demanding but achievable. Attia is skeptical of supplements, cautious about overpromising, honest about uncertainty. Then read Lifespan if you're curious about cutting-edge science and want to understand aging biology. David Sinclair's Information Theory (aging is loss of epigenetic information like scratched CDs losing data) is paradigm-shifting, and his optimism about treating aging as a disease is inspiring. He covers sirtuins (longevity genes), NAD+ decline with age, resveratrol activation, and shares his personal supplement regimen (1g NMN daily, 1g resveratrol, 500mg metformin). But it's more speculative—NAD+ boosters lack 20-year human trials, resveratrol research is mixed, metformin for longevity isn't FDA-approved. Published 2019, some research has been updated. Less practical exercise/nutrition than Attia. Together they're complete: Outlive tells you what to DO now (exercise protocols, disease prevention), Lifespan tells you WHY we age and what's possible in the future. If you only read one, choose Outlive for actionable longevity optimization you can start today."
-    }
+﻿{
+  "slug": "outlive-vs-lifespan",
+  "title": "Outlive vs Lifespan: Head to Head Comparison",
+  "metaDescription": "Compare Outlive vs Lifespan. Detailed head-to-head comparison with strengths, weaknesses, and expert verdict. Which book is right for you?",
+  "lastUpdated": "2026-02-10",
+  "category": "Health & Wellness",
+  "book1": {
+    "title": "Outlive",
+    "subtitle": "The Science and Art of Longevity",
+    "author": "Peter Attia",
+    "isbn": "978-0593236598",
+    "publishedYear": 2023,
+    "pages": 496,
+    "rating": 4.7,
+    "ratingCount": 67000,
+    "price": 21.99,
+    "amazonUrl": "https://www.amazon.com/dp/0593235718?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780593236598-L.jpg",
+    "description": "Wouldn't you like to live longer? And better? In this operating manual for longevity, Dr. Peter Attia draws on the latest science to deliver innovative nutritional interventions, techniques for optimizing exercise and sleep, and tools for addressing emotional and mental health. With Outlive's help, you will learn how to live longer and live better—with vigor, strength, endurance, and vitality."
+  },
+  "book2": {
+    "title": "Lifespan",
+    "subtitle": "Why We Age—and Why We Don't Have To",
+    "author": "David A. Sinclair",
+    "isbn": "978-1501191978",
+    "publishedYear": 2019,
+    "pages": 432,
+    "rating": 4.5,
+    "ratingCount": 58000,
+    "price": 19.99,
+    "amazonUrl": "https://www.amazon.com/dp/1501130800?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781501191978-L.jpg",
+    "description": "A groundbreaking exploration of why we age and how we can slow and even reverse it. In this paradigm-shifting book, Dr. David Sinclair reveals that aging is not inevitable and presents a bold new theory about what causes us to age. He discusses current cutting-edge research and shares discoveries from his own Harvard lab that could dramatically extend our lifespans—and potentially eliminate age-related diseases."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Main Focus",
+        "book1": "Healthspan - living better longer (Medicine 3.0)",
+        "book2": "Lifespan - extending maximum life (aging research)"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Practical interventions you can do now",
+        "book2": "Future potential and current research"
+      },
+      {
+        "feature": "Core Philosophy",
+        "book1": "Prevent the Four Horsemen diseases",
+        "book2": "Aging is a disease we can cure"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Extremely practical with protocols",
+        "book2": "Some actionable, some speculative"
+      },
+      {
+        "feature": "Exercise Focus",
+        "book1": "Extensive - different zones and types",
+        "book2": "Mentioned but less detailed"
+      },
+      {
+        "feature": "Supplements",
+        "book1": "Cautious, evidence-based approach",
+        "book2": "Personal regimen shared (NAD+, resveratrol, metformin)"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Practical doctor focused on patients",
+        "book2": "Optimistic scientist focused on future"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "496 pages",
+        "book2": "432 pages"
+      }
+    ],
+    "book1Strengths": [
+      "Medicine 3.0 framework revolutionary: Medicine 1.0 pre-scientific (leeches), Medicine 2.0 reactive (treat after symptoms), Medicine 3.0 proactive prevention. Instead of waiting for heart attack at 60, identify risk at 40 and intervene early",
+      "Four Horsemen framework brilliantly clear: chronic diseases killing most are (1) heart disease, (2) cancer, (3) neurodegenerative disease, (4) type 2 diabetes. Attia's protocols prevent all four simultaneously through exercise, nutrition, sleep, emotional health",
+      "Detailed exercise protocols: Zone 2 cardio 3-4 hours/week builds mitochondrial capacity, VO2 max intervals improve peak aerobic capacity (correlates longevity), strength training 3x/week prevents sarcopenia, stability prevents falls",
+      "Addresses emotional health deeply—unexpected but critical. Attia shares therapy journey, explains how childhood trauma affects health behaviors. Unresolved emotional issues drive stress, cortisol dysregulation, poor sleep. Can't optimize physiology while ignoring psychology",
+      "Evidence-based without overpromising: skeptical of supplements (most lack evidence), cautious about fasting claims, honest about uncertainty (metformin human lifespan unclear despite rodent studies). Separates proven interventions from speculation"
+    ],
+    "book1Weaknesses": [
+      "At 496 pages, long and overwhelming—exercise chapter alone 50+ pages. Attia goes deep on every topic (metabolic dysfunction, lipoproteins, cancer screening, Alzheimer's). Comprehensive but dense",
+      "Very technical—may require rereading. Explains ApoB particles, insulin resistance mechanisms, beta-amyloid pathology, VO2 max physiology in detail. Some chapters demand concentration. If you struggle with scientific concepts, need to slow down",
+      "Exercise protocols complex and time-intensive: 3-4 hours Zone 2 weekly, plus VO2 max intervals, plus 3 strength sessions, plus stability totals 6-8 hours minimum. For busy people, daunting. Attia acknowledges but no shortcuts",
+      "Less focus on cutting-edge research: doesn't discuss NAD+ boosters, senolytics, or future therapies much. Focuses on proven interventions now (exercise, nutrition, sleep). If you want speculation about anti-aging pills, you'll be disappointed"
+    ],
+    "book2Strengths": [
+      "Information Theory of Aging paradigm-shifting: aging is loss of epigenetic information (cellular instructions). DNA is digital (doesn't degrade much), epigenetics analog (degrade like scratched CDs). If we restore epigenetic information, we can reverse aging",
+      "Optimistic vision of aging as treatable disease: Sinclair believes we can extend healthy human lifespan to 120+ years within our lifetime. Seen it in mice (lab extended mouse lifespan 30%). Human trials underway. Optimism infectious—aging isn't something to accept passively",
+      "Covers cutting-edge research: sirtuins (longevity genes) require NAD+ to function, NAD+ declines with age, NAD+ precursors (NMN, NR) might restore youthful levels. Resveratrol (red wine) activates sirtuins. Frontier science you won't get from Attia",
+      "Shares personal supplement regimen: 1g NMN daily (NAD+ booster, $50-100/month), 1g resveratrol, 500mg metformin, vitamin D, vitamin K2. Tracks biomarkers, reports biological age younger than chronological. Shows what leading researcher does himself",
+      "Easy to understand complex biology: writes clearly about epigenetics, gene expression, cellular senescence, mTOR, autophagy. Uses metaphors (DNA as music score, epigenetics as conductor). Accessible popular science"
+    ],
+    "book2Weaknesses": [
+      "Some recommendations speculative or not yet proven in humans: NAD+ boosters show promise in mice and early trials, but we don't have 20-year human studies. Resveratrol research mixed. Metformin for longevity isn't FDA-approved. Sinclair honest about uncertainty but still recommends based on incomplete evidence",
+      "Sinclair's supplement protocol controversial: some argue NAD+ precursors overhyped, resveratrol benefits questionable, metformin for non-diabetics lacks evidence. Peter Attia more skeptical. Scientific community divided on whether cutting-edge or premature",
+      "Published 2019, some research updated or contradicted since: longevity science moves fast. New trials on NAD+ boosters, senolytics, rapamycin published. Book captures 2019 knowledge but may be outdated on details",
+      "Less practical exercise and nutrition guidance: Sinclair discusses exercise benefits (activates AMPK, promotes autophagy) but doesn't give detailed protocols. Nutrition advice general (eat less, intermittent fasting). If you want actionable workout plans, Attia far superior"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The goal is not to live forever. The goal is to live better—to have more years of good health.",
+      "Medicine 3.0 is about prevention and optimization, not just treatment.",
+      "The Four Horsemen of chronic disease are heart disease, cancer, neurodegenerative disease, and type 2 diabetes.",
+      "Exercise is the most powerful longevity drug we have.",
+      "Healthspan is what matters. Living longer but poorly is not the goal.",
+      "The question is not just how long you will live, but how well you will live."
+    ],
+    "book2": [
+      "Aging is not inevitable. It's a disease, and that disease is treatable.",
+      "There are three main longevity genes: sirtuins, AMPK, and mTOR.",
+      "What you eat and how much you exercise influence how you age at the cellular level.",
+      "We can live to be over 100 in relatively good health. The science is there.",
+      "Information is lost over time—that's why we age.",
+      "The goal is not to live forever but to stay younger longer."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want practical, actionable protocols to implement now",
+      "You're focused on healthspan—living better, not just longer",
+      "You want detailed exercise and nutrition guidance",
+      "You need to prevent or manage chronic diseases",
+      "You appreciate evidence-based medicine over speculation",
+      "You want comprehensive coverage of physical and emotional health",
+      "You're willing to invest time in understanding complex protocols"
+    ],
+    "book2": [
+      "You're fascinated by cutting-edge aging research",
+      "You want to understand the biology of why we age",
+      "You're interested in supplements like NAD+, resveratrol, metformin",
+      "You prefer an optimistic, future-focused perspective",
+      "You want inspiration about what's possible in longevity",
+      "You're comfortable with some speculation alongside science",
+      "You want a shorter, more accessible read than Outlive"
+    ]
+  },
+  "verdict": {
+    "winner": "Outlive",
+    "summary": "Outlive wins for most readers with 67,000 ratings at 4.7 stars versus 58,000 at 4.5 stars. Attia provides comprehensive, practical protocols you can implement today to extend healthspan through Medicine 3.0 framework (proactive prevention versus reactive treatment), Four Horsemen disease prevention (heart disease, cancer, dementia, diabetes), detailed exercise protocols (Zone 2 cardio, VO2 max intervals, strength training), and emotional health integration. Lifespan is fascinating for understanding aging biology (Information Theory, sirtuins, NAD+) and cutting-edge research, but more speculative and less immediately practical. Outlive is the doctor's manual for patients; Lifespan is the scientist's vision of the future.",
+    "recommendation": "Read Outlive first if you want to take action on health and longevity immediately. Peter Attia's Medicine 3.0 framework shifts from reactive treatment (waits for heart attack at 60) to proactive prevention (identify risk at 40 and intervene early). The Four Horsemen protocols target preventing heart disease, cancer, neurodegenerative disease, and diabetes simultaneously through detailed exercise (Zone 2 cardio 3-4 hours weekly builds mitochondrial capacity, VO2 max intervals improve peak aerobic capacity correlating with longevity, strength training 3x weekly prevents sarcopenia), nutrition guidance, sleep optimization, and emotional health (Attia shares therapy journey, explains how trauma affects health behaviors). It's 496 pages of comprehensive, evidence-based protocols—demanding but achievable. Attia is skeptical of supplements, cautious about overpromising, honest about uncertainty. Then read Lifespan if you're curious about cutting-edge science and want to understand aging biology. David Sinclair's Information Theory (aging is loss of epigenetic information like scratched CDs losing data) is paradigm-shifting, and his optimism about treating aging as a disease is inspiring. He covers sirtuins (longevity genes), NAD+ decline with age, resveratrol activation, and shares his personal supplement regimen (1g NMN daily, 1g resveratrol, 500mg metformin). But it's more speculative—NAD+ boosters lack 20-year human trials, resveratrol research is mixed, metformin for longevity isn't FDA-approved. Published 2019, some research has been updated. Less practical exercise/nutrition than Attia. Together they're complete: Outlive tells you what to DO now (exercise protocols, disease prevention), Lifespan tells you WHY we age and what's possible in the future. If you only read one, choose Outlive for actionable longevity optimization you can start today."
+  }
 }

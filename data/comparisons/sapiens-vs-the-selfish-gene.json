@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "sapiens-vs-the-selfish-gene",
   "title": "Sapiens vs The Selfish Gene: Head to Head Comparison",
   "metaDescription": "Harari's sweeping human history vs Dawkins' evolutionary biology masterpiece. Cultural evolution vs genetic evolution—which explains us better?",
@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 156000,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SAPIENS",
+    "amazonUrl": "https://www.amazon.com/dp/0062316097?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780062316110-L.jpg",
     "description": "From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be human."
   },
@@ -28,19 +28,47 @@
     "rating": 4.6,
     "ratingCount": 89000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SELFISH_GENE",
+    "amazonUrl": "https://www.amazon.com/dp/9780199291151?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780199291151-L.jpg",
     "description": "Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life."
   },
   "comparison": {
     "table": [
-      {"feature": "Main Focus", "book1": "Human cultural and historical evolution", "book2": "Genetic evolution and natural selection"},
-      {"feature": "Core Argument", "book1": "Humans succeeded through shared myths and cooperation", "book2": "Genes are fundamental units of natural selection"},
-      {"feature": "Scope", "book1": "70,000 years of human history", "book2": "4 billion years of life on Earth"},
-      {"feature": "Approach", "book1": "Historical narrative, big-picture storytelling", "book2": "Scientific theory, detailed biological mechanisms"},
-      {"feature": "Difficulty Level", "book1": "Accessible, conversational", "book2": "Requires focus, more technical"},
-      {"feature": "Page Count", "book1": "443 pages", "book2": "360 pages"},
-      {"feature": "Published", "book1": "2011 (English: 2014)", "book2": "1976 (revolutionary at time)"}
+      {
+        "feature": "Main Focus",
+        "book1": "Human cultural and historical evolution",
+        "book2": "Genetic evolution and natural selection"
+      },
+      {
+        "feature": "Core Argument",
+        "book1": "Humans succeeded through shared myths and cooperation",
+        "book2": "Genes are fundamental units of natural selection"
+      },
+      {
+        "feature": "Scope",
+        "book1": "70,000 years of human history",
+        "book2": "4 billion years of life on Earth"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Historical narrative, big-picture storytelling",
+        "book2": "Scientific theory, detailed biological mechanisms"
+      },
+      {
+        "feature": "Difficulty Level",
+        "book1": "Accessible, conversational",
+        "book2": "Requires focus, more technical"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "443 pages",
+        "book2": "360 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2011 (English: 2014)",
+        "book2": "1976 (revolutionary at time)"
+      }
     ],
     "book1Strengths": [
       "Makes 70,000 years of human history feel coherent and understandable. From foragers to farmers to Facebook—one narrative arc showing how we got here",

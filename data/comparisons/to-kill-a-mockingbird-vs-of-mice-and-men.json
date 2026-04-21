@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 5678000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780061120084?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
     "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos."
   },
@@ -28,7 +28,7 @@
     "rating": 4.2,
     "ratingCount": 2345000,
     "price": 9.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780140177398?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780140177398-L.jpg",
     "description": "They are an unlikely pair: George is 'small and quick and dark of face'; Lennie, a man of tremendous size, has the mind of a young child. Yet they have formed a 'family,' clinging together in the face of loneliness and alienation. Laborers in California's dustbowl, they hustle work when they can, living a hand-to-mouth existence. For George and Lennie have a plan: to own an acre of land and a shack they can call their own."
   },

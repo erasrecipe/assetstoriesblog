@@ -13,8 +13,8 @@
     "pages": 319,
     "rating": 4.5,
     "ratingCount": 8500,
-    "price": 18.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LEARNED_OPTIMISM",
+    "price": 18,
+    "amazonUrl": "https://www.amazon.com/dp/9781400078394?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781400078394-L.jpg",
     "description": "National bestseller that shows how to develop learned optimism and break free from pessimism. Psychologist Martin Seligman draws on twenty years of research to demonstrate how optimism enhances the quality of life, and how anyone can learn to practice it. Offering many simple techniques, Dr. Seligman explains how to break free from pessimistic explanatory styles and start leading a life of greater success and fulfillment."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 34000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MINDSET",
+    "amazonUrl": "https://www.amazon.com/dp/0345472322?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg",
     "description": "After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities."
   },

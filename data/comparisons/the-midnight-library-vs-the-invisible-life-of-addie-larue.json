@@ -1,150 +1,150 @@
 ﻿{
-    "slug":  "the-midnight-library-vs-the-invisible-life-of-addie-larue",
-    "title":  "The Midnight Library vs The Invisible Life of Addie LaRue: Head to Head Comparison",
-    "metaDescription":  "Compare The Midnight Library vs The Invisible Life of Addie LaRue. Matt Haig\u0027s life choices vs V.E. Schwab\u0027s immortal curse - which magical realism wins?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "The Midnight Library",
-                  "subtitle":  "",
-                  "author":  "Matt Haig",
-                  "isbn":  "978-0525559474",
-                  "publishedYear":  2020,
-                  "pages":  304,
-                  "rating":  4.2,
-                  "ratingCount":  850000,
-                  "price":  17.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_MIDNIGHT_LIBRARY",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
-                  "description":  "Nora Seed finds herself in the Midnight Library between life and death, where each book represents a different version of her life based on alternate choices. She can try out these lives to see what would have happened if she\u0027d made different decisions. Through exploring these possibilities, Nora discovers what truly makes life worth living. This philosophical exploration of regret, choice, and happiness became a pandemic-era phenomenon about finding meaning and accepting our choices."
-              },
-    "book2":  {
-                  "title":  "The Invisible Life of Addie LaRue",
-                  "subtitle":  "",
-                  "author":  "V.E. Schwab",
-                  "isbn":  "978-0765387561",
-                  "publishedYear":  2020,
-                  "pages":  448,
-                  "rating":  4.3,
-                  "ratingCount":  520000,
-                  "price":  18.00,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_ADDIE_LARUE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780765387561-L.jpg",
-                  "description":  "In 1714 France, Addie LaRue makes a Faustian bargain for immortality but is cursed to be forgotten by everyone she meets. For 300 years, she lives an invisible life, leaving no mark on the world—until she meets Henry, a young man who remembers her. Schwab weaves together past and present as Addie and Henry\u0027s relationship unfolds against the backdrop of her centuries-long existence. This genre-bending novel explores what it means to live, to be remembered, and to make your mark on the world."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Premise",
-                                         "book1":  "Exploring alternate lives in magical library",
-                                         "book2":  "Living 300 years but being forgotten by everyone"
-                                     },
-                                     {
-                                         "feature":  "Protagonist",
-                                         "book1":  "Depressed woman considering alternate choices",
-                                         "book2":  "Immortal woman cursed to be forgotten"
-                                     },
-                                     {
-                                         "feature":  "Timespan",
-                                         "book1":  "Single night exploring possibilities",
-                                         "book2":  "300 years across history"
-                                     },
-                                     {
-                                         "feature":  "Romance",
-                                         "book1":  "Minimal, not the focus",
-                                         "book2":  "Central love story with Henry"
-                                     },
-                                     {
-                                         "feature":  "Tone",
-                                         "book1":  "Hopeful, life-affirming",
-                                         "book2":  "Bittersweet, melancholic"
-                                     },
-                                     {
-                                         "feature":  "Complexity",
-                                         "book1":  "Straightforward concept, easy to follow",
-                                         "book2":  "Dual timeline, more complex structure"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "850,000 ratings - 4.2 stars",
-                                         "book2":  "520,000 ratings - 4.3 stars"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "304 pages",
-                                         "book2":  "448 pages"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The Midnight Library explores parallel lives concept through infinite library of possibilities",
-                                              "Matt Haig creates uplifting message about finding meaning in ordinary life choices beautifully",
-                                              "At 304 pages the brisk pacing keeps philosophical premise from becoming too heavy handed",
-                                              "Nora\u0027s depression and suicidal ideation treated sensitively offering hope without minimizing pain",
-                                              "The what if exploration of alternate lives resonates universally with reader regrets",
-                                              "Mrs. Elm as librarian guide provides warm mentor figure helping Nora find her path"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The resolution feels too tidy offering simple answers to complex mental health struggles",
-                                               "Some alternate lives feel superficial glimpses rather than fully developed explorations",
-                                               "The philosophical themes can feel heavy handed when Haig explains rather than shows",
-                                               "Readers wanting darker exploration may find the hopeful tone too saccharine overall"
-                                           ],
-                       "book2Strengths":  [
-                                              "Addie LaRue explores 300 year immortality curse where nobody remembers you hauntingly",
-                                              "V.E. Schwab creates bittersweet romance spanning centuries with lyrical beautiful prose",
-                                              "At 448 pages the dual timeline between 1714 and 2014 reveals Addie\u0027s journey gradually",
-                                              "The Faustian bargain with darkness adds supernatural romance depth beyond typical fantasy",
-                                              "Henry\u0027s ability to finally remember Addie after centuries creates devastating emotional payoff",
-                                              "Schwab explores memory, art, and what makes life meaningful with genuine philosophical depth"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The slow pacing across 300 years can feel repetitive as Addie faces same curse",
-                                               "Some readers find middle section drags before Henry\u0027s introduction changes dynamic completely",
-                                               "The ending divides readers between loving bittersweet conclusion and wanting happier resolution",
-                                               "Contemporary 2014 sections feel less interesting than historical 1714 France periods"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Between life and death there is a library, and within that library, the shelves go on forever.",
-                                 "Never underestimate the big importance of small things.",
-                                 "It is easy to mourn the lives we aren\u0027t living. Easy to wish we\u0027d developed other talents, said yes to different offers.",
-                                 "The only way to learn is to live.",
-                                 "You don\u0027t have to understand life. You just have to live it.",
-                                 "Every life contains many millions of decisions. Some big, some small. But every time one decision is taken over another, the outcomes differ."
-                             ],
-                   "book2":  [
-                                 "The devil is in the details. That\u0027s where you\u0027ll find the meaning of life.",
-                                 "You don\u0027t need to be remembered to have lived.",
-                                 "I remember you.",
-                                 "A life worth having is a life worth recording.",
-                                 "Time is cruel. And immortality is crueler still.",
-                                 "The beautiful things are worth waiting for."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You\u0027re dealing with regret or depression",
-                                  "You want something uplifting and hopeful",
-                                  "You like the idea of exploring alternate lives",
-                                  "You want a quick, accessible read",
-                                  "You need reassurance about your life choices",
-                                  "You prefer straightforward storytelling",
-                                  "You want pandemic-era comfort reading"
-                              ],
-                    "book2":  [
-                                  "You want beautiful, literary prose",
-                                  "You love epic romances across time",
-                                  "You\u0027re fascinated by immortality",
-                                  "You enjoy complex dual timelines",
-                                  "You want something more melancholic",
-                                  "You appreciate V.E. Schwab\u0027s fantasy",
-                                  "You want a more unique, original premise"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "It Depends",
-                    "summary":  "The Midnight Library wins with broader mainstream appeal and hopeful message despite Addie LaRue\u0027s literary ambitions. Midnight Library\u0027s 4.2 stars and 625,000 reviews versus Addie\u0027s 4.1 and 485,000 shows Haig\u0027s accessible philosophy resonated more widely. Both explore parallel lives and choices but Midnight Library offers comfort while Addie delivers bittersweet beauty. Most readers prefer the hope.",
-                    "recommendation":  "Read The Midnight Library for uplifting exploration of life choices and parallel possibilities that resonated globally. At 304 pages Matt Haig delivers accessible philosophy with hopeful message about finding meaning. The depression themes handled sensitively make this healing read for many. Read Addie LaRue for literary supernatural romance spanning 300 years with gorgeous prose. At 448 pages Schwab requires patience but rewards with bittersweet meditation on memory and art. Both work but Midnight Library offers easier comfort while Addie demands more contemplation."
-                }
+  "slug": "the-midnight-library-vs-the-invisible-life-of-addie-larue",
+  "title": "The Midnight Library vs The Invisible Life of Addie LaRue: Head to Head Comparison",
+  "metaDescription": "Compare The Midnight Library vs The Invisible Life of Addie LaRue. Matt Haig's life choices vs V.E. Schwab's immortal curse - which magical realism wins?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Midnight Library",
+    "subtitle": "",
+    "author": "Matt Haig",
+    "isbn": "978-0525559474",
+    "publishedYear": 2020,
+    "pages": 304,
+    "rating": 4.2,
+    "ratingCount": 850000,
+    "price": 17,
+    "amazonUrl": "https://www.amazon.com/dp/0525559477?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780525559474-L.jpg",
+    "description": "Nora Seed finds herself in the Midnight Library between life and death, where each book represents a different version of her life based on alternate choices. She can try out these lives to see what would have happened if she'd made different decisions. Through exploring these possibilities, Nora discovers what truly makes life worth living. This philosophical exploration of regret, choice, and happiness became a pandemic-era phenomenon about finding meaning and accepting our choices."
+  },
+  "book2": {
+    "title": "The Invisible Life of Addie LaRue",
+    "subtitle": "",
+    "author": "V.E. Schwab",
+    "isbn": "978-0765387561",
+    "publishedYear": 2020,
+    "pages": 448,
+    "rating": 4.3,
+    "ratingCount": 520000,
+    "price": 18,
+    "amazonUrl": "https://www.amazon.com/dp/1250298106?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780765387561-L.jpg",
+    "description": "In 1714 France, Addie LaRue makes a Faustian bargain for immortality but is cursed to be forgotten by everyone she meets. For 300 years, she lives an invisible life, leaving no mark on the world—until she meets Henry, a young man who remembers her. Schwab weaves together past and present as Addie and Henry's relationship unfolds against the backdrop of her centuries-long existence. This genre-bending novel explores what it means to live, to be remembered, and to make your mark on the world."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Premise",
+        "book1": "Exploring alternate lives in magical library",
+        "book2": "Living 300 years but being forgotten by everyone"
+      },
+      {
+        "feature": "Protagonist",
+        "book1": "Depressed woman considering alternate choices",
+        "book2": "Immortal woman cursed to be forgotten"
+      },
+      {
+        "feature": "Timespan",
+        "book1": "Single night exploring possibilities",
+        "book2": "300 years across history"
+      },
+      {
+        "feature": "Romance",
+        "book1": "Minimal, not the focus",
+        "book2": "Central love story with Henry"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Hopeful, life-affirming",
+        "book2": "Bittersweet, melancholic"
+      },
+      {
+        "feature": "Complexity",
+        "book1": "Straightforward concept, easy to follow",
+        "book2": "Dual timeline, more complex structure"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "850,000 ratings - 4.2 stars",
+        "book2": "520,000 ratings - 4.3 stars"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "304 pages",
+        "book2": "448 pages"
+      }
+    ],
+    "book1Strengths": [
+      "The Midnight Library explores parallel lives concept through infinite library of possibilities",
+      "Matt Haig creates uplifting message about finding meaning in ordinary life choices beautifully",
+      "At 304 pages the brisk pacing keeps philosophical premise from becoming too heavy handed",
+      "Nora's depression and suicidal ideation treated sensitively offering hope without minimizing pain",
+      "The what if exploration of alternate lives resonates universally with reader regrets",
+      "Mrs. Elm as librarian guide provides warm mentor figure helping Nora find her path"
+    ],
+    "book1Weaknesses": [
+      "The resolution feels too tidy offering simple answers to complex mental health struggles",
+      "Some alternate lives feel superficial glimpses rather than fully developed explorations",
+      "The philosophical themes can feel heavy handed when Haig explains rather than shows",
+      "Readers wanting darker exploration may find the hopeful tone too saccharine overall"
+    ],
+    "book2Strengths": [
+      "Addie LaRue explores 300 year immortality curse where nobody remembers you hauntingly",
+      "V.E. Schwab creates bittersweet romance spanning centuries with lyrical beautiful prose",
+      "At 448 pages the dual timeline between 1714 and 2014 reveals Addie's journey gradually",
+      "The Faustian bargain with darkness adds supernatural romance depth beyond typical fantasy",
+      "Henry's ability to finally remember Addie after centuries creates devastating emotional payoff",
+      "Schwab explores memory, art, and what makes life meaningful with genuine philosophical depth"
+    ],
+    "book2Weaknesses": [
+      "The slow pacing across 300 years can feel repetitive as Addie faces same curse",
+      "Some readers find middle section drags before Henry's introduction changes dynamic completely",
+      "The ending divides readers between loving bittersweet conclusion and wanting happier resolution",
+      "Contemporary 2014 sections feel less interesting than historical 1714 France periods"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Between life and death there is a library, and within that library, the shelves go on forever.",
+      "Never underestimate the big importance of small things.",
+      "It is easy to mourn the lives we aren't living. Easy to wish we'd developed other talents, said yes to different offers.",
+      "The only way to learn is to live.",
+      "You don't have to understand life. You just have to live it.",
+      "Every life contains many millions of decisions. Some big, some small. But every time one decision is taken over another, the outcomes differ."
+    ],
+    "book2": [
+      "The devil is in the details. That's where you'll find the meaning of life.",
+      "You don't need to be remembered to have lived.",
+      "I remember you.",
+      "A life worth having is a life worth recording.",
+      "Time is cruel. And immortality is crueler still.",
+      "The beautiful things are worth waiting for."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You're dealing with regret or depression",
+      "You want something uplifting and hopeful",
+      "You like the idea of exploring alternate lives",
+      "You want a quick, accessible read",
+      "You need reassurance about your life choices",
+      "You prefer straightforward storytelling",
+      "You want pandemic-era comfort reading"
+    ],
+    "book2": [
+      "You want beautiful, literary prose",
+      "You love epic romances across time",
+      "You're fascinated by immortality",
+      "You enjoy complex dual timelines",
+      "You want something more melancholic",
+      "You appreciate V.E. Schwab's fantasy",
+      "You want a more unique, original premise"
+    ]
+  },
+  "verdict": {
+    "winner": "It Depends",
+    "summary": "The Midnight Library wins with broader mainstream appeal and hopeful message despite Addie LaRue's literary ambitions. Midnight Library's 4.2 stars and 625,000 reviews versus Addie's 4.1 and 485,000 shows Haig's accessible philosophy resonated more widely. Both explore parallel lives and choices but Midnight Library offers comfort while Addie delivers bittersweet beauty. Most readers prefer the hope.",
+    "recommendation": "Read The Midnight Library for uplifting exploration of life choices and parallel possibilities that resonated globally. At 304 pages Matt Haig delivers accessible philosophy with hopeful message about finding meaning. The depression themes handled sensitively make this healing read for many. Read Addie LaRue for literary supernatural romance spanning 300 years with gorgeous prose. At 448 pages Schwab requires patience but rewards with bittersweet meditation on memory and art. Both work but Midnight Library offers easier comfort while Addie demands more contemplation."
+  }
 }

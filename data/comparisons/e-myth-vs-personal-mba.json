@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "e-myth-vs-personal-mba",
   "title": "The E-Myth Revisited vs The Personal MBA: Head to Head Comparison",
   "metaDescription": "Michael Gerber's The E-Myth Revisited vs Josh Kaufman's The Personal MBA—two business education books compared. Which will teach you to run a business?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 8200,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780887307287?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780887307287-L.jpg",
     "description": "The E-Myth Revisited debunks the 'entrepreneurial myth'—that people who understand the technical work of a business can successfully run that business. Michael Gerber argues that most small businesses fail because entrepreneurs work IN their business instead of ON it. The book introduces the concept of creating systems and franchising your business model, even if you never actually franchise. Gerber emphasizes the importance of the three roles: Entrepreneur (visionary), Manager (planner), and Technician (doer)."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 5800,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781591845577?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781591845577-L.jpg",
     "description": "The Personal MBA presents a comprehensive business education without the MBA price tag. Josh Kaufman distills business knowledge into essential concepts across value creation, marketing, sales, value delivery, and finance. The book covers mental models and frameworks that actually matter for running a business. Kaufman argues you can learn more from reading the right books than from a $150,000 MBA. Each concept is explained concisely with practical application. It's encyclopedic business knowledge in one volume."
   },

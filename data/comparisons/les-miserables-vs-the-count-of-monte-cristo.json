@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 789000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LES_MISERABLES",
+    "amazonUrl": "https://www.amazon.com/dp/9780451419439?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780451419439-L.jpg",
     "description": "Les Misérables is widely considered one of the greatest novels of the 19th century. It tells the story of Jean Valjean, a French peasant, and his quest for redemption after serving nineteen years in jail. The novel examines the nature of good, evil, and the law, with a massive cast of characters set against the backdrop of post-revolutionary France."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 923000,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MONTE_CRISTO",
+    "amazonUrl": "https://www.amazon.com/dp/9780140449266?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780140449266-L.jpg",
     "description": "The Count of Monte Cristo is an adventure novel and one of the author's most popular works. On the day of his wedding, Edmond Dantès is falsely accused of treason, arrested, and imprisoned in the notorious Château d'If. After fourteen years, he finally escapes and unleashes a carefully wrought revenge against those who betrayed him."
   },

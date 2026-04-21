@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "salt-fat-acid-heat-vs-food-lab",
   "title": "Salt Fat Acid Heat vs The Food Lab: Head to Head Comparison",
   "metaDescription": "Samin Nosrat's intuitive cooking vs Kenji López-Alt's scientific method. Which essential cookbook transforms your cooking more—philosophy or precision?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 45000,
     "price": 29.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781476753836?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781476753836-L.jpg",
     "description": "Now a Netflix series! In Salt, Fat, Acid, Heat, chef and food writer Samin Nosrat distills her cooking wisdom into four main elements: Salt enhances flavor, Fat makes food taste better and carries flavor, Acid balances, and Heat determines texture. With charming illustrations by Wendy MacNaughton, this book is a joyful, revelatory cookbook that will help you become a more confident and creative cook."
   },
@@ -28,19 +28,47 @@
     "rating": 4.8,
     "ratingCount": 23000,
     "price": 49.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0393081027?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780393081084-L.jpg",
     "description": "Ever wondered how to pan-fry a steak with a charred crust and an interior that's perfectly medium-rare from edge to edge when you cut into it? How to make homemade mac 'n' cheese that is as satisfyingly gooey and velvety-smooth as the blue box stuff, but far tastier? The Food Lab answers these questions and more through obsessive exploration of cooking, packed with hundreds of practical recipes explained with science."
   },
   "comparison": {
     "table": [
-      {"feature": "Approach", "book1": "Four foundational elements", "book2": "Scientific method & testing"},
-      {"feature": "Philosophy", "book1": "Intuitive cooking principles", "book2": "Evidence-based techniques"},
-      {"feature": "Page Count", "book1": "480 pages", "book2": "958 pages (massive)"},
-      {"feature": "Price", "book1": "$29.99 (affordable)", "book2": "$49.99 (investment)"},
-      {"feature": "Recipes", "book1": "~100 recipes (principles-focused)", "book2": "~200 recipes (comprehensive)"},
-      {"feature": "Visual Style", "book1": "Charming hand-drawn illustrations", "book2": "Step-by-step photos"},
-      {"feature": "Target", "book1": "Home cooks wanting confidence", "book2": "Food geeks loving science"}
+      {
+        "feature": "Approach",
+        "book1": "Four foundational elements",
+        "book2": "Scientific method & testing"
+      },
+      {
+        "feature": "Philosophy",
+        "book1": "Intuitive cooking principles",
+        "book2": "Evidence-based techniques"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "480 pages",
+        "book2": "958 pages (massive)"
+      },
+      {
+        "feature": "Price",
+        "book1": "$29.99 (affordable)",
+        "book2": "$49.99 (investment)"
+      },
+      {
+        "feature": "Recipes",
+        "book1": "~100 recipes (principles-focused)",
+        "book2": "~200 recipes (comprehensive)"
+      },
+      {
+        "feature": "Visual Style",
+        "book1": "Charming hand-drawn illustrations",
+        "book2": "Step-by-step photos"
+      },
+      {
+        "feature": "Target",
+        "book1": "Home cooks wanting confidence",
+        "book2": "Food geeks loving science"
+      }
     ],
     "book1Strengths": [
       "Four elements framework brilliantly simple—Salt enhances flavor, Fat carries flavor, Acid balances, Heat determines texture. Master these, cook anything without recipes",

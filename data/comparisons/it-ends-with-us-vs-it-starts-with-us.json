@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "it-ends-with-us-vs-it-starts-with-us",
   "title": "It Ends with Us vs It Starts with Us: Head to Head Comparison",
   "metaDescription": "Colleen Hoover's It Ends with Us vs sequel It Starts with Us—625K vs 285K ratings, domestic violence vs healing romance. Which CoHo book wins?",
@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 625000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/1501110364?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501110368-L.jpg",
     "description": "It Ends with Us is Colleen Hoover's most powerful novel about domestic violence and breaking generational cycles. Lily Bloom falls for Ryle Kincaid, a brilliant neurosurgeon with a dark side that emerges gradually. As their relationship intensifies, Lily sees disturbing parallels to her parents' abusive marriage. When her first love Atlas reappears, Lily must make heartbreaking choices about love, safety, and what it means to break the cycle. The book alternates between present-day romance and teenage diary entries revealing Lily's past with Atlas."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 285000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781668001226?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781668001226-L.jpg",
     "description": "It Starts with Us picks up where It Ends with Us left off, following Lily as she tries to build a new life for herself and her daughter. The sequel alternates between Lily's present-day perspective and Atlas's point of view from years earlier, finally showing his side of their teenage romance and what happened after Lily left. As Lily and Atlas reconnect and explore the possibility of a future together, they must navigate Ryle's continued presence in their lives and his struggle to accept their relationship."
   },

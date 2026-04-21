@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 6800,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_FOOLED_BY_RANDOMNESS",
+    "amazonUrl": "https://www.amazon.com/dp/0812973688?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780812975215-L.jpg",
     "description": "Fooled by Randomness is about luck: more precisely, about how we perceive luck in our personal and professional experiences. Set against the backdrop of the most conspicuous forum in which luck is mistaken for skill—the world of trading—Fooled by Randomness is an irreverent, eye-opening, and delightfully thoughtful exploration of one of the least understood factors in all our lives."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 2100,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_AGAINST_THE_GODS",
+    "amazonUrl": "https://www.amazon.com/dp/9780471295631?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780471295631-L.jpg",
     "description": "Against the Gods chronicles the remarkable intellectual adventure that liberated humanity from oracles and soothsayers by means of the powerful tools of risk management. Peter Bernstein brings to life the thinkers whose work changed the way people perceive randomness and understand risk: Pascal, Bernoulli, Gauss, Bayes, and many others. This is the story of how mathematicians and scientists conquered uncertainty and made the modern world possible."
   },

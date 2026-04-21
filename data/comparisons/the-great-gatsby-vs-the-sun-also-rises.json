@@ -1,148 +1,148 @@
 ﻿{
-    "slug":  "the-great-gatsby-vs-the-sun-also-rises",
-    "title":  "The Great Gatsby vs The Sun Also Rises: Head to Head Comparison",
-    "metaDescription":  "Jazz Age titans face off: Fitzgerald\u0027s tragic romance vs Hemingway\u0027s lost generation. Which 1920s masterpiece defines the era?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Fiction \u0026 Literature",
-    "book1":  {
-                  "title":  "The Great Gatsby",
-                  "subtitle":  "",
-                  "author":  "F. Scott Fitzgerald",
-                  "isbn":  "978-0743273565",
-                  "publishedYear":  1925,
-                  "pages":  180,
-                  "rating":  4.5,
-                  "ratingCount":  4980000,
-                  "price":  14.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_GREAT_GATSBY",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
-                  "description":  "The Great Gatsby, F. Scott Fitzgerald\u0027s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted \u0027gin was the national drink and sex the national obsession,\u0027 it is an exquisitely crafted tale of America in the 1920s."
-              },
-    "book2":  {
-                  "title":  "The Sun Also Rises",
-                  "subtitle":  "",
-                  "author":  "Ernest Hemingway",
-                  "isbn":  "978-0743297332",
-                  "publishedYear":  1926,
-                  "pages":  251,
-                  "rating":  4.2,
-                  "ratingCount":  876000,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_SUN_ALSO_RISES",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780743297332-L.jpg",
-                  "description":  "The Sun Also Rises is the quintessential novel of the Lost Generation. It portrays American and British expatriates who travel from Paris to Pamplona to watch the running of the bulls and the bullfights. An early and enduring modernist novel, it explores themes of love, death, and the nature of masculinity."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Setting",
-                                         "book1":  "Long Island, New York",
-                                         "book2":  "Paris and Pamplona, Spain"
-                                     },
-                                     {
-                                         "feature":  "Central Theme",
-                                         "book1":  "American Dream and its corruption",
-                                         "book2":  "Post-war disillusionment and masculinity"
-                                     },
-                                     {
-                                         "feature":  "Writing Style",
-                                         "book1":  "Lyrical, poetic, lush",
-                                         "book2":  "Sparse, minimalist, hard-boiled"
-                                     },
-                                     {
-                                         "feature":  "Protagonist",
-                                         "book1":  "Nick Carraway (observer narrator)",
-                                         "book2":  "Jake Barnes (damaged war veteran)"
-                                     },
-                                     {
-                                         "feature":  "Love Story",
-                                         "book1":  "Tragic romantic obsession",
-                                         "book2":  "Impossible love due to injury"
-                                     },
-                                     {
-                                         "feature":  "Tone",
-                                         "book1":  "Glamorous tragedy",
-                                         "book2":  "Cynical, world-weary"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "180 pages",
-                                         "book2":  "251 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "1925",
-                                         "book2":  "1926"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Fitzgerald\u0027s prose reaches poetic heights with gorgeous imagery and symbolism throughout",
-                                              "The Jazz Age excess and American Dream critique feels timeless and relevant",
-                                              "At 180 pages this achieves literary perfection in compact focused narrative",
-                                              "Gatsby\u0027s romantic obsession and tragic arc creates unforgettable character study",
-                                              "Nick Carraway\u0027s outsider narrator perspective provides perfect observational lens",
-                                              "The green light and valley of ashes symbols resonate across generations"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The brevity means characters beyond Gatsby and Nick feel somewhat underdeveloped",
-                                               "1920s cultural references and slang require historical context for full appreciation",
-                                               "The romantic tragedy ending disappoints readers wanting redemptive closure",
-                                               "Daisy\u0027s shallow characterization frustrates readers wanting stronger female characters"
-                                           ],
-                       "book2Strengths":  [
-                                              "Hemingway\u0027s spare prose style revolutionized modern American literature permanently",
-                                              "The Lost Generation expat culture in 1920s Paris creates authentic period atmosphere",
-                                              "Jake Barnes\u0027 war wound and impossible love adds psychological complexity",
-                                              "At 251 pages this explores disillusionment and masculinity with modernist technique",
-                                              "The bullfighting sequences bring visceral intensity and metaphorical depth",
-                                              "The dialogue driven style feels contemporary and accessible despite 1926 publication"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The aimless wandering structure frustrates readers wanting clear plot progression",
-                                               "Heavy drinking and expatriate lifestyle may alienate readers seeking relatability",
-                                               "Brett Ashley\u0027s characterization feels misogynistic to some modern feminist readers",
-                                               "The understated emotional style requires readers to infer subtext constantly"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "So we beat on, boats against the current, borne back ceaselessly into the past.",
-                                 "I hope she\u0027ll be a fool—that\u0027s the best thing a girl can be in this world, a beautiful little fool.",
-                                 "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
-                                 "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money.",
-                                 "Can\u0027t repeat the past? Why of course you can!",
-                                 "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life."
-                             ],
-                   "book2":  [
-                                 "You can\u0027t get away from yourself by moving from one place to another.",
-                                 "Isn\u0027t it pretty to think so?",
-                                 "Nobody ever lives their life all the way up except bullfighters.",
-                                 "You\u0027re an expatriate. You\u0027ve lost touch with the soil. You get precious. Fake European standards have ruined you.",
-                                 "The world breaks everyone, and afterward, some are strong at the broken places.",
-                                 "I can\u0027t stand it to think my life is going so fast and I\u0027m not really living it."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want one of the most beautifully written American novels",
-                                  "You\u0027re interested in the American Dream and its critique",
-                                  "You love tragic romance and doomed dreamers",
-                                  "You appreciate lush, poetic prose",
-                                  "You want to understand the Jazz Age and 1920s excess",
-                                  "You\u0027re looking for a shorter classic that\u0027s essential reading"
-                              ],
-                    "book2":  [
-                                  "You want to understand Hemingway\u0027s revolutionary minimalist style",
-                                  "You\u0027re interested in post-WWI disillusionment and the Lost Generation",
-                                  "You appreciate sparse, masculine prose",
-                                  "You want authentic portrayal of expatriate life in 1920s Paris",
-                                  "You\u0027re fascinated by bullfighting or Spanish culture",
-                                  "You prefer character studies over plot-driven narratives"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Great Gatsby",
-                    "summary":  "The Great Gatsby wins for most readers. It\u0027s more beautifully written, more emotionally engaging, and more universally accessible. We believe Gatsby\u0027s tragic story resonates more deeply than Jake\u0027s aimless wandering. That said, The Sun Also Rises is essential for understanding Hemingway\u0027s influence on American prose. According to us, Gatsby is the more perfect novel, while Hemingway\u0027s book is more stylistically influential.",
-                    "recommendation":  "Read The Great Gatsby first—it\u0027s shorter, more beautiful, and more emotionally satisfying. The prose is gorgeous, and Gatsby\u0027s tragedy is genuinely moving. Read The Sun Also Rises if you want to understand Hemingway\u0027s spare style and the Lost Generation, but be prepared for unlikable characters and less emotional payoff. Both define the 1920s in different ways: Gatsby captures the glamour and tragedy, Hemingway the disillusionment and emptiness. Start with Gatsby for beauty, add Hemingway for grit."
-                }
+  "slug": "the-great-gatsby-vs-the-sun-also-rises",
+  "title": "The Great Gatsby vs The Sun Also Rises: Head to Head Comparison",
+  "metaDescription": "Jazz Age titans face off: Fitzgerald's tragic romance vs Hemingway's lost generation. Which 1920s masterpiece defines the era?",
+  "lastUpdated": "2026-02-07",
+  "category": "Fiction & Literature",
+  "book1": {
+    "title": "The Great Gatsby",
+    "subtitle": "",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0743273565",
+    "publishedYear": 1925,
+    "pages": 180,
+    "rating": 4.5,
+    "ratingCount": 4980000,
+    "price": 14.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780743273565?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+    "description": "The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted 'gin was the national drink and sex the national obsession,' it is an exquisitely crafted tale of America in the 1920s."
+  },
+  "book2": {
+    "title": "The Sun Also Rises",
+    "subtitle": "",
+    "author": "Ernest Hemingway",
+    "isbn": "978-0743297332",
+    "publishedYear": 1926,
+    "pages": 251,
+    "rating": 4.2,
+    "ratingCount": 876000,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780743297332?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780743297332-L.jpg",
+    "description": "The Sun Also Rises is the quintessential novel of the Lost Generation. It portrays American and British expatriates who travel from Paris to Pamplona to watch the running of the bulls and the bullfights. An early and enduring modernist novel, it explores themes of love, death, and the nature of masculinity."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Setting",
+        "book1": "Long Island, New York",
+        "book2": "Paris and Pamplona, Spain"
+      },
+      {
+        "feature": "Central Theme",
+        "book1": "American Dream and its corruption",
+        "book2": "Post-war disillusionment and masculinity"
+      },
+      {
+        "feature": "Writing Style",
+        "book1": "Lyrical, poetic, lush",
+        "book2": "Sparse, minimalist, hard-boiled"
+      },
+      {
+        "feature": "Protagonist",
+        "book1": "Nick Carraway (observer narrator)",
+        "book2": "Jake Barnes (damaged war veteran)"
+      },
+      {
+        "feature": "Love Story",
+        "book1": "Tragic romantic obsession",
+        "book2": "Impossible love due to injury"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Glamorous tragedy",
+        "book2": "Cynical, world-weary"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "180 pages",
+        "book2": "251 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "1925",
+        "book2": "1926"
+      }
+    ],
+    "book1Strengths": [
+      "Fitzgerald's prose reaches poetic heights with gorgeous imagery and symbolism throughout",
+      "The Jazz Age excess and American Dream critique feels timeless and relevant",
+      "At 180 pages this achieves literary perfection in compact focused narrative",
+      "Gatsby's romantic obsession and tragic arc creates unforgettable character study",
+      "Nick Carraway's outsider narrator perspective provides perfect observational lens",
+      "The green light and valley of ashes symbols resonate across generations"
+    ],
+    "book1Weaknesses": [
+      "The brevity means characters beyond Gatsby and Nick feel somewhat underdeveloped",
+      "1920s cultural references and slang require historical context for full appreciation",
+      "The romantic tragedy ending disappoints readers wanting redemptive closure",
+      "Daisy's shallow characterization frustrates readers wanting stronger female characters"
+    ],
+    "book2Strengths": [
+      "Hemingway's spare prose style revolutionized modern American literature permanently",
+      "The Lost Generation expat culture in 1920s Paris creates authentic period atmosphere",
+      "Jake Barnes' war wound and impossible love adds psychological complexity",
+      "At 251 pages this explores disillusionment and masculinity with modernist technique",
+      "The bullfighting sequences bring visceral intensity and metaphorical depth",
+      "The dialogue driven style feels contemporary and accessible despite 1926 publication"
+    ],
+    "book2Weaknesses": [
+      "The aimless wandering structure frustrates readers wanting clear plot progression",
+      "Heavy drinking and expatriate lifestyle may alienate readers seeking relatability",
+      "Brett Ashley's characterization feels misogynistic to some modern feminist readers",
+      "The understated emotional style requires readers to infer subtext constantly"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "I hope she'll be a fool—that's the best thing a girl can be in this world, a beautiful little fool.",
+      "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+      "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money.",
+      "Can't repeat the past? Why of course you can!",
+      "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life."
+    ],
+    "book2": [
+      "You can't get away from yourself by moving from one place to another.",
+      "Isn't it pretty to think so?",
+      "Nobody ever lives their life all the way up except bullfighters.",
+      "You're an expatriate. You've lost touch with the soil. You get precious. Fake European standards have ruined you.",
+      "The world breaks everyone, and afterward, some are strong at the broken places.",
+      "I can't stand it to think my life is going so fast and I'm not really living it."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want one of the most beautifully written American novels",
+      "You're interested in the American Dream and its critique",
+      "You love tragic romance and doomed dreamers",
+      "You appreciate lush, poetic prose",
+      "You want to understand the Jazz Age and 1920s excess",
+      "You're looking for a shorter classic that's essential reading"
+    ],
+    "book2": [
+      "You want to understand Hemingway's revolutionary minimalist style",
+      "You're interested in post-WWI disillusionment and the Lost Generation",
+      "You appreciate sparse, masculine prose",
+      "You want authentic portrayal of expatriate life in 1920s Paris",
+      "You're fascinated by bullfighting or Spanish culture",
+      "You prefer character studies over plot-driven narratives"
+    ]
+  },
+  "verdict": {
+    "winner": "The Great Gatsby",
+    "summary": "The Great Gatsby wins for most readers. It's more beautifully written, more emotionally engaging, and more universally accessible. We believe Gatsby's tragic story resonates more deeply than Jake's aimless wandering. That said, The Sun Also Rises is essential for understanding Hemingway's influence on American prose. According to us, Gatsby is the more perfect novel, while Hemingway's book is more stylistically influential.",
+    "recommendation": "Read The Great Gatsby first—it's shorter, more beautiful, and more emotionally satisfying. The prose is gorgeous, and Gatsby's tragedy is genuinely moving. Read The Sun Also Rises if you want to understand Hemingway's spare style and the Lost Generation, but be prepared for unlikable characters and less emotional payoff. Both define the 1920s in different ways: Gatsby captures the glamour and tragedy, Hemingway the disillusionment and emptiness. Start with Gatsby for beauty, add Hemingway for grit."
+  }
 }

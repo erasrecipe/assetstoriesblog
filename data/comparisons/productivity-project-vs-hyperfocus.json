@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "productivity-project-vs-hyperfocus",
   "title": "The Productivity Project vs Hyperfocus: Head to Head Comparison",
   "metaDescription": "Chris Bailey's The Productivity Project vs Hyperfocus—two productivity books by the same author compared. Which Chris Bailey book should you read?",
@@ -14,7 +14,7 @@
     "rating": 4.1,
     "ratingCount": 4200,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780553419856?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780553419856-L.jpg",
     "description": "The Productivity Project chronicles Chris Bailey's year-long experiment testing every productivity tactic imaginable. After graduating, Bailey dedicated a year to discovering what actually works for productivity by trying everything from waking at 5:30 AM to working 90-hour weeks to meditating for 35 hours in a week. The book shares his findings on managing time, attention, and energy. Bailey concludes that productivity isn't about doing more—it's about doing what's most meaningful."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 3800,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/1250184975?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780525522256-L.jpg",
     "description": "Hyperfocus is Chris Bailey's second book, focusing specifically on attention management. Bailey presents two modes: hyperfocus (directing attention toward a single task) and scatterfocus (letting your mind wander productively). The book explains when to use each mode and how to cultivate both. Hyperfocus makes you productive, scatterfocus makes you creative. Bailey provides science-backed strategies for managing attention in our distracted world. The book is more focused and refined than his first."
   },

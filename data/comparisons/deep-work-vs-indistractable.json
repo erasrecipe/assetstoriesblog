@@ -1,152 +1,152 @@
 ﻿{
-    "slug":  "deep-work-vs-indistractable",
-    "title":  "Deep Work vs Indistractable: Head to Head Comparison",
-    "metaDescription":  "Cal Newport\u0027s Deep Work vs Nir Eyal\u0027s Indistractable—two focus and productivity books compared. Which will help you reclaim your attention?",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Self-Help \u0026 Personal Development",
-    "book1":  {
-                  "title":  "Deep Work",
-                  "subtitle":  "Rules for Focused Success in a Distracted World",
-                  "author":  "Cal Newport",
-                  "isbn":  "978-1455586691",
-                  "publishedYear":  2016,
-                  "pages":  304,
-                  "rating":  4.5,
-                  "ratingCount":  28000,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
-                  "description":  "Deep Work argues that the ability to focus without distraction on cognitively demanding tasks is becoming rare and valuable. Cal Newport defines deep work as professional activities performed in distraction-free concentration that push your cognitive capabilities. He contrasts this with shallow work—noncognitively demanding tasks done while distracted."
-              },
-    "book2":  {
-                  "title":  "Indistractable",
-                  "subtitle":  "How to Control Your Attention and Choose Your Life",
-                  "author":  "Nir Eyal",
-                  "isbn":  "978-1948836531",
-                  "publishedYear":  2019,
-                  "pages":  288,
-                  "rating":  4.4,
-                  "ratingCount":  8500,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781948836531-L.jpg",
-                  "description":  "Indistractable presents a four-part model for controlling attention: Master Internal Triggers, Make Time for Traction, Hack Back External Triggers, and Prevent Distraction with Pacts. Nir Eyal, who wrote Hooked about building habit-forming products, now teaches how to resist them."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Philosophical—why deep work matters",
-                                         "book2":  "Tactical—how to resist distraction"
-                                     },
-                                     {
-                                         "feature":  "Core Focus",
-                                         "book1":  "Cultivating deep work ability",
-                                         "book2":  "Controlling attention and resisting triggers"
-                                     },
-                                     {
-                                         "feature":  "Framework",
-                                         "book1":  "Four rules for deep work",
-                                         "book2":  "Four-part Indistractable model"
-                                     },
-                                     {
-                                         "feature":  "Practicality",
-                                         "book1":  "Aspirational with some tactics",
-                                         "book2":  "Highly tactical with exercises"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "304 pages",
-                                         "book2":  "288 pages"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "2016",
-                                         "book2":  "2019 (more recent)"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Knowledge workers wanting excellence",
-                                         "book2":  "Anyone struggling with distractions"
-                                     },
-                                     {
-                                         "feature":  "Implementation",
-                                         "book1":  "Lifestyle redesign",
-                                         "book2":  "Specific techniques and pacts"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The deep work definition of distraction free concentration on cognitively demanding tasks captures what matters in knowledge economy",
-                                              "At 296 pages with 295,000 ratings at 4.5 stars this changed how millions think about focus and productivity permanently",
-                                              "The four rules of work deeply, embrace boredom, quit social media, and drain shallows give clear actionable framework",
-                                              "Newport\u0027s case studies from Carl Jung\u0027s tower to Bill Gates\u0027s Think Weeks show deep work at the highest achievement levels",
-                                              "The attention residue research proving multitasking destroys productivity gives scientific backing to focusing completely",
-                                              "The social media critique with 30 day quit experiment challenged tech addiction before it became mainstream conversation",
-                                              "Perfect for knowledge workers, writers, programmers, and creators needing undistracted time for valuable output production"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The monastic approach eliminating distractions isn\u0027t realistic for parents, managers, or anyone in collaborative work roles",
-                                               "Newport\u0027s privilege as tenured professor who ignores email doesn\u0027t translate to corporate employees needing responsiveness daily",
-                                               "At 296 pages some find it could be shorter article since core concept is simple even if execution is difficult",
-                                               "The social media elimination advice feels extreme for people whose careers require online presence and networking constantly",
-                                               "At 4.5 stars versus Indistractable\u0027s 4.3 readers rated it higher but both face criticism for privilege assumptions",
-                                               "The book doesn\u0027t address how to do deep work with kids, open offices, or other constraints most people actually face"
-                                           ],
-                       "book2Strengths":  [
-                                              "The indistractable model with internal triggers, external triggers, traction, and distraction gives complete system for focus",
-                                              "At 272 pages with 37,000 ratings at 4.3 stars this is more recent and addresses modern distraction challenges comprehensively",
-                                              "The psychological approach understanding why we get distracted not just how to block it gets to root cause of problem",
-                                              "Eyal\u0027s techniques for managing internal triggers like discomfort and boredom are practical strategies you can use immediately",
-                                              "The time boxing system where you schedule every minute gives structure that works even in chaotic collaborative environments",
-                                              "The focus on values alignment making time for what matters instead of just productivity hacks feels more holistic approach",
-                                              "The children and workplace sections show how to apply principles in real constrained situations not just ideal scenarios"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "Only 37,000 ratings versus 295,000 for Deep Work shows it hasn\u0027t achieved nearly the same mainstream penetration success",
-                                               "Eyal created the Hooked model teaching companies to make addictive products then wrote book on resisting them which feels hypocritical",
-                                               "At 272 pages the psychological deep dive can feel excessive when you just want tactical tips to stop checking phone",
-                                               "The time boxing every minute approach feels rigid and anxiety inducing for people who need flexibility and spontaneity",
-                                               "Some techniques like pre commitment devices and pacts feel like treating yourself as child needing external control",
-                                               "The lower 4.3 rating versus Deep Work\u0027s 4.5 suggests readers found it less impactful despite being more recent"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "Deep work is the superpower of the 21st century.",
-                                 "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
-                                 "Clarity about what matters provides clarity about what does not.",
-                                 "Efforts to deepen your focus will struggle if you don\u0027t simultaneously wean your mind from a dependence on distraction.",
-                                 "If you don\u0027t produce, you won\u0027t thrive—no matter how skilled or talented you are.",
-                                 "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction."
-                             ],
-                   "book2":  [
-                                 "The opposite of distraction is traction.",
-                                 "Indistractable people do what they say they will do.",
-                                 "Time management is pain management.",
-                                 "The antidote to impulsiveness is forethought.",
-                                 "All motivation is driven by the desire to escape discomfort.",
-                                 "You can\u0027t call something a distraction unless you know what it\u0027s distracting you from."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You\u0027re a knowledge worker wanting to produce higher quality work",
-                                  "You need philosophical motivation for why focus matters",
-                                  "You want to understand how deep work creates career capital",
-                                  "You\u0027re willing to restructure your life around deep work",
-                                  "You want inspiration more than tactical techniques"
-                              ],
-                    "book2":  [
-                                  "You struggle with constant distractions and need practical techniques",
-                                  "You want a systematic model for controlling attention",
-                                  "You need to understand the internal triggers driving distraction",
-                                  "You want worksheets and exercises to implement immediately",
-                                  "You need realistic strategies that work in modern life"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Deep Work",
-                    "summary":  "Deep Work wins decisively—28,000 ratings at 4.5 stars vs Indistractable\u0027s 8,500 at 4.4 stars. Newport\u0027s 2016 book is THE focus classic that inspired the entire distraction-resistance movement. Philosophical depth (why deep work creates meaning AND career capital) plus actionable tactics (four rules, attention residue, shutdown rituals). Indistractable (2019) is more tactical with worksheets and four-part model (Master Internal Triggers, Make Time for Traction, Hack External Triggers, Prevent with Pacts) but less inspirational. Different purposes: Deep Work for WHY focus matters plus HOW. Indistractable for MORE tactics without philosophy. Most readers need only Deep Work.",
-                    "recommendation":  "Read Deep Work first—it\u0027s the essential knowledge worker focus book. The deep work hypothesis (focus becoming rare exactly when it\u0027s valuable), deep vs shallow work distinction, and four rules (Work Deeply, Embrace Boredom, Quit Social Media, Drain Shallows) provide complete philosophy plus tactics. Examples like Bill Gates Think Weeks, J.K. Rowling hotel isolation, Carl Jung\u0027s tower inspire excellence. Attention residue concept (task-switching degrades performance) and shutdown rituals are immediately applicable. At 304 pages, published 2016. 28,000 ratings prove impact. Be warned: \u0027quit social media\u0027 advice is extreme for some jobs, can feel elitist if you lack work autonomy, less tactical than Indistractable. THEN read Indistractable ONLY if you want supplemental tactics. The four-part model is comprehensive: (1) Master Internal Triggers (time management = pain management—address discomfort driving distraction), (2) Make Time for Traction (schedule values-aligned activities), (3) Hack External Triggers (redesign environment), (4) Prevent with Pacts (precommitments). Includes worksheets, trigger trackers, pact templates. At 288 pages, published 2019 by Hooked author (knows addiction mechanics from both sides). 8,500 ratings. More realistic (doesn\u0027t demand quitting social media), but less inspirational and feels mechanical. If you only read one, choose Deep Work—it\u0027s inspirational + tactical + transformative. Indistractable is optional tactical supplement for readers wanting more implementation tools."
-                }
+  "slug": "deep-work-vs-indistractable",
+  "title": "Deep Work vs Indistractable: Head to Head Comparison",
+  "metaDescription": "Cal Newport's Deep Work vs Nir Eyal's Indistractable—two focus and productivity books compared. Which will help you reclaim your attention?",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Deep Work",
+    "subtitle": "Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "isbn": "978-1455586691",
+    "publishedYear": 2016,
+    "pages": 304,
+    "rating": 4.5,
+    "ratingCount": 28000,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/1455586691?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+    "description": "Deep Work argues that the ability to focus without distraction on cognitively demanding tasks is becoming rare and valuable. Cal Newport defines deep work as professional activities performed in distraction-free concentration that push your cognitive capabilities. He contrasts this with shallow work—noncognitively demanding tasks done while distracted."
+  },
+  "book2": {
+    "title": "Indistractable",
+    "subtitle": "How to Control Your Attention and Choose Your Life",
+    "author": "Nir Eyal",
+    "isbn": "978-1948836531",
+    "publishedYear": 2019,
+    "pages": 288,
+    "rating": 4.4,
+    "ratingCount": 8500,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/0062909603?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781948836531-L.jpg",
+    "description": "Indistractable presents a four-part model for controlling attention: Master Internal Triggers, Make Time for Traction, Hack Back External Triggers, and Prevent Distraction with Pacts. Nir Eyal, who wrote Hooked about building habit-forming products, now teaches how to resist them."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Approach",
+        "book1": "Philosophical—why deep work matters",
+        "book2": "Tactical—how to resist distraction"
+      },
+      {
+        "feature": "Core Focus",
+        "book1": "Cultivating deep work ability",
+        "book2": "Controlling attention and resisting triggers"
+      },
+      {
+        "feature": "Framework",
+        "book1": "Four rules for deep work",
+        "book2": "Four-part Indistractable model"
+      },
+      {
+        "feature": "Practicality",
+        "book1": "Aspirational with some tactics",
+        "book2": "Highly tactical with exercises"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "304 pages",
+        "book2": "288 pages"
+      },
+      {
+        "feature": "Published",
+        "book1": "2016",
+        "book2": "2019 (more recent)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Knowledge workers wanting excellence",
+        "book2": "Anyone struggling with distractions"
+      },
+      {
+        "feature": "Implementation",
+        "book1": "Lifestyle redesign",
+        "book2": "Specific techniques and pacts"
+      }
+    ],
+    "book1Strengths": [
+      "The deep work definition of distraction free concentration on cognitively demanding tasks captures what matters in knowledge economy",
+      "At 296 pages with 295,000 ratings at 4.5 stars this changed how millions think about focus and productivity permanently",
+      "The four rules of work deeply, embrace boredom, quit social media, and drain shallows give clear actionable framework",
+      "Newport's case studies from Carl Jung's tower to Bill Gates's Think Weeks show deep work at the highest achievement levels",
+      "The attention residue research proving multitasking destroys productivity gives scientific backing to focusing completely",
+      "The social media critique with 30 day quit experiment challenged tech addiction before it became mainstream conversation",
+      "Perfect for knowledge workers, writers, programmers, and creators needing undistracted time for valuable output production"
+    ],
+    "book1Weaknesses": [
+      "The monastic approach eliminating distractions isn't realistic for parents, managers, or anyone in collaborative work roles",
+      "Newport's privilege as tenured professor who ignores email doesn't translate to corporate employees needing responsiveness daily",
+      "At 296 pages some find it could be shorter article since core concept is simple even if execution is difficult",
+      "The social media elimination advice feels extreme for people whose careers require online presence and networking constantly",
+      "At 4.5 stars versus Indistractable's 4.3 readers rated it higher but both face criticism for privilege assumptions",
+      "The book doesn't address how to do deep work with kids, open offices, or other constraints most people actually face"
+    ],
+    "book2Strengths": [
+      "The indistractable model with internal triggers, external triggers, traction, and distraction gives complete system for focus",
+      "At 272 pages with 37,000 ratings at 4.3 stars this is more recent and addresses modern distraction challenges comprehensively",
+      "The psychological approach understanding why we get distracted not just how to block it gets to root cause of problem",
+      "Eyal's techniques for managing internal triggers like discomfort and boredom are practical strategies you can use immediately",
+      "The time boxing system where you schedule every minute gives structure that works even in chaotic collaborative environments",
+      "The focus on values alignment making time for what matters instead of just productivity hacks feels more holistic approach",
+      "The children and workplace sections show how to apply principles in real constrained situations not just ideal scenarios"
+    ],
+    "book2Weaknesses": [
+      "Only 37,000 ratings versus 295,000 for Deep Work shows it hasn't achieved nearly the same mainstream penetration success",
+      "Eyal created the Hooked model teaching companies to make addictive products then wrote book on resisting them which feels hypocritical",
+      "At 272 pages the psychological deep dive can feel excessive when you just want tactical tips to stop checking phone",
+      "The time boxing every minute approach feels rigid and anxiety inducing for people who need flexibility and spontaneity",
+      "Some techniques like pre commitment devices and pacts feel like treating yourself as child needing external control",
+      "The lower 4.3 rating versus Deep Work's 4.5 suggests readers found it less impactful despite being more recent"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Deep work is the superpower of the 21st century.",
+      "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable.",
+      "Clarity about what matters provides clarity about what does not.",
+      "Efforts to deepen your focus will struggle if you don't simultaneously wean your mind from a dependence on distraction.",
+      "If you don't produce, you won't thrive—no matter how skilled or talented you are.",
+      "To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction."
+    ],
+    "book2": [
+      "The opposite of distraction is traction.",
+      "Indistractable people do what they say they will do.",
+      "Time management is pain management.",
+      "The antidote to impulsiveness is forethought.",
+      "All motivation is driven by the desire to escape discomfort.",
+      "You can't call something a distraction unless you know what it's distracting you from."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You're a knowledge worker wanting to produce higher quality work",
+      "You need philosophical motivation for why focus matters",
+      "You want to understand how deep work creates career capital",
+      "You're willing to restructure your life around deep work",
+      "You want inspiration more than tactical techniques"
+    ],
+    "book2": [
+      "You struggle with constant distractions and need practical techniques",
+      "You want a systematic model for controlling attention",
+      "You need to understand the internal triggers driving distraction",
+      "You want worksheets and exercises to implement immediately",
+      "You need realistic strategies that work in modern life"
+    ]
+  },
+  "verdict": {
+    "winner": "Deep Work",
+    "summary": "Deep Work wins decisively—28,000 ratings at 4.5 stars vs Indistractable's 8,500 at 4.4 stars. Newport's 2016 book is THE focus classic that inspired the entire distraction-resistance movement. Philosophical depth (why deep work creates meaning AND career capital) plus actionable tactics (four rules, attention residue, shutdown rituals). Indistractable (2019) is more tactical with worksheets and four-part model (Master Internal Triggers, Make Time for Traction, Hack External Triggers, Prevent with Pacts) but less inspirational. Different purposes: Deep Work for WHY focus matters plus HOW. Indistractable for MORE tactics without philosophy. Most readers need only Deep Work.",
+    "recommendation": "Read Deep Work first—it's the essential knowledge worker focus book. The deep work hypothesis (focus becoming rare exactly when it's valuable), deep vs shallow work distinction, and four rules (Work Deeply, Embrace Boredom, Quit Social Media, Drain Shallows) provide complete philosophy plus tactics. Examples like Bill Gates Think Weeks, J.K. Rowling hotel isolation, Carl Jung's tower inspire excellence. Attention residue concept (task-switching degrades performance) and shutdown rituals are immediately applicable. At 304 pages, published 2016. 28,000 ratings prove impact. Be warned: 'quit social media' advice is extreme for some jobs, can feel elitist if you lack work autonomy, less tactical than Indistractable. THEN read Indistractable ONLY if you want supplemental tactics. The four-part model is comprehensive: (1) Master Internal Triggers (time management = pain management—address discomfort driving distraction), (2) Make Time for Traction (schedule values-aligned activities), (3) Hack External Triggers (redesign environment), (4) Prevent with Pacts (precommitments). Includes worksheets, trigger trackers, pact templates. At 288 pages, published 2019 by Hooked author (knows addiction mechanics from both sides). 8,500 ratings. More realistic (doesn't demand quitting social media), but less inspirational and feels mechanical. If you only read one, choose Deep Work—it's inspirational + tactical + transformative. Indistractable is optional tactical supplement for readers wanting more implementation tools."
+  }
 }

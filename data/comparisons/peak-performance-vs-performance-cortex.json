@@ -1,146 +1,146 @@
 ﻿{
-    "slug": "peak-performance-vs-performance-cortex",
-    "title": "Peak Performance vs The Performance Cortex: Head to Head Comparison",
-    "metaDescription": "Compare Peak Performance vs The Performance Cortex. Full comparison with pros, cons, and verdict. Which is better for you?",
-    "lastUpdated": "2026-02-07",
-    "category": "Self-Help \u0026 Personal Development",
-    "book1": {
-                  "title": "Peak Performance",
-                  "subtitle": "Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success",
-                  "author": "Brad Stulberg and Steve Magness",
-                  "isbn": "978-1623367930",
-                  "publishedYear": 2017,
-                  "pages": 256,
-                  "rating": 4.3,
-                  "ratingCount": 2800,
-                  "price": 16.99,
-                  "amazonUrl": "PLACEHOLDER",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781623367930-L.jpg",
-                  "description": "Peak Performance reveals the science behind sustainable high performance across fields. Brad Stulberg and Steve Magness studied elite athletes, artists, and performers to identify universal principles. The book centers on the Growth Equation: Stress + Rest = Growth. Rather than constant hustle, peak performers alternate intense effort with strategic recovery. The authors cover topics like purpose, focus, routines, and avoiding burnout. They show how to push hard without breaking, using principles from exercise science applied to any domain. It\u0027s about optimizing performance sustainably over a career, not just short-term gains. The book combines scientific research with practical applications."
-              },
-    "book2": {
-                  "title": "The Performance Cortex",
-                  "subtitle": "How Neuroscience Is Redefining Athletic Genius",
-                  "author": "Zach Schonbrun",
-                  "isbn": "978-0735223776",
-                  "publishedYear": 2018,
-                  "pages": 304,
-                  "rating": 4.2,
-                  "ratingCount": 850,
-                  "price": 17.99,
-                  "amazonUrl": "PLACEHOLDER",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780735223776-L.jpg",
-                  "description": "The Performance Cortex explores how neuroscience is revolutionizing our understanding of athletic performance. Journalist Zach Schonbrun examines the brain\u0027s role in exceptional motor skills, following researchers studying elite athletes\u0027 brains. The book investigates whether athletic genius is born or made, how the brain processes movement, and what makes some athletes able to react faster than humanly possible. Schonbrun profiles athletes like Stephen Curry and explores cutting-edge brain training technologies. Unlike Peak Performance\u0027s practical advice, this book is more investigative journalism about the science itself. It\u0027s fascinating for understanding the neuroscience behind performance but less immediately actionable."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Approach",
-                                         "book1": "Practical principles for anyone",
-                                         "book2": "Scientific investigation of elite athletes"
-                                     },
-                                     {
-                                         "feature": "Focus",
-                                         "book1": "Sustainable performance across domains",
-                                         "book2": "Neuroscience of athletic movement"
-                                     },
-                                     {
-                                         "feature": "Actionability",
-                                         "book1": "Highly actionable with clear principles",
-                                         "book2": "More informative than actionable"
-                                     },
-                                     {
-                                         "feature": "Core Message",
-                                         "book1": "Stress + Rest = Growth",
-                                         "book2": "Brain science reveals athletic genius"
-                                     },
-                                     {
-                                         "feature": "Target Audience",
-                                         "book1": "Anyone wanting peak performance",
-                                         "book2": "Sports fans, neuroscience enthusiasts"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "256 pages",
-                                         "book2": "304 pages"
-                                     },
-                                     {
-                                         "feature": "Style",
-                                         "book1": "Self-help with science backing",
-                                         "book2": "Investigative journalism"
-                                     },
-                                     {
-                                         "feature": "Best For",
-                                         "book1": "Optimizing your own performance",
-                                         "book2": "Understanding elite athletic brains"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "The Growth Equation (Stress + Rest = Growth) is simple and universally applicable",
-                                              "Practical principles you can implement immediately in any field",
-                                              "Backed by solid research but written accessibly",
-                                              "Addresses sustainable performance and avoiding burnoutâ€”not just pushing harder",
-                                              "Examples span athletics, arts, businessâ€”shows universality of principles",
-                                              "Perfect balance of science and practical application"
-                                          ],
-                       "book1Weaknesses": [
-                                               "Less cutting-edge science than The Performance Cortex",
-                                               "Some principles feel like common sense packaged well",
-                                               "Doesn\u0027t dive as deep into neuroscience mechanisms",
-                                               "More general adviceâ€”less specific to athletic performance"
-                                           ],
-                       "book2Strengths": [
-                                              "Fascinating deep dive into the neuroscience of elite athletic performance",
-                                              "Profiles of athletes like Stephen Curry are compelling",
-                                              "Cutting-edge research on brain training and motor control",
-                                              "Great for understanding what makes exceptional athletes exceptional",
-                                              "Well-written investigative journalism that reads like a story",
-                                              "Challenges assumptions about whether athletic genius is born or made"
-                                          ],
-                       "book2Weaknesses": [
-                                               "Less actionableâ€”more about understanding than improving your own performance",
-                                               "Focused specifically on athleticsâ€”less applicable to other domains",
-                                               "Can feel dense with neuroscience details that may overwhelm casual readers",
-                                               "Doesn\u0027t provide clear takeaways or principles to implement"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Growth comes at the point of resistance.",
-                                 "Stress + Rest = Growth. This is the fundamental equation for peak performance.",
-                                 "The best performers aren\u0027t those who push the hardest. They\u0027re those who know when to rest.",
-                                 "Purpose provides the energy to sustain effort over time.",
-                                 "Peak performance isn\u0027t about talent. It\u0027s about building the right systems.",
-                                 "Stress is the stimulus for growth, but rest is when the growth actually happens."
-                             ],
-                   "book2": [
-                                 "The performance cortex is where genius is made.",
-                                 "Athletic excellence isn\u0027t just about the bodyâ€”it\u0027s fundamentally about the brain.",
-                                 "The best athletes don\u0027t just react faster. They see the game differently.",
-                                 "What separates elite athletes is how their brains process information.",
-                                 "The question isn\u0027t whether you\u0027re born with it. It\u0027s how your brain develops through practice.",
-                                 "Motor genius is as much about the mind as the muscles."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "You want practical principles for sustainable high performance in any field",
-                                  "You need to understand how stress and rest work together for growth",
-                                  "You want to avoid burnout while still achieving ambitious goals",
-                                  "You\u0027re looking for science-backed strategies that are immediately applicable",
-                                  "You want principles that work for athletes, artists, entrepreneurs equally"
-                              ],
-                    "book2": [
-                                  "You\u0027re fascinated by the neuroscience behind elite athletic performance",
-                                  "You want to understand what makes exceptional athletes exceptional",
-                                  "You enjoy investigative science journalism about sports",
-                                  "You\u0027re interested in brain training technologies and their potential",
-                                  "You want to understand whether athletic genius is born or made"
-                              ]
-                },
-    "verdict": {
-                    "winner": "Peak Performance",
-                    "summary": "For most readers, Peak Performance is more valuable because it\u0027s practical and universally applicable. The Growth Equation works for anyone wanting to optimize performance sustainably. The Performance Cortex is fascinating but more specializedâ€”it\u0027s investigative journalism about athletic neuroscience rather than actionable advice. Our view is that Peak Performance helps you improve your own performance, while The Performance Cortex helps you understand elite athletes\u0027 brains. Choose Peak Performance for application, The Performance Cortex for understanding.",
-                    "recommendation": "Read Peak Performance if you want practical principles to optimize your own performance sustainably. The Stress + Rest = Growth equation is simple and works across any domain. Perfect for anyone wanting to achieve more without burning outâ€”athletes, entrepreneurs, artists, knowledge workers. Start here for actionable advice. Read The Performance Cortex if you\u0027re specifically fascinated by the neuroscience of elite athletics and want to understand what makes exceptional athletes tick. It\u0027s investigative journalism that\u0027s fascinating but less immediately useful for your own performance. Perfect for sports fans and science enthusiasts. Both books are excellent but serve different purposes. Peak Performance is a how-to guide. The Performance Cortex is a deep dive into athletic neuroscience. For most people wanting to improve their own performance, Peak Performance is the clear choice."
-                }
+  "slug": "peak-performance-vs-performance-cortex",
+  "title": "Peak Performance vs The Performance Cortex: Head to Head Comparison",
+  "metaDescription": "Compare Peak Performance vs The Performance Cortex. Full comparison with pros, cons, and verdict. Which is better for you?",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Peak Performance",
+    "subtitle": "Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success",
+    "author": "Brad Stulberg and Steve Magness",
+    "isbn": "978-1623367930",
+    "publishedYear": 2017,
+    "pages": 256,
+    "rating": 4.3,
+    "ratingCount": 2800,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/9781623367930?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781623367930-L.jpg",
+    "description": "Peak Performance reveals the science behind sustainable high performance across fields. Brad Stulberg and Steve Magness studied elite athletes, artists, and performers to identify universal principles. The book centers on the Growth Equation: Stress + Rest = Growth. Rather than constant hustle, peak performers alternate intense effort with strategic recovery. The authors cover topics like purpose, focus, routines, and avoiding burnout. They show how to push hard without breaking, using principles from exercise science applied to any domain. It's about optimizing performance sustainably over a career, not just short-term gains. The book combines scientific research with practical applications."
+  },
+  "book2": {
+    "title": "The Performance Cortex",
+    "subtitle": "How Neuroscience Is Redefining Athletic Genius",
+    "author": "Zach Schonbrun",
+    "isbn": "978-0735223776",
+    "publishedYear": 2018,
+    "pages": 304,
+    "rating": 4.2,
+    "ratingCount": 850,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780735223776?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780735223776-L.jpg",
+    "description": "The Performance Cortex explores how neuroscience is revolutionizing our understanding of athletic performance. Journalist Zach Schonbrun examines the brain's role in exceptional motor skills, following researchers studying elite athletes' brains. The book investigates whether athletic genius is born or made, how the brain processes movement, and what makes some athletes able to react faster than humanly possible. Schonbrun profiles athletes like Stephen Curry and explores cutting-edge brain training technologies. Unlike Peak Performance's practical advice, this book is more investigative journalism about the science itself. It's fascinating for understanding the neuroscience behind performance but less immediately actionable."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Approach",
+        "book1": "Practical principles for anyone",
+        "book2": "Scientific investigation of elite athletes"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Sustainable performance across domains",
+        "book2": "Neuroscience of athletic movement"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Highly actionable with clear principles",
+        "book2": "More informative than actionable"
+      },
+      {
+        "feature": "Core Message",
+        "book1": "Stress + Rest = Growth",
+        "book2": "Brain science reveals athletic genius"
+      },
+      {
+        "feature": "Target Audience",
+        "book1": "Anyone wanting peak performance",
+        "book2": "Sports fans, neuroscience enthusiasts"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "256 pages",
+        "book2": "304 pages"
+      },
+      {
+        "feature": "Style",
+        "book1": "Self-help with science backing",
+        "book2": "Investigative journalism"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Optimizing your own performance",
+        "book2": "Understanding elite athletic brains"
+      }
+    ],
+    "book1Strengths": [
+      "The Growth Equation (Stress + Rest = Growth) is simple and universally applicable",
+      "Practical principles you can implement immediately in any field",
+      "Backed by solid research but written accessibly",
+      "Addresses sustainable performance and avoiding burnoutâ€”not just pushing harder",
+      "Examples span athletics, arts, businessâ€”shows universality of principles",
+      "Perfect balance of science and practical application"
+    ],
+    "book1Weaknesses": [
+      "Less cutting-edge science than The Performance Cortex",
+      "Some principles feel like common sense packaged well",
+      "Doesn't dive as deep into neuroscience mechanisms",
+      "More general adviceâ€”less specific to athletic performance"
+    ],
+    "book2Strengths": [
+      "Fascinating deep dive into the neuroscience of elite athletic performance",
+      "Profiles of athletes like Stephen Curry are compelling",
+      "Cutting-edge research on brain training and motor control",
+      "Great for understanding what makes exceptional athletes exceptional",
+      "Well-written investigative journalism that reads like a story",
+      "Challenges assumptions about whether athletic genius is born or made"
+    ],
+    "book2Weaknesses": [
+      "Less actionableâ€”more about understanding than improving your own performance",
+      "Focused specifically on athleticsâ€”less applicable to other domains",
+      "Can feel dense with neuroscience details that may overwhelm casual readers",
+      "Doesn't provide clear takeaways or principles to implement"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Growth comes at the point of resistance.",
+      "Stress + Rest = Growth. This is the fundamental equation for peak performance.",
+      "The best performers aren't those who push the hardest. They're those who know when to rest.",
+      "Purpose provides the energy to sustain effort over time.",
+      "Peak performance isn't about talent. It's about building the right systems.",
+      "Stress is the stimulus for growth, but rest is when the growth actually happens."
+    ],
+    "book2": [
+      "The performance cortex is where genius is made.",
+      "Athletic excellence isn't just about the bodyâ€”it's fundamentally about the brain.",
+      "The best athletes don't just react faster. They see the game differently.",
+      "What separates elite athletes is how their brains process information.",
+      "The question isn't whether you're born with it. It's how your brain develops through practice.",
+      "Motor genius is as much about the mind as the muscles."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want practical principles for sustainable high performance in any field",
+      "You need to understand how stress and rest work together for growth",
+      "You want to avoid burnout while still achieving ambitious goals",
+      "You're looking for science-backed strategies that are immediately applicable",
+      "You want principles that work for athletes, artists, entrepreneurs equally"
+    ],
+    "book2": [
+      "You're fascinated by the neuroscience behind elite athletic performance",
+      "You want to understand what makes exceptional athletes exceptional",
+      "You enjoy investigative science journalism about sports",
+      "You're interested in brain training technologies and their potential",
+      "You want to understand whether athletic genius is born or made"
+    ]
+  },
+  "verdict": {
+    "winner": "Peak Performance",
+    "summary": "For most readers, Peak Performance is more valuable because it's practical and universally applicable. The Growth Equation works for anyone wanting to optimize performance sustainably. The Performance Cortex is fascinating but more specializedâ€”it's investigative journalism about athletic neuroscience rather than actionable advice. Our view is that Peak Performance helps you improve your own performance, while The Performance Cortex helps you understand elite athletes' brains. Choose Peak Performance for application, The Performance Cortex for understanding.",
+    "recommendation": "Read Peak Performance if you want practical principles to optimize your own performance sustainably. The Stress + Rest = Growth equation is simple and works across any domain. Perfect for anyone wanting to achieve more without burning outâ€”athletes, entrepreneurs, artists, knowledge workers. Start here for actionable advice. Read The Performance Cortex if you're specifically fascinated by the neuroscience of elite athletics and want to understand what makes exceptional athletes tick. It's investigative journalism that's fascinating but less immediately useful for your own performance. Perfect for sports fans and science enthusiasts. Both books are excellent but serve different purposes. Peak Performance is a how-to guide. The Performance Cortex is a deep dive into athletic neuroscience. For most people wanting to improve their own performance, Peak Performance is the clear choice."
+  }
 }

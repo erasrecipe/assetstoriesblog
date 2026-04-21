@@ -14,7 +14,7 @@
     "rating": 4.2,
     "ratingCount": 2800,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_CONSCIOUSNESS_EXPLAINED",
+    "amazonUrl": "https://www.amazon.com/dp/9780316180665?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780316180665-L.jpg",
     "description": "In this groundbreaking work, Daniel Dennett takes a fresh look at the nature of consciousness, emphasizing its evolutionary roots and making a bold attempt at explaining the phenomenon through the lens of cognitive science. He presents his 'Multiple Drafts' model of consciousness, rejecting the traditional 'Cartesian Theater' notion and arguing that consciousness is not the mysterious phenomenon many philosophers claim it to be."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 1200,
     "price": 24.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_CONSCIOUS_MIND",
+    "amazonUrl": "https://www.amazon.com/dp/9780195117899?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780195117899-L.jpg",
     "description": "What is consciousness? How do physical processes in the brain give rise to the self-aware mind and to feelings as varied as love or longing, aesthetic pleasure or spiritual bliss? David J. Chalmers unveils a major new theory of consciousness, one that rejects the prevailing reductionist trend of science, while offering provocative insights into the relationship between mind and brain."
   },

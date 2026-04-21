@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "red-white-and-royal-blue-vs-one-last-stop",
   "title": "Red, White & Royal Blue vs One Last Stop: Head to Head Comparison",
   "metaDescription": "Casey McQuiston's Red, White & Royal Blue vs One Last Stop—two queer romance novels compared. Which LGBTQ+ love story should you read first?",
@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 325000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781250316776?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781250316776-L.jpg",
     "description": "Red, White & Royal Blue is a romantic comedy about Alex Claremont-Diaz, the First Son of the United States, and Prince Henry of Wales. After a public feud threatens diplomatic relations, they're forced to fake a friendship for PR purposes. But the fake friendship turns into real feelings, leading to a secret romance that could upend both their lives and international relations."
   },
@@ -28,20 +28,52 @@
     "rating": 4.2,
     "ratingCount": 145000,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781250244499?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781250244499-L.jpg",
     "description": "One Last Stop is Casey McQuiston's second novel, a time-travel romance with a supernatural twist. August, a cynical twenty-something, moves to New York and meets Jane, a mysterious punk rocker on the subway. There's just one problem: Jane is displaced in time, stuck riding the Q train from the 1970s."
   },
   "comparison": {
     "table": [
-      {"feature": "Setting", "book1": "White House and British royalty", "book2": "Brooklyn, subway-based time travel"},
-      {"feature": "Romance Type", "book1": "Enemies to lovers, forced proximity", "book2": "Strangers to lovers, time-displaced"},
-      {"feature": "Tone", "book1": "Light, funny, optimistic", "book2": "Grittier, more melancholic"},
-      {"feature": "Fantasy Element", "book1": "None—contemporary fiction", "book2": "Time travel and magical realism"},
-      {"feature": "Political Element", "book1": "Heavy—politics central to plot", "book2": "Light—queer history instead"},
-      {"feature": "Found Family", "book1": "Less emphasis", "book2": "Strong emphasis on roommates"},
-      {"feature": "Page Count", "book1": "432 pages", "book2": "432 pages"},
-      {"feature": "Best For", "book1": "Rom-com fans, political junkies", "book2": "Magical realism fans, emotional depth seekers"}
+      {
+        "feature": "Setting",
+        "book1": "White House and British royalty",
+        "book2": "Brooklyn, subway-based time travel"
+      },
+      {
+        "feature": "Romance Type",
+        "book1": "Enemies to lovers, forced proximity",
+        "book2": "Strangers to lovers, time-displaced"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Light, funny, optimistic",
+        "book2": "Grittier, more melancholic"
+      },
+      {
+        "feature": "Fantasy Element",
+        "book1": "None—contemporary fiction",
+        "book2": "Time travel and magical realism"
+      },
+      {
+        "feature": "Political Element",
+        "book1": "Heavy—politics central to plot",
+        "book2": "Light—queer history instead"
+      },
+      {
+        "feature": "Found Family",
+        "book1": "Less emphasis",
+        "book2": "Strong emphasis on roommates"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "432 pages",
+        "book2": "432 pages"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Rom-com fans, political junkies",
+        "book2": "Magical realism fans, emotional depth seekers"
+      }
     ],
     "book1Strengths": [
       "Chemistry between Alex and Henry electric—genuinely swoony and romantic. Enemies-to-lovers executed perfectly with fake friendship forced by PR disaster escalating to secret relationship",

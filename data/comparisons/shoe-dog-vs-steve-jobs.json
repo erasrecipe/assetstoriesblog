@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "shoe-dog-vs-steve-jobs",
   "title": "Shoe Dog vs Steve Jobs: Head to Head Comparison",
   "metaDescription": "Compare Shoe Dog vs Steve Jobs. Phil Knight's Nike story vs Walter Isaacson's Jobs biography - which business memoir inspires entrepreneurs more?",
@@ -13,8 +13,8 @@
     "pages": 400,
     "rating": 4.7,
     "ratingCount": 125000,
-    "price": 18.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SHOE_DOG",
+    "price": 18,
+    "amazonUrl": "https://www.amazon.com/dp/1501135926?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501135910-L.jpg",
     "description": "Phil Knight shares the story of building Nike from a crazy idea selling Japanese running shoes from his car trunk to a global brand worth billions. Knight writes candidly about the early struggles, near-bankruptcy moments, and the relationships that built Nike. This memoir reveals the unglamorous reality of entrepreneurship-the cash flow crises, the difficult partnerships, and the sheer persistence required to build something great. Knight's humble, honest voice makes this one of the best business memoirs ever written."
   },
@@ -27,8 +27,8 @@
     "pages": 656,
     "rating": 4.6,
     "ratingCount": 52000,
-    "price": 20.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_STEVE_JOBS",
+    "price": 20,
+    "amazonUrl": "https://www.amazon.com/dp/1451648537?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg",
     "description": "Walter Isaacson's authorized biography of Steve Jobs, based on over forty interviews with Jobs and hundreds with family, friends, and colleagues. The book chronicles Jobs' life from his adoption and early years through founding Apple, his ousting, the NeXT and Pixar years, his return to Apple, and his final battle with cancer. Isaacson presents Jobs unvarnished-brilliant but difficult, visionary but controlling. This comprehensive biography reveals the man behind the products that changed our world."
   },

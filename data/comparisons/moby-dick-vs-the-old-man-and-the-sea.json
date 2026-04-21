@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 645000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MOBY_DICK",
+    "amazonUrl": "https://www.amazon.com/dp/9780142437247?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780142437247-L.jpg",
     "description": "Call me Ishmael. So begins the famous opening of Moby-Dick, the epic tale of Captain Ahab and his monomaniacal pursuit of the white whale. A masterpiece of storytelling and symbolic realism, this thrilling adventure is an unforgettable meditation on class, society, and fate."
   },
@@ -28,7 +28,7 @@
     "rating": 4.4,
     "ratingCount": 856000,
     "price": 15.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_OLD_MAN_SEA",
+    "amazonUrl": "https://www.amazon.com/dp/9780684801223?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
     "description": "The Old Man and the Sea is one of Hemingway's most enduring works. Told in language of great simplicity and power, it is the story of an old Cuban fisherman, down on his luck, and his supreme ordeal—a relentless, agonizing battle with a giant marlin far out in the Gulf Stream."
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "traction-vs-rocket-fuel",
   "title": "Traction vs Rocket Fuel: Head to Head Comparison",
   "metaDescription": "Traction vs Rocket Fuel: Which EOS book first? Gino Wickman's complete system vs Visionary-Integrator partnership guide. Compare both EOS classics.",
@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 7800,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_TRACTION",
+    "amazonUrl": "https://www.amazon.com/dp/9781936661831?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781936661831-L.jpg",
     "description": "Do you have a grip on your business, or does your business have a grip on you? Traction introduces the Entrepreneurial Operating System (EOS), a practical method for achieving the business success you have always envisioned."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 2100,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_ROCKET_FUEL",
+    "amazonUrl": "https://www.amazon.com/dp/9781942952312?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781942952312-L.jpg",
     "description": "Rocket Fuel details the integral roles of the Visionary and Integrator and how a relationship between the two can thrive. With this pairing, you'll be able to maximize your business potential."
   },

@@ -1,160 +1,160 @@
 ﻿{
-    "slug": "nourishing-traditions-vs-how-not-to-die-cookbook",
-    "title": "Nourishing Traditions vs How Not to Die Cookbook: Head to Head Comparison",
-    "metaDescription": "Compare Nourishing Traditions vs How Not to Die Cookbook. Traditional wisdom vs plant-based science - which nutrition philosophy cookbook is healthier?",
-    "lastUpdated": "2026-02-07",
-    "category": "Cookbooks \u0026 Food",
-    "book1": {
-                  "title": "Nourishing Traditions",
-                  "subtitle": "The Cookbook that Challenges Politically Correct Nutrition and Diet Dictocrats",
-                  "author": "Sally Fallon Morell",
-                  "isbn": "978-0967089737",
-                  "publishedYear": 1999,
-                  "pages": 674,
-                  "rating": 4.6,
-                  "ratingCount": 3200,
-                  "price": 35.00,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_NOURISHING_TRADITIONS",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9780967089737-L.jpg",
-                  "description": "Nourishing Traditions is a comprehensive guide to traditional food preparation methods. Sally Fallon Morell, inspired by the research of Dr. Weston A. Price, advocates for nutrient-dense foods including bone broths, fermented vegetables, organ meats, raw dairy, and traditional fats. This cookbook challenges modern dietary advice and returns to the wisdom of traditional cultures that enjoyed excellent health."
-              },
-    "book2": {
-                  "title": "The How Not to Die Cookbook",
-                  "subtitle": "100+ Recipes to Help Prevent and Reverse Disease",
-                  "author": "Dr. Michael Greger and Gene Stone",
-                  "isbn": "978-1250127761",
-                  "publishedYear": 2017,
-                  "pages": 304,
-                  "rating": 4.7,
-                  "ratingCount": 4100,
-                  "price": 28.00,
-                  "amazonUrl": "PLACEHOLDER_AMAZON_URL_HOW_NOT_TO_DIE_COOKBOOK",
-                  "coverImage": "https://covers.openlibrary.org/b/isbn/9781250127761-L.jpg",
-                  "description": "The companion cookbook to Dr. Greger\u0027s bestselling book How Not to Die. This cookbook features 100+ plant-based recipes designed to prevent and reverse disease. Every recipe follows Dr. Greger\u0027s Daily Dozen guidelines, emphasizing whole food plant-based eating with no added oils. The recipes are scientifically backed to support longevity and disease prevention."
-              },
-    "comparison": {
-                       "table": [
-                                     {
-                                         "feature": "Dietary Philosophy",
-                                         "book1": "Traditional fats, animal foods, fermentation",
-                                         "book2": "Whole food plant-based, no animal products"
-                                     },
-                                     {
-                                         "feature": "Fat Approach",
-                                         "book1": "High-fat: butter, lard, tallow encouraged",
-                                         "book2": "No added oils, only whole food fats (nuts, seeds)"
-                                     },
-                                     {
-                                         "feature": "Animal Products",
-                                         "book1": "Central: meat, organs, bone broth, raw dairy",
-                                         "book2": "Completely eliminated"
-                                     },
-                                     {
-                                         "feature": "Scientific Basis",
-                                         "book1": "Weston A. Price research, traditional wisdom",
-                                         "book2": "Modern nutrition studies, evidence-based medicine"
-                                     },
-                                     {
-                                         "feature": "Preparation Complexity",
-                                         "book1": "Time-intensive: fermentation, soaking, sprouting",
-                                         "book2": "Generally simpler, weeknight-friendly"
-                                     },
-                                     {
-                                         "feature": "Cost",
-                                         "book1": "Can be expensive: grass-fed, organic, raw dairy",
-                                         "book2": "More affordable: beans, grains, vegetables"
-                                     },
-                                     {
-                                         "feature": "Medical Community View",
-                                         "book1": "Controversial, challenges mainstream advice",
-                                         "book2": "Supported by plant-based nutrition research"
-                                     },
-                                     {
-                                         "feature": "Page Count",
-                                         "book1": "674 pages (encyclopedic)",
-                                         "book2": "304 pages"
-                                     }
-                                 ],
-                       "book1Strengths": [
-                                              "Based on traditional cultures with excellent health records",
-                                              "Emphasizes nutrient density and bioavailable nutrients",
-                                              "The fermentation and sourdough recipes are incredible",
-                                              "Bone broth recipes support gut and joint health",
-                                              "Teaches lost art of traditional food preparation",
-                                              "Great for people thriving on animal-based diets",
-                                              "The encyclopedic format is comprehensive reference",
-                                              "Strong community following with proven results for many"
-                                          ],
-                       "book1Weaknesses": [
-                                               "Extremely controversial and contradicts mainstream nutrition",
-                                               "Very time-consuming preparation methods",
-                                               "Expensive ingredients (grass-fed, organic, raw dairy)",
-                                               "The raw dairy recommendations concern many health experts",
-                                               "Can feel overwhelming with so many traditional techniques",
-                                               "Not suitable for vegetarians or vegans",
-                                               "Some recommendations lack modern scientific support"
-                                           ],
-                       "book2Strengths": [
-                                              "Based on thousands of peer-reviewed nutrition studies",
-                                              "Proven to prevent and reverse chronic diseases",
-                                              "More affordable than animal-based diets",
-                                              "Environmentally sustainable approach",
-                                              "Recipes are simple and weeknight-friendly",
-                                              "No cholesterol, lower saturated fat",
-                                              "Supported by major health organizations",
-                                              "The Daily Dozen framework is clear and actionable"
-                                          ],
-                       "book2Weaknesses": [
-                                               "Completely eliminates animal products—not for everyone",
-                                               "The no-oil approach can be challenging",
-                                               "Some find plant-based meals less satisfying initially",
-                                               "May require B12 supplementation",
-                                               "Less focus on traditional food preparation wisdom",
-                                               "Can feel restrictive to people who love animal foods",
-                                               "Some recipes need getting used to without oil/dairy"
-                                           ]
-                   },
-    "quotes": {
-                   "book1": [
-                                 "Traditional fats are essential for health—butter, lard, and tallow sustained our ancestors.",
-                                 "Bone broth is rich in minerals and supports gut health.",
-                                 "Fermentation increases nutrient availability and creates beneficial probiotics.",
-                                 "Modern nutrition advice has led us astray from traditional wisdom.",
-                                 "Our ancestors knew how to prepare food for maximum nutrition.",
-                                 "Raw dairy from grass-fed cows is nature\u0027s perfect food."
-                             ],
-                   "book2": [
-                                 "A plant-based diet can prevent and reverse our top killers.",
-                                 "Greens are the healthiest foods on the planet.",
-                                 "Whole food plant-based eating means eating foods as close to how they grow as possible.",
-                                 "You don\u0027t need oil—whole foods contain all the healthy fats you need.",
-                                 "The Daily Dozen: eat these foods every day for optimal health.",
-                                 "Food is the most powerful medicine we have."
-                             ]
-               },
-    "whyRead": {
-                    "book1": [
-                                  "You believe in traditional food wisdom over modern nutrition",
-                                  "You thrive on animal-based or paleo-style diets",
-                                  "You want to learn fermentation and traditional preparation",
-                                  "You\u0027re interested in Weston A. Price Foundation philosophy",
-                                  "You have access to quality grass-fed and raw dairy",
-                                  "You want nutrient-dense foods including organs and bone broth",
-                                  "You\u0027re willing to invest time in traditional cooking methods"
-                              ],
-                    "book2": [
-                                  "You want to prevent or reverse chronic disease",
-                                  "You follow or want to try plant-based eating",
-                                  "You prefer evidence-based nutrition science",
-                                  "You want simple, affordable, sustainable recipes",
-                                  "You\u0027re concerned about cholesterol or heart health",
-                                  "You need quick weeknight plant-based meals",
-                                  "You want recipes aligned with the Daily Dozen"
-                              ]
-                },
-    "verdict": {
-                    "winner": "How Not to Die Cookbook",
-                    "summary": "From a mainstream health perspective, How Not to Die Cookbook wins with its evidence-based, plant-focused approach supported by modern nutrition science. It\u0027s simpler, more affordable, and has stronger scientific backing for disease prevention. However, many people thrive on Nourishing Traditions\u0027 approach and value traditional wisdom. This is one of the most polarizing comparisons in nutrition—choose based on your health philosophy and what makes your body feel best.",
-                    "recommendation": "We\u0027d suggest trying How Not to Die Cookbook if you\u0027re new to healthy cooking or have chronic disease concerns. The plant-based approach is proven, affordable, and straightforward. Consider Nourishing Traditions if you\u0027re already drawn to traditional foods, paleo principles, or have tried plant-based eating without success. Some people genuinely need animal products to thrive. Honestly, these represent opposite nutritional philosophies—Nourishing Traditions says animal fats and traditional foods are healing, while How Not to Die says plants are the answer. Listen to your body and choose what makes you feel best, but know that mainstream science currently supports plant-based eating more strongly."
-                }
+  "slug": "nourishing-traditions-vs-how-not-to-die-cookbook",
+  "title": "Nourishing Traditions vs How Not to Die Cookbook: Head to Head Comparison",
+  "metaDescription": "Compare Nourishing Traditions vs How Not to Die Cookbook. Traditional wisdom vs plant-based science - which nutrition philosophy cookbook is healthier?",
+  "lastUpdated": "2026-02-07",
+  "category": "Cookbooks & Food",
+  "book1": {
+    "title": "Nourishing Traditions",
+    "subtitle": "The Cookbook that Challenges Politically Correct Nutrition and Diet Dictocrats",
+    "author": "Sally Fallon Morell",
+    "isbn": "978-0967089737",
+    "publishedYear": 1999,
+    "pages": 674,
+    "rating": 4.6,
+    "ratingCount": 3200,
+    "price": 35,
+    "amazonUrl": "https://www.amazon.com/dp/0922648348?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780967089737-L.jpg",
+    "description": "Nourishing Traditions is a comprehensive guide to traditional food preparation methods. Sally Fallon Morell, inspired by the research of Dr. Weston A. Price, advocates for nutrient-dense foods including bone broths, fermented vegetables, organ meats, raw dairy, and traditional fats. This cookbook challenges modern dietary advice and returns to the wisdom of traditional cultures that enjoyed excellent health."
+  },
+  "book2": {
+    "title": "The How Not to Die Cookbook",
+    "subtitle": "100+ Recipes to Help Prevent and Reverse Disease",
+    "author": "Dr. Michael Greger and Gene Stone",
+    "isbn": "978-1250127761",
+    "publishedYear": 2017,
+    "pages": 304,
+    "rating": 4.7,
+    "ratingCount": 4100,
+    "price": 28,
+    "amazonUrl": "https://www.amazon.com/dp/1250066111?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781250127761-L.jpg",
+    "description": "The companion cookbook to Dr. Greger's bestselling book How Not to Die. This cookbook features 100+ plant-based recipes designed to prevent and reverse disease. Every recipe follows Dr. Greger's Daily Dozen guidelines, emphasizing whole food plant-based eating with no added oils. The recipes are scientifically backed to support longevity and disease prevention."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Dietary Philosophy",
+        "book1": "Traditional fats, animal foods, fermentation",
+        "book2": "Whole food plant-based, no animal products"
+      },
+      {
+        "feature": "Fat Approach",
+        "book1": "High-fat: butter, lard, tallow encouraged",
+        "book2": "No added oils, only whole food fats (nuts, seeds)"
+      },
+      {
+        "feature": "Animal Products",
+        "book1": "Central: meat, organs, bone broth, raw dairy",
+        "book2": "Completely eliminated"
+      },
+      {
+        "feature": "Scientific Basis",
+        "book1": "Weston A. Price research, traditional wisdom",
+        "book2": "Modern nutrition studies, evidence-based medicine"
+      },
+      {
+        "feature": "Preparation Complexity",
+        "book1": "Time-intensive: fermentation, soaking, sprouting",
+        "book2": "Generally simpler, weeknight-friendly"
+      },
+      {
+        "feature": "Cost",
+        "book1": "Can be expensive: grass-fed, organic, raw dairy",
+        "book2": "More affordable: beans, grains, vegetables"
+      },
+      {
+        "feature": "Medical Community View",
+        "book1": "Controversial, challenges mainstream advice",
+        "book2": "Supported by plant-based nutrition research"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "674 pages (encyclopedic)",
+        "book2": "304 pages"
+      }
+    ],
+    "book1Strengths": [
+      "Based on traditional cultures with excellent health records",
+      "Emphasizes nutrient density and bioavailable nutrients",
+      "The fermentation and sourdough recipes are incredible",
+      "Bone broth recipes support gut and joint health",
+      "Teaches lost art of traditional food preparation",
+      "Great for people thriving on animal-based diets",
+      "The encyclopedic format is comprehensive reference",
+      "Strong community following with proven results for many"
+    ],
+    "book1Weaknesses": [
+      "Extremely controversial and contradicts mainstream nutrition",
+      "Very time-consuming preparation methods",
+      "Expensive ingredients (grass-fed, organic, raw dairy)",
+      "The raw dairy recommendations concern many health experts",
+      "Can feel overwhelming with so many traditional techniques",
+      "Not suitable for vegetarians or vegans",
+      "Some recommendations lack modern scientific support"
+    ],
+    "book2Strengths": [
+      "Based on thousands of peer-reviewed nutrition studies",
+      "Proven to prevent and reverse chronic diseases",
+      "More affordable than animal-based diets",
+      "Environmentally sustainable approach",
+      "Recipes are simple and weeknight-friendly",
+      "No cholesterol, lower saturated fat",
+      "Supported by major health organizations",
+      "The Daily Dozen framework is clear and actionable"
+    ],
+    "book2Weaknesses": [
+      "Completely eliminates animal products—not for everyone",
+      "The no-oil approach can be challenging",
+      "Some find plant-based meals less satisfying initially",
+      "May require B12 supplementation",
+      "Less focus on traditional food preparation wisdom",
+      "Can feel restrictive to people who love animal foods",
+      "Some recipes need getting used to without oil/dairy"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "Traditional fats are essential for health—butter, lard, and tallow sustained our ancestors.",
+      "Bone broth is rich in minerals and supports gut health.",
+      "Fermentation increases nutrient availability and creates beneficial probiotics.",
+      "Modern nutrition advice has led us astray from traditional wisdom.",
+      "Our ancestors knew how to prepare food for maximum nutrition.",
+      "Raw dairy from grass-fed cows is nature's perfect food."
+    ],
+    "book2": [
+      "A plant-based diet can prevent and reverse our top killers.",
+      "Greens are the healthiest foods on the planet.",
+      "Whole food plant-based eating means eating foods as close to how they grow as possible.",
+      "You don't need oil—whole foods contain all the healthy fats you need.",
+      "The Daily Dozen: eat these foods every day for optimal health.",
+      "Food is the most powerful medicine we have."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You believe in traditional food wisdom over modern nutrition",
+      "You thrive on animal-based or paleo-style diets",
+      "You want to learn fermentation and traditional preparation",
+      "You're interested in Weston A. Price Foundation philosophy",
+      "You have access to quality grass-fed and raw dairy",
+      "You want nutrient-dense foods including organs and bone broth",
+      "You're willing to invest time in traditional cooking methods"
+    ],
+    "book2": [
+      "You want to prevent or reverse chronic disease",
+      "You follow or want to try plant-based eating",
+      "You prefer evidence-based nutrition science",
+      "You want simple, affordable, sustainable recipes",
+      "You're concerned about cholesterol or heart health",
+      "You need quick weeknight plant-based meals",
+      "You want recipes aligned with the Daily Dozen"
+    ]
+  },
+  "verdict": {
+    "winner": "How Not to Die Cookbook",
+    "summary": "From a mainstream health perspective, How Not to Die Cookbook wins with its evidence-based, plant-focused approach supported by modern nutrition science. It's simpler, more affordable, and has stronger scientific backing for disease prevention. However, many people thrive on Nourishing Traditions' approach and value traditional wisdom. This is one of the most polarizing comparisons in nutrition—choose based on your health philosophy and what makes your body feel best.",
+    "recommendation": "We'd suggest trying How Not to Die Cookbook if you're new to healthy cooking or have chronic disease concerns. The plant-based approach is proven, affordable, and straightforward. Consider Nourishing Traditions if you're already drawn to traditional foods, paleo principles, or have tried plant-based eating without success. Some people genuinely need animal products to thrive. Honestly, these represent opposite nutritional philosophies—Nourishing Traditions says animal fats and traditional foods are healing, while How Not to Die says plants are the answer. Listen to your body and choose what makes you feel best, but know that mainstream science currently supports plant-based eating more strongly."
+  }
 }

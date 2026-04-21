@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "delivering-happiness-vs-the-hard-thing",
   "title": "Delivering Happiness vs The Hard Thing About Hard Things: Head to Head Comparison",
   "metaDescription": "Tony Hsieh's culture-building blueprint vs Ben Horowitz's brutal startup truths. Compare two radically different approaches to building successful companies.",
@@ -13,8 +13,8 @@
     "pages": 244,
     "rating": 4.5,
     "ratingCount": 12500,
-    "price": 17.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_DELIVERING_HAPPINESS",
+    "price": 17,
+    "amazonUrl": "https://www.amazon.com/dp/9780446563048?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780446563048-L.jpg",
     "description": "The visionary CEO of Zappos explains how an emphasis on corporate culture can lead to unprecedented success. Pay brand-new employees $2,000 to quit. Make customer service the responsibility of the entire company-not just a department. Focus on company culture as the #1 priority. Apply research from the science of happiness to running a business. Help employees grow-both personally and professionally."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 18900,
     "price": 20.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THE_HARD_THING",
+    "amazonUrl": "https://www.amazon.com/dp/9780062273208?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780062273208-L.jpg",
     "description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn't cover, based on his popular blog. While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one."
   },

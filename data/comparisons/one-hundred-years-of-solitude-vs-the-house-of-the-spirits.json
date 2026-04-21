@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "one-hundred-years-of-solitude-vs-the-house-of-the-spirits",
   "title": "One Hundred Years of Solitude vs The House of the Spirits: Head to Head Comparison",
   "metaDescription": "Magical realism titans clash: García Márquez's generational epic vs Allende's family saga. Which Latin American masterpiece captivates most?",
@@ -14,7 +14,7 @@
     "rating": 4.5,
     "ratingCount": 1234000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_ONE_HUNDRED_YEARS",
+    "amazonUrl": "https://www.amazon.com/dp/9780060883287?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
     "description": "One Hundred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendía family. Inventive, amusing, magnetic, sad and alive with unforgettable men and women—brimming with truth, compassion, and a lyrical magic that strikes the soul—this novel is a masterpiece in the art of fiction."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 567000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_HOUSE_SPIRITS",
+    "amazonUrl": "https://www.amazon.com/dp/9781501117015?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501117015-L.jpg",
     "description": "The House of the Spirits is the story of a South American country and of the Trueba family who embody its triumphs and failures. It is also a tale of Clara del Valle, a woman whose connection to the spiritual world is both a torment and a privilege. Spanning four generations, Allende's novel is filled with moments of magical realism and historical political events."
   },

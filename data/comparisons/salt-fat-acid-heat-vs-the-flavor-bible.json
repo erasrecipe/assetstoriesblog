@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "salt-fat-acid-heat-vs-the-flavor-bible",
   "title": "Salt Fat Acid Heat vs The Flavor Bible: Head to Head Comparison",
   "metaDescription": "Samin Nosrat's cooking fundamentals vs Karen Page's flavor pairings—which transforms intuitive cooking more? Philosophy vs reference guide compared.",
@@ -13,8 +13,8 @@
     "pages": 480,
     "rating": 4.7,
     "ratingCount": 18000,
-    "price": 28.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SALT_FAT_ACID_HEAT",
+    "price": 28,
+    "amazonUrl": "https://www.amazon.com/dp/1476753836?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781476753836-L.jpg",
     "description": "Samin Nosrat distills cooking into four essential elements: Salt, Fat, Acid, and Heat. Master these four fundamentals and you can cook anything. This groundbreaking book doesn't just give you recipes—it teaches you how to think like a cook. With charming illustrations and Samin's warm, encouraging voice, you'll learn to season food properly, balance flavors, choose the right fat, and apply the correct heat for any dish."
   },
@@ -27,20 +27,48 @@
     "pages": 380,
     "rating": 4.7,
     "ratingCount": 8500,
-    "price": 24.00,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_FLAVOR_BIBLE",
+    "price": 24,
+    "amazonUrl": "https://www.amazon.com/dp/0316118405?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780316118400-L.jpg",
     "description": "The Flavor Bible is the ultimate guide to flavor combinations. This isn't a cookbook with recipes—it's a reference guide that lists ingredients alphabetically and shows you what flavors work well together. Based on interviews with America's most creative chefs, it helps you understand which ingredients complement each other, allowing you to improvise and create your own dishes with confidence."
   },
   "comparison": {
     "table": [
-      {"feature": "Main Purpose", "book1": "Teaches cooking fundamentals and technique", "book2": "Reference guide for flavor pairings"},
-      {"feature": "Format", "book1": "Essay-style chapters with some recipes", "book2": "Alphabetical ingredient listings"},
-      {"feature": "Reading Style", "book1": "Read cover to cover to learn concepts", "book2": "Look up ingredients as needed"},
-      {"feature": "Recipe Focus", "book1": "Some recipes, but concept-focused", "book2": "No recipes—just flavor combinations"},
-      {"feature": "Learning Approach", "book1": "Understand WHY techniques work", "book2": "Discover WHAT ingredients work together"},
-      {"feature": "Beginner Friendly", "book1": "Very accessible and encouraging", "book2": "Requires some cooking knowledge"},
-      {"feature": "Page Count", "book1": "480 pages", "book2": "380 pages"}
+      {
+        "feature": "Main Purpose",
+        "book1": "Teaches cooking fundamentals and technique",
+        "book2": "Reference guide for flavor pairings"
+      },
+      {
+        "feature": "Format",
+        "book1": "Essay-style chapters with some recipes",
+        "book2": "Alphabetical ingredient listings"
+      },
+      {
+        "feature": "Reading Style",
+        "book1": "Read cover to cover to learn concepts",
+        "book2": "Look up ingredients as needed"
+      },
+      {
+        "feature": "Recipe Focus",
+        "book1": "Some recipes, but concept-focused",
+        "book2": "No recipes—just flavor combinations"
+      },
+      {
+        "feature": "Learning Approach",
+        "book1": "Understand WHY techniques work",
+        "book2": "Discover WHAT ingredients work together"
+      },
+      {
+        "feature": "Beginner Friendly",
+        "book1": "Very accessible and encouraging",
+        "book2": "Requires some cooking knowledge"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "480 pages",
+        "book2": "380 pages"
+      }
     ],
     "book1Strengths": [
       "Four elements framework brilliantly simple and memorable—Salt enhances, Fat carries, Acid balances, Heat determines texture. Once you grasp this, you cook intuitively forever",

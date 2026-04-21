@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 1890000,
     "price": 13.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_WUTHERING_HEIGHTS",
+    "amazonUrl": "https://www.amazon.com/dp/9780141439556?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780141439556-L.jpg",
     "description": "Wuthering Heights is Emily Brontë's only novel. Written between October 1845 and June 1846, it tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys them and many around them."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 2180000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_JANE_EYRE",
+    "amazonUrl": "https://www.amazon.com/dp/9780141441146?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780141441146-L.jpg",
     "description": "Jane Eyre follows the emotions and experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester, the brooding master of Thornfield Hall. The novel revolutionized prose fiction in that the focus on Jane's moral and spiritual development is told through an intimate, first-person narrative."
   },

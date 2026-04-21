@@ -1,156 +1,156 @@
 ﻿{
-    "slug":  "influence-vs-contagious",
-    "title":  "Influence vs Contagious: Head to Head Comparison",
-    "metaDescription":  "Influence vs Contagious: Cialdini\u0027s 1984 persuasion classic vs Berger\u0027s 2013 viral marketing guide. Which first? Compare 6 weapons vs STEPPS framework.",
-    "lastUpdated":  "2026-02-09",
-    "category":  "Sales \u0026 Marketing",
-    "book1":  {
-                  "title":  "Influence",
-                  "subtitle":  "The Psychology of Persuasion",
-                  "author":  "Robert B. Cialdini",
-                  "isbn":  "978-0061241895",
-                  "publishedYear":  1984,
-                  "pages":  320,
-                  "rating":  4.6,
-                  "ratingCount":  38000,
-                  "price":  18.0,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_INFLUENCE",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780061241895-L.jpg",
-                  "description":  "Robert Cialdini presents six universal principles of persuasion based on decades of research: Reciprocity, Commitment/Consistency, Social Proof, Authority, Liking, and Scarcity. Through real-world examples, Cialdini shows how these principles are used by compliance professionals and how to recognize and resist unwanted influence."
-              },
-    "book2":  {
-                  "title":  "Contagious",
-                  "subtitle":  "Why Things Catch On",
-                  "author":  "Jonah Berger",
-                  "isbn":  "978-1451686586",
-                  "publishedYear":  2013,
-                  "pages":  256,
-                  "rating":  4.5,
-                  "ratingCount":  12000,
-                  "price":  17.0,
-                  "amazonUrl":  "PLACEHOLDER_AMAZON_URL_CONTAGIOUS",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781451686586-L.jpg",
-                  "description":  "Jonah Berger, a Wharton marketing professor, reveals why certain products and ideas go viral while others flop. He presents the STEPPS framework: Social Currency, Triggers, Emotion, Public, Practical Value, and Stories."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Core Focus",
-                                         "book1":  "How to persuade individuals",
-                                         "book2":  "How to make things spread"
-                                     },
-                                     {
-                                         "feature":  "Goal",
-                                         "book1":  "Direct influence and compliance",
-                                         "book2":  "Word-of-mouth and virality"
-                                     },
-                                     {
-                                         "feature":  "Framework",
-                                         "book1":  "6 Principles of Persuasion",
-                                         "book2":  "STEPPS (6 principles of virality)"
-                                     },
-                                     {
-                                         "feature":  "Application",
-                                         "book1":  "Sales, negotiation, leadership",
-                                         "book2":  "Marketing, content, social media"
-                                     },
-                                     {
-                                         "feature":  "Time Horizon",
-                                         "book1":  "Immediate persuasion",
-                                         "book2":  "Spread over time"
-                                     },
-                                     {
-                                         "feature":  "Research Base",
-                                         "book1":  "Social psychology (1984 classic)",
-                                         "book2":  "Marketing research (modern 2013)"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "38,000 ratings - 4.6 stars",
-                                         "book2":  "12,000 ratings - 4.5 stars"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "320 pages",
-                                         "book2":  "256 pages"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "217% more readers (38K vs 12K) and higher rating (4.6 vs 4.5)—it\u0027s THE persuasion bible everyone references",
-                                              "6 principles are simple, memorable, universal—Reciprocity, Commitment, Social Proof, Authority, Liking, Scarcity work everywhere",
-                                              "Cialdini went undercover 3 years as car salesman, telemarketer—field research not just lab studies",
-                                              "Research is bulletproof—Milgram authority (65% gave lethal shocks), hotel towel social proof (+33% compliance)",
-                                              "Universal application—works for sales, parenting, negotiation, teaching. Not just marketing like Contagious",
-                                              "Teaches defense against manipulation—spot fake scarcity, phony authority, exploitative reciprocity",
-                                              "Perfect structure—8 chapters (intro + 6 principles + defenses), ~40 pages each. Read one principle per day"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Examples feel dated—1984 Hare Krishnas at airports, Tupperware parties, door-to-door salesmen. Principles timeless though",
-                                               "Doesn\u0027t address digital/social media—written pre-internet. Nothing on Instagram, TikTok, viral loops",
-                                               "More about direct persuasion than viral spread—gets Person A to say yes, not Person A to tell 100 others",
-                                               "Denser at 320 pages—more academic than Contagious\u0027s breezy 256. Some sections feel slow",
-                                               "Focused on getting YES not getting SHARE—doesn\u0027t create buzz or word-of-mouth like STEPPS does",
-                                               "So famous tactics are recognized—everyone knows \u0027limited time\u0027 is scarcity. Awareness reduces effectiveness"
-                                           ],
-                       "book2Strengths":  [
-                                              "STEPPS framework brilliant—Social Currency, Triggers, Emotion, Public, Practical Value, Stories backed by research",
-                                              "Modern examples you recognize— cheesesteak, Blendtec \u0027Will It Blend?\u0027, Rebecca Black \u0027Friday\u0027",
-                                              "Berger studied thousands of viral cases with data—analyzed 7,000 NY Times articles to find sharing patterns",
-                                              "Shorter and engaging at 256 pages—breezy pop-business writing vs Influence\u0027s textbook density",
-                                              "Perfect for digital age—designed for social media, content marketing, viral campaigns era",
-                                              "Immediately actionable—Triggers chapter shows Cheerios should advertise mornings. Clear tactics",
-                                              "\u0027Top of mind = tip of tongue\u0027 Triggers principle is GOLD—Kit Kat + coffee = 8% sales boost"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "1,224% fewer readers (12K vs 38K) and lower rating—good niche book but not classic like Influence",
-                                               "Doesn\u0027t replace Influence fundamentals—virality ? persuasion. Rebecca Black got 120M views, sold nothing",
-                                               "Some STEPPS hard to engineer—can\u0027t decide to create awe. Influence principles more controllable",
-                                               "Less universal—STEPPS great for content marketing, less useful for salary negotiations or direct sales",
-                                               "Assumes you have something worth sharing—framework doesn\u0027t help if product sucks or content is boring",
-                                               "STEPPS acronym feels forced—two Ps (Public and Practical Value) break natural flow. Less elegant"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we provide a reason.",
-                                 "People simply like to have reasons for what they do.",
-                                 "We all fool ourselves from time to time in order to keep our thoughts and beliefs consistent with what we have already done or decided.",
-                                 "Since 95 percent of the people are imitators and only 5 percent initiators, people are persuaded more by the actions of others than by any proof we can offer.",
-                                 "The way to love anything is to realize that it might be lost.",
-                                 "The truly gifted negotiator is one whose initial position is exaggerated enough to allow for a series of concessions."
-                             ],
-                   "book2":  [
-                                 "Word of mouth is more effective than advertising because it\u0027s more persuasive and more targeted.",
-                                 "Making things more observable makes them easier to imitate, which makes them more likely to become popular.",
-                                 "If something is built to show, it\u0027s built to grow.",
-                                 "Top of mind means tip of tongue.",
-                                 "People don\u0027t think in terms of information. They think in terms of narratives.",
-                                 "Virality isn\u0027t born, it\u0027s made."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to understand the psychology of persuasion",
-                                  "You\u0027re in sales, negotiation, or leadership",
-                                  "You need to influence people directly",
-                                  "You want classic, timeless principles",
-                                  "You need to recognize manipulation tactics",
-                                  "You want foundational knowledge everyone references",
-                                  "You work in any field involving influence"
-                              ],
-                    "book2":  [
-                                  "You want to create viral content or campaigns",
-                                  "You\u0027re in content marketing or social media",
-                                  "You need word-of-mouth strategies",
-                                  "You want modern, actionable tactics",
-                                  "You focus on digital marketing",
-                                  "You need to engineer sharing behavior",
-                                  "You want research-backed virality principles"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Influence",
-                    "summary":  "Influence wins decisively for most readersâ€”38,000 ratings at 4.6 stars vs 12,000 at 4.5 tells the story (217% more readers, higher rating). Cialdini\u0027s 6 principles (Reciprocity, Commitment/Consistency, Social Proof, Authority, Liking, Scarcity) are foundational psychology applying EVERYWHERE: sales, parenting, negotiation, leadership, marketing. Published 1984, it\u0027s 40-year classic that changed entire industries. Berger\u0027s STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) is brilliant but SPECIALIZED for viral content/word-of-mouth marketingâ€”not universal persuasion. Different goals: Influence teaches direct persuasion (getting Person A to say yes to YOU), Contagious teaches viral spread (getting Person A to tell 100 others). Examples: Influence has 1970s-1980s research (Hare Krishna, Tupperware, Milgram), Contagious has 2000s-2010s viral cases (Blendtec, Rebecca Black \u0027Friday\u0027, $100 cheesesteak). Read Influence first for persuasion fundamentals everyone needs, then Contagious IF you specifically need virality tactics for marketing/content. Both together = complete influence toolkit, but Influence alone covers 90% of persuasion needs.",
-                    "recommendation":  "Read Influence FIRST, no questionâ€”it\u0027s essential persuasion education for anyone in business, sales, marketing, negotiation, or leadership. Work through 6 principles: Reciprocity (Hare Krishna flower trick, door-in-face technique, rejection-then-retreat), Commitment (foot-in-door, lowball, get small yes then big yes), Social Proof (canned laughter works, hotel towel reuse \u002775% of guests\u0027 sign, Jonestown mass suicide), Authority (Milgram 65% gave lethal shocks when told, credentials matter), Liking (Tupperware parties, we say yes to friends), Scarcity (limited time offers, cookies rated tastier when scarce). Then Chapter 8 defenses against manipulation. These principles work EVERYWHERE for 40+ years. THEN read Contagious IF you\u0027re in content marketing, social media, viral campaigns, or need word-of-mouth strategies. Learn STEPPS: Social Currency ($100 cheesesteak, insider knowledge), Triggers (Kit Kat + coffee = 8% sales boost, top of mind = tip of tongue), Emotion (high-arousal awe/anger/anxiety drives shares, not low-arousal sadness), Public (Apple logo faces out, Movember mustaches visible), Practical Value (life hacks, money-saving tips shared), Stories (Subway Jared lost 245 lbs narrative). Together they\u0027re complete influence toolkit: Influence = direct persuasion getting yes, Contagious = viral spread getting others to share. But if you only read one, choose Influenceâ€”it\u0027s the foundation with 217% more readers and higher rating for good reason."
-                }
+  "slug": "influence-vs-contagious",
+  "title": "Influence vs Contagious: Head to Head Comparison",
+  "metaDescription": "Influence vs Contagious: Cialdini's 1984 persuasion classic vs Berger's 2013 viral marketing guide. Which first? Compare 6 weapons vs STEPPS framework.",
+  "lastUpdated": "2026-02-09",
+  "category": "Sales & Marketing",
+  "book1": {
+    "title": "Influence",
+    "subtitle": "The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "isbn": "978-0061241895",
+    "publishedYear": 1984,
+    "pages": 320,
+    "rating": 4.6,
+    "ratingCount": 38000,
+    "price": 18,
+    "amazonUrl": "https://www.amazon.com/dp/006124189X?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780061241895-L.jpg",
+    "description": "Robert Cialdini presents six universal principles of persuasion based on decades of research: Reciprocity, Commitment/Consistency, Social Proof, Authority, Liking, and Scarcity. Through real-world examples, Cialdini shows how these principles are used by compliance professionals and how to recognize and resist unwanted influence."
+  },
+  "book2": {
+    "title": "Contagious",
+    "subtitle": "Why Things Catch On",
+    "author": "Jonah Berger",
+    "isbn": "978-1451686586",
+    "publishedYear": 2013,
+    "pages": 256,
+    "rating": 4.5,
+    "ratingCount": 12000,
+    "price": 17,
+    "amazonUrl": "https://www.amazon.com/dp/1451686585?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781451686586-L.jpg",
+    "description": "Jonah Berger, a Wharton marketing professor, reveals why certain products and ideas go viral while others flop. He presents the STEPPS framework: Social Currency, Triggers, Emotion, Public, Practical Value, and Stories."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Core Focus",
+        "book1": "How to persuade individuals",
+        "book2": "How to make things spread"
+      },
+      {
+        "feature": "Goal",
+        "book1": "Direct influence and compliance",
+        "book2": "Word-of-mouth and virality"
+      },
+      {
+        "feature": "Framework",
+        "book1": "6 Principles of Persuasion",
+        "book2": "STEPPS (6 principles of virality)"
+      },
+      {
+        "feature": "Application",
+        "book1": "Sales, negotiation, leadership",
+        "book2": "Marketing, content, social media"
+      },
+      {
+        "feature": "Time Horizon",
+        "book1": "Immediate persuasion",
+        "book2": "Spread over time"
+      },
+      {
+        "feature": "Research Base",
+        "book1": "Social psychology (1984 classic)",
+        "book2": "Marketing research (modern 2013)"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "38,000 ratings - 4.6 stars",
+        "book2": "12,000 ratings - 4.5 stars"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "320 pages",
+        "book2": "256 pages"
+      }
+    ],
+    "book1Strengths": [
+      "217% more readers (38K vs 12K) and higher rating (4.6 vs 4.5)—it's THE persuasion bible everyone references",
+      "6 principles are simple, memorable, universal—Reciprocity, Commitment, Social Proof, Authority, Liking, Scarcity work everywhere",
+      "Cialdini went undercover 3 years as car salesman, telemarketer—field research not just lab studies",
+      "Research is bulletproof—Milgram authority (65% gave lethal shocks), hotel towel social proof (+33% compliance)",
+      "Universal application—works for sales, parenting, negotiation, teaching. Not just marketing like Contagious",
+      "Teaches defense against manipulation—spot fake scarcity, phony authority, exploitative reciprocity",
+      "Perfect structure—8 chapters (intro + 6 principles + defenses), ~40 pages each. Read one principle per day"
+    ],
+    "book1Weaknesses": [
+      "Examples feel dated—1984 Hare Krishnas at airports, Tupperware parties, door-to-door salesmen. Principles timeless though",
+      "Doesn't address digital/social media—written pre-internet. Nothing on Instagram, TikTok, viral loops",
+      "More about direct persuasion than viral spread—gets Person A to say yes, not Person A to tell 100 others",
+      "Denser at 320 pages—more academic than Contagious's breezy 256. Some sections feel slow",
+      "Focused on getting YES not getting SHARE—doesn't create buzz or word-of-mouth like STEPPS does",
+      "So famous tactics are recognized—everyone knows 'limited time' is scarcity. Awareness reduces effectiveness"
+    ],
+    "book2Strengths": [
+      "STEPPS framework brilliant—Social Currency, Triggers, Emotion, Public, Practical Value, Stories backed by research",
+      "Modern examples you recognize— cheesesteak, Blendtec 'Will It Blend?', Rebecca Black 'Friday'",
+      "Berger studied thousands of viral cases with data—analyzed 7,000 NY Times articles to find sharing patterns",
+      "Shorter and engaging at 256 pages—breezy pop-business writing vs Influence's textbook density",
+      "Perfect for digital age—designed for social media, content marketing, viral campaigns era",
+      "Immediately actionable—Triggers chapter shows Cheerios should advertise mornings. Clear tactics",
+      "'Top of mind = tip of tongue' Triggers principle is GOLD—Kit Kat + coffee = 8% sales boost"
+    ],
+    "book2Weaknesses": [
+      "1,224% fewer readers (12K vs 38K) and lower rating—good niche book but not classic like Influence",
+      "Doesn't replace Influence fundamentals—virality ? persuasion. Rebecca Black got 120M views, sold nothing",
+      "Some STEPPS hard to engineer—can't decide to create awe. Influence principles more controllable",
+      "Less universal—STEPPS great for content marketing, less useful for salary negotiations or direct sales",
+      "Assumes you have something worth sharing—framework doesn't help if product sucks or content is boring",
+      "STEPPS acronym feels forced—two Ps (Public and Practical Value) break natural flow. Less elegant"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we provide a reason.",
+      "People simply like to have reasons for what they do.",
+      "We all fool ourselves from time to time in order to keep our thoughts and beliefs consistent with what we have already done or decided.",
+      "Since 95 percent of the people are imitators and only 5 percent initiators, people are persuaded more by the actions of others than by any proof we can offer.",
+      "The way to love anything is to realize that it might be lost.",
+      "The truly gifted negotiator is one whose initial position is exaggerated enough to allow for a series of concessions."
+    ],
+    "book2": [
+      "Word of mouth is more effective than advertising because it's more persuasive and more targeted.",
+      "Making things more observable makes them easier to imitate, which makes them more likely to become popular.",
+      "If something is built to show, it's built to grow.",
+      "Top of mind means tip of tongue.",
+      "People don't think in terms of information. They think in terms of narratives.",
+      "Virality isn't born, it's made."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to understand the psychology of persuasion",
+      "You're in sales, negotiation, or leadership",
+      "You need to influence people directly",
+      "You want classic, timeless principles",
+      "You need to recognize manipulation tactics",
+      "You want foundational knowledge everyone references",
+      "You work in any field involving influence"
+    ],
+    "book2": [
+      "You want to create viral content or campaigns",
+      "You're in content marketing or social media",
+      "You need word-of-mouth strategies",
+      "You want modern, actionable tactics",
+      "You focus on digital marketing",
+      "You need to engineer sharing behavior",
+      "You want research-backed virality principles"
+    ]
+  },
+  "verdict": {
+    "winner": "Influence",
+    "summary": "Influence wins decisively for most readersâ€”38,000 ratings at 4.6 stars vs 12,000 at 4.5 tells the story (217% more readers, higher rating). Cialdini's 6 principles (Reciprocity, Commitment/Consistency, Social Proof, Authority, Liking, Scarcity) are foundational psychology applying EVERYWHERE: sales, parenting, negotiation, leadership, marketing. Published 1984, it's 40-year classic that changed entire industries. Berger's STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) is brilliant but SPECIALIZED for viral content/word-of-mouth marketingâ€”not universal persuasion. Different goals: Influence teaches direct persuasion (getting Person A to say yes to YOU), Contagious teaches viral spread (getting Person A to tell 100 others). Examples: Influence has 1970s-1980s research (Hare Krishna, Tupperware, Milgram), Contagious has 2000s-2010s viral cases (Blendtec, Rebecca Black 'Friday', $100 cheesesteak). Read Influence first for persuasion fundamentals everyone needs, then Contagious IF you specifically need virality tactics for marketing/content. Both together = complete influence toolkit, but Influence alone covers 90% of persuasion needs.",
+    "recommendation": "Read Influence FIRST, no questionâ€”it's essential persuasion education for anyone in business, sales, marketing, negotiation, or leadership. Work through 6 principles: Reciprocity (Hare Krishna flower trick, door-in-face technique, rejection-then-retreat), Commitment (foot-in-door, lowball, get small yes then big yes), Social Proof (canned laughter works, hotel towel reuse '75% of guests' sign, Jonestown mass suicide), Authority (Milgram 65% gave lethal shocks when told, credentials matter), Liking (Tupperware parties, we say yes to friends), Scarcity (limited time offers, cookies rated tastier when scarce). Then Chapter 8 defenses against manipulation. These principles work EVERYWHERE for 40+ years. THEN read Contagious IF you're in content marketing, social media, viral campaigns, or need word-of-mouth strategies. Learn STEPPS: Social Currency ($100 cheesesteak, insider knowledge), Triggers (Kit Kat + coffee = 8% sales boost, top of mind = tip of tongue), Emotion (high-arousal awe/anger/anxiety drives shares, not low-arousal sadness), Public (Apple logo faces out, Movember mustaches visible), Practical Value (life hacks, money-saving tips shared), Stories (Subway Jared lost 245 lbs narrative). Together they're complete influence toolkit: Influence = direct persuasion getting yes, Contagious = viral spread getting others to share. But if you only read one, choose Influenceâ€”it's the foundation with 217% more readers and higher rating for good reason."
+  }
 }

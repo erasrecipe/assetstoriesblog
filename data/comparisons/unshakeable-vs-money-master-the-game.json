@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "unshakeable-vs-money-master-the-game",
   "title": "Unshakeable vs Money Master the Game: Head to Head Comparison",
   "metaDescription": "Unshakeable vs Money Master the Game: Tony Robbins' concise investing guide vs comprehensive wealth playbook. Which finance book should you read first?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 5400,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_UNSHAKEABLE",
+    "amazonUrl": "https://www.amazon.com/dp/1501164603?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781501164583-L.jpg",
     "description": "After interviewing fifty of the world's greatest financial minds and penning the #1 New York Times bestseller Money: Master the Game, Tony Robbins returns with a step-by-step playbook, taking you on a journey to transform your financial life and accelerate your path to financial freedom."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 14000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MONEY_MASTER_THE_GAME",
+    "amazonUrl": "https://www.amazon.com/dp/1935150179?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781476757803-L.jpg",
     "description": "Tony Robbins has coached and inspired more than 50 million people from over 100 countries. More than 4 million people have attended his live seminars. Money: Master the Game is the book millions have been waiting for."
   },

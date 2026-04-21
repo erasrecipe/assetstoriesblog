@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "red-white-and-royal-blue-vs-boyfriend-material",
   "title": "Red, White & Royal Blue vs Boyfriend Material: Head to Head Comparison",
   "metaDescription": "Casey McQuiston's Red, White & Royal Blue vs Alexis Hall's Boyfriend Material—two beloved LGBTQ+ rom-coms. Which M/M romance should you read first?",
@@ -14,7 +14,7 @@
     "rating": 4.3,
     "ratingCount": 487000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781250316776?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781250316776-L.jpg",
     "description": "Red, White & Royal Blue imagines an alternate reality where America elected its first female president. Her son, Alex Claremont-Diaz, is charismatic, politically ambitious, and absolutely hates Prince Henry of Wales—until a PR disaster forces them to fake a friendship. As they exchange increasingly flirty texts and emails, their fake friendship becomes a very real secret relationship."
   },
@@ -28,20 +28,52 @@
     "rating": 4.1,
     "ratingCount": 95000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/1250217183?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781492080534-L.jpg",
     "description": "Boyfriend Material follows Luc O'Donnell, whose life is a mess. The son of a disappeared rock star, Luc works for a nonprofit, has a disaster personal life, and needs a respectable fake boyfriend to improve his image at a charity gala. Enter Oliver Blackwood, the perfect boring lawyer who also needs a fake boyfriend to appease his judgmental family."
   },
   "comparison": {
     "table": [
-      {"feature": "Setting", "book1": "US/UK—White House and royalty", "book2": "London contemporary"},
-      {"feature": "Initial Relationship", "book1": "Enemies forced into fake friendship", "book2": "Strangers in fake relationship"},
-      {"feature": "Stakes", "book1": "International politics and presidency", "book2": "Personal reputation and family approval"},
-      {"feature": "Tone", "book1": "Romantic, optimistic, sweeping", "book2": "Dry humor, self-deprecating, British"},
-      {"feature": "Heat Level", "book1": "Very steamy—explicit scenes", "book2": "Moderate—more fade-to-black"},
-      {"feature": "Coming Out Story", "book1": "Central—public coming out arc", "book2": "Characters already out"},
-      {"feature": "Page Count", "book1": "432 pages", "book2": "432 pages (same length)"},
-      {"feature": "Best For", "book1": "Readers wanting epic, swoony romance", "book2": "Readers wanting messy, realistic characters"}
+      {
+        "feature": "Setting",
+        "book1": "US/UK—White House and royalty",
+        "book2": "London contemporary"
+      },
+      {
+        "feature": "Initial Relationship",
+        "book1": "Enemies forced into fake friendship",
+        "book2": "Strangers in fake relationship"
+      },
+      {
+        "feature": "Stakes",
+        "book1": "International politics and presidency",
+        "book2": "Personal reputation and family approval"
+      },
+      {
+        "feature": "Tone",
+        "book1": "Romantic, optimistic, sweeping",
+        "book2": "Dry humor, self-deprecating, British"
+      },
+      {
+        "feature": "Heat Level",
+        "book1": "Very steamy—explicit scenes",
+        "book2": "Moderate—more fade-to-black"
+      },
+      {
+        "feature": "Coming Out Story",
+        "book1": "Central—public coming out arc",
+        "book2": "Characters already out"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "432 pages",
+        "book2": "432 pages (same length)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Readers wanting epic, swoony romance",
+        "book2": "Readers wanting messy, realistic characters"
+      }
     ],
     "book1Strengths": [
       "Alex and Henry's romance is swoon-worthy—texts and emails are perfection. From Henry's 'The boner jokes cease to be funny after a certain point' to Alex's 'History, huh? Bet we could make some'",

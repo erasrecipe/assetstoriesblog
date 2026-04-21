@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "think-and-grow-rich-vs-rich-dad-poor-dad",
   "title": "Think and Grow Rich vs Rich Dad Poor Dad: Head to Head Comparison",
   "metaDescription": "Think and Grow Rich vs Rich Dad Poor Dad: Napoleon Hill's 1937 classic vs Robert Kiyosaki's modern mindset. Which wealth book should you read first?",
@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 158000,
     "price": 8.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_THINK_AND_GROW_RICH",
+    "amazonUrl": "https://www.amazon.com/dp/1585424337?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781585424337-L.jpg",
     "description": "Think and Grow Rich has been called the 'Granddaddy of All Motivational Literature.' It was the first book to boldly ask, 'What makes a winner?' The man who asked and listened for the answer, Napoleon Hill, is now counted in the top ranks of the world's winners himself."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 89000,
     "price": 8.95,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_RICH_DAD_POOR_DAD",
+    "amazonUrl": "https://www.amazon.com/dp/1612680178?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
     "description": "Rich Dad Poor Dad is Robert's story of growing up with two dads - his real father and the father of his best friend, his rich dad - and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you."
   },

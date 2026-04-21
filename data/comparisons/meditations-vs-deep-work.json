@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 89000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_MEDITATIONS",
+    "amazonUrl": "https://www.amazon.com/dp/0140449337?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780812968255-L.jpg",
     "description": "Written in Greek by the only Roman emperor who was also a philosopher, without any intention of publication, the Meditations of Marcus Aurelius offer a remarkable series of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 67000,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_DEEP_WORK",
+    "amazonUrl": "https://www.amazon.com/dp/1455586691?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     "description": "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship."
   },

@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "getting-things-done-vs-bullet-journal-method",
   "title": "Getting Things Done vs The Bullet Journal Method: Head to Head Comparison",
   "metaDescription": "David Allen's Getting Things Done vs Ryder Carroll's Bullet Journal Method—two productivity systems compared. Which organizational method is right for you?",
@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 12500,
     "price": 17.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0143126563?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780143126560-L.jpg",
     "description": "Getting Things Done (GTD) is the comprehensive productivity system that has influenced millions. David Allen presents a five-step process: Capture (collect everything), Clarify (process what it means), Organize (put it where it belongs), Reflect (review frequently), and Engage (do the work). The system is designed to get everything out of your head and into a trusted system, freeing your mind for creative thinking. GTD includes concepts like the two-minute rule, next actions, contexts, and weekly reviews."
   },
@@ -28,7 +28,7 @@
     "rating": 4.3,
     "ratingCount": 8500,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0525533338?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780525533337-L.jpg",
     "description": "The Bullet Journal Method is both a practical organizational system and a mindfulness practice. Ryder Carroll created the system to help his ADHD, developing a flexible analog method using pen and paper. The core is rapid logging with bullets (tasks, events, notes), collections (themed pages), and migration (moving incomplete tasks). Unlike GTD, Bullet Journal is intentionally simple and analog, using a physical notebook. The book goes beyond mechanics to explore reflection, intentionality, and meaning."
   },

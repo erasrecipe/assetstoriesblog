@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "simple-path-to-wealth-vs-bogleheads-guide",
   "title": "The Simple Path to Wealth vs The Bogleheads Guide to Investing: Head to Head Comparison",
   "metaDescription": "JL Collins' simple index fund philosophy vs the Bogleheads' comprehensive investing guide. Which book will help you build wealth more effectively?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 15800,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_SIMPLE_PATH_TO_WEALTH",
+    "amazonUrl": "https://www.amazon.com/dp/1533667922?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781533667922-L.jpg",
     "description": "This book grew out of a series of letters to my daughter concerning various things-mostly about money and investing-she was not yet quite ready to hear. Since money is the single most powerful tool we have for navigating this complex world we've created, understanding it is critical."
   },
@@ -28,7 +28,7 @@
     "rating": 4.6,
     "ratingCount": 3200,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_BOGLEHEADS_GUIDE",
+    "amazonUrl": "https://www.amazon.com/dp/9781118921289?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781118921289-L.jpg",
     "description": "The Bogleheads' Guide to Investing is a DIY handbook that espouses the sage investment wisdom of John C. Bogle, founder of Vanguard Group and creator of the first index mutual fund. This book offers step-by-step guidance on how to implement Bogle's remarkably successful investment philosophy. The Bogleheads are a group of like-minded individual investors who follow Bogle's investment philosophy of keeping it simple, holding a diversified portfolio, and staying the course through all market conditions."
   },

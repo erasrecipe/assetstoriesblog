@@ -1,144 +1,144 @@
 ﻿{
-    "slug":  "how-to-win-friends-vs-like-switch",
-    "title":  "How to Win Friends vs The Like Switch: Head to Head Comparison",
-    "metaDescription":  "How to Win Friends vs The Like Switch: Carnegie\u0027s timeless wisdom vs FBI behavioral science. Which influence book builds better connections?",
-    "lastUpdated":  "2026-02-08",
-    "category":  "Business \u0026 Leadership",
-    "book1":  {
-                  "title":  "How to Win Friends and Influence People",
-                  "subtitle":  "",
-                  "author":  "Dale Carnegie",
-                  "isbn":  "978-0671027032",
-                  "publishedYear":  1936,
-                  "pages":  288,
-                  "rating":  4.7,
-                  "ratingCount":  134000,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg",
-                  "description":  "Dale Carnegie\u0027s 1936 classic teaches fundamental techniques in handling people, six ways to make people like you, twelve ways to win people to your way of thinking, and nine ways to change people without giving offense. The 27 principles emphasize genuine interest in others, remembering names, smiling, listening actively, and making people feel important. Carnegie teaches influence through authentic appreciation and sincere connection, not manipulation. Sold over 30 million copies worldwide across 90 years."
-              },
-    "book2":  {
-                  "title":  "The Like Switch",
-                  "subtitle":  "An Ex-FBI Agent\u0027s Guide to Influencing, Attracting, and Winning People Over",
-                  "author":  "Jack Schafer",
-                  "isbn":  "978-1476754482",
-                  "publishedYear":  2015,
-                  "pages":  304,
-                  "rating":  4.5,
-                  "ratingCount":  8900,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781476754482-L.jpg",
-                  "description":  "Dr. Jack Schafer spent 20 years as FBI special agent developing techniques for profiling terrorists and detecting deception in National Security Division\u0027s Behavioral Analysis Program. The Like Switch translates these FBI rapport-building techniques for everyday use. Introduces Friendship Formula (Friendship = Proximity + Frequency + Duration + Intensity) and Friend Signals (Eyebrow Flash, Head Tilt, Smile, Open Posture) that communicate \u0027I\u0027m not a threat\u0027 before words. Teaches systematic influence through neuroscience-backed tactics including isopraxis (mirroring), manufactured curiosity, and strategic vulnerability."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Author Background",
-                                         "book1":  "Dale Carnegie—teacher, people skills pioneer",
-                                         "book2":  "Dr. Jack Schafer—FBI behavioral analyst"
-                                     },
-                                     {
-                                         "feature":  "Core Framework",
-                                         "book1":  "27 principles in 4 parts",
-                                         "book2":  "Friendship Formula + Friend Signals"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Principle-based, genuine connection",
-                                         "book2":  "Tactical, scientific, systematic rapport"
-                                     },
-                                     {
-                                         "feature":  "Philosophy",
-                                         "book1":  "Authentic appreciation, not manipulation",
-                                         "book2":  "FBI techniques work genuine or not"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "134,000 ratings - 4.7 stars",
-                                         "book2":  "8,900 ratings - 4.5 stars"
-                                     },
-                                     {
-                                         "feature":  "Published",
-                                         "book1":  "1936 (90 years proven)",
-                                         "book2":  "2015 (modern science)"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "288 pages",
-                                         "book2":  "304 pages (16 more)"
-                                     },
-                                     {
-                                         "feature":  "Best For",
-                                         "book1":  "Foundational people skills",
-                                         "book2":  "Tactical influence techniques"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The fundamental techniques like becoming genuinely interested in others feel timeless despite being written in 1936",
-                                              "Real stories from Lincoln to Rockefeller show these principles working at the highest levels of influence",
-                                              "The six ways to make people like you provide a complete toolkit for building authentic connections",
-                                              "Carnegie\u0027s warm tone makes persuasion feel like helping people rather than manipulating them"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Some examples feel dated with references to businessmen and secretaries from the 1930s corporate world",
-                                               "The relentless positivity can seem naive when dealing with genuinely difficult or manipulative people",
-                                               "Critics argue the techniques border on manipulation despite Carnegie\u0027s emphasis on sincerity"
-                                           ],
-                       "book2Strengths":  [
-                                              "FBI behavioral analysis brings scientific credibility to influence tactics through hostage negotiation cases",
-                                              "The friendship formula of proximity, frequency, duration, and intensity gives you measurable variables to control",
-                                              "Nonverbal communication focus on eyebrow flash and head tilt provides concrete behaviors to practice",
-                                              "The primacy effect and recency effect explain why first and last impressions carry disproportionate weight"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The FBI context makes some techniques feel manipulative rather than authentic relationship building",
-                                               "Less emphasis on genuine caring compared to Carnegie\u0027s focus on sincere interest in people",
-                                               "Some readers find the scientific approach cold compared to Carnegie\u0027s humanistic warmth"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.",
-                                 "Remember that a person\u0027s name is to that person the sweetest and most important sound in any language.",
-                                 "The only way to get the best of an argument is to avoid it.",
-                                 "Any fool can criticize, condemn, and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.",
-                                 "Talk to someone about themselves and they\u0027ll listen for hours.",
-                                 "If you want to gather honey, don\u0027t kick over the beehive."
-                             ],
-                   "book2":  [
-                                 "The Friendship Formula: Friendship = Proximity + Frequency + Duration + Intensity.",
-                                 "Friend signals tell people that you are not a threat and that you want to establish a relationship.",
-                                 "The Golden Rule of Friendship: If you want people to like you, make them feel good about themselves.",
-                                 "Eyebrow flash: A quick up-and-down movement of the eyebrows lasting about one-sixth of a second signals that you are not a threat.",
-                                 "Mimicking body language builds rapport at a subconscious level.",
-                                 "Curiosity is a friend signal that can be easily manufactured."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Learn 27 timeless principles working 90 years across all cultures",
-                                  "Get foundational people skills essential for ALL relationships",
-                                  "Master genuine connection through sincere interest and appreciation",
-                                  "Want universal classic (134K ratings, 30M+ copies, Warren Buffett endorsement)",
-                                  "Need immediate actionable advice (smile, names, listen—results TODAY)",
-                                  "Prefer warm inspiring stories (Lincoln, Franklin, Roosevelt)",
-                                  "Want to BECOME more likable person (character) not just tactics"
-                              ],
-                    "book2":  [
-                                  "Get FBI behavioral science techniques for systematic rapport",
-                                  "Learn Friendship Formula (Proximity + Frequency + Duration + Intensity)",
-                                  "Perfect for introverts needing structured tactical people skills",
-                                  "Understand Friend Signals (Eyebrow Flash, Head Tilt, isopraxis mirroring)",
-                                  "Want modern neuroscience backing (fMRI, dopamine, mirror neurons)",
-                                  "Need digital communication guidance (texting, social media, email)",
-                                  "Interested in FBI interrogation/spy recruitment techniques for influence"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "How to Win Friends and Influence People",
-                    "summary":  "How to Win Friends wins decisively with 1,406% more readers (134,000 vs 8,900—15x more), higher rating (4.7 vs 4.5), 90 years proven effectiveness vs 11 years, and 30+ million copies sold worldwide. Published 1936, it\u0027s THE foundational text influencing every people skills book since (including Like Switch). Carnegie\u0027s 27 comprehensive principles (genuine interest, smile, names, listening, appreciation, avoid arguments, leadership) work universally for ALL relationships and require authenticity. The Like Switch is excellent for tactical scientific techniques (Friendship Formula, Friend Signals, isopraxis, FBI rapport) but narrower appeal (8,900 niche readers), clinical FBI approach lacks warmth, and works through manipulation regardless of genuine interest. Different philosophies—Carnegie teaches BEING likable (character), Schafer teaches GETTING people to like you (tactics).",
-                    "recommendation":  "Read How to Win Friends and Influence People FIRST—non-negotiable foundational text every human needs. Work through 27 principles over 2-4 weeks: Part 1 Fundamentals (Don\u0027t criticize condemn complain—even Al Capone saw himself as good guy; Give honest appreciation—humans crave it; Arouse eager want), Part 2 Six Ways Make People Like You (Be genuinely interested not interesting, Smile—warmth breaks barriers, Remember names—Jim Farley remembered 50,000 became Postmaster General sweetest sound in any language, Be good listener encourage others talk themselves, Talk their interests, Make them feel important—do it sincerely), Part 3 Win People to Thinking (Avoid arguments—you can\u0027t win; Show respect \u0027You may be right I may be wrong\u0027; Admit wrong quickly; Get \u0027yes yes\u0027 Socratic; 12 total), Part 4 Be Leader (9 principles changing people without resentment). At 134,000 ratings, 4.7 stars, 90 years, Warren Buffett endorsement, it\u0027s proven universally. Results TODAY. Then consider The Like Switch IF you want tactical supplement for specific situations needing systematic influence. The Friendship Formula (Proximity + Frequency + Duration + Intensity) mathematically engineers relationships. Friend Signals (Eyebrow Flash 1/6 second, Head Tilt, Duchenne smile activates orbicularis oculi, Open posture) work before words. FBI techniques (isopraxis mirroring, manufactured curiosity, reciprocity) accelerate rapport. At 8,900 ratings and 4.5 stars, it\u0027s niche but valuable for introverts, analytical people, digital communication (texting tone, emoji, social media). Warning: clinical FBI approach may feel manipulative—\u0027manufactured curiosity\u0027 works even if you don\u0027t genuinely care initially. If you only read one, choose How to Win Friends for broader reach (15x more readers), higher satisfaction, timeless principles, and authentic connection philosophy. Add Like Switch only if you want tactical neuroscience supplement and accept manipulation-adjacent techniques as means to eventual genuine relationships."
-                }
+  "slug": "how-to-win-friends-vs-like-switch",
+  "title": "How to Win Friends vs The Like Switch: Head to Head Comparison",
+  "metaDescription": "How to Win Friends vs The Like Switch: Carnegie's timeless wisdom vs FBI behavioral science. Which influence book builds better connections?",
+  "lastUpdated": "2026-02-08",
+  "category": "Business & Leadership",
+  "book1": {
+    "title": "How to Win Friends and Influence People",
+    "subtitle": "",
+    "author": "Dale Carnegie",
+    "isbn": "978-0671027032",
+    "publishedYear": 1936,
+    "pages": 288,
+    "rating": 4.7,
+    "ratingCount": 134000,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/006124189X?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780671027032-L.jpg",
+    "description": "Dale Carnegie's 1936 classic teaches fundamental techniques in handling people, six ways to make people like you, twelve ways to win people to your way of thinking, and nine ways to change people without giving offense. The 27 principles emphasize genuine interest in others, remembering names, smiling, listening actively, and making people feel important. Carnegie teaches influence through authentic appreciation and sincere connection, not manipulation. Sold over 30 million copies worldwide across 90 years."
+  },
+  "book2": {
+    "title": "The Like Switch",
+    "subtitle": "An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over",
+    "author": "Jack Schafer",
+    "isbn": "978-1476754482",
+    "publishedYear": 2015,
+    "pages": 304,
+    "rating": 4.5,
+    "ratingCount": 8900,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/038552875X?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781476754482-L.jpg",
+    "description": "Dr. Jack Schafer spent 20 years as FBI special agent developing techniques for profiling terrorists and detecting deception in National Security Division's Behavioral Analysis Program. The Like Switch translates these FBI rapport-building techniques for everyday use. Introduces Friendship Formula (Friendship = Proximity + Frequency + Duration + Intensity) and Friend Signals (Eyebrow Flash, Head Tilt, Smile, Open Posture) that communicate 'I'm not a threat' before words. Teaches systematic influence through neuroscience-backed tactics including isopraxis (mirroring), manufactured curiosity, and strategic vulnerability."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Author Background",
+        "book1": "Dale Carnegie—teacher, people skills pioneer",
+        "book2": "Dr. Jack Schafer—FBI behavioral analyst"
+      },
+      {
+        "feature": "Core Framework",
+        "book1": "27 principles in 4 parts",
+        "book2": "Friendship Formula + Friend Signals"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Principle-based, genuine connection",
+        "book2": "Tactical, scientific, systematic rapport"
+      },
+      {
+        "feature": "Philosophy",
+        "book1": "Authentic appreciation, not manipulation",
+        "book2": "FBI techniques work genuine or not"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "134,000 ratings - 4.7 stars",
+        "book2": "8,900 ratings - 4.5 stars"
+      },
+      {
+        "feature": "Published",
+        "book1": "1936 (90 years proven)",
+        "book2": "2015 (modern science)"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "288 pages",
+        "book2": "304 pages (16 more)"
+      },
+      {
+        "feature": "Best For",
+        "book1": "Foundational people skills",
+        "book2": "Tactical influence techniques"
+      }
+    ],
+    "book1Strengths": [
+      "The fundamental techniques like becoming genuinely interested in others feel timeless despite being written in 1936",
+      "Real stories from Lincoln to Rockefeller show these principles working at the highest levels of influence",
+      "The six ways to make people like you provide a complete toolkit for building authentic connections",
+      "Carnegie's warm tone makes persuasion feel like helping people rather than manipulating them"
+    ],
+    "book1Weaknesses": [
+      "Some examples feel dated with references to businessmen and secretaries from the 1930s corporate world",
+      "The relentless positivity can seem naive when dealing with genuinely difficult or manipulative people",
+      "Critics argue the techniques border on manipulation despite Carnegie's emphasis on sincerity"
+    ],
+    "book2Strengths": [
+      "FBI behavioral analysis brings scientific credibility to influence tactics through hostage negotiation cases",
+      "The friendship formula of proximity, frequency, duration, and intensity gives you measurable variables to control",
+      "Nonverbal communication focus on eyebrow flash and head tilt provides concrete behaviors to practice",
+      "The primacy effect and recency effect explain why first and last impressions carry disproportionate weight"
+    ],
+    "book2Weaknesses": [
+      "The FBI context makes some techniques feel manipulative rather than authentic relationship building",
+      "Less emphasis on genuine caring compared to Carnegie's focus on sincere interest in people",
+      "Some readers find the scientific approach cold compared to Carnegie's humanistic warmth"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.",
+      "Remember that a person's name is to that person the sweetest and most important sound in any language.",
+      "The only way to get the best of an argument is to avoid it.",
+      "Any fool can criticize, condemn, and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.",
+      "Talk to someone about themselves and they'll listen for hours.",
+      "If you want to gather honey, don't kick over the beehive."
+    ],
+    "book2": [
+      "The Friendship Formula: Friendship = Proximity + Frequency + Duration + Intensity.",
+      "Friend signals tell people that you are not a threat and that you want to establish a relationship.",
+      "The Golden Rule of Friendship: If you want people to like you, make them feel good about themselves.",
+      "Eyebrow flash: A quick up-and-down movement of the eyebrows lasting about one-sixth of a second signals that you are not a threat.",
+      "Mimicking body language builds rapport at a subconscious level.",
+      "Curiosity is a friend signal that can be easily manufactured."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Learn 27 timeless principles working 90 years across all cultures",
+      "Get foundational people skills essential for ALL relationships",
+      "Master genuine connection through sincere interest and appreciation",
+      "Want universal classic (134K ratings, 30M+ copies, Warren Buffett endorsement)",
+      "Need immediate actionable advice (smile, names, listen—results TODAY)",
+      "Prefer warm inspiring stories (Lincoln, Franklin, Roosevelt)",
+      "Want to BECOME more likable person (character) not just tactics"
+    ],
+    "book2": [
+      "Get FBI behavioral science techniques for systematic rapport",
+      "Learn Friendship Formula (Proximity + Frequency + Duration + Intensity)",
+      "Perfect for introverts needing structured tactical people skills",
+      "Understand Friend Signals (Eyebrow Flash, Head Tilt, isopraxis mirroring)",
+      "Want modern neuroscience backing (fMRI, dopamine, mirror neurons)",
+      "Need digital communication guidance (texting, social media, email)",
+      "Interested in FBI interrogation/spy recruitment techniques for influence"
+    ]
+  },
+  "verdict": {
+    "winner": "How to Win Friends and Influence People",
+    "summary": "How to Win Friends wins decisively with 1,406% more readers (134,000 vs 8,900—15x more), higher rating (4.7 vs 4.5), 90 years proven effectiveness vs 11 years, and 30+ million copies sold worldwide. Published 1936, it's THE foundational text influencing every people skills book since (including Like Switch). Carnegie's 27 comprehensive principles (genuine interest, smile, names, listening, appreciation, avoid arguments, leadership) work universally for ALL relationships and require authenticity. The Like Switch is excellent for tactical scientific techniques (Friendship Formula, Friend Signals, isopraxis, FBI rapport) but narrower appeal (8,900 niche readers), clinical FBI approach lacks warmth, and works through manipulation regardless of genuine interest. Different philosophies—Carnegie teaches BEING likable (character), Schafer teaches GETTING people to like you (tactics).",
+    "recommendation": "Read How to Win Friends and Influence People FIRST—non-negotiable foundational text every human needs. Work through 27 principles over 2-4 weeks: Part 1 Fundamentals (Don't criticize condemn complain—even Al Capone saw himself as good guy; Give honest appreciation—humans crave it; Arouse eager want), Part 2 Six Ways Make People Like You (Be genuinely interested not interesting, Smile—warmth breaks barriers, Remember names—Jim Farley remembered 50,000 became Postmaster General sweetest sound in any language, Be good listener encourage others talk themselves, Talk their interests, Make them feel important—do it sincerely), Part 3 Win People to Thinking (Avoid arguments—you can't win; Show respect 'You may be right I may be wrong'; Admit wrong quickly; Get 'yes yes' Socratic; 12 total), Part 4 Be Leader (9 principles changing people without resentment). At 134,000 ratings, 4.7 stars, 90 years, Warren Buffett endorsement, it's proven universally. Results TODAY. Then consider The Like Switch IF you want tactical supplement for specific situations needing systematic influence. The Friendship Formula (Proximity + Frequency + Duration + Intensity) mathematically engineers relationships. Friend Signals (Eyebrow Flash 1/6 second, Head Tilt, Duchenne smile activates orbicularis oculi, Open posture) work before words. FBI techniques (isopraxis mirroring, manufactured curiosity, reciprocity) accelerate rapport. At 8,900 ratings and 4.5 stars, it's niche but valuable for introverts, analytical people, digital communication (texting tone, emoji, social media). Warning: clinical FBI approach may feel manipulative—'manufactured curiosity' works even if you don't genuinely care initially. If you only read one, choose How to Win Friends for broader reach (15x more readers), higher satisfaction, timeless principles, and authentic connection philosophy. Add Like Switch only if you want tactical neuroscience supplement and accept manipulation-adjacent techniques as means to eventual genuine relationships."
+  }
 }

@@ -14,7 +14,7 @@
     "rating": 4.8,
     "ratingCount": 189000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_ATOMIC_HABITS",
+    "amazonUrl": "https://www.amazon.com/dp/0735211299?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 34000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_LEAN_STARTUP",
+    "amazonUrl": "https://www.amazon.com/dp/0307887898?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
     "description": "Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty."
   },

@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 123000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_COSMOS",
+    "amazonUrl": "https://www.amazon.com/dp/9780345539434?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780345539434-L.jpg",
     "description": "Cosmos is one of the bestselling science books of all time. In clear-eyed prose, Sagan reveals a jewel-like blue world inhabited by a life form that is just beginning to discover its own identity and to venture into the vast ocean of space. Cosmos retraces the fourteen billion years of cosmic evolution that have transformed matter into consciousness, exploring such topics as the origin of life, the human brain, Egyptian hieroglyphics, spacecraft missions, the death of the Sun, the evolution of galaxies, and the forces and individuals who helped shape modern science."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 67000,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER_AMAZON_URL_BRIEF_HISTORY",
+    "amazonUrl": "https://www.amazon.com/dp/9780553380163?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg",
     "description": "A landmark volume in science writing by one of the great minds of our time, Stephen Hawking's book explores such profound questions as: How did the universe begin—and what made its start possible? Does time always flow forward? Is the universe unending—or are there boundaries? Told in language we all can understand, A Brief History of Time plunges into the exotic realms of black holes and quarks, of antimatter and arrows of time, of the big bang and a bigger God."
   },

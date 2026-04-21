@@ -1,140 +1,140 @@
 ﻿{
-    "slug":  "start-with-why-vs-find-your-why",
-    "title":  "Start With Why vs Find Your Why: Head to Head Comparison",
-    "metaDescription":  "Simon Sinek\u0027s purpose books compared: Start With Why vs Find Your Why. Which book is better for discovering your purpose? Complete comparison guide.",
-    "lastUpdated":  "2026-02-07",
-    "category":  "Self-Help \u0026 Personal Development",
-    "book1":  {
-                  "title":  "Start With Why",
-                  "subtitle":  "How Great Leaders Inspire Everyone to Take Action",
-                  "author":  "Simon Sinek",
-                  "isbn":  "978-1591846444",
-                  "publishedYear":  2009,
-                  "pages":  256,
-                  "rating":  4.6,
-                  "ratingCount":  45000,
-                  "price":  17.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
-                  "description":  "The inspirational bestseller that ignited a movement and asked us to find our WHY. Discover the book that is captivating millions on TikTok and that served as the basis for one of the most popular TED Talks of all time—with more than 56 million views and counting. Start With Why has led millions of readers to rethink everything they do—in their personal lives, their careers and their organizations."
-              },
-    "book2":  {
-                  "title":  "Find Your Why",
-                  "subtitle":  "A Practical Guide for Discovering Purpose for You and Your Team",
-                  "author":  "Simon Sinek, David Mead, Peter Docker",
-                  "isbn":  "978-0143111726",
-                  "publishedYear":  2017,
-                  "pages":  256,
-                  "rating":  4.5,
-                  "ratingCount":  8900,
-                  "price":  16.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780143111726-L.jpg",
-                  "description":  "Start With Why has led millions of readers to rethink everything they do, in their personal lives, their careers and their organizations. Now Find Your Why picks up where Start With Why left off. It shows you how to apply Simon Sinek\u0027s powerful insights so that you can find more inspiration at work—and in turn inspire those around you."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Purpose",
-                                         "book1":  "Explains the WHY concept",
-                                         "book2":  "Helps you discover YOUR why"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Inspirational philosophy",
-                                         "book2":  "Practical workbook/exercises"
-                                     },
-                                     {
-                                         "feature":  "Content Type",
-                                         "book1":  "Theory, examples, case studies",
-                                         "book2":  "Step-by-step process \u0026 tools"
-                                     },
-                                     {
-                                         "feature":  "Actionability",
-                                         "book1":  "Inspiring but less actionable",
-                                         "book2":  "Highly actionable with exercises"
-                                     },
-                                     {
-                                         "feature":  "Authorship",
-                                         "book1":  "Simon Sinek solo",
-                                         "book2":  "Sinek + Mead + Docker"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "256 pages",
-                                         "book2":  "256 pages"
-                                     },
-                                     {
-                                         "feature":  "Focus",
-                                         "book1":  "Individuals \u0026 organizations broadly",
-                                         "book2":  "Personal discovery \u0026 team facilitation"
-                                     },
-                                     {
-                                         "feature":  "Publication",
-                                         "book1":  "2009 (original, groundbreaking)",
-                                         "book2":  "2017 (follow-up, practical)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "The golden circle of why, how, and what explains why Apple inspires while Dell just sells computers",
-                                              "Sinek proves people don\u0027t buy what you do but why you do it using Wright Brothers versus Samuel Langley",
-                                              "The biology argument that limbic brain drives decisions while neocortex rationalizes explains gut feeling purchases",
-                                              "Inspiring examples from MLK to Southwest Airlines show purpose driven leadership working across contexts"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "The why concept while powerful gets repeated excessively without adding new depth or nuance",
-                                               "Some examples feel cherry picked ignoring successful companies that don\u0027t clearly articulate why",
-                                               "Limited practical guidance on actually discovering your why beyond knowing you should have one"
-                                           ],
-                       "book2Strengths":  [
-                                              "The step by step discovery process with worksheets makes finding your why actionable not just aspirational",
-                                              "Story mining technique of identifying specific moments when you felt fulfilled reveals authentic purpose patterns",
-                                              "Separate processes for individuals versus teams acknowledge why discovery works differently at each level",
-                                              "The draft refine test cycle prevents you from settling on generic platitudes as your why statement"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The workshop format assumes you have time and willing participants for multi hour discovery sessions",
-                                               "Some people find their why statements still feeling vague despite following the process carefully",
-                                               "Less inspiring than Start With Why since it focuses on mechanics over motivation"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "People don\u0027t buy what you do; they buy why you do it.",
-                                 "There are only two ways to influence human behavior: you can manipulate it or you can inspire it.",
-                                 "When we tell people to do their jobs, we get workers. When we trust people to get the job done, we get leaders.",
-                                 "Working hard for something we don\u0027t care about is called stress. Working hard for something we love is called passion.",
-                                 "Leadership requires two things: a vision of the world that does not yet exist and the ability to communicate it.",
-                                 "Great leaders are those who trust their gut. They are those who understand the art before the science."
-                             ],
-                   "book2":  [
-                                 "Your WHY is the purpose, cause or belief that drives you.",
-                                 "The WHY comes from looking back at your life—not looking forward to your future.",
-                                 "A WHY statement is just two sentences: \u0027To _____ so that _____.\u0027",
-                                 "When you know your WHY, you\u0027ll know which way to go.",
-                                 "The goal is not to find a job doing something you love. The goal is to find a job where you can do what you love.",
-                                 "Your WHY is not about making money. That\u0027s a result."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "You want to understand the revolutionary concept of starting with WHY",
-                                  "You need inspiration and a paradigm shift in how you think about purpose",
-                                  "You\u0027re interested in leadership philosophy and what makes great leaders different",
-                                  "You want to understand why some organizations inspire loyalty and others don\u0027t",
-                                  "You need motivation to find your purpose before diving into practical work"
-                              ],
-                    "book2":  [
-                                  "You\u0027ve read Start With Why and need the practical process to find YOUR why",
-                                  "You want step-by-step exercises to actually discover your purpose statement",
-                                  "You\u0027re a team leader who wants to facilitate WHY discovery sessions",
-                                  "You prefer workbooks and actionable tools over inspirational philosophy",
-                                  "You need a structured process for personal or organizational purpose discovery"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "Both (Sequential Reading)",
-                    "summary":  "Start With Why wins for cultural impact—4.6 stars with 45,000 reviews vs Find Your Why\u0027s 4.5 with 8,900 shows the original inspired 5x more readers. Sinek\u0027s Golden Circle framework (WHY-HOW-WHAT) became business orthodoxy through his 56M-view TED Talk. The Apple/MLK/Wright Brothers examples changed how leaders think about purpose. But here\u0027s the problem: you\u0027ll finish inspired with zero idea how to craft YOUR specific WHY statement. Find Your Why provides the missing piece—structured workshops and exercises that actually produce a purpose statement. Read both sequentially for complete transformation.",
-                    "recommendation":  "Start with Start With Why ($17.99, 256 pages, 4.6 stars, 45,000 reviews). Sinek\u0027s deconstruction of Apple\u0027s \u0027Think Different\u0027 and MLK\u0027s \u0027I Have a Dream\u0027 will permanently change how you understand leadership and communication. The Wright Brothers vs Samuel Langley case study (passion beat credentials) crystallizes the WHY concept perfectly. Warning: the book repeats one idea for 256 pages—Golden Circle fully explained by page 50. Then immediately read Find Your Why ($16.99, 256 pages, 4.5 stars, 8,900 reviews) while inspired. The story-mining exercises and partner workshop format transform abstract WHY into concrete purpose statement. Together they cost $35 and provide both inspiration (Start) and implementation (Find). Skip if you hate self-help repetition or prefer figuring things out solo."
-                }
+  "slug": "start-with-why-vs-find-your-why",
+  "title": "Start With Why vs Find Your Why: Head to Head Comparison",
+  "metaDescription": "Simon Sinek's purpose books compared: Start With Why vs Find Your Why. Which book is better for discovering your purpose? Complete comparison guide.",
+  "lastUpdated": "2026-02-07",
+  "category": "Self-Help & Personal Development",
+  "book1": {
+    "title": "Start With Why",
+    "subtitle": "How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "isbn": "978-1591846444",
+    "publishedYear": 2009,
+    "pages": 256,
+    "rating": 4.6,
+    "ratingCount": 45000,
+    "price": 17.99,
+    "amazonUrl": "https://www.amazon.com/dp/1596446447?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9781591846444-L.jpg",
+    "description": "The inspirational bestseller that ignited a movement and asked us to find our WHY. Discover the book that is captivating millions on TikTok and that served as the basis for one of the most popular TED Talks of all time—with more than 56 million views and counting. Start With Why has led millions of readers to rethink everything they do—in their personal lives, their careers and their organizations."
+  },
+  "book2": {
+    "title": "Find Your Why",
+    "subtitle": "A Practical Guide for Discovering Purpose for You and Your Team",
+    "author": "Simon Sinek, David Mead, Peter Docker",
+    "isbn": "978-0143111726",
+    "publishedYear": 2017,
+    "pages": 256,
+    "rating": 4.5,
+    "ratingCount": 8900,
+    "price": 16.99,
+    "amazonUrl": "https://www.amazon.com/dp/9780143111726?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780143111726-L.jpg",
+    "description": "Start With Why has led millions of readers to rethink everything they do, in their personal lives, their careers and their organizations. Now Find Your Why picks up where Start With Why left off. It shows you how to apply Simon Sinek's powerful insights so that you can find more inspiration at work—and in turn inspire those around you."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Purpose",
+        "book1": "Explains the WHY concept",
+        "book2": "Helps you discover YOUR why"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Inspirational philosophy",
+        "book2": "Practical workbook/exercises"
+      },
+      {
+        "feature": "Content Type",
+        "book1": "Theory, examples, case studies",
+        "book2": "Step-by-step process & tools"
+      },
+      {
+        "feature": "Actionability",
+        "book1": "Inspiring but less actionable",
+        "book2": "Highly actionable with exercises"
+      },
+      {
+        "feature": "Authorship",
+        "book1": "Simon Sinek solo",
+        "book2": "Sinek + Mead + Docker"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "256 pages",
+        "book2": "256 pages"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Individuals & organizations broadly",
+        "book2": "Personal discovery & team facilitation"
+      },
+      {
+        "feature": "Publication",
+        "book1": "2009 (original, groundbreaking)",
+        "book2": "2017 (follow-up, practical)"
+      }
+    ],
+    "book1Strengths": [
+      "The golden circle of why, how, and what explains why Apple inspires while Dell just sells computers",
+      "Sinek proves people don't buy what you do but why you do it using Wright Brothers versus Samuel Langley",
+      "The biology argument that limbic brain drives decisions while neocortex rationalizes explains gut feeling purchases",
+      "Inspiring examples from MLK to Southwest Airlines show purpose driven leadership working across contexts"
+    ],
+    "book1Weaknesses": [
+      "The why concept while powerful gets repeated excessively without adding new depth or nuance",
+      "Some examples feel cherry picked ignoring successful companies that don't clearly articulate why",
+      "Limited practical guidance on actually discovering your why beyond knowing you should have one"
+    ],
+    "book2Strengths": [
+      "The step by step discovery process with worksheets makes finding your why actionable not just aspirational",
+      "Story mining technique of identifying specific moments when you felt fulfilled reveals authentic purpose patterns",
+      "Separate processes for individuals versus teams acknowledge why discovery works differently at each level",
+      "The draft refine test cycle prevents you from settling on generic platitudes as your why statement"
+    ],
+    "book2Weaknesses": [
+      "The workshop format assumes you have time and willing participants for multi hour discovery sessions",
+      "Some people find their why statements still feeling vague despite following the process carefully",
+      "Less inspiring than Start With Why since it focuses on mechanics over motivation"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "People don't buy what you do; they buy why you do it.",
+      "There are only two ways to influence human behavior: you can manipulate it or you can inspire it.",
+      "When we tell people to do their jobs, we get workers. When we trust people to get the job done, we get leaders.",
+      "Working hard for something we don't care about is called stress. Working hard for something we love is called passion.",
+      "Leadership requires two things: a vision of the world that does not yet exist and the ability to communicate it.",
+      "Great leaders are those who trust their gut. They are those who understand the art before the science."
+    ],
+    "book2": [
+      "Your WHY is the purpose, cause or belief that drives you.",
+      "The WHY comes from looking back at your life—not looking forward to your future.",
+      "A WHY statement is just two sentences: 'To _____ so that _____.'",
+      "When you know your WHY, you'll know which way to go.",
+      "The goal is not to find a job doing something you love. The goal is to find a job where you can do what you love.",
+      "Your WHY is not about making money. That's a result."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "You want to understand the revolutionary concept of starting with WHY",
+      "You need inspiration and a paradigm shift in how you think about purpose",
+      "You're interested in leadership philosophy and what makes great leaders different",
+      "You want to understand why some organizations inspire loyalty and others don't",
+      "You need motivation to find your purpose before diving into practical work"
+    ],
+    "book2": [
+      "You've read Start With Why and need the practical process to find YOUR why",
+      "You want step-by-step exercises to actually discover your purpose statement",
+      "You're a team leader who wants to facilitate WHY discovery sessions",
+      "You prefer workbooks and actionable tools over inspirational philosophy",
+      "You need a structured process for personal or organizational purpose discovery"
+    ]
+  },
+  "verdict": {
+    "winner": "Both (Sequential Reading)",
+    "summary": "Start With Why wins for cultural impact—4.6 stars with 45,000 reviews vs Find Your Why's 4.5 with 8,900 shows the original inspired 5x more readers. Sinek's Golden Circle framework (WHY-HOW-WHAT) became business orthodoxy through his 56M-view TED Talk. The Apple/MLK/Wright Brothers examples changed how leaders think about purpose. But here's the problem: you'll finish inspired with zero idea how to craft YOUR specific WHY statement. Find Your Why provides the missing piece—structured workshops and exercises that actually produce a purpose statement. Read both sequentially for complete transformation.",
+    "recommendation": "Start with Start With Why ($17.99, 256 pages, 4.6 stars, 45,000 reviews). Sinek's deconstruction of Apple's 'Think Different' and MLK's 'I Have a Dream' will permanently change how you understand leadership and communication. The Wright Brothers vs Samuel Langley case study (passion beat credentials) crystallizes the WHY concept perfectly. Warning: the book repeats one idea for 256 pages—Golden Circle fully explained by page 50. Then immediately read Find Your Why ($16.99, 256 pages, 4.5 stars, 8,900 reviews) while inspired. The story-mining exercises and partner workshop format transform abstract WHY into concrete purpose statement. Together they cost $35 and provide both inspiration (Start) and implementation (Find). Skip if you hate self-help repetition or prefer figuring things out solo."
+  }
 }

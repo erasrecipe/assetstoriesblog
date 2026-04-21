@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "phoenix-project-vs-unicorn-project",
   "title": "The Phoenix Project vs The Unicorn Project: Head to Head Comparison",
   "metaDescription": "DevOps novels compared: Phoenix Project vs Unicorn Project. Which Gene Kim book should you read first? Complete comparison for IT professionals.",
@@ -14,7 +14,7 @@
     "rating": 4.6,
     "ratingCount": 12000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780988262508?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780988262508-L.jpg",
     "description": "Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO. The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced."
   },
@@ -28,7 +28,7 @@
     "rating": 4.5,
     "ratingCount": 4500,
     "price": 21.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781942788768?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781942788768-L.jpg",
     "description": "The Unicorn Project is a fictionalized story that follows Maxine, a senior lead developer and architect, as she is exiled to the Phoenix Project, to the horror of her friends and colleagues, as punishment for contributing to a payroll outage. She tries to survive in what feels like a heartless and chaotic bureaucracy and to work within a system where no one can get anything done without endless committees, paperwork, and approvals."
   },

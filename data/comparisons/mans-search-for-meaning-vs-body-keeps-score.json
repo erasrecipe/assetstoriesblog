@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "mans-search-for-meaning-vs-body-keeps-score",
   "title": "Man's Search for Meaning vs The Body Keeps the Score: Head to Head Comparison",
   "metaDescription": "Viktor Frankl's Holocaust memoir vs Bessel van der Kolk's trauma neuroscience. Which book better addresses suffering and healing?",
@@ -14,7 +14,7 @@
     "rating": 4.7,
     "ratingCount": 128000,
     "price": 14.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780807014295?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
     "description": "Man's Search for Meaning is Viktor Frankl's account of his experiences in Nazi concentration camps and the psychological lessons he learned. The book is divided into two parts: Frankl's harrowing experiences in the camps, and his development of logotherapy—a form of psychotherapy that focuses on finding meaning in life. Despite unimaginable suffering, Frankl discovered that those who found meaning and purpose could survive anything."
   },
@@ -28,7 +28,7 @@
     "rating": 4.8,
     "ratingCount": 68000,
     "price": 19.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/0143127748?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780143127741-L.jpg",
     "description": "The Body Keeps the Score is a pioneering work on understanding and treating trauma. Dr. Bessel van der Kolk, a leading trauma researcher, explains how trauma reshapes the brain and body, and how it affects our capacity for pleasure, engagement, self-control, and trust. The book explores groundbreaking treatments including EMDR, neurofeedback, yoga, and theater, showing how trauma survivors can reclaim their lives."
   },

@@ -1,148 +1,148 @@
 ﻿{
-    "slug":  "intelligent-investor-vs-security-analysis",
-    "title":  "The Intelligent Investor vs Security Analysis: Head to Head Comparison",
-    "metaDescription":  "Both by Benjamin Graham, but which first? The Intelligent Investor vs Security Analysis—640 pages vs 766, $25 vs $60, accessible vs textbook.",
-    "lastUpdated":  "2026-02-09",
-    "category":  "Finance \u0026 Investing",
-    "book1":  {
-                  "title":  "The Intelligent Investor",
-                  "subtitle":  "The Definitive Book on Value Investing",
-                  "author":  "Benjamin Graham",
-                  "isbn":  "978-0060555665",
-                  "publishedYear":  1949,
-                  "pages":  640,
-                  "rating":  4.6,
-                  "ratingCount":  23000,
-                  "price":  24.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780060555665-L.jpg",
-                  "description":  "This classic text is annotated to update Graham\u0027s timeless wisdom for today\u0027s market conditions. The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham\u0027s philosophy of \u0027value investing\u0027—which shields investors from substantial error and teaches them to develop long-term strategies—has made The Intelligent Investor the stock market bible ever since its original publication in 1949."
-              },
-    "book2":  {
-                  "title":  "Security Analysis",
-                  "subtitle":  "Sixth Edition",
-                  "author":  "Benjamin Graham, David Dodd",
-                  "isbn":  "978-0071592536",
-                  "publishedYear":  1934,
-                  "pages":  766,
-                  "rating":  4.5,
-                  "ratingCount":  3400,
-                  "price":  59.99,
-                  "amazonUrl":  "PLACEHOLDER",
-                  "coverImage":  "https://covers.openlibrary.org/b/isbn/9780071592536-L.jpg",
-                  "description":  "First published in 1934, Security Analysis is one of the most influential financial books ever written. Selling more than one million copies through five editions, it has provided generations of investors with the timeless value investing philosophy and techniques of Benjamin Graham and David L. Dodd."
-              },
-    "comparison":  {
-                       "table":  [
-                                     {
-                                         "feature":  "Target Audience",
-                                         "book1":  "Individual investors, general public",
-                                         "book2":  "Professional analysts, serious students"
-                                     },
-                                     {
-                                         "feature":  "Approach",
-                                         "book1":  "Practical investment philosophy",
-                                         "book2":  "Technical security analysis textbook"
-                                     },
-                                     {
-                                         "feature":  "Depth",
-                                         "book1":  "Accessible overview of principles",
-                                         "book2":  "Exhaustive, comprehensive deep dive"
-                                     },
-                                     {
-                                         "feature":  "Page Count",
-                                         "book1":  "640 pages",
-                                         "book2":  "766 pages (20% longer)"
-                                     },
-                                     {
-                                         "feature":  "Price",
-                                         "book1":  "$24.99 (affordable)",
-                                         "book2":  "$59.99 (2.4x more expensive)"
-                                     },
-                                     {
-                                         "feature":  "Focus",
-                                         "book1":  "Investment strategy \u0026 psychology",
-                                         "book2":  "Financial statement forensics"
-                                     },
-                                     {
-                                         "feature":  "Readability",
-                                         "book1":  "More accessible, narrative driven",
-                                         "book2":  "Dense textbook, very technical"
-                                     },
-                                     {
-                                         "feature":  "Popularity",
-                                         "book1":  "23,000 ratings - 4.6 stars",
-                                         "book2":  "3,400 ratings - 4.5 stars (85% fewer readers)"
-                                     },
-                                     {
-                                         "feature":  "Publication",
-                                         "book1":  "1949 (later, refined for general readers)",
-                                         "book2":  "1934 (earlier, foundational academic text)"
-                                     }
-                                 ],
-                       "book1Strengths":  [
-                                              "Mr. Market allegory teaches you to exploit market mood swings rather than being controlled by them",
-                                              "Margin of safety principle means buying only when price sits well below intrinsic value for protection",
-                                              "The defensive investor portfolio of index funds and bonds works for people who won\u0027t do deep analysis",
-                                              "Graham\u0027s 1949 wisdom survived crashes, bubbles, and regime changes proving timeless value investing works"
-                                          ],
-                       "book1Weaknesses":  [
-                                               "Some specific stock screens like price to book ratios matter less in today\u0027s intangible asset economy",
-                                               "The writing style feels academic and dense compared to modern conversational investment books",
-                                               "Limited coverage of international investing or alternative assets beyond stocks and bonds"
-                                           ],
-                       "book2Strengths":  [
-                                              "The 700 page deep dive into financial statement analysis teaches you to read balance sheets like a professional",
-                                              "Bond analysis sections provide expertise you won\u0027t find in equity focused investment books",
-                                              "Graham and Dodd\u0027s case studies from actual companies show valuation techniques in practice not just theory",
-                                              "The intellectual rigor appeals to serious students wanting to master fundamentals not just get rich quick"
-                                          ],
-                       "book2Weaknesses":  [
-                                               "The 1934 publication date means many examples reference companies and accounting standards that no longer exist",
-                                               "Extreme technical density makes this suitable only for finance professionals or dedicated students",
-                                               "Modern accounting changes and complex derivatives limit applicability of some analysis techniques"
-                                           ]
-                   },
-    "quotes":  {
-                   "book1":  [
-                                 "The intelligent investor is a realist who sells to optimists and buys from pessimists.",
-                                 "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
-                                 "In the short run, the market is a voting machine, but in the long run, it is a weighing machine.",
-                                 "The investor\u0027s chief problem—and even his worst enemy—is likely to be himself.",
-                                 "Those who do not remember the past are condemned to repeat it.",
-                                 "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks."
-                             ],
-                   "book2":  [
-                                 "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return.",
-                                 "The purpose of analysis is to answer, with reasonable certainty, three questions: What securities should be purchased? When? At what price?",
-                                 "The margin of safety is always dependent on the price paid.",
-                                 "Investment is most intelligent when it is most businesslike.",
-                                 "Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it—even though others may hesitate or differ."
-                             ]
-               },
-    "whyRead":  {
-                    "book1":  [
-                                  "Warren Buffett\u0027s #1 recommendation for all investors—essential foundational reading",
-                                  "Learn margin of safety, Mr. Market allegory, defensive vs enterprising investor frameworks accessibly",
-                                  "Get practical stock selection rules you can implement TODAY (P/E \u003c15x, P/B \u003c1.5x, etc.)",
-                                  "Understand investment psychology and how to profit from market fluctuations emotionally",
-                                  "640 pages with modern Jason Zweig commentary updating principles for 2000s",
-                                  "$24.99 affordable price point vs Security Analysis $59.99",
-                                  "577% MORE readers (23K vs 3.4K) with higher rating (4.6 vs 4.5) proves broader appeal"
-                              ],
-                    "book2":  [
-                                  "You\u0027re professional investor, analyst, or serious student pursuing complete mastery",
-                                  "You want THE foundational 1934 text where value investing was literally born",
-                                  "You need exhaustive coverage of ALL security types (bonds 200 pages, preferred, common stocks)",
-                                  "You want to master financial statement forensics and balance sheet analysis detecting fraud",
-                                  "You\u0027re willing to study 766-page graduate-level textbook over 3-6 months properly",
-                                  "You have accounting background (college-level) and technical skills to grasp dense material",
-                                  "You\u0027re fixed-income investor needing definitive 200-page bond analysis guide"
-                              ]
-                },
-    "verdict":  {
-                    "winner":  "The Intelligent Investor",
-                    "summary":  "The Intelligent Investor wins decisively for 99% of readers—23,000 ratings at 4.6 vs 3,400 at 4.5 (577% more readers, higher rating), $24.99 vs $59.99 (2.4x cheaper), and it\u0027s Warren Buffett\u0027s #1 recommendation to general public. At 640 pages, it teaches margin of safety, Mr. Market allegory, defensive vs enterprising investor frameworks, practical stock selection rules accessibly with Jason Zweig 2003 commentary. Security Analysis is THE foundational 1934 text (published 15 years earlier) with unmatched depth—766 pages covering bonds (200 pages credit analysis), preferred stocks, common stocks, financial statement forensics detecting fraud. It\u0027s Columbia Business School textbook Graham taught 1928-1957 (Buffett studied 1951). But it\u0027s graduate-level material requiring accounting fluency, overwhelming most readers. Different purposes: Intelligent Investor = essential reading for ALL investors learning value investing philosophy, Security Analysis = advanced textbook for aspiring professionals/serious students wanting complete mastery. Buffett says: read Intelligent Investor first (everyone), THEN Security Analysis IF you\u0027re pursuing analysis career or determined to master the field completely. Most won\u0027t need Security Analysis—Intelligent Investor + experience covers 90% of needs.",
-                    "recommendation":  "Read The Intelligent Investor FIRST, non-negotiable—Warren Buffett read it age 19 in 1950 and said \u0027It changed my life.\u0027 Work through 640 pages over 2-3 months: Chapters 1-7 on investor psychology and strategy (defensive passive vs enterprising active choice based on time/temperament), Chapter 8 on market fluctuations (Mr. Market allegory—use mood swings to advantage, buy fear sell greed), Chapters 8-14 on stock selection (defensive rules: P/E \u003c15x, P/B \u003c1.5x, current ratio \u003e2, debt \u003c50% equity; enterprising rules: special situations, net-nets, margin of safety), Chapters 15-17 case studies (ELTRA vs Emerson Electric, A\u0026P undervalued despite great business showing what \u0027cheap\u0027 looks like), Chapter 20 margin of safety (buy $100 value for $60-70 = 30-40% cushion). Jason Zweig commentary after each chapter updates for tech bubble, Enron, 2000s markets. You\u0027ll grasp ALL core value investing principles Buffett used building $700B+ Berkshire Hathaway. THEN read Security Analysis IF you\u0027re: (1) aspiring professional analyst, (2) serious student pursuing mastery, (3) fixed-income investor needing 200-page bond guide, (4) want to detect financial fraud through statement forensics. Study 766 pages over 6 months: Part I survey (50 pages), Part II bonds/preferred (300 pages—credit analysis, indentures, covenants, interest coverage), Parts IV-V common stock valuation and financial analysis (300 pages—balance sheet forensics, earnings quality, cash flow, detecting manipulation), Part VI special situations (arbitrage, liquidations). This is Columbia MBA-level textbook requiring accounting knowledge. Most individual investors DON\u0027T need it—Intelligent Investor alone covers 90% of value investing with 10% of effort. But if you\u0027re serious about professional career or complete mastery, Security Analysis is essential second step after Intelligent Investor foundation. Read Intelligent Investor first, THEN decide if you need Security Analysis depth. Buffett\u0027s hierarchy: Intelligent Investor for everyone, Security Analysis for the serious few."
-                }
+  "slug": "intelligent-investor-vs-security-analysis",
+  "title": "The Intelligent Investor vs Security Analysis: Head to Head Comparison",
+  "metaDescription": "Both by Benjamin Graham, but which first? The Intelligent Investor vs Security Analysis—640 pages vs 766, $25 vs $60, accessible vs textbook.",
+  "lastUpdated": "2026-02-09",
+  "category": "Finance & Investing",
+  "book1": {
+    "title": "The Intelligent Investor",
+    "subtitle": "The Definitive Book on Value Investing",
+    "author": "Benjamin Graham",
+    "isbn": "978-0060555665",
+    "publishedYear": 1949,
+    "pages": 640,
+    "rating": 4.6,
+    "ratingCount": 23000,
+    "price": 24.99,
+    "amazonUrl": "https://www.amazon.com/dp/0060555661?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780060555665-L.jpg",
+    "description": "This classic text is annotated to update Graham's timeless wisdom for today's market conditions. The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham's philosophy of 'value investing'—which shields investors from substantial error and teaches them to develop long-term strategies—has made The Intelligent Investor the stock market bible ever since its original publication in 1949."
+  },
+  "book2": {
+    "title": "Security Analysis",
+    "subtitle": "Sixth Edition",
+    "author": "Benjamin Graham, David Dodd",
+    "isbn": "978-0071592536",
+    "publishedYear": 1934,
+    "pages": 766,
+    "rating": 4.5,
+    "ratingCount": 3400,
+    "price": 59.99,
+    "amazonUrl": "https://www.amazon.com/dp/0071412341?tag=assetweb-20",
+    "coverImage": "https://covers.openlibrary.org/b/isbn/9780071592536-L.jpg",
+    "description": "First published in 1934, Security Analysis is one of the most influential financial books ever written. Selling more than one million copies through five editions, it has provided generations of investors with the timeless value investing philosophy and techniques of Benjamin Graham and David L. Dodd."
+  },
+  "comparison": {
+    "table": [
+      {
+        "feature": "Target Audience",
+        "book1": "Individual investors, general public",
+        "book2": "Professional analysts, serious students"
+      },
+      {
+        "feature": "Approach",
+        "book1": "Practical investment philosophy",
+        "book2": "Technical security analysis textbook"
+      },
+      {
+        "feature": "Depth",
+        "book1": "Accessible overview of principles",
+        "book2": "Exhaustive, comprehensive deep dive"
+      },
+      {
+        "feature": "Page Count",
+        "book1": "640 pages",
+        "book2": "766 pages (20% longer)"
+      },
+      {
+        "feature": "Price",
+        "book1": "$24.99 (affordable)",
+        "book2": "$59.99 (2.4x more expensive)"
+      },
+      {
+        "feature": "Focus",
+        "book1": "Investment strategy & psychology",
+        "book2": "Financial statement forensics"
+      },
+      {
+        "feature": "Readability",
+        "book1": "More accessible, narrative driven",
+        "book2": "Dense textbook, very technical"
+      },
+      {
+        "feature": "Popularity",
+        "book1": "23,000 ratings - 4.6 stars",
+        "book2": "3,400 ratings - 4.5 stars (85% fewer readers)"
+      },
+      {
+        "feature": "Publication",
+        "book1": "1949 (later, refined for general readers)",
+        "book2": "1934 (earlier, foundational academic text)"
+      }
+    ],
+    "book1Strengths": [
+      "Mr. Market allegory teaches you to exploit market mood swings rather than being controlled by them",
+      "Margin of safety principle means buying only when price sits well below intrinsic value for protection",
+      "The defensive investor portfolio of index funds and bonds works for people who won't do deep analysis",
+      "Graham's 1949 wisdom survived crashes, bubbles, and regime changes proving timeless value investing works"
+    ],
+    "book1Weaknesses": [
+      "Some specific stock screens like price to book ratios matter less in today's intangible asset economy",
+      "The writing style feels academic and dense compared to modern conversational investment books",
+      "Limited coverage of international investing or alternative assets beyond stocks and bonds"
+    ],
+    "book2Strengths": [
+      "The 700 page deep dive into financial statement analysis teaches you to read balance sheets like a professional",
+      "Bond analysis sections provide expertise you won't find in equity focused investment books",
+      "Graham and Dodd's case studies from actual companies show valuation techniques in practice not just theory",
+      "The intellectual rigor appeals to serious students wanting to master fundamentals not just get rich quick"
+    ],
+    "book2Weaknesses": [
+      "The 1934 publication date means many examples reference companies and accounting standards that no longer exist",
+      "Extreme technical density makes this suitable only for finance professionals or dedicated students",
+      "Modern accounting changes and complex derivatives limit applicability of some analysis techniques"
+    ]
+  },
+  "quotes": {
+    "book1": [
+      "The intelligent investor is a realist who sells to optimists and buys from pessimists.",
+      "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+      "In the short run, the market is a voting machine, but in the long run, it is a weighing machine.",
+      "The investor's chief problem—and even his worst enemy—is likely to be himself.",
+      "Those who do not remember the past are condemned to repeat it.",
+      "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks."
+    ],
+    "book2": [
+      "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return.",
+      "The purpose of analysis is to answer, with reasonable certainty, three questions: What securities should be purchased? When? At what price?",
+      "The margin of safety is always dependent on the price paid.",
+      "Investment is most intelligent when it is most businesslike.",
+      "Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it—even though others may hesitate or differ."
+    ]
+  },
+  "whyRead": {
+    "book1": [
+      "Warren Buffett's #1 recommendation for all investors—essential foundational reading",
+      "Learn margin of safety, Mr. Market allegory, defensive vs enterprising investor frameworks accessibly",
+      "Get practical stock selection rules you can implement TODAY (P/E <15x, P/B <1.5x, etc.)",
+      "Understand investment psychology and how to profit from market fluctuations emotionally",
+      "640 pages with modern Jason Zweig commentary updating principles for 2000s",
+      "$24.99 affordable price point vs Security Analysis $59.99",
+      "577% MORE readers (23K vs 3.4K) with higher rating (4.6 vs 4.5) proves broader appeal"
+    ],
+    "book2": [
+      "You're professional investor, analyst, or serious student pursuing complete mastery",
+      "You want THE foundational 1934 text where value investing was literally born",
+      "You need exhaustive coverage of ALL security types (bonds 200 pages, preferred, common stocks)",
+      "You want to master financial statement forensics and balance sheet analysis detecting fraud",
+      "You're willing to study 766-page graduate-level textbook over 3-6 months properly",
+      "You have accounting background (college-level) and technical skills to grasp dense material",
+      "You're fixed-income investor needing definitive 200-page bond analysis guide"
+    ]
+  },
+  "verdict": {
+    "winner": "The Intelligent Investor",
+    "summary": "The Intelligent Investor wins decisively for 99% of readers—23,000 ratings at 4.6 vs 3,400 at 4.5 (577% more readers, higher rating), $24.99 vs $59.99 (2.4x cheaper), and it's Warren Buffett's #1 recommendation to general public. At 640 pages, it teaches margin of safety, Mr. Market allegory, defensive vs enterprising investor frameworks, practical stock selection rules accessibly with Jason Zweig 2003 commentary. Security Analysis is THE foundational 1934 text (published 15 years earlier) with unmatched depth—766 pages covering bonds (200 pages credit analysis), preferred stocks, common stocks, financial statement forensics detecting fraud. It's Columbia Business School textbook Graham taught 1928-1957 (Buffett studied 1951). But it's graduate-level material requiring accounting fluency, overwhelming most readers. Different purposes: Intelligent Investor = essential reading for ALL investors learning value investing philosophy, Security Analysis = advanced textbook for aspiring professionals/serious students wanting complete mastery. Buffett says: read Intelligent Investor first (everyone), THEN Security Analysis IF you're pursuing analysis career or determined to master the field completely. Most won't need Security Analysis—Intelligent Investor + experience covers 90% of needs.",
+    "recommendation": "Read The Intelligent Investor FIRST, non-negotiable—Warren Buffett read it age 19 in 1950 and said 'It changed my life.' Work through 640 pages over 2-3 months: Chapters 1-7 on investor psychology and strategy (defensive passive vs enterprising active choice based on time/temperament), Chapter 8 on market fluctuations (Mr. Market allegory—use mood swings to advantage, buy fear sell greed), Chapters 8-14 on stock selection (defensive rules: P/E <15x, P/B <1.5x, current ratio >2, debt <50% equity; enterprising rules: special situations, net-nets, margin of safety), Chapters 15-17 case studies (ELTRA vs Emerson Electric, A&P undervalued despite great business showing what 'cheap' looks like), Chapter 20 margin of safety (buy $100 value for $60-70 = 30-40% cushion). Jason Zweig commentary after each chapter updates for tech bubble, Enron, 2000s markets. You'll grasp ALL core value investing principles Buffett used building $700B+ Berkshire Hathaway. THEN read Security Analysis IF you're: (1) aspiring professional analyst, (2) serious student pursuing mastery, (3) fixed-income investor needing 200-page bond guide, (4) want to detect financial fraud through statement forensics. Study 766 pages over 6 months: Part I survey (50 pages), Part II bonds/preferred (300 pages—credit analysis, indentures, covenants, interest coverage), Parts IV-V common stock valuation and financial analysis (300 pages—balance sheet forensics, earnings quality, cash flow, detecting manipulation), Part VI special situations (arbitrage, liquidations). This is Columbia MBA-level textbook requiring accounting knowledge. Most individual investors DON'T need it—Intelligent Investor alone covers 90% of value investing with 10% of effort. But if you're serious about professional career or complete mastery, Security Analysis is essential second step after Intelligent Investor foundation. Read Intelligent Investor first, THEN decide if you need Security Analysis depth. Buffett's hierarchy: Intelligent Investor for everyone, Security Analysis for the serious few."
+  }
 }

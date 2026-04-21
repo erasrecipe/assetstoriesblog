@@ -14,7 +14,7 @@
     "rating": 4.4,
     "ratingCount": 8500,
     "price": 16.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9781101946596?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9781101946596-L.jpg",
     "description": "Life 3.0 is MIT physicist Max Tegmark's exploration of how artificial intelligence will transform humanity's future. Tegmark examines different scenarios for AI development, from benevolent outcomes to existential risks. He discusses consciousness, goals, and what it means to be human when intelligence can be engineered. The book covers technical AI concepts accessibly while exploring philosophical and ethical implications. Tegmark is more optimistic than many AI researchers, believing we can shape AI's development positively. He provides a framework for thinking about AI futures and emphasizes that we need to start planning now for transformative AI."
   },
@@ -28,7 +28,7 @@
     "rating": 4.1,
     "ratingCount": 6200,
     "price": 18.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780198739838?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780198739838-L.jpg",
     "description": "Superintelligence is philosopher Nick Bostrom's rigorous examination of the challenges posed by artificial superintelligence. Bostrom argues that creating an intelligence vastly smarter than humans is humanity's most important and dangerous challenge. The book meticulously analyzes paths to superintelligence, control problems, and strategic considerations. Bostrom is more cautious and technical than Tegmark, emphasizing the difficulty of aligning superintelligent goals with human values. He explores scenarios where superintelligence could go catastrophically wrong and what safeguards we might develop. The book is academic and dense but essential reading for understanding AI safety research."
   },

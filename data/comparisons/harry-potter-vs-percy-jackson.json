@@ -1,4 +1,4 @@
-{
+﻿{
   "slug": "harry-potter-vs-percy-jackson",
   "title": "Harry Potter vs Percy Jackson: Head to Head Comparison",
   "metaDescription": "Harry Potter vs Percy Jackson—Rowling's wizarding world vs Riordan's demigods. Which magical series should you read first? Complete comparison inside.",
@@ -14,7 +14,7 @@
     "rating": 4.8,
     "ratingCount": 8450000,
     "price": 12.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780439708180?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780439708180-L.jpg",
     "description": "Harry Potter discovers on his 11th birthday that he's a wizard. Raised by abusive Muggle relatives who hid his magical heritage, Harry is whisked to Hogwarts School of Witchcraft and Wizardry by Hagrid. At Hogwarts, he makes best friends Ron and Hermione, learns magic, plays Quidditch, and discovers he's famous as 'the boy who lived'—the only person to survive Voldemort's killing curse. The first of 7 books in the most beloved children's series ever written."
   },
@@ -28,7 +28,7 @@
     "rating": 4.7,
     "ratingCount": 2890000,
     "price": 11.99,
-    "amazonUrl": "PLACEHOLDER",
+    "amazonUrl": "https://www.amazon.com/dp/9780786838653?tag=assetweb-20",
     "coverImage": "https://covers.openlibrary.org/b/isbn/9780786838653-L.jpg",
     "description": "Percy Jackson is a 12-year-old with ADHD and dyslexia who can't stay out of trouble. After his pre-algebra teacher turns into a monster and attacks him, Percy discovers he's a half-blood—half human, half Greek god (Poseidon's son). He's sent to Camp Half-Blood where demigods train. When Zeus' lightning bolt is stolen and Percy's blamed, he must go on a quest across America to prevent a war between the gods. Greek mythology meets modern-day adventure."
   },
