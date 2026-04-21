@@ -1,0 +1,3734 @@
+[
+  {
+    "title": "The 1-Page Marketing Plan",
+    "author": "Allan Dib",
+    "isbn": "978-1989603000",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_1_PAGE_MARKETING_PLAN"
+  },
+  {
+    "title": "The Marketing Plan Handbook",
+    "author": "Alexander Chernev",
+    "isbn": "978-1936572052",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MARKETING_PLAN_HANDBOOK"
+  },
+  {
+    "title": "$100M Offers",
+    "author": "Alex Hormozi",
+    "isbn": "978-1737475705",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_100M_OFFERS"
+  },
+  {
+    "title": "$100M Leads",
+    "author": "Alex Hormozi",
+    "isbn": "978-1737475729",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_100M_LEADS"
+  },
+  {
+    "title": "Expert Secrets",
+    "author": "Russell Brunson",
+    "isbn": "978-1683504597",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EXPERT_SECRETS"
+  },
+  {
+    "title": "10x Is Easier Than 2x",
+    "author": "Dan Sullivan and Benjamin Hardy",
+    "isbn": "978-1401966270",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Who Not How",
+    "author": "Dan Sullivan and Benjamin Hardy",
+    "isbn": "978-1401960582",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "isbn": "978-0345816023",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_12_RULES"
+  },
+  {
+    "title": "Beyond Order",
+    "author": "Jordan B. Peterson",
+    "isbn": "978-0593084649",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BEYOND_ORDER"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0451524935",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_1984"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "978-0451526342",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ANIMAL_FARM"
+  },
+  {
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "isbn": "978-0140280197",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The 33 Strategies of War",
+    "author": "Robert Greene",
+    "isbn": "978-0143112785",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "isbn": "978-1599869773",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "isbn": "978-1982137274",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_7_HABITS"
+  },
+  {
+    "title": "First Things First",
+    "author": "Stephen R. Covey, A. Roger Merrill, Rebecca R. Merrill",
+    "isbn": "978-0684802039",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FIRST_THINGS_FIRST"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "isbn": "978-1619634449",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ACOTAR"
+  },
+  {
+    "title": "Serpent & Dove",
+    "author": "Shelby Mahurin",
+    "isbn": "978-0062878038",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SERPENT_DOVE"
+  },
+  {
+    "title": "Shatter Me",
+    "author": "Tahereh Mafi",
+    "isbn": "978-0062085481",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SHATTER_ME"
+  },
+  {
+    "title": "Throne of Glass",
+    "author": "Sarah J. Maas",
+    "isbn": "978-1619630345",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TOG"
+  },
+  {
+    "title": "A Darker Shade of Magic",
+    "author": "V.E. Schwab",
+    "isbn": "978-0765376459",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Invisible Library",
+    "author": "Genevieve Cogman",
+    "isbn": "978-0425277959",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A New Earth",
+    "author": "Eckhart Tolle",
+    "isbn": "978-0452289963",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NEW_EARTH"
+  },
+  {
+    "title": "The Untethered Soul",
+    "author": "Michael A. Singer",
+    "isbn": "978-1572245372",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_UNTETHERED_SOUL"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "isbn": "978-0143106630",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "isbn": "978-0143106630",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "isbn": "978-0547722023",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WIZARD_EARTHSEA"
+  },
+  {
+    "title": "The Sword of Shannara",
+    "author": "Terry Brooks",
+    "isbn": "978-0345314253",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SWORD_SHANNARA"
+  },
+  {
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "isbn": "978-0143034759",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "John Adams",
+    "author": "David McCullough",
+    "isbn": "978-0743223133",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "All Marketers Are Liars",
+    "author": "Seth Godin",
+    "isbn": "978-1591845335",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ALL_MARKETERS_LIARS"
+  },
+  {
+    "title": "Purple Cow",
+    "author": "Seth Godin",
+    "isbn": "978-1591843177",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PURPLE_COW"
+  },
+  {
+    "title": "This Is Marketing",
+    "author": "Seth Godin",
+    "isbn": "978-0525540830",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THIS_IS_MARKETING"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "isbn": "978-1476746586",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ALL_LIGHT"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "isbn": "978-0375842207",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BOOK_THIEF"
+  },
+  {
+    "title": "An Ember in the Ashes",
+    "author": "Sabaa Tahir",
+    "isbn": "978-1595148049",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EMBER"
+  },
+  {
+    "title": "Red Queen",
+    "author": "Victoria Aveyard",
+    "isbn": "978-0062310637",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RED_QUEEN"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "isbn": "978-0062073488",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "isbn": "978-0062693662",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Antifragile",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "978-0812979688",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ANTIFRAGILE"
+  },
+  {
+    "title": "Skin in the Game",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "978-0425284629",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SKIN_IN_THE_GAME"
+  },
+  {
+    "title": "The Ascent of Money",
+    "author": "Niall Ferguson",
+    "isbn": "978-0143116172",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ASCENT_OF_MONEY"
+  },
+  {
+    "title": "When Money Dies",
+    "author": "Adam Fergusson",
+    "isbn": "978-1586489946",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHEN_MONEY_DIES"
+  },
+  {
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "isbn": "978-0553573398",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ASSASSINS_APPRENTICE"
+  },
+  {
+    "title": "The Farseer Trilogy",
+    "author": "Robin Hobb",
+    "isbn": "978-0553573398",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FARSEER_TRILOGY"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "978-0735211292",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ATOMIC_HABITS"
+  },
+  {
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "isbn": "978-1443456623",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_5AM_CLUB"
+  },
+  {
+    "title": "The Compound Effect",
+    "author": "Darren Hardy",
+    "isbn": "978-0306924637",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_COMPOUND_EFFECT"
+  },
+  {
+    "title": "High Performance Habits",
+    "author": "Brendon Burchard",
+    "isbn": "978-1401952853",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "isbn": "978-0812981605",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Rewire Your Anxious Brain",
+    "author": "Catherine M. Pittman and Elizabeth M. Karle",
+    "isbn": "978-1626251137",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_REWIRE_ANXIOUS_BRAIN"
+  },
+  {
+    "title": "The 4-Hour Body",
+    "author": "Timothy Ferriss",
+    "isbn": "978-0307463630",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_4_HOUR_BODY"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "isbn": "978-0307887894",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LEAN_STARTUP"
+  },
+  {
+    "title": "Tiny Habits",
+    "author": "BJ Fogg",
+    "isbn": "978-0358003328",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TINY_HABITS"
+  },
+  {
+    "title": "Attached",
+    "author": "Amir Levine, Rachel Heller",
+    "isbn": "978-1585429134",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Getting the Love You Want",
+    "author": "Harville Hendrix, Helen LaKelly Hunt",
+    "isbn": "978-0805087543",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "isbn": "978-0876120798",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_AUTOBIOGRAPHY_YOGI"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "isbn": "978-0553208849",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SIDDHARTHA"
+  },
+  {
+    "title": "The Autobiography of Malcolm X",
+    "author": "Malcolm X and Alex Haley",
+    "isbn": "978-0345350688",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MALCOLM_X"
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "isbn": "978-0345514400",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CAGED_BIRD"
+  },
+  {
+    "title": "Baby-Led Weaning",
+    "author": "Gill Rapley and Tracey Murkett",
+    "isbn": "978-0761163558",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BABY_LED_WEANING"
+  },
+  {
+    "title": "The Womanly Art of Breastfeeding",
+    "author": "La Leche League International",
+    "isbn": "978-0345518446",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WOMANLY_ART"
+  },
+  {
+    "title": "Be Here Now",
+    "author": "Ram Dass",
+    "isbn": "978-0517543054",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BE_HERE_NOW"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "isbn": "978-1577314806",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_POWER_OF_NOW"
+  },
+  {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "isbn": "978-1984806734",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "isbn": "978-0593334836",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "isbn": "978-1984806758",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "isbn": "978-1524763138",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BECOMING"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "isbn": "978-0399590504",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EDUCATED"
+  },
+  {
+    "title": "A Promised Land",
+    "author": "Barack Obama",
+    "isbn": "978-1524763169",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Behave",
+    "author": "Robert M. Sapolsky",
+    "isbn": "978-0143110910",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BEHAVE"
+  },
+  {
+    "title": "The Righteous Mind",
+    "author": "Jonathan Haidt",
+    "isbn": "978-0307455772",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RIGHTEOUS_MIND"
+  },
+  {
+    "title": "Bhagavad Gita",
+    "author": "Vyasa (attributed)",
+    "isbn": "978-1586380199",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "isbn": "978-0061142666",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "isbn": "978-0399587207",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "isbn": "978-0307341556",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Bigger Leaner Stronger",
+    "author": "Michael Matthews",
+    "isbn": "978-1938895302",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Starting Strength",
+    "author": "Mark Rippetoe",
+    "isbn": "978-0982522738",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "978-0812973815",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BLACK_SWAN"
+  },
+  {
+    "title": "Fooled by Randomness",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "978-0812975215",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FOOLED_BY_RANDOMNESS"
+  },
+  {
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "isbn": "978-0316010665",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BLINK"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "isbn": "978-0374533557",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THINKING_FAST_SLOW"
+  },
+  {
+    "title": "We Are Legion (We Are Bob)",
+    "author": "Dennis E. Taylor",
+    "isbn": "978-1680680584",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Columbus Day",
+    "author": "Craig Alanson",
+    "isbn": "978-1541406681",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "isbn": "978-0143127741",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Complex PTSD",
+    "author": "Pete Walker",
+    "isbn": "978-1492871842",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Happy Place",
+    "author": "Emily Henry",
+    "isbn": "978-0593441275",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "isbn": "978-0399588174",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BORN_CRIME"
+  },
+  {
+    "title": "Born to Run",
+    "author": "Christopher McDougall",
+    "isbn": "978-0307279187",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BORN_TO_RUN"
+  },
+  {
+    "title": "Eat and Run",
+    "author": "Scott Jurek",
+    "isbn": "978-0547569659",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EAT_AND_RUN"
+  },
+  {
+    "title": "The Brain That Changes Itself",
+    "author": "Norman Doidge",
+    "isbn": "978-0143113102",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BRAIN_CHANGES"
+  },
+  {
+    "title": "Brandwashed",
+    "author": "Martin Lindstrom",
+    "isbn": "978-0385531733",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BRANDWASHED"
+  },
+  {
+    "title": "Buyology",
+    "author": "Martin Lindstrom",
+    "isbn": "978-0385523899",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BUYOLOGY"
+  },
+  {
+    "title": "Breakthrough Advertising",
+    "author": "Eugene M. Schwartz",
+    "isbn": "978-0887232985",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Scientific Advertising",
+    "author": "Claude C. Hopkins",
+    "isbn": "978-1603866361",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Breath",
+    "author": "James Nestor",
+    "isbn": "978-0735213616",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BREATH"
+  },
+  {
+    "title": "The Oxygen Advantage",
+    "author": "Patrick McKeown",
+    "isbn": "978-0062349477",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OXYGEN_ADVANTAGE"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "isbn": "978-0553380163",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BRIEF_HISTORY"
+  },
+  {
+    "title": "The Order of Time",
+    "author": "Carlo Rovelli",
+    "isbn": "978-0735216105",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ORDER_TIME"
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "author": "Stephen Hawking",
+    "isbn": "978-0553802023",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Bringing Up BÃ©bÃ©",
+    "author": "Pamela Druckerman",
+    "isbn": "978-0143122968",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BRINGING_UP_BEBE"
+  },
+  {
+    "title": "The Danish Way of Parenting",
+    "author": "Jessica Joelle Alexander and Iben Sandahl",
+    "isbn": "978-0143111887",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DANISH_WAY"
+  },
+  {
+    "title": "The Broken Earth Trilogy",
+    "author": "N.K. Jemisin",
+    "isbn": "978-0316527194",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "isbn": "978-0316229296",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Building a StoryBrand",
+    "author": "Donald Miller",
+    "isbn": "978-0718033323",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BUILDING_STORYBRAND"
+  },
+  {
+    "title": "Marketing Made Simple",
+    "author": "Donald Miller and Dr. J.J. Peterson",
+    "isbn": "978-0062896742",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MARKETING_MADE_SIMPLE"
+  },
+  {
+    "title": "They Ask You Answer",
+    "author": "Marcus Sheridan",
+    "isbn": "978-1119610144",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THEY_ASK_YOU_ANSWER"
+  },
+  {
+    "title": "Buy Back Your Time",
+    "author": "Dan Martell",
+    "isbn": "978-0593544532",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "isbn": "978-1544512273",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CANT_HURT_ME"
+  },
+  {
+    "title": "Extreme Ownership",
+    "author": "Jocko Willink and Leif Babin",
+    "isbn": "978-1250067050",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EXTREME_OWNERSHIP"
+  },
+  {
+    "title": "Living with a SEAL",
+    "author": "Jesse Itzler",
+    "isbn": "978-1455534685",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LIVING_SEAL"
+  },
+  {
+    "title": "Never Finished",
+    "author": "David Goggins",
+    "isbn": "978-1544534084",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Caraval",
+    "author": "Stephanie Garber",
+    "isbn": "978-1250095251",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Legendary",
+    "author": "Stephanie Garber",
+    "isbn": "978-1250095268",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "isbn": "978-0307744432",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NIGHT_CIRCUS"
+  },
+  {
+    "title": "The Celestine Prophecy",
+    "author": "James Redfield",
+    "isbn": "978-0446671002",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Tenth Insight",
+    "author": "James Redfield",
+    "isbn": "978-0446674584",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke",
+    "isbn": "978-0345444059",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CHILDHOODS_END"
+  },
+  {
+    "title": "The City and the Stars",
+    "author": "Arthur C. Clarke",
+    "isbn": "978-0156177504",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CITY_STARS"
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "isbn": "978-1250170972",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CBAB"
+  },
+  {
+    "title": "Children of Virtue and Vengeance",
+    "author": "Tomi Adeyemi",
+    "isbn": "978-1250170996",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CVAV"
+  },
+  {
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "isbn": "978-0316452502",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Blindsight",
+    "author": "Peter Watts",
+    "isbn": "978-0765319647",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "isbn": "978-0316556347",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CIRCE"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "isbn": "978-0062060624",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SONG_ACHILLES"
+  },
+  {
+    "title": "Company of One",
+    "author": "Paul Jarvis",
+    "isbn": "978-0358213253",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Million-Dollar, One-Person Business",
+    "author": "Elaine Pofeldt",
+    "isbn": "978-0399580536",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Consciousness Explained",
+    "author": "Daniel C. Dennett",
+    "isbn": "978-0316180665",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CONSCIOUSNESS_EXPLAINED"
+  },
+  {
+    "title": "The Conscious Mind",
+    "author": "David J. Chalmers",
+    "isbn": "978-0195117899",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CONSCIOUS_MIND"
+  },
+  {
+    "title": "Contagious",
+    "author": "Jonah Berger",
+    "isbn": "978-1451686586",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CONTAGIOUS"
+  },
+  {
+    "title": "Made to Stick",
+    "author": "Chip Heath and Dan Heath",
+    "isbn": "978-1400064281",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MADE_TO_STICK"
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "isbn": "978-0345539434",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_COSMOS"
+  },
+  {
+    "title": "Pale Blue Dot",
+    "author": "Carl Sagan",
+    "isbn": "978-0345376596",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "isbn": "978-1501197277",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Courage to Be Happy",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "isbn": "978-1501197895",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "From Blood and Ash",
+    "author": "Jennifer L. Armentrout",
+    "isbn": "978-1952457005",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Creativity, Inc.",
+    "author": "Ed Catmull",
+    "isbn": "978-0812993011",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CREATIVITY_INC"
+  },
+  {
+    "title": "The Ride of a Lifetime",
+    "author": "Robert Iger",
+    "isbn": "978-0399592096",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RIDE_OF_A_LIFETIME"
+  },
+  {
+    "title": "The Creature from Jekyll Island",
+    "author": "G. Edward Griffin",
+    "isbn": "978-0912986456",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CREATURE_JEKYLL_ISLAND"
+  },
+  {
+    "title": "The Bitcoin Standard",
+    "author": "Saifedean Ammous",
+    "isbn": "978-1119473862",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BITCOIN_STANDARD"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "978-0486415871",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "978-0374528379",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "978-0307474278",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Angels and Demons",
+    "author": "Dan Brown",
+    "isbn": "978-0743486224",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Daisy Jones and the Six",
+    "author": "Taylor Jenkins Reid",
+    "isbn": "978-1524798628",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DAISY_JONES"
+  },
+  {
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "isbn": "978-1524798659",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MALIBU_RISING"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "isbn": "978-1592408412",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DARING_GREATLY"
+  },
+  {
+    "title": "The Gifts of Imperfection",
+    "author": "Brené Brown",
+    "isbn": "978-1592858491",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GIFTS_IMPERFECTION"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "isbn": "978-1455586691",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DEEP_WORK"
+  },
+  {
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "isbn": "978-0061339202",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FLOW"
+  },
+  {
+    "title": "Indistractable",
+    "author": "Nir Eyal",
+    "isbn": "978-1948836531",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Make Time",
+    "author": "Jake Knapp and John Zeratsky",
+    "isbn": "978-0525572428",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MAKE_TIME"
+  },
+  {
+    "title": "The One Thing",
+    "author": "Gary Keller and Jay Papasan",
+    "isbn": "978-1885167774",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ONE_THING"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "isbn": "978-0804139298",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ZERO_TO_ONE"
+  },
+  {
+    "title": "Delivering Happiness",
+    "author": "Tony Hsieh",
+    "isbn": "978-0446563048",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DELIVERING_HAPPINESS"
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "isbn": "978-0062273208",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THE_HARD_THING"
+  },
+  {
+    "title": "Desiring God",
+    "author": "John Piper",
+    "isbn": "978-1601423108",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Don't Waste Your Life",
+    "author": "John Piper",
+    "isbn": "978-1433537455",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The DevOps Handbook",
+    "author": "Gene Kim, Jez Humble, Patrick Debois, and John Willis",
+    "isbn": "978-1942788003",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Accelerate",
+    "author": "Nicole Forsgren, Jez Humble, and Gene Kim",
+    "isbn": "978-1942788331",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Dhandho Investor",
+    "author": "Mohnish Pabrai",
+    "isbn": "978-0470043899",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DHANDHO_INVESTOR"
+  },
+  {
+    "title": "Mosaic",
+    "author": "Mohnish Pabrai",
+    "isbn": "978-1632651907",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MOSAIC"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "isbn": "978-0553296983",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hiding Place",
+    "author": "Corrie ten Boom",
+    "isbn": "978-0800794057",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Die with Zero",
+    "author": "Bill Perkins",
+    "isbn": "978-0358099765",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DIE_WITH_ZERO"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "isbn": "978-0857197689",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PSYCHOLOGY_OF_MONEY"
+  },
+  {
+    "title": "Different",
+    "author": "Youngme Moon",
+    "isbn": "978-0307460851",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DIFFERENT"
+  },
+  {
+    "title": "Difficult Conversations",
+    "author": "Douglas Stone, Bruce Patton, Sheila Heen",
+    "isbn": "978-0143137597",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DIFFICULT_CONVERSATIONS"
+  },
+  {
+    "title": "Thanks for the Feedback",
+    "author": "Douglas Stone, Sheila Heen",
+    "isbn": "978-0670014668",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THANKS_FEEDBACK"
+  },
+  {
+    "title": "Discipline Equals Freedom",
+    "author": "Jocko Willink",
+    "isbn": "978-1250156945",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "isbn": "978-0062024039",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DIVERGENT"
+  },
+  {
+    "title": "The Darkest Minds",
+    "author": "Alexandra Bracken",
+    "isbn": "978-1423157373",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DARKEST_MINDS"
+  },
+  {
+    "title": "DotCom Secrets",
+    "author": "Russell Brunson",
+    "isbn": "978-1683504641",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Drive",
+    "author": "Daniel H. Pink",
+    "isbn": "978-1594484803",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DRIVE"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn": "978-0441013593",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "isbn": "978-0553293357",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The E-Myth Revisited",
+    "author": "Michael E. Gerber",
+    "isbn": "978-0887307287",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "isbn": "978-1591845577",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Eat That Frog!",
+    "author": "Brian Tracy",
+    "isbn": "978-1576754221",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EAT_FROG"
+  },
+  {
+    "title": "Getting Things Done",
+    "author": "David Allen",
+    "isbn": "978-0143126560",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GTD"
+  },
+  {
+    "title": "Hillbilly Elegy",
+    "author": "J.D. Vance",
+    "isbn": "978-0062300546",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HILLBILLY_ELEGY"
+  },
+  {
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "isbn": "978-0393338102",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Fabric of the Cosmos",
+    "author": "Brian Greene",
+    "isbn": "978-0375727207",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Elements of Style",
+    "author": "William Strunk Jr., E.B. White",
+    "isbn": "978-0205309023",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "On Writing Well",
+    "author": "William Zinsser",
+    "isbn": "978-0060891541",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Emotional Agility",
+    "author": "Susan David",
+    "isbn": "978-1592409495",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EMOTIONAL_AGILITY"
+  },
+  {
+    "title": "Radical Acceptance",
+    "author": "Tara Brach",
+    "isbn": "978-0553380996",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RADICAL_ACCEPTANCE"
+  },
+  {
+    "title": "Emotional Intelligence",
+    "author": "Daniel Goleman",
+    "isbn": "978-0553383713",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Social Intelligence",
+    "author": "Daniel Goleman",
+    "isbn": "978-0553384499",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "isbn": "978-0812550702",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ENDERS_GAME"
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "isbn": "978-0812550757",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SPEAKER_DEAD"
+  },
+  {
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "isbn": "978-0441783588",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Essentialism",
+    "author": "Greg McKeown",
+    "isbn": "978-0804137409",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ESSENTIALISM"
+  },
+  {
+    "title": "The More of Less",
+    "author": "Joshua Becker",
+    "isbn": "978-1601427960",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MORE_OF_LESS"
+  },
+  {
+    "title": "Expecting Better",
+    "author": "Emily Oster",
+    "isbn": "978-0143125709",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Cribsheet",
+    "author": "Emily Oster",
+    "isbn": "978-0525559252",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Traffic Secrets",
+    "author": "Russell Brunson",
+    "isbn": "978-1401960476",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TRAFFIC_SECRETS"
+  },
+  {
+    "title": "The Dichotomy of Leadership",
+    "author": "Jocko Willink and Leif Babin",
+    "isbn": "978-1250195777",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DICHOTOMY_LEADERSHIP"
+  },
+  {
+    "title": "Fanatical Prospecting",
+    "author": "Jeb Blount",
+    "isbn": "978-1119144755",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FANATICAL_PROSPECTING"
+  },
+  {
+    "title": "New Sales. Simplified.",
+    "author": "Mike Weinberg",
+    "isbn": "978-0814431771",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NEW_SALES_SIMPLIFIED"
+  },
+  {
+    "title": "Fast Like a Girl",
+    "author": "Dr. Mindy Pelz",
+    "isbn": "978-1401967970",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FAST_LIKE_A_GIRL"
+  },
+  {
+    "title": "The Obesity Code",
+    "author": "Dr. Jason Fung",
+    "isbn": "978-1771641258",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OBESITY_CODE"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "isbn": "978-0142424179",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "isbn": "978-0142402511",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Feeling Good",
+    "author": "David D. Burns",
+    "isbn": "978-0380810338",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Cognitive Behavioral Therapy Workbook for Depression",
+    "author": "Brian Knaus, Albert Ellis",
+    "isbn": "978-1572245259",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "First, Break All the Rules",
+    "author": "Marcus Buckingham and Curt Coffman",
+    "isbn": "978-1595621115",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FIRST_BREAK_ALL_RULES"
+  },
+  {
+    "title": "Strengths Based Leadership",
+    "author": "Tom Rath and Barry Conchie",
+    "isbn": "978-1595620255",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_STRENGTHS_BASED_LEADERSHIP"
+  },
+  {
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "isbn": "978-0316387316",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "isbn": "978-0553588941",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Five Dysfunctions of a Team",
+    "author": "Patrick Lencioni",
+    "isbn": "978-0787960759",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FIVE_DYSFUNCTIONS"
+  },
+  {
+    "title": "The Ideal Team Player",
+    "author": "Patrick Lencioni",
+    "isbn": "978-1119209591",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_IDEAL_TEAM_PLAYER"
+  },
+  {
+    "title": "The Flavor Bible",
+    "author": "Karen Page and Andrew Dornenburg",
+    "isbn": "978-0316118408",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Flavor Thesaurus",
+    "author": "Niki Segnit",
+    "isbn": "978-1608190034",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Finding Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "isbn": "978-0465024117",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FINDING_FLOW"
+  },
+  {
+    "title": "Against the Gods",
+    "author": "Peter L. Bernstein",
+    "isbn": "978-0471295631",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_AGAINST_THE_GODS"
+  },
+  {
+    "title": "Four Thousand Weeks",
+    "author": "Oliver Burkeman",
+    "isbn": "978-0374159122",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FOUR_THOUSAND_WEEKS"
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "isbn": "978-1649374042",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FOURTH_WING"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "isbn": "978-0486282114",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn": "978-0486411095",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Freakonomics",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "isbn": "978-0060731335",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FREAKONOMICS"
+  },
+  {
+    "title": "Thinking Like a Freak",
+    "author": "Steven D. Levitt and Stephen J. Dubner",
+    "isbn": "978-0062218339",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THINKING_FREAK"
+  },
+  {
+    "title": "Free Will",
+    "author": "Sam Harris",
+    "isbn": "978-1451683400",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FREE_WILL"
+  },
+  {
+    "title": "The Illusion of Conscious Will",
+    "author": "Daniel M. Wegner",
+    "isbn": "978-0262731621",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ILLUSION_CONSCIOUS_WILL"
+  },
+  {
+    "title": "From Lukov with Love",
+    "author": "Mariana Zapata",
+    "isbn": "978-1979265997",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FROM_LUKOV"
+  },
+  {
+    "title": "The Wall of Winnipeg and Me",
+    "author": "Mariana Zapata",
+    "isbn": "978-1530679638",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WALL_WINNIPEG"
+  },
+  {
+    "title": "The Gap and The Gain",
+    "author": "Dan Sullivan and Benjamin Hardy",
+    "isbn": "978-1401964962",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Gateway",
+    "author": "Frederik Pohl",
+    "isbn": "978-0345475831",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GATEWAY"
+  },
+  {
+    "title": "The Mote in God's Eye",
+    "author": "Larry Niven, Jerry Pournelle",
+    "isbn": "978-0671741921",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MOTE"
+  },
+  {
+    "title": "Get a Life, Chloe Brown",
+    "author": "Talia Hibbert",
+    "isbn": "978-0062941206",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Act Your Age, Eve Brown",
+    "author": "Talia Hibbert",
+    "isbn": "978-0062941275",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Bullet Journal Method",
+    "author": "Ryder Carroll",
+    "isbn": "978-0525533337",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The 12 Week Year",
+    "author": "Brian P. Moran and Michael Lennington",
+    "isbn": "978-1118509234",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "978-0307949486",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "978-0307588371",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "isbn": "978-0743247542",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Glucose Revolution",
+    "author": "Jessie Inchauspé",
+    "isbn": "978-1982179793",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "isbn": "978-0066620992",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Built to Last",
+    "author": "Jim Collins and Jerry I. Porras",
+    "isbn": "978-0060516406",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0743273565",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "978-0316769174",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "isbn": "978-1501111112",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "isbn": "978-0345472328",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "isbn": "978-0393317558",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Why Nations Fail",
+    "author": "Daron Acemoglu and James A. Robinson",
+    "isbn": "978-0307719225",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Half Baked Harvest Cookbook",
+    "author": "Tieghan Gerard",
+    "isbn": "978-0451499837",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Defined Dish",
+    "author": "Alex Snodgrass",
+    "isbn": "978-0358103202",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Happiness Hypothesis",
+    "author": "Jonathan Haidt",
+    "isbn": "978-0465028023",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Stumbling on Happiness",
+    "author": "Daniel Gilbert",
+    "isbn": "978-1400077427",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "978-0439708180",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Percy Jackson and the Lightning Thief",
+    "author": "Rick Riordan",
+    "isbn": "978-0786838653",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "High Output Management",
+    "author": "Andrew S. Grove",
+    "isbn": "978-0679762881",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "isbn": "978-0060833459",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Golden Compass",
+    "author": "Philip Pullman",
+    "isbn": "978-0440238133",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "isbn": "978-0064471046",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "isbn": "978-0062464316",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "isbn": "978-0525512172",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "House of Earth and Blood",
+    "author": "Sarah J. Maas",
+    "isbn": "978-1635574043",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A Court of Silver Flames",
+    "author": "Sarah J. Maas",
+    "isbn": "978-1635574050",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "House of Hollow",
+    "author": "Krystal Sutherland",
+    "isbn": "978-0593182017",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Gallant",
+    "author": "V.E. Schwab",
+    "isbn": "978-0062835673",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "How Not to Die",
+    "author": "Dr. Michael Greger",
+    "isbn": "978-1250066114",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "How Not to Diet",
+    "author": "Dr. Michael Greger",
+    "isbn": "978-1250199218",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The How of Happiness",
+    "author": "Sonja Lyubomirsky",
+    "isbn": "978-0143114956",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Happiness Advantage",
+    "author": "Shawn Achor",
+    "isbn": "978-0307591548",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "isbn": "978-0671027032",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Crucial Conversations",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+    "isbn": "978-1260474183",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Like Switch",
+    "author": "Jack Schafer",
+    "isbn": "978-1476754482",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "978-0439023481",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Hunt, Gather, Parent",
+    "author": "Michaeleen Doucleff",
+    "isbn": "978-1982149673",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Hyperfocus",
+    "author": "Chris Bailey",
+    "isbn": "978-0525522256",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "isbn": "978-0553283686",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Ilium",
+    "author": "Dan Simmons",
+    "isbn": "978-0380817924",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "I Will Teach You to Be Rich",
+    "author": "Ramit Sethi",
+    "isbn": "978-1523505746",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Total Money Makeover",
+    "author": "Dave Ramsey",
+    "isbn": "978-1595555274",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Ikigai",
+    "author": "Héctor García and Francesc Miralles",
+    "isbn": "978-0143130727",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "isbn": "978-0062457714",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "I'll Be Gone in the Dark",
+    "author": "Michelle McNamara",
+    "isbn": "978-0062319784",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Stranger Beside Me",
+    "author": "Ann Rule",
+    "isbn": "978-1416559597",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "In the Woods",
+    "author": "Tana French",
+    "isbn": "978-0143113492",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Likeness",
+    "author": "Tana French",
+    "isbn": "978-0143115373",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Barefoot Contessa Cookbook",
+    "author": "Ina Garten",
+    "isbn": "978-0609602591",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Magnolia Table",
+    "author": "Joanna Gaines",
+    "isbn": "978-0062820143",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Incognito",
+    "author": "David Eagleman",
+    "isbn": "978-0307389923",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INCOGNITO"
+  },
+  {
+    "title": "The Tell-Tale Brain",
+    "author": "V. S. Ramachandran",
+    "isbn": "978-0393340624",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TELL_TALE_BRAIN"
+  },
+  {
+    "title": "Influence",
+    "author": "Robert B. Cialdini",
+    "isbn": "978-0061241895",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INFLUENCE"
+  },
+  {
+    "title": "Pre-Suasion",
+    "author": "Robert B. Cialdini",
+    "isbn": "978-1501109805",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PRESUASION"
+  },
+  {
+    "title": "Yes! 50 Scientifically Proven Ways to Be Persuasive",
+    "author": "Noah J. Goldstein, Steve J. Martin, and Robert B. Cialdini",
+    "isbn": "978-1416570967",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_YES_50_WAYS"
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "isbn": "978-0060555665",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INTELLIGENT_INVESTOR"
+  },
+  {
+    "title": "A Random Walk Down Wall Street",
+    "author": "Burton G. Malkiel",
+    "isbn": "978-0393358384",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RANDOM_WALK"
+  },
+  {
+    "title": "Security Analysis",
+    "author": "Benjamin Graham, David Dodd",
+    "isbn": "978-0071592536",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "isbn": "978-0385486804",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "isbn": "978-0385494786",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "isbn": "978-1649374172",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_IRON_FLAME"
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "isbn": "978-1501110368",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "It Starts with Us",
+    "author": "Colleen Hoover",
+    "isbn": "978-1668001226",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "November 9",
+    "author": "Colleen Hoover",
+    "isbn": "978-1501110344",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Killing Floor",
+    "author": "Lee Child",
+    "isbn": "978-0515153651",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "isbn": "978-0425133514",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "isbn": "978-0141441146",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_JANE_EYRE"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "978-0141439518",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PRIDE_PREJUDICE"
+  },
+  {
+    "title": "Joy of Cooking",
+    "author": "Irma S. Rombauer",
+    "isbn": "978-0743246262",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "How to Cook Everything",
+    "author": "Mark Bittman",
+    "isbn": "978-1118455647",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Killers of the Flower Moon",
+    "author": "David Grann",
+    "isbn": "978-0307742483",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "isbn": "978-0679745587",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "isbn": "978-0060899226",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_KITCHEN_CONFIDENTIAL"
+  },
+  {
+    "title": "Blood, Bones & Butter",
+    "author": "Gabrielle Hamilton",
+    "isbn": "978-0812980882",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BLOOD_BONES_BUTTER"
+  },
+  {
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "isbn": "978-0525428145",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Mastery",
+    "author": "Robert Greene",
+    "isbn": "978-0143124177",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Learned Optimism",
+    "author": "Martin E. P. Seligman",
+    "isbn": "978-1400078394",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LEARNED_OPTIMISM"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "isbn": "978-0451419439",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LES_MISERABLES"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "isbn": "978-0140449266",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MONTE_CRISTO"
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "isbn": "978-0385547345",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LESSONS_IN_CHEMISTRY"
+  },
+  {
+    "title": "Liar's Poker",
+    "author": "Michael Lewis",
+    "isbn": "978-0393338690",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LIARS_POKER"
+  },
+  {
+    "title": "The Big Short",
+    "author": "Michael Lewis",
+    "isbn": "978-0393338829",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BIG_SHORT"
+  },
+  {
+    "title": "Life 3.0",
+    "author": "Max Tegmark",
+    "isbn": "978-1101946596",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Superintelligence",
+    "author": "Nick Bostrom",
+    "isbn": "978-0198739838",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Little Book That Beats the Market",
+    "author": "Joel Greenblatt",
+    "isbn": "978-0470624159",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_BEATS_MARKET"
+  },
+  {
+    "title": "The Little Book of Value Investing",
+    "author": "Christopher H. Browne",
+    "isbn": "978-0470055892",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_VALUE_INVESTING"
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "isbn": "978-0316548182",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LONG_WALK"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0544003415",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "isbn": "978-0553103540",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Lost and Founder",
+    "author": "Rand Fishkin",
+    "isbn": "978-0735213326",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Switch",
+    "author": "Chip Heath and Dan Heath",
+    "isbn": "978-0385528757",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SWITCH"
+  },
+  {
+    "title": "Magnolia Table, Volume 2",
+    "author": "Joanna Gaines",
+    "isbn": "0062820192",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A Man for All Markets",
+    "author": "Edward O. Thorp",
+    "isbn": "978-1400067961",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MAN_FOR_ALL_MARKETS"
+  },
+  {
+    "title": "Fortune's Formula",
+    "author": "William Poundstone",
+    "isbn": "978-0809045990",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FORTUNES_FORMULA"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "isbn": "978-0807014295",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "isbn": "978-0812988406",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHEN_BREATH"
+  },
+  {
+    "title": "Margin of Safety",
+    "author": "Seth A. Klarman",
+    "isbn": "978-0887305108",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MARGIN_OF_SAFETY"
+  },
+  {
+    "title": "Value Investing",
+    "author": "Bruce C. N. Greenwald, Judd Kahn, Paul D. Sonkin, and Michael van Biema",
+    "isbn": "978-0471463399",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_VALUE_INVESTING_GRAHAM_BUFFETT"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "isbn": "978-0143124542",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "All the Bright Places",
+    "author": "Jennifer Niven",
+    "isbn": "978-0385755887",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "isbn": "978-0525536222",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MEASURE_WHAT_MATTERS"
+  },
+  {
+    "title": "Radical Focus",
+    "author": "Christina Wodtke",
+    "isbn": "978-0996006088",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RADICAL_FOCUS"
+  },
+  {
+    "title": "Medical Medium",
+    "author": "Anthony William",
+    "isbn": "978-1401945312",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MEDICAL_MEDIUM"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "isbn": "978-0812968255",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MEDITATIONS"
+  },
+  {
+    "title": "The Daily Stoic",
+    "author": "Ryan Holiday and Stephen Hanselman",
+    "isbn": "978-0735211735",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DAILY_STOIC"
+  },
+  {
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "isbn": "978-0140442106",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Milk Street: Tuesday Nights",
+    "author": "Christopher Kimball",
+    "isbn": "978-0316438360",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Complete America's Test Kitchen TV Show Cookbook",
+    "author": "America's Test Kitchen",
+    "isbn": "978-1948703413",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Millionaire Fastlane",
+    "author": "MJ DeMarco",
+    "isbn": "978-0984358106",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MILLIONAIRE_FASTLANE"
+  },
+  {
+    "title": "Unscripted",
+    "author": "MJ DeMarco",
+    "isbn": "978-0984358168",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_UNSCRIPTED"
+  },
+  {
+    "title": "The Miracle Morning",
+    "author": "Hal Elrod",
+    "isbn": "978-0979019715",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "isbn": "978-0765311788",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "isbn": "978-0765326355",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "978-0142437247",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MOBY_DICK"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "isbn": "978-0684801223",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OLD_MAN_SEA"
+  },
+  {
+    "title": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "isbn": "978-1492180746",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Four Steps to the Epiphany",
+    "author": "Steve Blank",
+    "isbn": "978-0989200509",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "City of Bones",
+    "author": "Cassandra Clare",
+    "isbn": "978-1416955078",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Clockwork Angel",
+    "author": "Cassandra Clare",
+    "isbn": "978-1416975878",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Most Important Thing",
+    "author": "Howard Marks",
+    "isbn": "978-0231162845",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MOST_IMPORTANT_THING"
+  },
+  {
+    "title": "The Little Book of Behavioral Investing",
+    "author": "James Montier",
+    "isbn": "978-0470686027",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_BEHAVIORAL_INVESTING"
+  },
+  {
+    "title": "Mystic River",
+    "author": "Dennis Lehane",
+    "isbn": "978-0062068408",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Gone Baby Gone",
+    "author": "Dennis Lehane",
+    "isbn": "978-0062068330",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "isbn": "978-0756404741",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "isbn": "978-0756407919",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "isbn": "978-0441569595",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NEUROMANCER"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "isbn": "978-0345404473",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ANDROIDS"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "isbn": "978-0553380958",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Never Split the Difference",
+    "author": "Chris Voss",
+    "isbn": "978-0062407801",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NEVER_SPLIT"
+  },
+  {
+    "title": "Crucial Accountability",
+    "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+    "isbn": "978-0071829311",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CRUCIAL_ACCOUNTABILITY"
+  },
+  {
+    "title": "Getting to Yes",
+    "author": "Roger Fisher, William Ury, Bruce Patton",
+    "isbn": "978-0143118756",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GETTING_TO_YES"
+  },
+  {
+    "title": "Night",
+    "author": "Elie Wiesel",
+    "isbn": "978-0374500016",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Nonviolent Communication",
+    "author": "Marshall B. Rosenberg",
+    "isbn": "978-1892005281",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NVC"
+  },
+  {
+    "title": "Nourishing Traditions",
+    "author": "Sally Fallon Morell",
+    "isbn": "978-0967089737",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NOURISHING_TRADITIONS"
+  },
+  {
+    "title": "The How Not to Die Cookbook",
+    "author": "Dr. Michael Greger and Gene Stone",
+    "isbn": "978-1250127761",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HOW_NOT_TO_DIE_COOKBOOK"
+  },
+  {
+    "title": "The Now Habit",
+    "author": "Neil Fiore",
+    "isbn": "978-1585425525",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Solving the Procrastination Puzzle",
+    "author": "Timothy A. Pychyl",
+    "isbn": "978-0399168123",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Diabetes Code",
+    "author": "Dr. Jason Fung",
+    "isbn": "978-1771642651",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "isbn": "978-1591846352",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Stillness Is the Key",
+    "author": "Ryan Holiday",
+    "isbn": "978-0525538585",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Obviously Awesome",
+    "author": "April Dunford",
+    "isbn": "978-1999023003",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OBVIOUSLY_AWESOME"
+  },
+  {
+    "title": "Crossing the Chasm",
+    "author": "Geoffrey A. Moore",
+    "isbn": "978-0062292988",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CROSSING_THE_CHASM"
+  },
+  {
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "isbn": "978-0765348272",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OLD_MANS_WAR"
+  },
+  {
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "isbn": "978-0312536633",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FOREVER_WAR"
+  },
+  {
+    "title": "On Writing",
+    "author": "Stephen King",
+    "isbn": "978-1439193631",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Bird by Bird",
+    "author": "Anne Lamott",
+    "isbn": "978-0385480017",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "One Day in December",
+    "author": "Josie Silver",
+    "isbn": "978-0525574682",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "In Five Years",
+    "author": "Rebecca Serle",
+    "isbn": "978-1982137441",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "isbn": "978-0060883287",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ONE_HUNDRED_YEARS"
+  },
+  {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "isbn": "978-1501117015",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HOUSE_SPIRITS"
+  },
+  {
+    "title": "One of Us Is Lying",
+    "author": "Karen M. McManus",
+    "isbn": "978-1524714680",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "One of Us Is Next",
+    "author": "Karen M. McManus",
+    "isbn": "978-1524714727",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "One Up on Wall Street",
+    "author": "Peter Lynch",
+    "isbn": "978-0743200400",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ONE_UP_WALL_STREET"
+  },
+  {
+    "title": "Beating the Street",
+    "author": "Peter Lynch",
+    "isbn": "978-0671891633",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BEATING_THE_STREET"
+  },
+  {
+    "title": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "isbn": "978-0451529060",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Descent of Man",
+    "author": "Charles Darwin",
+    "isbn": "978-0140436310",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "isbn": "978-0385319959",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Duke and I",
+    "author": "Julia Quinn",
+    "isbn": "978-0380816781",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Poldark",
+    "author": "Winston Graham",
+    "isbn": "978-0330463294",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "isbn": "978-0316017930",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OUTLIERS"
+  },
+  {
+    "title": "Talent is Overrated",
+    "author": "Geoff Colvin",
+    "isbn": "978-1591842941",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TALENT_OVERRATED"
+  },
+  {
+    "title": "Outlive",
+    "author": "Peter Attia",
+    "isbn": "978-0593236598",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_OUTLIVE"
+  },
+  {
+    "title": "Lifespan",
+    "author": "David A. Sinclair",
+    "isbn": "978-1501191978",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LIFESPAN"
+  },
+  {
+    "title": "Peaceful Parent, Happy Kids",
+    "author": "Dr. Laura Markham",
+    "isbn": "978-0399160288",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PEACEFUL_PARENT"
+  },
+  {
+    "title": "No-Drama Discipline",
+    "author": "Daniel J. Siegel and Tina Payne Bryson",
+    "isbn": "978-0345548061",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NO_DRAMA_DISCIPLINE"
+  },
+  {
+    "title": "Peak Performance",
+    "author": "Brad Stulberg and Steve Magness",
+    "isbn": "978-1623367930",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Performance Cortex",
+    "author": "Zach Schonbrun",
+    "isbn": "978-0735223776",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Phantoms in the Brain",
+    "author": "V. S. Ramachandran",
+    "isbn": "978-0688172176",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PHANTOMS"
+  },
+  {
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "author": "Oliver Sacks",
+    "isbn": "978-0684853949",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MAN_WHO_MISTOOK"
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim, Kevin Behr, George Spafford",
+    "isbn": "978-0988262508",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Unicorn Project",
+    "author": "Gene Kim",
+    "isbn": "978-1942788768",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Pitch Anything",
+    "author": "Oren Klaff",
+    "isbn": "978-0071752855",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PITCH_ANYTHING"
+  },
+  {
+    "title": "Way of the Wolf",
+    "author": "Jordan Belfort",
+    "isbn": "978-1501164286",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WAY_OF_THE_WOLF"
+  },
+  {
+    "title": "Positioning",
+    "author": "Al Ries and Jack Trout",
+    "isbn": "978-0071373586",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_POSITIONING"
+  },
+  {
+    "title": "Instant Influence",
+    "author": "Michael Pantalon",
+    "isbn": "978-0316128575",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Predictably Irrational",
+    "author": "Dan Ariely",
+    "isbn": "978-0061353246",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PREDICTABLY_IRRATIONAL"
+  },
+  {
+    "title": "Misbehaving",
+    "author": "Richard H. Thaler",
+    "isbn": "978-0393352795",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MISBEHAVING"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "isbn": "978-0141439587",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EMMA"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "isbn": "978-0141439662",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Productivity Project",
+    "author": "Chris Bailey",
+    "isbn": "978-0553419856",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Psychology of Selling",
+    "author": "Brian Tracy",
+    "isbn": "978-0785288077",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PSYCHOLOGY_OF_SELLING"
+  },
+  {
+    "title": "Secrets of Closing the Sale",
+    "author": "Zig Ziglar",
+    "isbn": "978-0800759865",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SECRETS_OF_CLOSING"
+  },
+  {
+    "title": "Tribes",
+    "author": "Seth Godin",
+    "isbn": "978-1591842330",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TRIBES"
+  },
+  {
+    "title": "Quit Like a Millionaire",
+    "author": "Kristy Shen and Bryce Leung",
+    "isbn": "978-0525538691",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_QUIT_LIKE_MILLIONAIRE"
+  },
+  {
+    "title": "Financial Freedom",
+    "author": "Grant Sabatier",
+    "isbn": "978-0525534686",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FINANCIAL_FREEDOM"
+  },
+  {
+    "title": "The Little Book of Common Sense Investing",
+    "author": "John C. Bogle",
+    "isbn": "978-1119404507",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LITTLE_BOOK_COMMON_SENSE"
+  },
+  {
+    "title": "Red Rising",
+    "author": "Pierce Brown",
+    "isbn": "978-0345539809",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "isbn": "978-1250316776",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Boyfriend Material",
+    "author": "Alexis Hall",
+    "isbn": "978-1492080534",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "One Last Stop",
+    "author": "Casey McQuiston",
+    "isbn": "978-1250244499",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Reminiscences of a Stock Operator",
+    "author": "Edwin Lefèvre",
+    "isbn": "978-0471770886",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_REMINISCENCES"
+  },
+  {
+    "title": "Market Wizards",
+    "author": "Jack D. Schwager",
+    "isbn": "978-0887306105",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MARKET_WIZARDS"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "isbn": "978-1612680194",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RICH_DAD"
+  },
+  {
+    "title": "The Millionaire Next Door",
+    "author": "Thomas J. Stanley and William D. Danko",
+    "isbn": "978-1589795471",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Richest Man in Babylon",
+    "author": "George S. Clason",
+    "isbn": "978-1505339192",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RICHEST_BABYLON"
+  },
+  {
+    "title": "The Wealthy Barber",
+    "author": "David Chilton",
+    "isbn": "978-0761513117",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WEALTHY_BARBER"
+  },
+  {
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "isbn": "978-0345333926",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RINGWORLD"
+  },
+  {
+    "title": "Rendezvous with Rama",
+    "author": "Arthur C. Clarke",
+    "isbn": "978-0553287899",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RAMA"
+  },
+  {
+    "title": "Rising Strong",
+    "author": "Brené Brown",
+    "isbn": "978-0812995824",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_RISING_STRONG"
+  },
+  {
+    "title": "Dare to Lead",
+    "author": "Brené Brown",
+    "isbn": "978-0399592522",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DARE_TO_LEAD"
+  },
+  {
+    "title": "Room",
+    "author": "Emma Donoghue",
+    "isbn": "978-0316098335",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Wonder",
+    "author": "R.J. Palacio",
+    "isbn": "978-0375869020",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "isbn": "978-1476753836",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Food Lab",
+    "author": "J. Kenji López-Alt",
+    "isbn": "978-0393081084",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Salt Fat Acid Heat",
+    "author": "Samin Nosrat",
+    "isbn": "978-1476753836",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SALT_FAT_ACID_HEAT"
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "isbn": "978-0062316110",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SAPIENS"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "isbn": "978-0199291151",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SELFISH_GENE"
+  },
+  {
+    "title": "The Selection",
+    "author": "Kiera Cass",
+    "isbn": "978-0062059949",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "House of Salt and Sorrows",
+    "author": "Erin A. Craig",
+    "isbn": "978-1984830852",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HOUSE_SALT"
+  },
+  {
+    "title": "Set for Life",
+    "author": "Scott Trench",
+    "isbn": "978-0997584714",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SET_FOR_LIFE"
+  },
+  {
+    "title": "The Financial Independence Manual",
+    "author": "J.P. Livingston",
+    "isbn": "978-1734477405",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FI_MANUAL"
+  },
+  {
+    "title": "Shadow and Bone",
+    "author": "Leigh Bardugo",
+    "isbn": "978-1250027436",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SHADOW_BONE"
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "isbn": "978-1501135910",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Pour Your Heart Into It",
+    "author": "Howard Schultz",
+    "isbn": "978-0786883561",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "isbn": "978-1451648539",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_STEVE_JOBS"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "isbn": "978-0312924584",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Red Dragon",
+    "author": "Thomas Harris",
+    "isbn": "978-0425228227",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Simple Path to Wealth",
+    "author": "JL Collins",
+    "isbn": "978-1533667922",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SIMPLE_PATH_TO_WEALTH"
+  },
+  {
+    "title": "The Bogleheads' Guide to Investing",
+    "author": "Taylor Larimore, Mel Lindauer, and Michael LeBoeuf",
+    "isbn": "978-1118921289",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BOGLEHEADS_GUIDE"
+  },
+  {
+    "title": "Simplicity Parenting",
+    "author": "Kim John Payne",
+    "isbn": "978-0345507983",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SIMPLICITY_PARENTING"
+  },
+  {
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "isbn": "978-1627792127",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SIX_CROWS"
+  },
+  {
+    "title": "Crooked Kingdom",
+    "author": "Leigh Bardugo",
+    "isbn": "978-1627792134",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CROOKED_KINGDOM"
+  },
+  {
+    "title": "SPIN Selling",
+    "author": "Neil Rackham",
+    "isbn": "978-0070511132",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SPIN_SELLING"
+  },
+  {
+    "title": "The Challenger Sale",
+    "author": "Matthew Dixon and Brent Adamson",
+    "isbn": "978-1591844358",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CHALLENGER_SALE"
+  },
+  {
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "isbn": "978-1591846444",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Find Your Why",
+    "author": "Simon Sinek, David Mead, Peter Docker",
+    "isbn": "978-0143111726",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Leaders Eat Last",
+    "author": "Simon Sinek",
+    "isbn": "978-1591848011",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LEADERS_EAT_LAST"
+  },
+  {
+    "title": "The Startup Owner's Manual",
+    "author": "Steve Blank and Bob Dorf",
+    "isbn": "978-0984999309",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Steal Like an Artist",
+    "author": "Austin Kleon",
+    "isbn": "978-0761169253",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "isbn": "978-0761178972",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Elon Musk",
+    "author": "Ashlee Vance",
+    "isbn": "978-0062301239",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ELON_MUSK"
+  },
+  {
+    "title": "Story",
+    "author": "Robert McKee",
+    "isbn": "978-0060391683",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Save the Cat!",
+    "author": "Blake Snyder",
+    "isbn": "978-1932907001",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "isbn": "978-0743270755",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Abraham Lincoln",
+    "author": "Michael Burlingame",
+    "isbn": "978-1421407258",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "isbn": "978-0307465351",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_4_HOUR_WORKWEEK"
+  },
+  {
+    "title": "The $100 Startup",
+    "author": "Chris Guillebeau",
+    "isbn": "978-0307951526",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_100_STARTUP"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "978-0062315007",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THE_ALCHEMIST"
+  },
+  {
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "isbn": "978-0394404288",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PROPHET"
+  },
+  {
+    "title": "The Automatic Millionaire",
+    "author": "David Bach",
+    "isbn": "978-0767923828",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_AUTOMATIC_MILLIONAIRE"
+  },
+  {
+    "title": "Prince of Thorns",
+    "author": "Mark Lawrence",
+    "isbn": "978-0425256268",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PRINCE_THORNS"
+  },
+  {
+    "title": "The Blank Slate",
+    "author": "Steven Pinker",
+    "isbn": "978-0142003343",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BLANK_SLATE"
+  },
+  {
+    "title": "The Nurture Assumption",
+    "author": "Judith Rich Harris",
+    "isbn": "978-1439101650",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NURTURE_ASSUMPTION"
+  },
+  {
+    "title": "The Bone Season",
+    "author": "Samantha Shannon",
+    "isbn": "978-1620401392",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Mask of Mirrors",
+    "author": "M.A. Carrick",
+    "isbn": "978-0316539845",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Book of Awakening",
+    "author": "Mark Nepo",
+    "isbn": "978-1573245098",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BOOK_OF_AWAKENING"
+  },
+  {
+    "title": "The Bromance Book Club",
+    "author": "Lyssa Kay Adams",
+    "isbn": "978-0451491503",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Dating Playbook",
+    "author": "Farrah Rochon",
+    "isbn": "978-0593197318",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Checklist Manifesto",
+    "author": "Atul Gawande",
+    "isbn": "978-0312430009",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CHECKLIST_MANIFESTO"
+  },
+  {
+    "title": "Better",
+    "author": "Atul Gawande",
+    "isbn": "978-0312427658",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BETTER"
+  },
+  {
+    "title": "The Code Breaker",
+    "author": "Walter Isaacson",
+    "isbn": "978-1982115852",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CODE_BREAKER"
+  },
+  {
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "978-1476733500",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THE_GENE"
+  },
+  {
+    "title": "Milk Street",
+    "author": "Christopher Kimball",
+    "isbn": "978-0316362771",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MILK_STREET"
+  },
+  {
+    "title": "The Slight Edge",
+    "author": "Jeff Olson",
+    "isbn": "978-1626340466",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SLIGHT_EDGE"
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "isbn": "978-0316310277",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CRUEL_PRINCE"
+  },
+  {
+    "title": "The Wrath and the Dawn",
+    "author": "Renée Ahdieh",
+    "isbn": "978-0147513854",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WRATH_DAWN"
+  },
+  {
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith (J.K. Rowling)",
+    "isbn": "978-0316206846",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Silkworm",
+    "author": "Robert Galbraith (J.K. Rowling)",
+    "isbn": "978-0316206877",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Day of the Jackal",
+    "author": "Frederick Forsyth",
+    "isbn": "978-0451239372",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Eye of the Needle",
+    "author": "Ken Follett",
+    "isbn": "978-0451209757",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The City of Brass",
+    "author": "S. A. Chakraborty",
+    "isbn": "978-0062678126",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CITY_OF_BRASS"
+  },
+  {
+    "title": "The Final Empire",
+    "author": "Brandon Sanderson",
+    "isbn": "978-0765350381",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FINAL_EMPIRE"
+  },
+  {
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "isbn": "978-0765348784",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GARDENS_MOON"
+  },
+  {
+    "title": "The Firm",
+    "author": "John Grisham",
+    "isbn": "978-0385416344",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Pelican Brief",
+    "author": "John Grisham",
+    "isbn": "978-0385339605",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Flatshare",
+    "author": "Beth O'Leary",
+    "isbn": "978-1250295644",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Roommate",
+    "author": "Rosie Danan",
+    "isbn": "978-0062976864",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Modernist Cuisine",
+    "author": "Nathan Myhrvold, Chris Young, and Maxime Bilet",
+    "isbn": "978-0982761007",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MODERNIST_CUISINE"
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "isbn": "978-1878424310",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FOUR_AGREEMENTS"
+  },
+  {
+    "title": "The Mastery of Love",
+    "author": "Don Miguel Ruiz",
+    "isbn": "978-1878424457",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MASTERY_OF_LOVE"
+  },
+  {
+    "title": "The Gilded Wolves",
+    "author": "Roshani Chokshi",
+    "isbn": "978-1250144546",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GILDED_WOLVES"
+  },
+  {
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "isbn": "978-0316370806",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INHERITANCE_GAMES"
+  },
+  {
+    "title": "The Snowman",
+    "author": "Jo NesbÃ¸",
+    "isbn": "978-0307742841",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Goal",
+    "author": "Eliyahu M. Goldratt",
+    "isbn": "978-0884271956",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THE_GOAL"
+  },
+  {
+    "title": "Theory of Constraints",
+    "author": "Eliyahu M. Goldratt",
+    "isbn": "978-0884271666",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THEORY_OF_CONSTRAINTS"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "isbn": "978-0743297332",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SUN_ALSO_RISES"
+  },
+  {
+    "title": "The Guest List",
+    "author": "Lucy Foley",
+    "isbn": "978-0062868930",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hunting Party",
+    "author": "Lucy Foley",
+    "isbn": "978-0062868879",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Gunslinger",
+    "author": "Stephen King",
+    "isbn": "978-1501143519",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GUNSLINGER"
+  },
+  {
+    "title": "The Dark Tower Series",
+    "author": "Stephen King",
+    "isbn": "978-1501143519",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DARK_TOWER_SERIES"
+  },
+  {
+    "title": "The Happiest Baby on the Block",
+    "author": "Dr. Harvey Karp",
+    "isbn": "978-0553393231",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HAPPIEST_BABY"
+  },
+  {
+    "title": "Precious Little Sleep",
+    "author": "Alexis Dubief",
+    "isbn": "978-0997580419",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PRECIOUS_LITTLE_SLEEP"
+  },
+  {
+    "title": "The Housemaid",
+    "author": "Freida McFadden",
+    "isbn": "978-1538742570",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HOUSEMAID"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "978-1250301697",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SILENT_PATIENT"
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "isbn": "978-0385737951",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MAZE_RUNNER"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "isbn": "978-1400052189",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HENRIETTA_LACKS"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "isbn": "978-1633691780",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INNOVATORS_DILEMMA"
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "isbn": "978-0765387561",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ADDIE_LARUE"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "isbn": "978-0441478125",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LEFT_HAND"
+  },
+  {
+    "title": "The Lincoln Highway",
+    "author": "Amor Towles",
+    "isbn": "978-0735222359",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LINCOLN_HIGHWAY"
+  },
+  {
+    "title": "The Nickel Boys",
+    "author": "Colson Whitehead",
+    "isbn": "978-0345804341",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NICKEL_BOYS"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "isbn": "978-0593336823",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "isbn": "978-0451490803",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "isbn": "978-0553418026",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THE_MARTIAN"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "isbn": "978-0553448122",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ARTEMIS"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "isbn": "978-0593135204",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Legend",
+    "author": "Marie Lu",
+    "isbn": "978-0142422076",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_LEGEND"
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "isbn": "978-0525559474",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MIDNIGHT_LIBRARY"
+  },
+  {
+    "title": "The Mountain Is You",
+    "author": "Brianna Wiest",
+    "isbn": "978-1949759228",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MOUNTAIN_IS_YOU"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "isbn": "978-0312577223",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NIGHTINGALE"
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "isbn": "978-1455582877",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "A Walk to Remember",
+    "author": "Nicholas Sparks",
+    "isbn": "978-0446608954",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Ego Is the Enemy",
+    "author": "Ryan Holiday",
+    "isbn": "978-1591847816",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EGO_IS_THE_ENEMY"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "isbn": "978-0140268867",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "isbn": "978-0140275360",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Plant Paradox",
+    "author": "Dr. Steven R. Gundry",
+    "isbn": "978-0062427137",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_PLANT_PARADOX"
+  },
+  {
+    "title": "The Poppy War",
+    "author": "R. F. Kuang",
+    "isbn": "978-0062662569",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_POPPY_WAR"
+  },
+  {
+    "title": "The Grace of Kings",
+    "author": "Ken Liu",
+    "isbn": "978-1481424271",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GRACE_OF_KINGS"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "isbn": "978-1635570298",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Bone Shard Daughter",
+    "author": "Andrea Stewart",
+    "isbn": "978-0316491440",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Behavior Gap",
+    "author": "Carl Richards",
+    "isbn": "978-1591844723",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_BEHAVIOR_GAP"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "isbn": "978-1585424337",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THINK_GROW_RICH"
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "isbn": "978-1476729084",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "isbn": "978-0735220683",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Secret",
+    "author": "Rhonda Byrne",
+    "isbn": "978-1582701707",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Law of Attraction",
+    "author": "Michael J. Losier",
+    "isbn": "978-0446199261",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Evolution of Cooperation",
+    "author": "Robert Axelrod",
+    "isbn": "978-0465005642",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EVOLUTION_COOPERATION"
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "isbn": "978-1501139239",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EVELYN_HUGO"
+  },
+  {
+    "title": "The Woman in Cabin 10",
+    "author": "Ruth Ware",
+    "isbn": "978-1501132933",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "isbn": "978-1668003145",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "isbn": "978-0062439598",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Spy and the Traitor",
+    "author": "Ben Macintyre",
+    "isbn": "978-1101904213",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Agent Zigzag",
+    "author": "Ben Macintyre",
+    "isbn": "978-1400032815",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Everything is F*cked",
+    "author": "Mark Manson",
+    "isbn": "978-0062888433",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EVERYTHING_IS_FCKED"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "isbn": "978-0765382030",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THREE_BODY"
+  },
+  {
+    "title": "The Dark Forest",
+    "author": "Liu Cixin",
+    "isbn": "978-0765386694",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_DARK_FOREST"
+  },
+  {
+    "title": "The Unhoneymooners",
+    "author": "Christina Lauren",
+    "isbn": "978-1501128028",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Wedding Date",
+    "author": "Jasmine Guillory",
+    "isbn": "978-0399587665",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "isbn": "978-0812511819",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_EYE_OF_WORLD"
+  },
+  {
+    "title": "Then She Was Gone",
+    "author": "Lisa Jewell",
+    "isbn": "978-1501154638",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Family Upstairs",
+    "author": "Lisa Jewell",
+    "isbn": "978-1501190926",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Inbound Marketing",
+    "author": "Brian Halligan & Dharmesh Shah",
+    "isbn": "978-1118896068",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_INBOUND_MARKETING"
+  },
+  {
+    "title": "Noise",
+    "author": "Daniel Kahneman, Olivier Sibony, Cass R. Sunstein",
+    "isbn": "978-0316451406",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_NOISE"
+  },
+  {
+    "title": "The Undoing Project",
+    "author": "Michael Lewis",
+    "isbn": "978-0393254594",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_UNDOING_PROJECT"
+  },
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella H. Meadows",
+    "isbn": "978-1603580557",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_THINKING_IN_SYSTEMS"
+  },
+  {
+    "title": "The Systems Bible",
+    "author": "John Gall",
+    "isbn": "978-0961825171",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SYSTEMS_BIBLE"
+  },
+  {
+    "title": "Crown of Midnight",
+    "author": "Sarah J. Maas",
+    "isbn": "978-1619630628",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "author": "John le Carre",
+    "isbn": "978-0143120933",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Spy Who Came in from the Cold",
+    "author": "John le Carre",
+    "isbn": "978-0143124757",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0061120084",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "isbn": "978-0140177398",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "To Sell is Human",
+    "author": "Daniel H. Pink",
+    "isbn": "978-1594631905",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TO_SELL_IS_HUMAN"
+  },
+  {
+    "title": "The Sales Acceleration Formula",
+    "author": "Mark Roberge",
+    "isbn": "978-1119047070",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SALES_ACCELERATION_FORMULA"
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "isbn": "978-0593321201",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TOMORROW"
+  },
+  {
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "isbn": "978-0307887443",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_READY_PLAYER_ONE"
+  },
+  {
+    "title": "Financial Peace",
+    "author": "Dave Ramsey",
+    "isbn": "978-0670032082",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FINANCIAL_PEACE"
+  },
+  {
+    "title": "Traction",
+    "author": "Gino Wickman",
+    "isbn": "978-1936661831",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TRACTION"
+  },
+  {
+    "title": "The Great Game of Business",
+    "author": "Jack Stack and Bo Burlingham",
+    "isbn": "978-0385475112",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Rocket Fuel",
+    "author": "Gino Wickman & Mark C. Winters",
+    "isbn": "978-1942952312",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ROCKET_FUEL"
+  },
+  {
+    "title": "Trust Me, I'm Lying",
+    "author": "Ryan Holiday",
+    "isbn": "978-1591846284",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TRUST_ME_IM_LYING"
+  },
+  {
+    "title": "Tuesdays with Morrie",
+    "author": "Mitch Albom",
+    "isbn": "978-0767905923",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_TUESDAYS_WITH_MORRIE"
+  },
+  {
+    "title": "The Five People You Meet in Heaven",
+    "author": "Mitch Albom",
+    "isbn": "978-0786868711",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_FIVE_PEOPLE"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "isbn": "978-0316015844",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Vampire Academy",
+    "author": "Richelle Mead",
+    "isbn": "978-1595141743",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Unbroken",
+    "author": "Laura Hillenbrand",
+    "isbn": "978-0812974492",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Boys in the Boat",
+    "author": "Daniel James Brown",
+    "isbn": "978-0143125471",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Unshakeable",
+    "author": "Tony Robbins",
+    "isbn": "978-1501164583",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_UNSHAKEABLE"
+  },
+  {
+    "title": "Money Master the Game",
+    "author": "Tony Robbins",
+    "isbn": "978-1476757803",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_MONEY_MASTER_THE_GAME"
+  },
+  {
+    "title": "The Surrender Experiment",
+    "author": "Michael A. Singer",
+    "isbn": "978-0804141109",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SURRENDER_EXPERIMENT"
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "isbn": "978-1791392796",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Wife Between Us",
+    "author": "Greer Hendricks & Sarah Pekkanen",
+    "isbn": "978-1250130921",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "isbn": "978-1476753188",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_UGLY_LOVE"
+  },
+  {
+    "title": "Vicious",
+    "author": "V.E. Schwab",
+    "isbn": "978-0765335340",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Vengeful",
+    "author": "V.E. Schwab",
+    "isbn": "978-0765387523",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The War of Art",
+    "author": "Steven Pressfield",
+    "isbn": "978-1936891023",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Do the Work",
+    "author": "Steven Pressfield",
+    "isbn": "978-1936719013",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "All These Worlds",
+    "author": "Dennis E. Taylor",
+    "isbn": "978-1680680638",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_ALL_THESE_WORLDS"
+  },
+  {
+    "title": "We Hunt the Flame",
+    "author": "Hafsah Faizal",
+    "isbn": "978-0374311544",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WE_HUNT"
+  },
+  {
+    "title": "Scythe",
+    "author": "Neal Shusterman",
+    "isbn": "978-1442472433",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_SCYTHE"
+  },
+  {
+    "title": "What to Expect When You're Expecting",
+    "author": "Heidi Murkoff",
+    "isbn": "978-0761187479",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHAT_TO_EXPECT"
+  },
+  {
+    "title": "Being Mortal",
+    "author": "Atul Gawande",
+    "isbn": "978-0805095159",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "When Things Fall Apart",
+    "author": "Pema ChÃ¶drÃ¶n",
+    "isbn": "978-1570623448",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHEN_THINGS_FALL_APART"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "isbn": "978-0735219090",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_CRAWDADS"
+  },
+  {
+    "title": "The Great Alone",
+    "author": "Kristin Hannah",
+    "isbn": "978-0312577230",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_GREAT_ALONE"
+  },
+  {
+    "title": "The Whole-Brain Child",
+    "author": "Daniel J. Siegel and Tina Payne Bryson",
+    "isbn": "978-0553386691",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHOLE_BRAIN_CHILD"
+  },
+  {
+    "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+    "author": "Adele Faber and Elaine Mazlish",
+    "isbn": "978-1451663884",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_HOW_TO_TALK"
+  },
+  {
+    "title": "Why We Sleep",
+    "author": "Matthew Walker",
+    "isbn": "978-1501144318",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WHY_WE_SLEEP"
+  },
+  {
+    "title": "Wild",
+    "author": "Cheryl Strayed",
+    "isbn": "978-0307476074",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Eat, Pray, Love",
+    "author": "Elizabeth Gilbert",
+    "isbn": "978-0143038419",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Willpower",
+    "author": "Roy F. Baumeister and John Tierney",
+    "isbn": "978-0143122234",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Mini Habits",
+    "author": "Stephen Guise",
+    "isbn": "978-1494882273",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "isbn": "978-0062678416",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "isbn": "978-1594633669",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "isbn": "978-0141439556",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_WUTHERING_HEIGHTS"
+  },
+  {
+    "title": "You Deserve Each Other",
+    "author": "Sarah Hogle",
+    "isbn": "978-0593099919",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "The Soulmate Equation",
+    "author": "Christina Lauren",
+    "isbn": "978-1982123895",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Your Money or Your Life",
+    "author": "Vicki Robin and Joe Dominguez",
+    "isbn": "978-0143115762",
+    "placeholder": "PLACEHOLDER_AMAZON_URL_YOUR_MONEY_LIFE"
+  },
+  {
+    "title": "Zero to Sold",
+    "author": "Arvid Kahl",
+    "isbn": "978-3982195407",
+    "placeholder": "PLACEHOLDER"
+  },
+  {
+    "title": "Start Small, Stay Small",
+    "author": "Rob Walling",
+    "isbn": "978-0615373966",
+    "placeholder": "PLACEHOLDER"
+  }
+]

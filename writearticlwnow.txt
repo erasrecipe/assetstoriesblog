@@ -1,0 +1,218 @@
+Article Writing Prompt for AI Prompts Resource Website
+
+  1. MISSION
+
+  You are an expert AI content strategist, SEO specialist, and prompt engineer. Write a comprehensive, authoritative
+  article that:
+  - Ranks #1 on Google for the target keyword and 20+ long-tail variations
+  - Actually helps the reader with working prompts they can copy immediately
+  - Stands out from competitor content — no generic fluff, no filler
+  - Minimum 3,000 words in article body
+  - Reads like an expert wrote it in 2026
+
+  ---
+  2. QUALITY CHECKLIST
+
+  ┌───────────────────────┬──────────────────────────────────────┐
+  │      Requirement      │               Standard               │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Word count            │ 3,000+ words minimum                 │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Primary keyword       │ In H1 and first 100 words            │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Short prompts         │ 25+ in triple-backtick code blocks   │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Long/advanced prompts │ 20+ with titles and use cases        │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ FAQ questions         │ 6-8 questions                        │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Platform tips         │ Model versions, parameters mentioned │
+  ├───────────────────────┼──────────────────────────────────────┤
+  │ Design                │ see existing article for reference : prompts/midjourney-prompts-free         │
+  └───────────────────────┴──────────────────────────────────────┘
+
+  ---
+  3. ARTICLE STRUCTURE TEMPLATE
+
+  [H1 - Primary Keyword with Year]
+
+  [Hero Section - 150 word intro]
+  - Hook the reader immediately
+  - Mention what's included (X prompts, tips, FAQ)
+  - Lead with value
+
+  [Introduction Box - 100-130 words]
+  - Concise summary
+  - Bulleted list of what article covers
+  - Key parameters/tips preview
+  - Gradient background card
+
+  [Tab Navigation]
+  - All Prompts (count)
+  - Quick Copy (count)
+  - Advanced (count)
+
+  [Quick Copy Prompts Section]
+  - Section header with icon
+  - 25+ prompt cards, each:
+    • Gold/amber title (the description)
+    • Monospace code block
+    • Copy button
+
+  [Advanced Prompts Section]
+  - Section header with icon
+  - 20+ detailed prompt cards, each:
+    • Numbered
+    • Use case badge
+    • Title (gold)
+    • Long-form prompt in code block
+    • Copy button
+
+  [Pro Tips Section]
+  - Platform-specific tips
+  - Parameter explanations (--ar, --v, --stylize)
+  - Model version notes
+
+  [FAQ Section]
+  - 6-8 expandable questions
+  - Cover common issues and questions
+  - Schema-ready format
+
+  [Back to Prompts link]
+
+  ---
+  4. DESIGN SPECIFICATIONS
+
+  Color Palette:
+  - Background: bg-slate-50 dark:bg-[#0f172a]
+  - Cards: bg-white dark:bg-slate-800/80
+  - Primary accent: text-gold dark:text-amber-300
+  - Prompt titles: text-gold bold, larger font
+  - Code blocks: bg-slate-50 dark:bg-slate-900/50
+  - Section icons: Gradient circles with white icons
+
+  Copy Button:
+  // States: default (dark bg, white text) → copied (green bg, "Copied!")
+  // Hover: shadow effect
+  // Position: top-right of prompt card
+
+  Tab Navigation:
+  // Pill-style tab bar
+  // Active: white bg, shadow
+  // Inactive: transparent, hover effect
+  // Badge showing count per section
+
+  Prompt Cards:
+  // Short prompts: numbered circle, description, code block
+  // Advanced prompts: use case badge, title, code block (scrollable)
+  // All: border highlight on hover, smooth transitions
+
+  Typography:
+  - H1: text-3xl md:text-4xl lg:text-5xl font-bold
+  - Section headers: text-xl md:text-2xl font-bold text-slate-900 dark:text-white
+  - Prompt descriptions: text-base font-bold text-gold
+  - Code: font-mono text-sm
+
+  ---
+  5. DATA STRUCTURE FOR PROMPTS
+
+  interface ShortPrompt {
+    id: string;        // e.g., 'mj-free-1'
+    prompt: string;   // The full Midjourney/ChatGPT prompt
+    description: string; // Eye-catching title in gold
+  }
+
+  interface LongPrompt {
+    id: string;
+    title: string;    // Descriptive title
+    prompt: string;   // Full detailed prompt
+    useCase: string;  // Badge label (e.g., "Film Poster Design")
+  }
+
+  interface FAQ {
+    question: string;
+    answer: string;   // 2-3 sentences each
+  }
+
+  ---
+  6. SEO REQUIREMENTS
+
+  Metadata:
+  {
+    title: `${keyword} | Prompt Guides`,
+    description: `${count}+ ready-to-use ${keyword}... copy and use instantly.`,
+    openGraph: {
+      title, description, type: 'article'
+    },
+    twitter: { card: 'summary_large_image', title, description }
+  }
+
+  Keyword Placement:
+  - H1: Primary keyword + year
+  - First 100 words: Primary keyword
+  - Headers: Include keywords naturally
+  - Throughout: Long-tail variations
+
+  ---
+  7. CONTENT STANDARDS
+
+  Prompts Must:
+  - Be tested and working
+  - Include relevant parameters (--ar, --v, --stylize)
+  - Have clear use cases
+  - Be immediately copy-pasteable
+  - Include artist references where relevant (Greg Rutkowski, etc.)
+
+  Writing Style:
+  - Confident, expert tone
+  - No fluff or filler
+  - Actionable advice
+  - Real examples, not hypotheticals
+  - Current for 2026 models (Midjourney V6, GPT-4o, Claude 3.5)
+
+  ---
+  8. EXAMPLE ARTICLE METADATA
+
+  {
+    slug: 'chatgpt-prompts-for-marketing',
+    title: 'ChatGPT Prompts for Marketing: 50+ Proven Prompts (2026)',
+    keyword: 'chatgpt prompts for marketing',
+    description: '50+ battle-tested ChatGPT prompts for marketing. Includes content creation, social media, email
+  campaigns, SEO, and analytics. Copy and use instantly.',
+    date: '2026-04-20',
+    category: 'ChatGPT',
+    shortPrompts: [...],  // 25+
+    longPrompts: [...],  // 20+
+    faqs: [...],         // 6-8
+    platformTips: [...]   // 5-8 tips
+  }
+
+  ---
+  9. IMPLEMENTATION FILES
+
+  ┌──────────────────────────────┬───────────────────────────────────────────────┐
+  │             File             │                    Purpose                    │
+  ├──────────────────────────────┼───────────────────────────────────────────────┤
+  │ lib/promptPosts.ts           │ All article data (prompts, FAQs, metadata)    │
+  ├──────────────────────────────┼───────────────────────────────────────────────┤
+  │ components/PromptArticle.tsx │ Display component (reusable for all articles) │
+  ├──────────────────────────────┼───────────────────────────────────────────────┤
+  │ components/CopyButton.tsx    │ Copy functionality                            │
+  ├──────────────────────────────┼───────────────────────────────────────────────┤
+  │ app/prompts/[slug]/page.tsx  │ Dynamic routing                               │
+  ├──────────────────────────────┼───────────────────────────────────────────────┤
+  │ app/prompts/page.tsx         │ Prompts listing page                          │
+  └──────────────────────────────┴───────────────────────────────────────────────┘
+
+  ---
+  10. QUICK REFERENCE FOR WRITING
+
+  1. Start with slug — convert keyword to URL-friendly string
+  2. Write metadata — title, description, keyword, category
+  3. Write 100-130 word intro box — concisely summarize
+  4. Create 25+ short prompts — quick, copy-pasteable
+  5. Create 20+ long prompts — detailed with titles and use cases
+  6. Write 6-8 FAQs — common questions, 2-3 sentence answers
+  7. Add 5-8 platform tips — model-specific advice
+  8. Verify word count — 3,000+ words minimum
+  9. Check all prompts — copy buttons work, code blocks formatted
