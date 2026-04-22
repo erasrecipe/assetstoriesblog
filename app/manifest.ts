@@ -2,12 +2,12 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Books War - We Compare Books',
-    short_name: 'Books War',
-    description: 'The ultimate book comparison platform. Find the perfect book for you.',
+    name: 'Asset Stories',
+    short_name: 'AssetStories',
+    description: 'AI prompts and book comparisons. Find the perfect prompts and books for you.',
     start_url: '/',
     display: 'standalone',
-    background_color: '#1a2b4a',
+    background_color: '#0f172a',
     theme_color: '#d4af37',
     icons: [
       {
