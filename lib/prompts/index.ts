@@ -31,6 +31,10 @@ export { hingePrompts } from './hinge-prompts';
 export { writingPromptsKids } from './writing-prompts-kids';
 export { chatgptScriptSummary } from './chatgpt-script-summary';
 export { journalPromptsKids } from './journaling-prompts-for-kids';
+export { chatgptPromptsForStudents } from './chatgpt-prompts-for-students';
+export { chatgptPromptsForMarketing } from './chatgpt-prompts-for-marketing';
+export { chatgptPromptsForCoding } from './chatgpt-prompts-for-coding';
+export { chatgptPromptsForWriting } from './chatgpt-prompts-for-writing';
 
 import { PromptPost } from './types';
 import { midjourneyPromptsFree } from './midjourney-prompts-free';
@@ -65,6 +69,10 @@ import { hingePrompts } from './hinge-prompts';
 import { writingPromptsKids } from './writing-prompts-kids';
 import { chatgptScriptSummary } from './chatgpt-script-summary';
 import { journalPromptsKids } from './journaling-prompts-for-kids';
+import { chatgptPromptsForStudents } from './chatgpt-prompts-for-students';
+import { chatgptPromptsForMarketing } from './chatgpt-prompts-for-marketing';
+import { chatgptPromptsForCoding } from './chatgpt-prompts-for-coding';
+import { chatgptPromptsForWriting } from './chatgpt-prompts-for-writing';
 
 export const promptPosts: PromptPost[] = [
   midjourneyPromptsFree,
@@ -99,4 +107,8 @@ export const promptPosts: PromptPost[] = [
   writingPromptsKids,
   chatgptScriptSummary,
   journalPromptsKids,
+  chatgptPromptsForStudents,
+  chatgptPromptsForMarketing,
+  chatgptPromptsForCoding,
+  chatgptPromptsForWriting,
 ];
